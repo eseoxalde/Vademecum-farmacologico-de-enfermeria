@@ -9,6 +9,18 @@ Es un sitio estático (HTML, CSS y JavaScript, sin frameworks ni backend) que
 funciona como PWA: se puede instalar en el celular y usarse sin conexión una
 vez cargado por primera vez.
 
+## Autoría
+
+Desarrollado por estudiantes de la cátedra de Enfermería como proyecto
+académico.
+
+- **Institución:** [Escuela de gobierno en salud Floreal Ferrara - Región Sanitaria XII]
+- **Carrera:** [Tecnicatura superior en Enfermería]
+- **Asignatura:** [Farmacología en enfermería]
+- **Autores:** [Lic. Alejandra Guerrero]
+- **Desarrollo:** [Ese Kai Oxalde]
+- **Año:** 2026
+
 ## Características
 
 - Búsqueda de fármacos por nombre genérico y navegación por abecedario.
@@ -36,6 +48,25 @@ vez cargado por primera vez.
 └── icons/                 → íconos de la app
 ```
 
+## Tecnologías utilizadas
+
+### Frontend
+
+- HTML5
+- CSS3 (variables CSS, diseño responsive mobile-first, sin frameworks)
+- JavaScript (vanilla, sin frameworks ni librerías externas)
+
+### Arquitectura
+
+- Single Page Application (SPA) con ruteo por hash (#/...), sin necesidad de backend
+- JSON como base de datos (data/farmacos.json)
+
+### Offline / PWA
+
+- Service Worker (cacheo de la app y de los datos para uso sin conexión)
+- Web App Manifest (manifest.json) para instalación como app en el celular
+  localStorage como respaldo de datos si falla la conexión
+
 ## Cómo ejecutarlo localmente
 
 Los navegadores bloquean `fetch()` sobre archivos abiertos con `file://`, así
@@ -51,6 +82,18 @@ Y abrir `http://localhost:8000` en el navegador.
 
 Sitio 100% estático: se puede publicar gratis en GitHub Pages, Netlify o
 Vercel simplemente sirviendo esta carpeta.
+
+## Alcance y limitaciones
+
+- Los fármacos actualmente cargados fueron investigados por los mismos
+  estudiantes, utilizando los prospectos elaborados por los laboratorios
+  como fuente.
+- La carga de datos se hace directamente sobre el archivo `data/farmacos.json`;
+  queda pendiente desarrollar una pantalla de carga integrada al sitio.
+- Uno de los objetivos principales del proyecto es que se pueda acceder desde
+  el celular, con el menor uso de datos posible, además de contemplar el
+  poco espacio de almacenamiento disponible en los dispositivos (queda
+  pendiente empaquetarlo como app).
 
 ## Aviso importante
 
@@ -68,3 +111,9 @@ Ver el archivo [LICENSE](./LICENSE) para el texto completo.
 
 En resumen: se puede compartir citando la fuente, siempre que sea sin fines
 comerciales y sin modificar el contenido.
+
+## Contribuciones
+
+Dado que la licencia es "Sin Derivadas", no se aceptan forks ni pull
+requests con modificaciones de terceros. Para sugerencias, correcciones o
+reporte de errores en el contenido, contactar directamente a la cátedra.
