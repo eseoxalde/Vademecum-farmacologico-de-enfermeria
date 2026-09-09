@@ -3,6 +3,7 @@
 
 const state = {
   farmacos: [],
+  actualizado: null,
   cargando: true,
 };
 
@@ -15,8 +16,8 @@ async function cargarDatos() {
     const res = await fetch("data/farmacos.json", { cache: "no-cache" });
     const json = await res.json();
     state.farmacos = json.farmacos || [];
+    state.actualizado = json.actualizado || null;
   } catch (e) {
-    // Si falla el fetch (sin conexión y sin cache previa), intentamos localStorage como respaldo
     const respaldo = localStorage.getItem("vademecum_farmacos_cache");
     if (respaldo) {
       state.farmacos = JSON.parse(respaldo);
@@ -98,14 +99,45 @@ function topbar({ titulo, subtitulo = "", volver = null }) {
   `;
 }
 
+// ---------- Footer helper ----------
+function formatearFecha(iso) {
+  if (!iso) return "";
+  const [y, m, d] = iso.split("-");
+  const meses = [
+    "ene",
+    "feb",
+    "mar",
+    "abr",
+    "may",
+    "jun",
+    "jul",
+    "ago",
+    "sep",
+    "oct",
+    "nov",
+    "dic",
+  ];
+  const mi = parseInt(m, 10) - 1;
+  return `${parseInt(d, 10)} ${meses[mi] || m} ${y}`;
+}
+
+function appFooter() {
+  return `
+    <footer class="app-footer">
+      <p>© ${new Date().getFullYear()} Cátedra de Enfermería · Uso académico</p>
+      ${state.actualizado ? `<p>Última actualización de contenidos: ${formatearFecha(state.actualizado)}</p>` : ""}
+    </footer>
+  `;
+}
+
 // ---------- Vista: Home ----------
 function renderHome() {
   root.innerHTML = `
     ${topbar({ titulo: "Vademécum de Enfermería" })}
     <main class="home">
-      <div class="home__eyebrow">Farmacología en Enfermería</div>
+      <div class="home__eyebrow">Cátedra de Enfermería</div>
       <h1 class="home__title">Consultá fármacos por ficha técnica o tarjeta rápida</h1>
-      <p class="home__desc">Elegí el tipo de información que necesitás.</p>
+      <p class="home__desc">Elegí el tipo de información que necesitás. Funciona sin conexión una vez cargado.</p>
       <div class="home__grid">
         <a class="mode-card mode-card--ficha" href="#/ficha-tecnica">
           <span class="mode-card__icon">
@@ -128,6 +160,7 @@ function renderHome() {
       </div>
       <p class="home__footer">${state.farmacos.length} fármacos cargados</p>
     </main>
+    ${appFooter()}
   `;
   actualizarEstadoConexion();
 }
@@ -181,12 +214,12 @@ function renderLista(modo, filtroTexto = "", letraActiva = "") {
           : `<li class="empty-state">No se encontraron fármacos con ese criterio.</li>`
       }
     </ul>
+    ${appFooter()}
   `;
   actualizarEstadoConexion();
 
   document.getElementById("buscador").addEventListener("input", (e) => {
     renderLista(modo, e.target.value, letraActiva);
-    // mantener foco y cursor tras re-render
     const input = document.getElementById("buscador");
     input.focus();
     input.setSelectionRange(input.value.length, input.value.length);
@@ -252,7 +285,7 @@ function renderDetalle(modo, id) {
         `
         ${campo("Principio activo", f.farmacodinamia?.principio_activo)}
         ${campo("Clasificación", f.farmacodinamia?.clasificacion)}
-        ${campo("Efecto terapéutica", f.farmacodinamia?.efecto_terapeutica)}
+        ${campo("Acción terapéutica", f.farmacodinamia?.accion_terapeutica)}
         ${campo("Mecanismo de acción", f.farmacodinamia?.mecanismo_accion)}
       `,
       )}
@@ -290,7 +323,8 @@ function renderDetalle(modo, id) {
         "Seguridad",
         `
         ${campo("Interacciones farmacológicas", f.interacciones)}
-        ${campo("Efectos adversas", f.reacciones_adversas)}
+        ${campo("Reacciones adversas", f.reacciones_adversas)}
+        ${campo("Efectos secundarios", f.efectos_secundarios)}
         ${campo("Toxicidad y sobredosis", f.toxicidad_sobredosis)}
         ${campo("Antídotos", f.antidotos)}
       `,
@@ -318,9 +352,9 @@ function renderDetalle(modo, id) {
         `
         ${campo("Presentaciones", f.presentaciones)}
         ${campo("Vías de administración", f.vias_administracion)}
-        ${campo("Dosis adulto", f.dosis?.adultos)}
+        ${campo("Dosis adultos", f.dosis?.adultos)}
         ${campo("Dosis pediátrica", f.dosis?.pediatrico)}
-        ${campo("Dosis adulto mayor", f.dosis?.geriatrico)}
+        ${campo("Dosis geriátrica", f.dosis?.geriatrico)}
       `,
       )}
       ${seccion(
@@ -331,19 +365,18 @@ function renderDetalle(modo, id) {
         ${campo("Compatibilidad IV", f.preparacion?.compatibilidad_iv)}
         ${campo("Velocidad de infusión", f.velocidad_infusion)}
         ${campo("Estabilidad de la solución", f.estabilidad_soluciones)}
-        ${campo("Conservación", f.conservacion, true)}
+        ${campo("Concentración máxima", f.concentracion, true)}
         ${campo("Alarma de riesgo", f.alarma_riesgo)}
       `,
       )}
     `;
   } else {
-    // Tarjeta: versión resumida orientada a la práctica de enfermería
     cuerpo = `
       ${seccion(
         "resumen",
         "Resumen",
         `
-        ${campo("Efecto terapéutica", f.farmacodinamia?.efecto_terapeutica)}
+        ${campo("Acción terapéutica", f.farmacodinamia?.accion_terapeutica)}
         ${campo("Presentaciones", f.presentaciones)}
         ${campo("Vías de administración", f.vias_administracion)}
       `,
@@ -354,18 +387,18 @@ function renderDetalle(modo, id) {
         `
         ${campo("Adultos", f.dosis?.adultos)}
         ${campo("Pediátrico", f.dosis?.pediatrico)}
-        ${campo("Adulto mayor", f.dosis?.geriatrico)}
+        ${campo("Geriátrico", f.dosis?.geriatrico)}
       `,
       )}
       ${seccion(
         "preparacion",
-        "Preparación y administración",
+        "Preparación",
         `
         ${campo("Dilución", f.preparacion?.dilucion)}
         ${campo("Compatibilidad IV", f.preparacion?.compatibilidad_iv)}
         ${campo("Velocidad de infusión", f.velocidad_infusion)}
         ${campo("Estabilidad de la solución", f.estabilidad_soluciones)}
-        ${campo("Conservación", f.conservacion, true)}
+        ${campo("Concentración máxima", f.concentracion, true)}
       `,
       )}
       ${seccion(
@@ -374,30 +407,15 @@ function renderDetalle(modo, id) {
         `
         ${campo("Antídotos", f.antidotos)}
         ${campo("Alarma de riesgo", f.alarma_riesgo)}
-        ${campo(
-          "Cuidados de enfermería",
-          `
-              <strong>Cuidados</strong><br>
-              • ${f.cuidados_enfermeria.cuidados.join("<br>• ")}
-              <br><br>
-              <strong>Educación al paciente</strong><br>
-              • ${f.cuidados_enfermeria.educacion_paciente.join("<br>• ")}
-              `,
-        )}
+        ${campo("Cuidados de enfermería", f.cuidados_enfermeria)}
       `,
       )}
-       ${seccion(
-         "monitorizacion",
-         "Monitorización",
-         `
+      ${seccion(
+        "monitorizacion",
+        "Monitorización y valoración",
+        `
         ${campo("Clínica", f.monitorizacion?.clinica)}
         ${campo("Laboratorio", f.monitorizacion?.laboratorio)}
-      `,
-       )}
-      ${seccion(
-        "valoracion",
-        "Parámetros de valoración",
-        `
         ${campo("Antes", f.parametros_valoracion?.antes)}
         ${campo("Durante", f.parametros_valoracion?.durante)}
         ${campo("Después", f.parametros_valoracion?.despues)}
@@ -417,6 +435,7 @@ function renderDetalle(modo, id) {
       </div>
       ${cuerpo}
     </main>
+    ${appFooter()}
   `;
   actualizarEstadoConexion();
   inicializarAcordeon();

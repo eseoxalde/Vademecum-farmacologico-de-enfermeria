@@ -357,6 +357,25 @@ button { font-family: inherit; }
   align-items: flex-start;
 }
 
+.detail__toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 4px 20px 4px;
+  font-size: 12.5px;
+}
+.detail__toolbar-sep { color: var(--color-border); }
+.btn-link {
+  background: none;
+  border: none;
+  padding: 6px 2px;
+  color: var(--color-primary);
+  font-weight: 600;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.btn-link:active { opacity: 0.7; }
+
 .section {
   margin: 18px 16px 0;
   background: var(--color-surface);
@@ -400,25 +419,6 @@ button { font-family: inherit; }
 
 .section__body { padding: 4px 16px 4px; }
 
-.detail__toolbar {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin: 4px 20px 4px;
-  font-size: 12.5px;
-}
-.detail__toolbar-sep { color: var(--color-border); }
-.btn-link {
-  background: none;
-  border: none;
-  padding: 6px 2px;
-  color: var(--color-primary);
-  font-weight: 600;
-  font-size: 12.5px;
-  cursor: pointer;
-}
-.btn-link:active { opacity: 0.7; }
-
 .field {
   padding: 11px 0;
   border-bottom: 1px solid var(--color-border);
@@ -459,7 +459,7 @@ button { font-family: inherit; }
   border-radius: 999px;
 }
 
-/* ---------- Panel de carga ---------- */
+/* ---------- Panel de carga (uso solo local) ---------- */
 .admin {
   max-width: 720px;
   margin: 0 auto;
@@ -487,6 +487,7 @@ button { font-family: inherit; }
   margin: 10px 0 4px;
 }
 .admin input[type="text"],
+.admin input[type="password"],
 .admin textarea,
 .admin select {
   width: 100%;
@@ -519,4 +520,19 @@ button { font-family: inherit; }
 
 @media (min-width: 700px) {
   .home__grid { grid-template-columns: 1fr 1fr; }
+}
+
+/* ---------- Footer global ---------- */
+.app-footer {
+  max-width: 680px;
+  margin: 24px auto 0;
+  padding: 16px 20px calc(20px + var(--safe-bottom));
+  border-top: 1px solid var(--color-border);
+  text-align: center;
+}
+.app-footer p {
+  margin: 2px 0;
+  font-size: 11.5px;
+  color: var(--color-text-muted);
+  line-height: 1.6;
 }
