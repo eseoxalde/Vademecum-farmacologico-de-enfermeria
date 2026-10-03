@@ -14,7 +14,11 @@ const root = document.getElementById("app");
 const TEMA_KEY = "vademecum_tema";
 let temaActual = "auto";
 function temaGuardado() {
-  try { return localStorage.getItem(TEMA_KEY) || "auto"; } catch (_) { return "auto"; }
+  try {
+    return localStorage.getItem(TEMA_KEY) || "auto";
+  } catch (_) {
+    return "auto";
+  }
 }
 function aplicarTema(t) {
   temaActual = t;
@@ -23,17 +27,38 @@ function aplicarTema(t) {
   try {
     if (t === "auto") localStorage.removeItem(TEMA_KEY);
     else localStorage.setItem(TEMA_KEY, t);
-  } catch (_) { /* sin almacenamiento: se aplica solo en esta sesión */ }
+  } catch (_) {
+    /* sin almacenamiento: se aplica solo en esta sesión */
+  }
 }
 aplicarTema(temaGuardado());
 
-const SVG_TEMA = (inner) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
+const SVG_TEMA = (inner) =>
+  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
 const TEMAS = [
-  ["auto", "Automático", SVG_TEMA('<circle cx="12" cy="12" r="9"/><path d="M12 3v18" /><path d="M12 3a9 9 0 0 1 0 18Z" fill="currentColor"/>')],
-  ["light", "Claro", SVG_TEMA('<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>')],
-  ["dark", "Oscuro", SVG_TEMA('<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/>')],
+  [
+    "auto",
+    "Automático",
+    SVG_TEMA(
+      '<circle cx="12" cy="12" r="9"/><path d="M12 3v18" /><path d="M12 3a9 9 0 0 1 0 18Z" fill="currentColor"/>',
+    ),
+  ],
+  [
+    "light",
+    "Claro",
+    SVG_TEMA(
+      '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>',
+    ),
+  ],
+  [
+    "dark",
+    "Oscuro",
+    SVG_TEMA('<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/>'),
+  ],
 ];
-function infoTema() { return TEMAS.find((t) => t[0] === temaActual) || TEMAS[0]; }
+function infoTema() {
+  return TEMAS.find((t) => t[0] === temaActual) || TEMAS[0];
+}
 function pintarBotonTema(b) {
   const [, nombre, icono] = infoTema();
   b.innerHTML = icono;
@@ -47,7 +72,13 @@ function botonTemaHtml() {
 
 // ---------- Utilidades ----------
 function esc(t) {
-  return String(t).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+  return String(t).replace(
+    /[&<>"']/g,
+    (c) =>
+      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[
+        c
+      ],
+  );
 }
 function anunciar(msg) {
   const el = document.getElementById("anuncios");
@@ -56,19 +87,25 @@ function anunciar(msg) {
 // Divide por ";" ignorando los que están dentro de paréntesis.
 function partirLista(txt) {
   const partes = [];
-  let actual = "", prof = 0;
+  let actual = "",
+    prof = 0;
   for (const ch of txt) {
     if (ch === "(") prof++;
     if (ch === ")") prof = Math.max(0, prof - 1);
-    if (ch === ";" && prof === 0) { partes.push(actual); actual = ""; }
-    else actual += ch;
+    if (ch === ";" && prof === 0) {
+      partes.push(actual);
+      actual = "";
+    } else actual += ch;
   }
   partes.push(actual);
   return partes.map((p) => p.trim()).filter(Boolean);
 }
 function formatearValor(valor) {
   if (Array.isArray(valor))
-    return `<ul class="field__list">${valor.filter(Boolean).map((p) => `<li>${esc(p)}</li>`).join("")}</ul>`;
+    return `<ul class="field__list">${valor
+      .filter(Boolean)
+      .map((p) => `<li>${esc(p)}</li>`)
+      .join("")}</ul>`;
   const partes = partirLista(String(valor).trim());
   if (partes.length < 2) return esc(partes[0] || valor);
   return `<ul class="field__list">${partes.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>`;
@@ -85,7 +122,9 @@ async function cargarDatos() {
     state.version = json.version || null;
   } catch (e) {
     try {
-      const respaldo = JSON.parse(localStorage.getItem("vademecum_farmacos_cache") || "{}");
+      const respaldo = JSON.parse(
+        localStorage.getItem("vademecum_farmacos_cache") || "{}",
+      );
       state.farmacos = respaldo.farmacos || [];
       state.actualizado = respaldo.actualizado || null;
       state.version = respaldo.version || null;
@@ -97,9 +136,15 @@ async function cargarDatos() {
     try {
       localStorage.setItem(
         "vademecum_farmacos_cache",
-        JSON.stringify({ version: state.version, actualizado: state.actualizado, farmacos: state.farmacos }),
+        JSON.stringify({
+          version: state.version,
+          actualizado: state.actualizado,
+          farmacos: state.farmacos,
+        }),
       );
-    } catch (_) { /* sin espacio o modo privado: se usa solo el Service Worker */ }
+    } catch (_) {
+      /* sin espacio o modo privado: se usa solo el Service Worker */
+    }
   }
   state.cargando = false;
 }
@@ -149,7 +194,8 @@ function render() {
   window.scrollTo(0, 0);
   renderVista();
   const t = root.querySelector(".topbar__title");
-  const base = "Vademécum de Enfermería", nom = t ? t.textContent.trim() : "";
+  const base = "Vademécum de Enfermería",
+    nom = t ? t.textContent.trim() : "";
   document.title = nom && nom !== base ? `${nom} · ${base}` : base;
   if (!primeraVista && t) {
     t.setAttribute("tabindex", "-1");
@@ -209,7 +255,7 @@ function formatearFecha(iso) {
 function appFooter() {
   return `
     <footer class="app-footer">
-      <p>© ${new Date().getFullYear()} Cátedra de Enfermería · Uso académico · Todos los derechos reservados</p>
+      <p>© ${new Date().getFullYear()} Cátedra de Farmacología en Enfermería · Uso académico · Todos los derechos reservados</p>
       ${state.actualizado ? `<p>Última actualización de contenidos: ${formatearFecha(state.actualizado)}${state.version ? ` · v${state.version}` : ""}</p>` : ""}
       <p>Material educativo: no reemplaza el criterio clínico, los prospectos oficiales ni las guías institucionales.</p>
     </footer>
@@ -255,21 +301,34 @@ function renderHome() {
 function filtrarFarmacos(texto, letra) {
   let lista = state.farmacos
     .slice()
-    .sort((a, b) =>
-      (a.letra || "").localeCompare(b.letra || "", "es") ||
-      a.nombre_generico.localeCompare(b.nombre_generico, "es"));
-  if (letra) lista = lista.filter((f) => (f.letra || "").toUpperCase() === letra);
+    .sort(
+      (a, b) =>
+        (a.letra || "").localeCompare(b.letra || "", "es") ||
+        a.nombre_generico.localeCompare(b.nombre_generico, "es"),
+    );
+  if (letra)
+    lista = lista.filter((f) => (f.letra || "").toUpperCase() === letra);
   if (texto) {
     const q = normalizar(texto);
     lista = lista.filter((f) =>
-      normalizar([f.nombre_generico, f.farmacodinamia?.principio_activo, f.farmacodinamia?.clasificacion].join(" ")).includes(q));
+      normalizar(
+        [
+          f.nombre_generico,
+          f.farmacodinamia?.principio_activo,
+          f.farmacodinamia?.clasificacion,
+        ].join(" "),
+      ).includes(q),
+    );
   }
   return lista;
 }
 
 function itemsLista(modo, lista) {
-  if (!lista.length) return `<li class="empty-state">No se encontraron fármacos con ese criterio.</li>`;
-  return lista.map((f) => `
+  if (!lista.length)
+    return `<li class="empty-state">No se encontraron fármacos con ese criterio.</li>`;
+  return lista
+    .map(
+      (f) => `
         <li class="drug-list__item">
           <a class="drug-list__link" href="#/${modo}/d/${encodeURIComponent(f.id)}">
             <span>
@@ -278,13 +337,18 @@ function itemsLista(modo, lista) {
             </span>
             ${f.alto_riesgo ? '<span class="risk-badge">ALTO RIESGO</span>' : ""}
           </a>
-        </li>`).join("");
+        </li>`,
+    )
+    .join("");
 }
 
 function renderLista(modo) {
   const titulo = modo === "ficha-tecnica" ? "Ficha técnica" : "Tarjetas";
-  let texto = "", letra = "";
-  const letrasDisponibles = new Set(state.farmacos.map((f) => (f.letra || "").toUpperCase()));
+  let texto = "",
+    letra = "";
+  const letrasDisponibles = new Set(
+    state.farmacos.map((f) => (f.letra || "").toUpperCase()),
+  );
 
   root.innerHTML = `
     ${topbar({ titulo, subtitulo: `${state.farmacos.length} fármacos`, volver: "#/" })}
@@ -333,7 +397,8 @@ function renderLista(modo) {
 
 // ---------- Vista: Detalle ----------
 function campo(label, valor, mono = false) {
-  if (!valor || (Array.isArray(valor) && !valor.filter(Boolean).length)) return "";
+  if (!valor || (Array.isArray(valor) && !valor.filter(Boolean).length))
+    return "";
   return `
     <div class="field">
       <div class="field__label">${label}</div>
