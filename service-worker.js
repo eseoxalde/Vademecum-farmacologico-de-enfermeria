@@ -2,7 +2,7 @@
 // IMPORTANTE: al actualizar contenido (nuevos fármacos, cambios de CSS/JS),
 // subir el número de versión de CACHE_NAME para que los dispositivos
 // descarguen la versión nueva en lugar de seguir usando la cacheada.
-const CACHE_NAME = "vademecum-cache-v2";
+const CACHE_NAME = "vademecum-cache-v6";
 
 const ARCHIVOS_APP_SHELL = [
   "./",
@@ -33,10 +33,15 @@ self.addEventListener("activate", (event) => {
   self.clients.claim();
 });
 
-// Estrategia: "network first, falling back to cache" para farmacos.json
-// (para traer datos nuevos si hay conexión), y "cache first" para el resto.
+// Estrategia: "network first" para farmacos.json (datos clínicos siempre frescos
+// si hay conexión) y "stale-while-revalidate" para el resto: responde al instante
+// desde caché y actualiza en segundo plano (gasta pocos datos y ya no hace falta
+// subir la versión para cada cambio de CSS/JS; la próxima apertura lo toma).
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
+
+  // El panel de administración y su API nunca se cachean.
+  if (url.pathname.startsWith("/api/") || url.pathname.startsWith("/admin")) return;
 
   if (url.pathname.endsWith("farmacos.json")) {
     event.respondWith(
@@ -51,16 +56,19 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
+  if (event.request.method !== "GET") return;
   event.respondWith(
     caches.match(event.request).then((cacheado) => {
-      return (
-        cacheado ||
-        fetch(event.request).then((res) => {
-          const copia = res.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copia));
+      const red = fetch(event.request)
+        .then((res) => {
+          if (res.ok) {
+            const copia = res.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copia));
+          }
           return res;
-        }).catch(() => cacheado)
-      );
+        })
+        .catch(() => cacheado);
+      return cacheado || red;
     })
   );
 });

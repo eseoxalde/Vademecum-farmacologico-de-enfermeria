@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-08-06",
+  "actualizado": "2026-10-03",
   "farmacos": [
     {
       "id": "1",
@@ -5218,6 +5218,67 @@
           "Reportar hinchazón o dificultad respiratoria",
           "Respetar la dosis indicada"
         ]
+      }
+    },
+    {
+      "id": "65",
+      "nombre_generico": "ZZZZZZZ",
+      "letra": "Z",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "bla bka bka",
+        "clasificacion": "",
+        "efecto_terapeutica": "",
+        "mecanismo_accion": ""
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "",
+        "distribucion": "",
+        "metabolismo": "",
+        "eliminacion": ""
+      },
+      "indicaciones": "bla bla bla blabla bala",
+      "contraindicaciones": "",
+      "precauciones": "",
+      "advertencias": "",
+      "embarazo_lactancia": "",
+      "ajustes": {
+        "renal": "",
+        "hepatico": ""
+      },
+      "interacciones": "",
+      "reacciones_adversas": "",
+      "toxicidad_sobredosis": "",
+      "antidotos": "",
+      "monitorizacion": {
+        "clinica": "",
+        "laboratorio": ""
+      },
+      "parametros_valoracion": {
+        "antes": "",
+        "durante": "",
+        "despues": ""
+      },
+      "presentaciones": "",
+      "dosis": {
+        "adultos": "",
+        "pediatrico": "",
+        "geriatrico": ""
+      },
+      "vias_administracion": "",
+      "preparacion": {
+        "dilucion": "",
+        "compatibilidad_iv": ""
+      },
+      "velocidad_infusion": "",
+      "estabilidad_soluciones": "",
+      "concentracion": "",
+      "alarma_riesgo": "",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "bla bka bka"
+        ],
+        "educacion_paciente": []
       }
     }
   ]

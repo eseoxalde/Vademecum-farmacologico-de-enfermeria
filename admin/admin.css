@@ -1,0 +1,38 @@
+/* Estilos propios del panel de administración (el resto viene de ../css/styles.css) */
+.admin input[type="text"], .admin input[type="password"], .admin input[type="search"], .admin textarea { color: var(--color-text); }
+.admin input[type="search"] {
+  width: 100%; padding: 9px 10px; border: 1px solid var(--color-border);
+  border-radius: 8px; font-size: 14px; background: var(--color-surface);
+}
+.admin input.corto { width: 70px; text-align: center; font-size: 18px; }
+.admin textarea.json { font-family: var(--font-mono); font-size: 13px; min-height: 380px; }
+.admin .check { display: flex; gap: 10px; align-items: center; font-size: 15px; color: var(--color-text); margin: 14px 0 6px; }
+.admin .check input { width: 22px; height: 22px; }
+.topbar__theme { font-size: 18px; }
+.btn--sm { padding: 7px 14px; font-size: 13px; }
+.btn--danger { background: var(--color-risk); color: #fff; }
+:root[data-theme="dark"] .btn--danger, :root:not([data-theme="light"]) .btn--danger { color: #1b0b0a; }
+.login { max-width: 380px; padding-top: 48px; }
+.login .btn { width: 100%; margin-top: 18px; }
+.fila { display: flex; gap: 10px; align-items: center; margin-bottom: 8px; }
+.fila .btn { white-space: nowrap; }
+.ayuda { font-size: 13px; color: var(--color-text-muted); margin: 8px 0 14px; }
+.ayuda a { color: var(--color-link); font-weight: 600; }
+.aviso { background: var(--color-primary-tint); color: var(--color-heading); border-radius: var(--radius-sm); padding: 12px 14px; margin-bottom: 12px; font-size: 14px; }
+.lista { list-style: none; margin: 0; padding: 0; }
+.item {
+  width: 100%; display: flex; justify-content: space-between; align-items: center; gap: 8px;
+  text-align: left; padding: 14px 12px; margin-bottom: 8px; font-size: 15px;
+  background: var(--color-surface); color: var(--color-text);
+  border: 1px solid var(--color-border); border-radius: var(--radius-sm); cursor: pointer;
+}
+.tabs { display: flex; gap: 6px; margin-bottom: 8px; }
+.tab {
+  flex: 1; padding: 11px; font-size: 14px; font-weight: 700; cursor: pointer;
+  border: 1px solid var(--color-border); border-radius: var(--radius-sm);
+  background: var(--color-surface); color: var(--color-text);
+}
+.tab[aria-selected="true"] { background: var(--color-primary); border-color: var(--color-primary); color: #fff; }
+.grupo { border: 1px solid var(--color-border); border-radius: var(--radius-md); margin-bottom: 12px; padding: 0 14px 12px; background: var(--color-surface); }
+.grupo summary { padding: 14px 0 6px; font-weight: 700; color: var(--color-heading); cursor: pointer; }
+.admin .risk-banner { margin-bottom: 12px; }
