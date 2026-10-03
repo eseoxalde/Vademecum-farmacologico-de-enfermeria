@@ -5222,7 +5222,7 @@
     },
     {
       "id": "65",
-      "nombre_generico": "ZZZZZZZ",
+      "nombre_generico": "ZZZZZZZ (Prueba)",
       "letra": "Z",
       "alto_riesgo": false,
       "farmacodinamia": {
@@ -5276,9 +5276,13 @@
       "alarma_riesgo": "",
       "cuidados_enfermeria": {
         "cuidados": [
-          "bla bka bka"
+          "bla bka bka",
+          "es una prueba"
         ],
-        "educacion_paciente": []
+        "educacion_paciente": [
+          "Recordar eliminar",
+          "este farmaco"
+        ]
       }
     }
   ]
