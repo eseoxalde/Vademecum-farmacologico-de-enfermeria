@@ -7,6 +7,12 @@ Aplicación web progresiva para la consulta rápida de información farmacológi
 > [!WARNING]
 > **Aviso importante**: este material tiene fines **educativos**. No reemplaza el criterio clínico profesional, los prospectos oficiales de cada medicamento ni las guías institucionales vigentes. Ante cualquier duda en la práctica real, se deben consultar fuentes oficiales actualizadas y al equipo de salud correspondiente.
 
+![Pantalla de inicio de Vademecum Farmacológico de Enfermería](capturas/Captura-vademecum-ppal.png)
+
+![Pantalla de una Ficha del Vademecum Farmacológico de Enfermería](capturas/Captura-vademecum-fichas)
+
+![Pantalla de tarjetas de Vademecum Farmacológico de Enfermería](capturas/Captura-vademecum-tarjetas.png)
+
 ---
 
 ## Abstract
