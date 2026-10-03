@@ -5280,65 +5280,6 @@
         ],
         "educacion_paciente": []
       }
-    },
-    {
-      "id": "66",
-      "nombre_generico": "zzz",
-      "letra": "Z",
-      "alto_riesgo": false,
-      "farmacodinamia": {
-        "principio_activo": "",
-        "clasificacion": "",
-        "efecto_terapeutica": "",
-        "mecanismo_accion": ""
-      },
-      "farmacocinetica_adme": {
-        "absorcion": "zzzzzz",
-        "distribucion": "",
-        "metabolismo": "",
-        "eliminacion": ""
-      },
-      "indicaciones": "",
-      "contraindicaciones": "",
-      "precauciones": "",
-      "advertencias": "",
-      "embarazo_lactancia": "",
-      "ajustes": {
-        "renal": "",
-        "hepatico": ""
-      },
-      "interacciones": "",
-      "reacciones_adversas": "",
-      "toxicidad_sobredosis": "",
-      "antidotos": "",
-      "monitorizacion": {
-        "clinica": "",
-        "laboratorio": ""
-      },
-      "parametros_valoracion": {
-        "antes": "",
-        "durante": "",
-        "despues": ""
-      },
-      "presentaciones": "",
-      "dosis": {
-        "adultos": "",
-        "pediatrico": "",
-        "geriatrico": ""
-      },
-      "vias_administracion": "",
-      "preparacion": {
-        "dilucion": "",
-        "compatibilidad_iv": ""
-      },
-      "velocidad_infusion": "",
-      "estabilidad_soluciones": "",
-      "concentracion": "",
-      "alarma_riesgo": "",
-      "cuidados_enfermeria": {
-        "cuidados": [],
-        "educacion_paciente": []
-      }
     }
   ]
 }
