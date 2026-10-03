@@ -9,7 +9,7 @@ Aplicación web progresiva para la consulta rápida de información farmacológi
 
 ![Pantalla de inicio de Vademecum Farmacológico de Enfermería](capturas/Captura-vademecum-ppal.png)
 
-![Pantalla de una Ficha del Vademecum Farmacológico de Enfermería](capturas/Captura-vademecum-fichas)
+![Pantalla de una Ficha del Vademecum Farmacológico de Enfermería](capturas/Captura-vademecum-fichas.png)
 
 ![Pantalla de tarjetas de Vademecum Farmacológico de Enfermería](capturas/Captura-vademecum-tarjetas.png)
 
