@@ -5898,6 +5898,89 @@
           "Si está embarazada, busca un embarazo o está en período de lactancia, consultar al equipo tratante sin interrumpir el medicamento por cuenta propia."
         ]
       }
+    },
+    {
+      "id": "73",
+      "nombre_generico": "Carbamazepina",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Carbamazepina",
+        "clasificacion": "Antiepiléptico; anticonvulsivante; analgésico para determinados dolores neuropáticos; estabilizador del estado de ánimo.",
+        "efecto_terapeutica": "Control de determinadas crisis epilépticas parciales y tónico-clónicas generalizadas; alivio del dolor de la neuralgia del trigémino; tratamiento de episodios maníacos y prevención de episodios en determinados trastornos bipolares; tratamiento del síndrome de abstinencia alcohólica en las indicaciones autorizadas para el producto.",
+        "mecanismo_accion": "Estabiliza las membranas neuronales hiperexcitadas; inhibe las descargas neuronales repetitivas mediante el bloqueo de canales de sodio dependientes de voltaje; reduce la propagación sináptica de los impulsos nerviosos. El mecanismo exacto de sus efectos sobre el estado de ánimo no está completamente establecido."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe casi por completo por vía oral, aunque relativamente despacio; el tiempo hasta alcanzar la concentración plasmática máxima depende de la formulación; los alimentos no modifican de forma clínicamente significativa la cantidad absorbida.",
+        "distribucion": "Se une aproximadamente en un 70–80 % a las proteínas plasmáticas; se distribuye en los tejidos y atraviesa la barrera hematoencefálica; atraviesa la placenta y pasa a la leche materna.",
+        "metabolismo": "Principalmente hepático; induce su propio metabolismo durante las primeras semanas de tratamiento; genera metabolitos, incluido carbamazepina-10,11-epóxido, que posee actividad farmacológica.",
+        "eliminacion": "Principalmente por vía renal en forma de metabolitos; una proporción menor se elimina por las heces."
+      },
+      "indicaciones": "Crisis epilépticas parciales simples o complejas, con o sin generalización secundaria; crisis tónico-clónicas generalizadas; neuralgia esencial del trigémino; neuralgia esencial del glosofaríngeo; episodios maníacos y profilaxis de determinados trastornos bipolares; síndrome de abstinencia alcohólica cuando esté indicado en la ficha técnica del producto. No suele ser eficaz para las crisis de ausencia ni para las crisis mioclónicas.",
+      "contraindicaciones": "Hipersensibilidad a la carbamazepina o a medicamentos estructuralmente relacionados, como algunos antidepresivos tricíclicos; bloqueo auriculoventricular; antecedentes de depresión de la médula ósea; antecedentes de porfiria hepática; uso concomitante de inhibidores de la monoaminooxidasa (IMAO), según la ficha técnica consultada.",
+      "precauciones": "Antecedentes de enfermedad hepática, renal o cardíaca; alteraciones hematológicas; hiponatremia o riesgo de desarrollarla; edad avanzada; antecedentes de reacciones cutáneas a medicamentos; consumo de alcohol; riesgo de interacciones farmacológicas; pacientes de ascendencia en la que pueda estar indicado evaluar alelos HLA asociados a reacciones cutáneas graves.",
+      "advertencias": "Puede provocar reacciones cutáneas graves, incluido síndrome de Stevens-Johnson y necrólisis epidérmica tóxica; ante erupción cutánea, ampollas o lesiones en mucosas, se requiere valoración médica inmediata.\nPuede causar agranulocitosis, anemia aplásica y otras alteraciones hematológicas; vigilar fiebre, dolor de garganta, úlceras bucales, hematomas o sangrado inexplicados.\nPuede producir hepatotoxicidad e hiponatremia; controlar los signos clínicos y los parámetros de laboratorio indicados.\nNo suspender bruscamente el tratamiento antiepiléptico sin indicación médica, debido al riesgo de empeoramiento de las crisis.",
+      "embarazo_lactancia": "Embarazo: puede aumentar el riesgo de malformaciones congénitas y otros efectos adversos fetales; requiere evaluación individualizada y supervisión médica. No suspender por cuenta propia.\nLactancia: pasa a la leche materna; evaluar el beneficio de la lactancia y los posibles riesgos para el lactante, con vigilancia clínica cuando corresponda.",
+      "ajustes": {
+        "renal": "La ficha técnica consultada no establece una pauta universal de ajuste según función renal; valorar individualmente la situación clínica y los resultados de laboratorio.",
+        "hepatico": "Administrar con precaución en pacientes con enfermedad hepática; realizar valoración clínica y monitorización de la función hepática; la dosis debe individualizarse según tolerancia, respuesta e indicación médica."
+      },
+      "interacciones": "Anticoagulantes; anticonceptivos hormonales; otros antiepilépticos; macrólidos; antifúngicos azólicos; algunos antidepresivos; antipsicóticos; verapamilo; diltiazem; rifampicina; isoniazida; zumo de pomelo; alcohol; inhibidores de la monoaminooxidasa. La carbamazepina puede reducir la eficacia de anticonceptivos hormonales y modificar las concentraciones de numerosos medicamentos; revisar las interacciones específicas antes de iniciar o suspender cualquier tratamiento.",
+      "reacciones_adversas": "Mareo; somnolencia; ataxia; diplopía; cefalea; náuseas; vómitos; reacciones cutáneas; hiponatremia; leucopenia; trombocitopenia; alteraciones hepáticas; edema; confusión. Entre las reacciones graves se encuentran síndrome de Stevens-Johnson, necrólisis epidérmica tóxica, agranulocitosis y anemia aplásica.",
+      "toxicidad_sobredosis": "Puede causar depresión del sistema nervioso central; somnolencia intensa; desorientación; agitación; ataxia; nistagmo; alteraciones visuales; convulsiones; hipotensión; taquicardia; trastornos de conducción cardíaca; depresión respiratoria y coma.\nAnte una sobredosis sospechada, solicitar atención médica urgente; controlar vía aérea, respiración, circulación, ECG y estado neurológico; el tratamiento es de soporte y depende de las manifestaciones clínicas.",
+      "antidotos": "No existe un antídoto específico; el tratamiento de la sobredosis es de soporte y puede requerir medidas hospitalarias especializadas.",
+      "monitorizacion": {
+        "clinica": "Estado de conciencia; frecuencia y características de las crisis; control del dolor neuropático cuando corresponda; estado de ánimo; signos de reacciones cutáneas; fiebre; dolor de garganta; hematomas o sangrado; signos de hepatotoxicidad; síntomas de hiponatremia; tolerancia al tratamiento.",
+        "laboratorio": "Hemograma; función hepática; concentración plasmática de sodio; función renal según el estado clínico; concentración plasmática de carbamazepina cuando esté indicada por sospecha de toxicidad, falta de respuesta, interacciones, embarazo o cambios clínicos relevantes."
+      },
+      "parametros_valoracion": {
+        "antes": "Indicación y dosis prescrita; antecedentes de hipersensibilidad; antecedentes hematológicos, hepáticos, renales y cardíacos; medicación concomitante; hemograma; función hepática; sodio sérico; función renal según indicación; evaluación del riesgo de embarazo e interacciones.",
+        "durante": "Respuesta clínica; frecuencia de las crisis; nivel de conciencia; marcha y coordinación; presencia de mareos o diplopía; aparición de erupciones cutáneas; fiebre; lesiones en mucosas; signos de sangrado; signos de hepatotoxicidad; síntomas compatibles con hiponatremia; resultados de laboratorio según indicación.",
+        "despues": "Control de las crisis o del dolor; evolución del estado de ánimo según la indicación; tolerancia al tratamiento; adherencia; aparición de reacciones adversas; resultados del hemograma, función hepática y sodio según el plan de seguimiento; necesidad de ajustar la dosis por indicación médica."
+      },
+      "presentaciones": "Comprimidos de 100 mg, 200 mg y 400 mg, según el producto; existen otras formulaciones orales, como suspensión o comprimidos de liberación modificada, dependiendo de la marca y del mercado.",
+      "dosis": {
+        "adultos": "Epilepsia: dosis inicial habitual de 100–200 mg una o dos veces al día; aumentar gradualmente según respuesta clínica y tolerancia; dosis habitual de mantenimiento de 400 mg dos o tres veces al día; algunos pacientes pueden requerir hasta 1600 mg/día según la ficha técnica consultada.\nNeuralgia del trigémino: dosis inicial de 200–400 mg/día; aumentar gradualmente hasta controlar el dolor; dosis máxima recomendada de 1200 mg/día para la presentación consultada.\nTrastorno bipolar: la dosis depende de la indicación y de la respuesta clínica; la ficha técnica consultada describe dosis de aproximadamente 400–1600 mg/día para manía y profilaxis.",
+        "pediatrico": "Dosis habitual para epilepsia: 10–20 mg/kg/día, divididos en varias tomas, con ajuste gradual según respuesta clínica y tolerancia.\nLas dosis máximas y las pautas iniciales dependen de la edad y de la presentación; utilizar la ficha técnica específica del producto y la prescripción pediátrica.",
+        "geriatrico": "Iniciar con dosis bajas y aumentar gradualmente según respuesta y tolerancia; para neuralgia, la ficha técnica consultada recomienda una dosis inicial de 100 mg dos veces al día. Vigilar especialmente las interacciones y los efectos adversos."
+      },
+      "vias_administracion": "Vía oral; comprimidos ingeridos con líquido durante, después o entre las comidas, según la ficha técnica de la presentación. No administrar por vía intravenosa salvo que se disponga de una formulación específicamente autorizada para esa vía.",
+      "preparacion": {
+        "dilucion": "No corresponde para los comprimidos orales. Para suspensiones orales, seguir las instrucciones específicas del fabricante; no diluir ni modificar formulaciones de liberación modificada sin comprobar que esté autorizado.",
+        "compatibilidad_iv": "No corresponde a las presentaciones orales de carbamazepina consultadas; no preparar para administración intravenosa a partir de comprimidos o suspensiones orales."
+      },
+      "velocidad_infusion": "No corresponde a las presentaciones orales consultadas.",
+      "estabilidad_soluciones": "No corresponde a los comprimidos. Para suspensiones orales, respetar el período de validez y las condiciones de conservación indicadas en el envase y en la ficha técnica específica.",
+      "concentracion": "Concentración comercial: comprimidos de 100 mg, 200 mg o 400 mg, según la presentación consultada.\nConcentración máxima de administración: no corresponde a los comprimidos orales; no existe una concentración de infusión intravenosa aplicable a estas presentaciones.\nDosis máxima: depende de la indicación y del producto; para Carbamazepina Normon, la ficha técnica consultada indica hasta 1600 mg/día en algunos adultos con epilepsia y hasta 1200 mg/día para neuralgia del trigémino. Estos límites no son intercambiables entre indicaciones ni productos.",
+      "alarma_riesgo": "Riesgo de reacciones cutáneas graves; alteraciones hematológicas; hepatotoxicidad; hiponatremia; interacciones farmacológicas importantes; disminución de la eficacia de anticonceptivos hormonales; riesgo de convulsiones si se suspende bruscamente el tratamiento.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la dosis, la presentación y la vía de administración.",
+          "Comprobar los antecedentes de alergia a carbamazepina y medicamentos relacionados.",
+          "Revisar la medicación concomitante para identificar interacciones.",
+          "Controlar el estado neurológico y la frecuencia de las crisis convulsivas.",
+          "Vigilar la aparición de erupciones cutáneas, ampollas o lesiones en mucosas y comunicar de inmediato estos signos.",
+          "Controlar fiebre, dolor de garganta, hematomas o sangrado inexplicados por el riesgo de alteraciones hematológicas.",
+          "Vigilar signos de hepatotoxicidad, como ictericia, orina oscura o dolor abdominal.",
+          "Controlar los resultados del hemograma, la función hepática y el sodio sérico según indicación.",
+          "Observar signos de hiponatremia, como confusión, debilidad intensa, cefalea o aumento de las crisis.",
+          "Valorar mareos, somnolencia, diplopía y alteraciones de la marcha.",
+          "Administrar la medicación según el horario prescrito y evitar interrupciones bruscas.",
+          "Registrar la respuesta clínica y las reacciones adversas."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la prescripción y no modificar la dosis por cuenta propia.",
+          "No suspender bruscamente el tratamiento.",
+          "Informar al equipo de salud sobre todos los medicamentos, suplementos y productos herbales que utiliza.",
+          "Consultar antes de iniciar o suspender anticonceptivos hormonales, ya que la carbamazepina puede reducir su eficacia.",
+          "Solicitar atención médica inmediata ante erupción cutánea, ampollas, lesiones en la boca, fiebre persistente, dolor de garganta o sangrado inexplicado.",
+          "Consultar si presenta ictericia, orina oscura, confusión, debilidad intensa o aumento de las crisis.",
+          "Evitar el consumo de alcohol durante el tratamiento.",
+          "No conducir ni manejar maquinaria si presenta somnolencia, mareos o alteraciones de la coordinación.",
+          "Mantener los controles clínicos y de laboratorio indicados.",
+          "Informar al equipo tratante si está embarazada, busca un embarazo o está en período de lactancia; no suspender el medicamento por cuenta propia."
+        ]
+      }
     }
   ]
 }
