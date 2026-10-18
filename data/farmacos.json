@@ -5731,6 +5731,89 @@
           "Tras el alta, indicar que debe permanecer acompañado según las instrucciones del equipo asistencial."
         ]
       }
+    },
+    {
+      "id": "71",
+      "nombre_generico": "Levetiracetam",
+      "letra": "L",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Levetiracetam",
+        "clasificacion": "Antiepiléptico; derivado de la pirrolidona; código ATC N03AX14.",
+        "efecto_terapeutica": "Prevención y control de crisis epilépticas focales, con o sin generalización secundaria; tratamiento complementario de crisis mioclónicas y crisis tónico-clónicas generalizadas primarias, según edad, diagnóstico e indicación autorizada.",
+        "mecanismo_accion": "Se une a la proteína 2A de las vesículas sinápticas (SV2A), modulando la liberación de neurotransmisores; reduce la actividad epileptiforme sin afectar de forma significativa la neurotransmisión normal a las dosis terapéuticas."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Por vía oral presenta absorción rápida y casi completa; la biodisponibilidad oral es cercana al 100 %; la administración intravenosa evita la fase de absorción.",
+        "distribucion": "Volumen de distribución aproximado de 0,5–0,7 l/kg, cercano al agua corporal total; unión a proteínas plasmáticas inferior al 10 %; atraviesa la barrera hematoencefálica y la placenta.",
+        "metabolismo": "Metabolismo limitado; la vía principal es la hidrólisis enzimática del grupo acetamida, independiente del citocromo P450; no presenta metabolismo hepático extenso.",
+        "eliminacion": "Eliminación principalmente renal, en gran parte como fármaco sin modificar; la semivida en adultos es aproximadamente de 6–8 horas; puede prolongarse en insuficiencia renal y en personas mayores."
+      },
+      "indicaciones": "Monoterapia de crisis de inicio parcial con o sin generalización secundaria en adultos y adolescentes de 16 años o más con nuevo diagnóstico de epilepsia; tratamiento complementario de crisis de inicio parcial en adultos, adolescentes y niños desde la edad autorizada por la presentación; tratamiento complementario de crisis mioclónicas en pacientes con epilepsia mioclónica juvenil; tratamiento complementario de crisis tónico-clónicas generalizadas primarias en pacientes con epilepsia generalizada idiopática; alternativa intravenosa temporal cuando no es posible administrar el medicamento por vía oral.",
+      "contraindicaciones": "Hipersensibilidad al levetiracetam, a otros derivados de la pirrolidona o a cualquiera de los excipientes.",
+      "precauciones": "Insuficiencia renal; edad avanzada; antecedentes de depresión, ideación suicida o trastornos psiquiátricos; irritabilidad, agresividad o cambios conductuales; antecedentes de reacciones cutáneas graves; riesgo de empeoramiento de las crisis; antecedentes de alteraciones hematológicas; prolongación del intervalo QT o alteraciones electrolíticas relevantes; insuficiencia hepática grave, en la que debe valorarse especialmente la función renal.",
+      "advertencias": "No suspender bruscamente, ya que puede aumentar la frecuencia de las crisis; reducir gradualmente cuando se decida finalizar el tratamiento; vigilar cambios de ánimo, depresión, ideación suicida, agresividad y síntomas psicóticos; se han notificado reacciones cutáneas graves, hipersensibilidad multiorgánica y alteraciones hematológicas; se han descrito casos raros de lesión renal aguda; administrar la presentación intravenosa mediante perfusión, no en inyección intravenosa rápida; la duración del uso intravenoso debe ajustarse a la ficha técnica y a la indicación clínica.",
+      "embarazo_lactancia": "Embarazo: utilizar cuando sea clínicamente necesario, con la dosis eficaz más baja y seguimiento especializado; las concentraciones plasmáticas pueden disminuir durante el embarazo, especialmente en el tercer trimestre; no suspender bruscamente el tratamiento antiepiléptico. Lactancia: levetiracetam pasa a la leche materna; valorar con el equipo tratante la relación beneficio-riesgo del tratamiento y de la lactancia.",
+      "ajustes": {
+        "renal": "La dosis debe individualizarse según el aclaramiento de creatinina; en adultos y adolescentes de 50 kg o más, la ficha técnica de referencia establece 500–1.500 mg cada 12 horas con función renal normal; 500–1.000 mg cada 12 horas con aclaramiento de 50–79 ml/min/1,73 m²; 250–750 mg cada 12 horas con aclaramiento de 30–49 ml/min/1,73 m²; 250–500 mg cada 12 horas con aclaramiento inferior a 30 ml/min/1,73 m²; en enfermedad renal terminal con diálisis, 500–1.000 mg una vez al día, con dosis suplementaria de 250–500 mg después de la diálisis. Confirmar siempre la pauta con la tabla completa de la ficha técnica y la prescripción individual.",
+        "hepatico": "No suele requerir ajuste en insuficiencia hepática leve o moderada; en insuficiencia hepática grave, valorar la función renal antes de ajustar; si el aclaramiento de creatinina es inferior a 60 ml/min/1,73 m², la ficha técnica recomienda considerar una reducción del 50 % de la dosis diaria de mantenimiento."
+      },
+      "interacciones": "Presenta pocas interacciones farmacocinéticas clínicamente relevantes; los antiepilépticos habituales no suelen modificar de forma significativa sus concentraciones; probenecid puede inhibir el aclaramiento renal de su metabolito principal; la administración concomitante con metotrexato puede reducir el aclaramiento de este último y aumentar su exposición, por lo que deben controlarse sus concentraciones; revisar los tratamientos concomitantes y los efectos sedantes cuando corresponda.",
+      "reacciones_adversas": "Somnolencia; cefalea; mareo; fatiga; nasofaringitis; convulsiones; alteraciones del equilibrio; letargo; temblor; irritabilidad; agresividad; ansiedad; depresión; insomnio; cambios de humor; anorexia; náuseas; vómitos; diarrea; dolor abdominal; erupción cutánea; diplopía; alteraciones hematológicas; hiponatremia; reacciones de hipersensibilidad graves, incluido DRESS; síndrome de Stevens-Johnson; necrólisis epidérmica tóxica; hepatitis; insuficiencia hepática; lesión renal aguda; ideación o conducta suicida.",
+      "toxicidad_sobredosis": "Puede causar somnolencia intensa, agitación, agresividad, disminución del nivel de conciencia, depresión respiratoria y coma; no existe antídoto específico; el tratamiento es de soporte; la hemodiálisis puede eliminar una proporción significativa del fármaco y considerarse en casos graves según evaluación médica.",
+      "antidotos": "No existe antídoto específico; tratamiento de soporte y vigilancia clínica; valorar hemodiálisis en intoxicaciones graves según indicación especializada.",
+      "monitorizacion": {
+        "clinica": "Frecuencia y características de las crisis; nivel de conciencia; somnolencia; mareos y riesgo de caídas; estado de ánimo y comportamiento; aparición de ideación suicida; reacciones cutáneas; signos de hipersensibilidad; tolerancia al tratamiento; adherencia y respuesta clínica.",
+        "laboratorio": "Función renal, especialmente al iniciar el tratamiento y ante cambios clínicos; hemograma si aparecen fiebre, infecciones recurrentes, debilidad marcada, hematomas o sangrados; función hepática si está clínicamente indicada; concentraciones plasmáticas de metotrexato si se administran conjuntamente; otros análisis según la situación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar la prescripción, la dosis, la vía y la frecuencia; comprobar alergias a levetiracetam o derivados de la pirrolidona; valorar tipo y frecuencia habitual de las crisis; evaluar nivel de conciencia, estado neurológico, estado de ánimo y conducta; revisar función renal, edad, peso y medicación concomitante; comprobar acceso venoso y disponibilidad de la solución y del diluyente compatible.",
+        "durante": "Observar la respuesta sobre la frecuencia e intensidad de las crisis; valorar nivel de conciencia, somnolencia, mareos, agitación o cambios conductuales; vigilar reacciones alérgicas y cutáneas; comprobar la permeabilidad del acceso venoso y la velocidad de perfusión; controlar la función renal según el estado clínico y la duración del tratamiento.",
+        "despues": "Registrar respuesta clínica y cambios en el patrón de crisis; valorar somnolencia, mareos, alteraciones conductuales y tolerancia; comprobar la ausencia de reacciones adversas inmediatas; verificar la continuidad del tratamiento antiepiléptico y la transición a la vía oral cuando esté indicada; reforzar que no debe suspenderse bruscamente."
+      },
+      "presentaciones": "Concentrado para solución para perfusión intravenosa de 100 mg/ml; vial de 5 ml = 500 mg de levetiracetam; envases con uno o varios viales, según fabricante y disponibilidad comercial. También existen comprimidos y solución oral, que no deben confundirse con la formulación inyectable.",
+      "dosis": {
+        "adultos": "Dosis inicial habitual: 500 mg cada 12 horas (1.000 mg/día); en determinados pacientes puede iniciarse con 250 mg cada 12 horas y aumentarse según respuesta; dosis habitual de mantenimiento: 500–1.500 mg cada 12 horas (1.000–3.000 mg/día); ajustar según función renal, indicación y tolerancia. La dosis intravenosa diaria y su frecuencia corresponden a la pauta oral, salvo indicación médica específica. La presentación intravenosa debe administrarse mediante perfusión de 15 minutos.",
+        "pediatrico": "Depende de la edad, el peso, la indicación y la función renal; para tratamiento complementario en niños de 4–11 años y adolescentes de 12–17 años con menos de 50 kg, la dosis inicial oral de referencia es 10 mg/kg cada 12 horas y puede aumentarse hasta 30 mg/kg cada 12 horas según respuesta y tolerancia; en niños de 50 kg o más se utilizan las pautas de adultos; la seguridad y la pauta de la presentación intravenosa deben comprobarse para la edad y el producto concretos. No extrapolar estas dosis a menores de 4 años sin consultar la ficha técnica específica.",
+        "geriatrico": "No requiere una reducción únicamente por la edad; ajustar según función renal, ya que puede disminuir con el envejecimiento; vigilar somnolencia, mareos, alteraciones del equilibrio y riesgo de caídas."
+      },
+      "vias_administracion": "Intravenosa mediante perfusión; vía oral mediante comprimidos o solución oral en las presentaciones correspondientes; la conversión entre la vía oral e intravenosa puede realizarse manteniendo la dosis diaria total y la frecuencia, bajo prescripción médica.",
+      "preparacion": {
+        "dilucion": "La dosis prescrita debe diluirse en al menos 100 ml de un diluyente compatible y administrarse durante 15 minutos; diluyentes autorizados para la presentación de referencia: cloruro sódico al 0,9 %, solución de Ringer lactato o glucosa al 5 %; calcular el volumen de concentrado según la dosis prescrita; preparar con técnica aséptica.",
+        "compatibilidad_iv": "Diluyentes compatibles: cloruro sódico al 0,9 %; Ringer lactato; glucosa al 5 %; no mezclar con otros medicamentos en la misma solución salvo que la compatibilidad esté expresamente documentada en la ficha técnica; comprobar compatibilidad y condiciones de administración antes de utilizar una conexión en Y."
+      },
+      "velocidad_infusion": "Administrar la dosis prescrita durante 15 minutos mediante perfusión intravenosa; la velocidad en ml/h depende del volumen final y del tiempo indicado; no administrar el concentrado sin diluir como bolo intravenoso.",
+      "estabilidad_soluciones": "El vial sin abrir tiene una vida útil de 3 años para la presentación de referencia; no requiere condiciones especiales de conservación; desde el punto de vista microbiológico, la solución diluida debe utilizarse inmediatamente; si no se utiliza inmediatamente, el tiempo y las condiciones de conservación son responsabilidad del usuario y, salvo condiciones asépticas validadas, no deben superar 24 horas entre 2 y 8 °C para la ficha consultada; desechar el sobrante del vial de un solo uso; no utilizar soluciones con partículas o cambios de color. Verificar las condiciones exactas de la marca disponible.",
+      "concentracion": "Concentración comercial del concentrado de referencia: 100 mg/ml; vial de 5 ml = 500 mg. La ficha técnica no establece una concentración máxima universal de administración; indica diluir la dosis en al menos 100 ml de un diluyente compatible y administrar mediante perfusión intravenosa durante 15 minutos. La concentración final depende de la dosis y del volumen final preparado; no administrar el concentrado sin diluir como bolo intravenoso.",
+      "alarma_riesgo": "Precaución especial. Vigilar cambios conductuales, ideación suicida, somnolencia intensa, reacciones cutáneas graves y alteraciones hematológicas; ajustar según función renal; evitar la suspensión brusca por riesgo de aumento de las crisis.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la dosis, la frecuencia, la vía y la función renal antes de administrar.",
+          "Confirmar alergias al levetiracetam y a derivados de la pirrolidona.",
+          "Valorar el patrón habitual de crisis y el estado neurológico antes del tratamiento.",
+          "Comprobar la dosis calculada y el volumen que debe extraerse del vial.",
+          "Diluir con un diluyente compatible y en un volumen mínimo de 100 ml según la ficha técnica de referencia.",
+          "Administrar mediante perfusión intravenosa durante 15 minutos.",
+          "No administrar el concentrado sin diluir como bolo intravenoso.",
+          "Vigilar somnolencia, mareos, alteraciones del equilibrio y riesgo de caídas.",
+          "Observar cambios de ánimo, irritabilidad, agresividad, depresión o ideación suicida.",
+          "Vigilar erupciones cutáneas, fiebre, edema facial u otros signos de hipersensibilidad.",
+          "Controlar la función renal y solicitar hemograma cuando esté clínicamente indicado.",
+          "Desechar el sobrante del vial y no utilizar soluciones con partículas o cambios de color.",
+          "Registrar la dosis administrada, la respuesta clínica, la tolerancia y los posibles efectos adversos.",
+          "Evitar la interrupción brusca del tratamiento y verificar la continuidad de la pauta prescrita."
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento ayuda a prevenir y controlar las crisis epilépticas.",
+          "Indicar que debe tomar el tratamiento siguiendo la pauta prescrita y que no debe suspenderlo bruscamente.",
+          "Recomendar que informe sobre somnolencia, mareos, cambios de ánimo o alteraciones del comportamiento.",
+          "Indicar que comunique inmediatamente la aparición de erupciones cutáneas extensas, ampollas, fiebre con erupción o hinchazón de la cara.",
+          "Explicar que debe informar al equipo médico si aumentan la frecuencia o la intensidad de las crisis.",
+          "Recomendar precaución al conducir o manejar maquinaria hasta conocer cómo afecta el medicamento a su estado de alerta.",
+          "Indicar que informe sobre todos los medicamentos que utiliza, especialmente metotrexato.",
+          "Enseñar a familiares o cuidadores a reconocer cambios importantes de conducta y signos de alarma."
+        ]
+      }
     }
   ]
 }
