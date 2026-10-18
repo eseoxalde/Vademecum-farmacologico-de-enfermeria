@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-03",
+  "actualizado": "2026-10-18",
   "farmacos": [
     {
       "id": "1",
@@ -5217,6 +5217,88 @@
           "No automedicarse sin indicación",
           "Reportar hinchazón o dificultad respiratoria",
           "Respetar la dosis indicada"
+        ]
+      }
+    },
+    {
+      "id": "65",
+      "nombre_generico": "Midazolam",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Midazolam, generalmente presentado como clorhidrato de midazolam.",
+        "clasificacion": "Benzodiazepina de acción corta. Hipnótico, sedante, ansiolítico, anticonvulsivante y miorrelajante. Código ATC: N05CD08.",
+        "efecto_terapeutica": "Produce sedación, disminución de la ansiedad, inducción del sueño, amnesia anterógrada, relajación muscular y actividad anticonvulsivante.",
+        "mecanismo_accion": "Potencia la acción inhibitoria del ácido gamma-aminobutírico (GABA) sobre el receptor GABA-A, aumentando la frecuencia de apertura de los canales de cloruro en presencia de GABA. Esto disminuye la excitabilidad neuronal y produce sus efectos sedantes, ansiolíticos, hipnóticos, anticonvulsivantes y miorrelajantes."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La absorción depende de la vía de administración. Por vía intravenosa, la biodisponibilidad es completa. Por vía intramuscular, la absorción es rápida y la biodisponibilidad es superior al 90 %. La ficha técnica consultada corresponde a una formulación inyectable.",
+        "distribucion": "Se distribuye ampliamente por el organismo y atraviesa la barrera hematoencefálica. Presenta una unión a proteínas plasmáticas aproximada del 96-98 %, principalmente a la albúmina.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante las enzimas CYP3A4 y CYP3A5 del citocromo P450. Su principal metabolito es el 1-hidroximidazolam, farmacológicamente activo, que posteriormente se conjuga.",
+        "eliminacion": "Se elimina principalmente por vía renal en forma de metabolitos conjugados. Menos del 1 % de la dosis se recupera en la orina como fármaco inalterado. En adultos jóvenes sanos, la semivida de eliminación suele ser de 1,5 a 2,5 horas; puede prolongarse considerablemente en pacientes mayores, críticos o con alteración hepática."
+      },
+      "indicaciones": "Sedación consciente antes y durante procedimientos diagnósticos o terapéuticos, con o sin anestesia local; Premedicación antes de la inducción de la anestesia general; Inducción anestésica y utilización como componente sedante en anestesia combinada, según la formulación y la indicación autorizada; Sedación de pacientes en unidades de cuidados intensivos; En pediatría, determinadas indicaciones de sedación y premedicación anestésica, según la edad, la vía y la ficha técnica del producto.",
+      "contraindicaciones": "Hipersensibilidad al midazolam, a otras benzodiazepinas o a alguno de los excipientes; para la sedación consciente, insuficiencia respiratoria grave o depresión respiratoria aguda, según la ficha técnica consultada; otras contraindicaciones pueden depender de la formulación, la vía de administración y la indicación.",
+      "precauciones": "Administrar exclusivamente por personal sanitario capacitado; utilizar con precaución en pacientes con insuficiencia respiratoria, apnea del sueño, insuficiencia cardíaca, insuficiencia renal o hepática y en pacientes debilitados; extremar las precauciones en personas mayores de 60 años; en neonatos y lactantes pequeños, existe mayor riesgo de apnea, obstrucción de la vía aérea y depresión respiratoria; administrar lentamente por vía intravenosa y ajustar la dosis de acuerdo con la respuesta clínica; tener precaución ante antecedentes de consumo problemático de sustancias o dependencia de benzodiazepinas; puede producir amnesia anterógrada, reacciones paradójicas y sedación prolongada.",
+      "advertencias": "Riesgo de depresión respiratoria, apnea, paro respiratorio y paro cardíaco; la administración intravenosa rápida o de dosis elevadas incrementa el riesgo de complicaciones graves; la asociación con opioides, alcohol u otros depresores del sistema nervioso central puede producir sedación profunda, depresión respiratoria, coma o muerte; debe disponerse de equipos para mantener la vía aérea, proporcionar ventilación y realizar reanimación cardiopulmonar; puede ocasionar reacciones paradójicas, como agitación, agresividad, excitación, alucinaciones o comportamiento inadecuado; el uso repetido o prolongado puede producir tolerancia y dependencia física; el paciente no debe conducir ni manejar maquinaria hasta haberse recuperado completamente.",
+      "embarazo_lactancia": "Embarazo: los datos disponibles son insuficientes para establecer completamente su seguridad; debe utilizarse únicamente cuando sea claramente necesario y bajo evaluación médica; la administración de dosis elevadas al final del embarazo o durante el parto puede causar hipotonía, hipotermia, dificultad para la alimentación y depresión respiratoria neonatal; el uso crónico al final del embarazo puede asociarse con dependencia y síntomas de abstinencia en el recién nacido.\nLactancia: pasa a la leche materna en pequeñas cantidades; la ficha técnica de B. Braun consultada recomienda interrumpir la lactancia durante 24 horas después de la administración; deben seguirse las indicaciones específicas del producto y la valoración médica.",
+      "ajustes": {
+        "renal": "No existe un ajuste único aplicable a todos los pacientes; en insuficiencia renal grave puede acumularse el metabolito activo conjugado, prolongando la sedación; se recomienda administrar con precaución, individualizar la dosis y vigilar estrechamente la respuesta clínica y respiratoria.",
+        "hepatico": "La insuficiencia hepática disminuye el aclaramiento del midazolam y puede prolongar su semivida y sus efectos; puede ser necesario reducir la dosis y aumentar la vigilancia clínica, especialmente en pacientes con enfermedad hepática avanzada."
+      },
+      "interacciones": "Opioides: aumento del riesgo de sedación profunda, depresión respiratoria, coma y muerte; alcohol: potencia los efectos sedantes y depresores del sistema nervioso central, por lo que debe evitarse; otros depresores del sistema nervioso central, como propofol, ketamina, barbitúricos, otras benzodiazepinas, antipsicóticos sedantes y antihistamínicos sedantes, pueden potenciar sus efectos; inhibidores de CYP3A4, como ketoconazol, itraconazol, voriconazol, claritromicina y algunos antivirales, pueden aumentar la exposición al midazolam y prolongar la sedación; inductores de CYP3A4, como rifampicina, carbamazepina y fenitoína, pueden disminuir sus concentraciones y efectos; fentanilo y otros opioides pueden aumentar la exposición al midazolam y el riesgo de depresión respiratoria; la lista no es exhaustiva y debe revisarse toda la medicación concomitante.",
+      "reacciones_adversas": "Respiratorias: depresión respiratoria, hipoventilación, apnea y, en casos graves, paro respiratorio; cardiovasculares: hipotensión, cambios en la frecuencia cardíaca y, raramente, paro cardíaco; neurológicas: somnolencia, sedación excesiva, mareos, cefalea, amnesia anterógrada y alteración de la coordinación; psiquiátricas: confusión, agitación, excitación paradójica, agresividad, alucinaciones y alteraciones del comportamiento; gastrointestinales: náuseas, vómitos y, en ocasiones, hipo; otras: reacciones en el lugar de inyección, hipersensibilidad y, excepcionalmente, anafilaxia; la frecuencia y la gravedad dependen de la dosis, la vía, la edad, las enfermedades concomitantes y la medicación asociada.",
+      "toxicidad_sobredosis": "Puede causar somnolencia intensa, ataxia, disartria, nistagmo, disminución de los reflejos, hipotensión, depresión respiratoria, apnea y coma; el riesgo aumenta con alcohol, opioides y otros depresores del sistema nervioso central; el tratamiento requiere atención de urgencia, vigilancia de las funciones respiratoria y cardiovascular y soporte de las funciones vitales; en casos seleccionados de intoxicación grave por benzodiazepinas, puede considerarse flumazenilo bajo supervisión médica especializada.",
+      "antidotos": "Flumazenilo: antagonista de los receptores benzodiazepínicos que puede utilizarse en situaciones seleccionadas de intoxicación grave; no es apropiado para todos los pacientes, especialmente ante determinadas intoxicaciones mixtas, riesgo de convulsiones o dependencia de benzodiazepinas; su uso exige valoración médica y monitorización.",
+      "monitorizacion": {
+        "clinica": "Frecuencia respiratoria; saturación periférica de oxígeno (SpO2); frecuencia cardíaca; presión arterial; nivel de conciencia y profundidad de la sedación; permeabilidad de la vía aérea y signos de obstrucción; respuesta al procedimiento y aparición de reacciones paradójicas; recuperación posterior a la administración; en pacientes de alto riesgo, monitorización cardiorrespiratoria continua y capnografía cuando esté indicada.",
+        "laboratorio": "No existe un análisis de laboratorio específico obligatorio para todos los pacientes; gasometría arterial o venosa ante sospecha de hipoventilación o alteración del equilibrio ácido-base; función renal mediante creatinina y filtrado glomerular estimado; función hepática mediante transaminasas, bilirrubina y otros parámetros según la situación clínica; otros estudios dirigidos a las enfermedades concomitantes o a una posible intoxicación; no se requiere medir rutinariamente las concentraciones plasmáticas de midazolam."
+      },
+      "parametros_valoracion": {
+        "antes": "Identificación del paciente y verificación de la indicación; prescripción, dosis, concentración, vía y velocidad de administración; antecedentes de alergias y reacciones adversas a benzodiazepinas; nivel de conciencia y estado neurológico basal; frecuencia respiratoria, SpO2, frecuencia cardíaca y presión arterial; evaluación de la vía aérea, apnea del sueño y antecedentes respiratorios o cardiovasculares; función renal y hepática cuando sea clínicamente pertinente; medicación concomitante, especialmente opioides, sedantes e inhibidores de CYP3A4; confirmación de la disponibilidad de oxígeno, aspiración, dispositivos de ventilación y equipos de reanimación; cumplimiento de las condiciones de ayuno y preparación exigidas por el procedimiento, cuando correspondan.",
+        "durante": "Profundidad de la sedación y respuesta a estímulos; frecuencia respiratoria, SpO2 y permeabilidad de la vía aérea; frecuencia cardíaca y presión arterial; signos de hipoventilación, apnea, cianosis o inestabilidad hemodinámica; respuesta clínica y aparición de reacciones paradójicas; dosis acumulada y tiempo transcurrido desde cada administración; necesidad de medidas de soporte respiratorio o cardiovascular.",
+        "despues": "Recuperación del nivel de conciencia y del estado neurológico basal; estabilidad de la frecuencia respiratoria, SpO2, frecuencia cardíaca y presión arterial; ausencia de depresión respiratoria o sedación residual clínicamente significativa; recuperación de la capacidad de mantener la vía aérea; detección de náuseas, vómitos, agitación u otras reacciones adversas; cumplimiento de los criterios de alta o traslado establecidos para el procedimiento; indicación de acompañamiento y prohibición temporal de conducir o manejar maquinaria, según las instrucciones médicas."
+      },
+      "presentaciones": "La presentación depende del laboratorio y del país; el prospecto argentino de Midazolam HLB Pharma consultado describe una solución inyectable de 5 mg/ml en ampollas de 3 ml, equivalentes a 15 mg por ampolla; otras formulaciones comerciales pueden presentar concentraciones de 1 mg/ml o 5 mg/ml, diferentes volúmenes y envases; debe registrarse la presentación exacta del producto utilizado.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación, la vía, la edad, el estado clínico, la medicación concomitante y el grado de sedación requerido; en sedación consciente intravenosa, se utilizan dosis iniciales pequeñas con administración lenta y ajustes graduales según la respuesta clínica; las dosis empleadas en anestesia y en cuidados intensivos son diferentes y deben establecerse según el protocolo y la ficha técnica correspondiente; no existe una dosis universal para todos los usos; debe consultarse la posología específica del producto y de la indicación, sin extrapolar una pauta entre sedación, anestesia y sedación prolongada.",
+        "pediatrico": "Se calcula y ajusta de acuerdo con la edad, el peso, la vía, la indicación y el estado clínico; los niños pequeños, los prematuros y los neonatos presentan mayor riesgo de depresión respiratoria y requieren especial precaución; no debe utilizarse una dosis pediátrica única para todas las indicaciones; la administración debe seguir la ficha técnica específica y los protocolos pediátricos institucionales.",
+        "geriatrico": "Se recomienda iniciar con dosis inferiores a las utilizadas en adultos jóvenes y ajustar cuidadosamente según la respuesta clínica; los pacientes mayores presentan mayor sensibilidad a los efectos sedantes y mayor riesgo de depresión respiratoria, hipotensión y sedación prolongada."
+      },
+      "vias_administracion": "Según la formulación y la indicación autorizada: intravenosa (IV); intramuscular (IM); perfusión intravenosa continua, cuando esté indicada; otras vías, como la oral, bucal o intranasal, solo cuando exista una formulación adecuada y una indicación autorizada o un protocolo específico.",
+      "preparacion": {
+        "dilucion": "Para la formulación inyectable de Midazolam B. Braun de 1 mg/ml, la ficha técnica permite diluir para perfusión con cloruro de sodio al 0,9 %; glucosa al 5 %; solución de Ringer; solución de Hartmann; la ficha técnica consultada describe una concentración final de 15 mg en 100 a 1000 ml de solución para perfusión; esta información corresponde a esa formulación concreta y no debe aplicarse automáticamente a otras marcas o concentraciones; la preparación debe realizarse con técnica aséptica, verificando la concentración, la compatibilidad, el protocolo institucional y la prescripción.",
+        "compatibilidad_iv": "Compatible con determinadas soluciones de cloruro de sodio al 0,9 %, glucosa al 5 %, Ringer y Hartmann, según la ficha técnica del producto consultado; no mezclar con soluciones alcalinas, bicarbonato ni otras sustancias con incompatibilidad documentada; se han descrito incompatibilidades con numerosos medicamentos y puede producirse precipitación; verificar siempre la ficha técnica específica antes de mezclar o administrar en una misma línea intravenosa."
+      },
+      "velocidad_infusion": "La administración intravenosa debe ser lenta y titulada de acuerdo con la respuesta clínica; la velocidad exacta depende de la indicación, la edad, la dosis, la concentración y el protocolo de administración; no debe administrarse rápidamente ni establecerse una velocidad universal sin considerar la ficha técnica específica; durante la administración se requiere monitorización respiratoria y cardiovascular.",
+      "estabilidad_soluciones": "La estabilidad depende de la formulación, el diluyente, la concentración, el envase y las condiciones de preparación y conservación; para Midazolam B. Braun, la ficha técnica indica que el contenido de los envases unidosis abiertos que no se utilice debe eliminarse inmediatamente; las soluciones preparadas deben utilizarse y conservarse conforme a las condiciones de la ficha técnica y al protocolo institucional de preparación aséptica; no extrapolar los períodos de estabilidad de una marca a otra.",
+      "concentracion": "Para el producto argentino Midazolam HLB Pharma consultado: 5 mg/ml; cada ampolla de 3 ml contiene 15 mg de midazolam; existen otras presentaciones comerciales, entre ellas soluciones de 1 mg/ml y 5 mg/ml; siempre verificar la concentración en la etiqueta antes de calcular o administrar una dosis.",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO; riesgo principal: depresión respiratoria y apnea, potencialmente mortales; el riesgo aumenta con administración intravenosa rápida, dosis elevadas, edad avanzada, enfermedad respiratoria y asociación con opioides, alcohol u otros depresores del sistema nervioso central; requiere personal capacitado, monitorización, disponibilidad de oxígeno y equipos de soporte ventilatorio y reanimación; la administración debe ajustarse a la prescripción y a los protocolos institucionales.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar identidad, indicación, prescripción, dosis, concentración, vía y velocidad de administración.",
+          "Comprobar la fecha de vencimiento, integridad del envase y aspecto de la solución.",
+          "Evaluar el estado respiratorio, cardiovascular y neurológico antes de administrar.",
+          "Confirmar la disponibilidad de oxígeno, aspiración y equipos para soporte ventilatorio.",
+          "Mantener la vigilancia continua o con la frecuencia indicada por el nivel de riesgo y el protocolo.",
+          "Administrar lentamente por vía intravenosa y titular según prescripción y respuesta clínica.",
+          "Vigilar signos de depresión respiratoria, apnea, hipotensión y sedación excesiva.",
+          "Identificar posibles interacciones con opioides, alcohol y otros sedantes.",
+          "Comprobar la compatibilidad antes de administrar por una línea intravenosa compartida.",
+          "Mantener las medidas de seguridad para prevenir caídas y lesiones durante la sedación.",
+          "Documentar la dosis, la vía, la hora, los parámetros de monitorización y la respuesta del paciente.",
+          "Vigilar la recuperación y cumplir los criterios de alta o traslado establecidos.",
+          "Ante una reacción grave, activar el protocolo de emergencia y proporcionar soporte vital según las competencias profesionales."
+        ],
+        "educacion_paciente": [
+          "Explicar el objetivo del medicamento y sus efectos sedantes y amnésicos.",
+          "Informar que puede producir somnolencia, mareos, alteración de la coordinación y amnesia temporal.",
+          "Indicar que no debe consumir alcohol durante el período establecido por el equipo tratante.",
+          "Advertir sobre el riesgo de asociarlo con opioides, sedantes u otros depresores del sistema nervioso central sin indicación médica.",
+          "Indicar que no debe conducir ni manejar maquinaria hasta haberse recuperado completamente y recibir las instrucciones correspondientes.",
+          "Recomendar que cuente con acompañamiento al regresar a su domicilio cuando así lo indiquen las condiciones del procedimiento.",
+          "Indicar que comunique antecedentes de apnea del sueño, enfermedades respiratorias, hepáticas o renales y toda la medicación que utiliza.",
+          "En pacientes ambulatorios, explicar las pautas de vigilancia y los signos de alarma que requieren atención médica."
         ]
       }
     }
