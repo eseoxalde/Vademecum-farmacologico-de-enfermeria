@@ -5568,6 +5568,87 @@
           "Si el procedimiento es ambulatorio, explicar las indicaciones de alta y la necesidad de retirarse acompañado cuando corresponda."
         ]
       }
+    },
+    {
+      "id": "69",
+      "nombre_generico": "Ketamina",
+      "letra": "K",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Ketamina (como clorhidrato de ketamina).",
+        "clasificacion": "Anestésico general no barbitúrico; anestésico disociativo; analgésico; código ATC N01AX03.",
+        "efecto_terapeutica": "Anestesia general de acción rápida; analgesia; sedación y amnesia asociadas al estado anestésico.",
+        "mecanismo_accion": "Antagonista no competitivo de los receptores NMDA del glutamato; interrumpe selectivamente las vías de asociación cerebral y produce anestesia disociativa; también interactúa con otros sistemas de neurotransmisión; presenta actividad simpaticomimética y efecto broncodilatador."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción rápida tras la administración parenteral; la administración intravenosa produce un efecto prácticamente inmediato; la administración intramuscular también permite una absorción rápida.",
+        "distribucion": "Distribución rápida hacia órganos muy perfundidos, como cerebro, corazón y pulmones, seguida de redistribución hacia músculo, tejidos periféricos y tejido adiposo; atraviesa la barrera placentaria.",
+        "metabolismo": "Metabolismo principalmente hepático mediante N-desmetilación e hidroxilación; intervienen enzimas del citocromo P450, especialmente CYP3A4, y en menor medida CYP2B6 y CYP2C9; forma norketamina y otros metabolitos.",
+        "eliminacion": "Principalmente renal, como metabolitos; una pequeña proporción se elimina por las heces; semivida terminal aproximada de 2–3 horas, aunque puede variar según el paciente y el contexto clínico."
+      },
+      "indicaciones": "Anestesia en intervenciones diagnósticas y quirúrgicas que no requieren relajación muscular; inducción anestésica antes de administrar otros anestésicos generales; complemento de otros anestésicos; procedimientos seleccionados en adultos y niños, según la ficha técnica y la evaluación anestésica.",
+      "contraindicaciones": "Hipersensibilidad a la ketamina o a los excipientes; situaciones en las que un aumento de la presión arterial suponga un peligro grave; preeclampsia y eclampsia.",
+      "precauciones": "Hipertensión o enfermedad cardiovascular; insuficiencia hepática; alcoholismo crónico o intoxicación etílica; antecedentes de convulsiones; hipertiroidismo o tratamiento hormonal tiroideo; infección de vías respiratorias altas; lesiones intracraneales, traumatismo craneoencefálico, traumatismo ocular o hidrocefalia; riesgo de aumento de la presión intracraneal o intraocular; antecedentes de reacciones psicológicas durante la recuperación.",
+      "advertencias": "Administrar únicamente por personal con experiencia en anestesia y manejo de la vía aérea; disponer de equipo de reanimación; la administración intravenosa rápida puede provocar depresión respiratoria o apnea; puede elevar la presión arterial, la frecuencia cardíaca y la presión intracraneal e intraocular; puede producir alucinaciones, sueños vívidos, agitación, confusión y delirio durante la recuperación; no utilizar como único anestésico en procedimientos que estimulen directamente la faringe, laringe o árbol bronquial sin valorar las medidas adicionales necesarias; no se recomienda el uso prolongado con la presentación de referencia.",
+      "embarazo_lactancia": "Embarazo: atraviesa la placenta; utilizar únicamente cuando el beneficio clínico justifique el riesgo y bajo valoración anestésica especializada; está contraindicada en preeclampsia y eclampsia según la ficha técnica de referencia. Lactancia: consultar la ficha técnica del producto y la indicación médica antes de reanudarla; la información disponible para esta presentación no permite establecer una recomendación universal aplicable a todas las situaciones.",
+      "ajustes": {
+        "renal": "No se establece una pauta de ajuste universal en la ficha técnica de referencia; valorar la situación clínica, la función renal y la duración de la administración; individualizar la dosis bajo supervisión médica.",
+        "hepatico": "Utilizar con precaución en cirrosis u otras formas de insuficiencia hepática; puede ser necesario ajustar la dosis según la respuesta clínica y la gravedad del compromiso hepático."
+      },
+      "interacciones": "Opioides, benzodiacepinas y otros depresores del sistema nervioso central pueden potenciar la sedación y la depresión respiratoria; anestésicos generales y anestésicos inhalatorios pueden potenciar los efectos anestésicos; hormonas tiroideas pueden aumentar el riesgo de hipertensión y taquicardia; no mezclar en la misma jeringa o recipiente con diazepam ni barbitúricos por incompatibilidad fisicoquímica; los medicamentos concomitantes deben revisarse antes de la administración.",
+      "reacciones_adversas": "Aumento de la presión arterial; taquicardia; aumento de la frecuencia cardíaca; náuseas y vómitos; hipersalivación; nistagmo; diplopía; elevación de la presión intraocular; movimientos tónicos o clónicos; erupciones cutáneas; dolor en el sitio de inyección; depresión respiratoria o apnea, especialmente con administración rápida o dosis elevadas; laringoespasmo; alucinaciones; sueños vívidos; agitación; confusión; delirio durante la recuperación; reacciones de hipersensibilidad.",
+      "toxicidad_sobredosis": "Puede provocar hipertensión intensa, taquicardia, alteración profunda de la conciencia, depresión respiratoria, apnea y complicaciones cardiovasculares; el riesgo aumenta con dosis excesivas o asociación con otros depresores del sistema nervioso central; el tratamiento es de soporte, con protección de la vía aérea, oxigenación, ventilación y monitorización cardiovascular.",
+      "antidotos": "No existe antídoto específico; tratamiento de soporte respiratorio y cardiovascular según el cuadro clínico.",
+      "monitorizacion": {
+        "clinica": "Nivel de conciencia; respuesta al estímulo; frecuencia y esfuerzo respiratorio; saturación de oxígeno; permeabilidad de la vía aérea; presión arterial; frecuencia cardíaca y ECG según el riesgo; perfusión periférica; movimientos anormales; secreciones; aparición de vómitos o laringoespasmo; reacciones psicológicas durante la recuperación.",
+        "laboratorio": "No se establece un conjunto universal de análisis para todos los procedimientos; según la condición clínica y la duración de la anestesia, controlar gases en sangre, electrolitos, función renal y hepática u otros parámetros que indique el equipo tratante."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar prescripción, indicación, dosis, vía y concentración; verificar alergias y antecedentes cardiovasculares, respiratorios, neurológicos y hepáticos; valorar presión arterial, frecuencia cardíaca, estado respiratorio, saturación y nivel de conciencia; revisar medicación concomitante y consumo de alcohol u otras sustancias; verificar ayuno preanestésico según protocolo; comprobar disponibilidad de oxígeno, aspiración, ventilación asistida y equipo de reanimación.",
+        "durante": "Monitorizar respiración, saturación, presión arterial, frecuencia cardíaca y nivel de conciencia; observar hipertensión, taquicardia, apnea, depresión respiratoria, hipersalivación, vómitos y movimientos anormales; valorar signos de obstrucción de la vía aérea o laringoespasmo; comprobar la velocidad de administración y el acceso venoso; registrar dosis administrada y respuesta clínica.",
+        "despues": "Vigilar recuperación de conciencia y orientación; comprobar respiración espontánea eficaz, saturación y estabilidad hemodinámica; observar agitación, alucinaciones, sueños vívidos, confusión o delirio; valorar náuseas, vómitos y dolor; mantener observación hasta la recuperación completa y cumplir los criterios de alta establecidos por el equipo responsable."
+      },
+      "presentaciones": "Ketolar 50 mg/ml, solución inyectable; vial de 10 ml, equivalente a 500 mg de ketamina; existen otras presentaciones y concentraciones según fabricante y país.",
+      "dosis": {
+        "adultos": "Anestesia por vía intravenosa: dosis inicial de 1–4,5 mg/kg; la dosis media para producir aproximadamente 5–10 minutos de anestesia quirúrgica es de 2 mg/kg; administrar lentamente, durante al menos 60 segundos. Por vía intramuscular: 6,5–13 mg/kg; la dosis de 10 mg/kg suele producir aproximadamente 12–25 minutos de anestesia quirúrgica. Individualizar según respuesta, procedimiento y medicación concomitante. Estas dosis corresponden a la ficha técnica de Ketolar y no deben extrapolarse automáticamente a otras indicaciones, como analgesia o sedación fuera de ficha.",
+        "pediatrico": "La ficha técnica de referencia contempla el uso en niños; la dosis debe determinarla el equipo anestésico según peso, edad, vía, procedimiento y respuesta clínica; no aplicar una pauta pediátrica universal sin consultar la ficha técnica vigente de la presentación concreta.",
+        "geriatrico": "No se establece una dosis geriátrica fija universal; utilizar con precaución, valorar comorbilidades cardiovasculares y hepáticas y ajustar individualmente según respuesta clínica."
+      },
+      "vias_administracion": "Intravenosa; intramuscular. Utilizar únicamente las vías autorizadas para la presentación concreta.",
+      "preparacion": {
+        "dilucion": "Para preparar una solución de 1 mg/ml, transferir asépticamente 10 ml de Ketolar 50 mg/ml a 500 ml de solución de glucosa al 5 % o cloruro sódico al 0,9 % y mezclar; la ficha técnica también describe una concentración de 2 mg/ml cuando se requiere restringir el volumen de líquidos. Preparar con técnica aséptica y seguir las instrucciones de la ficha técnica y el protocolo institucional.",
+        "compatibilidad_iv": "Puede utilizarse con determinados anestésicos generales y locales cuando se mantiene una ventilación adecuada; no mezclar en la misma jeringa con diazepam ni barbitúricos, debido al riesgo de incompatibilidad fisicoquímica y formación de precipitados; confirmar la compatibilidad de cualquier otra mezcla con la ficha técnica específica."
+      },
+      "velocidad_infusion": "La ficha técnica indica que la administración intravenosa debe realizarse lentamente, durante al menos 60 segundos; una administración más rápida puede provocar depresión respiratoria o apnea y aumentar la respuesta presora; si se administra mediante perfusión, la velocidad debe individualizarse según indicación, respuesta y protocolo anestésico.",
+      "estabilidad_soluciones": "Conservar el vial en su embalaje original, protegido de la luz y sin congelar; la ficha técnica de Ketolar indica un período de validez de 5 años para el producto sin abrir; desde el punto de vista microbiológico, utilizar inmediatamente después de la apertura, salvo que la preparación se realice en condiciones que eviten la contaminación y conforme a las condiciones autorizadas; desechar el sobrante del envase unidosis; inspeccionar visualmente antes de administrar y no utilizar si presenta precipitados. Aunque la ficha describe estabilidad fisicoquímica de la solución diluida, esto no sustituye los requisitos de asepsia y uso establecidos para la preparación.",
+      "concentracion": "Concentración comercial de referencia: 50 mg/ml; vial de 10 ml = 500 mg de ketamina. La ficha técnica no establece una concentración máxima universal de administración aplicable a todas las vías y situaciones clínicas; para perfusión diluida describe una concentración de 1 mg/ml y contempla 2 mg/ml cuando se necesita restringir el volumen de líquidos. Estas concentraciones corresponden a la preparación de perfusiones, no a un límite máximo universal. Verificar siempre la presentación, la vía y el protocolo institucional antes de administrar.",
+      "alarma_riesgo": "ALTO RIESGO. Puede provocar depresión respiratoria o apnea, hipertensión, taquicardia, alteraciones de conciencia y reacciones de emergencia durante la recuperación; administrar con monitorización y equipo de manejo avanzado de la vía aérea disponible; la administración intravenosa rápida aumenta el riesgo respiratorio.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, el peso utilizado para el cálculo, la dosis, la vía y la concentración antes de administrar.",
+          "Comprobar alergias y antecedentes cardiovasculares, respiratorios, neurológicos y hepáticos.",
+          "Valorar presión arterial, frecuencia cardíaca, respiración, saturación de oxígeno y estado de conciencia antes de iniciar.",
+          "Confirmar que el equipo de oxigenación, aspiración, ventilación asistida y reanimación esté disponible y operativo.",
+          "Administrar por vía intravenosa lentamente, durante al menos 60 segundos, según la ficha técnica de referencia.",
+          "Mantener monitorización respiratoria y cardiovascular durante la administración y la recuperación.",
+          "Observar hipertensión, taquicardia, apnea, depresión respiratoria, hipersalivación, vómitos y signos de obstrucción de la vía aérea.",
+          "Vigilar movimientos anormales, agitación, alucinaciones, confusión y delirio durante el despertar.",
+          "No mezclar en la misma jeringa con diazepam ni barbitúricos.",
+          "Preparar las diluciones con técnica aséptica y respetar la concentración indicada y el protocolo institucional.",
+          "Desechar el sobrante del envase unidosis y no utilizar soluciones con precipitados.",
+          "Registrar dosis, vía, hora, respuesta clínica, constantes monitorizadas y efectos adversos.",
+          "Mantener la vigilancia hasta la recuperación anestésica completa y cumplir los criterios institucionales de alta."
+        ],
+        "educacion_paciente": [
+          "Explicar, cuando sea posible, que el medicamento produce anestesia y puede alterar temporalmente la percepción, la memoria y la orientación.",
+          "Indicar que informe sobre enfermedades cardiovasculares, respiratorias, hepáticas, neurológicas, alergias y medicamentos que utiliza.",
+          "Explicar que puede experimentar sueños vívidos, alucinaciones o confusión transitoria durante la recuperación.",
+          "Indicar que debe avisar al personal si siente dificultad para respirar, dolor torácico, mareo intenso o agitación importante.",
+          "Informar que no debe levantarse sin asistencia hasta que el equipo confirme que puede hacerlo con seguridad.",
+          "Indicar que no debe conducir, manejar maquinaria ni realizar actividades peligrosas hasta recibir autorización médica.",
+          "En procedimientos ambulatorios, explicar que debe retirarse acompañado por un adulto y seguir las indicaciones de alta."
+        ]
+      }
     }
   ]
 }
