@@ -5814,6 +5814,90 @@
           "Enseñar a familiares o cuidadores a reconocer cambios importantes de conducta y signos de alarma."
         ]
       }
+    },
+    {
+      "id": "72",
+      "nombre_generico": "Fenitoína",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fenitoína sódica.",
+        "clasificacion": "Antiepiléptico; derivado de la hidantoína; antiarrítmico en indicaciones específicas.",
+        "efecto_terapeutica": "Control de crisis epilépticas tónico-clónicas generalizadas y crisis parciales; tratamiento del estado epiléptico tónico-clónico; prevención y tratamiento de convulsiones asociadas a neurocirugía; tratamiento de determinadas arritmias cardíacas.",
+        "mecanismo_accion": "Estabiliza las membranas neuronales y limita la propagación de la actividad convulsiva mediante la modulación de los canales de sodio; también ejerce un efecto antiarrítmico por estabilización de las células del miocardio."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La absorción oral es variable; la absorción intramuscular es lenta e irregular.",
+        "distribucion": "Amplia distribución tisular; elevada unión a proteínas plasmáticas, principalmente albúmina.",
+        "metabolismo": "Principalmente hepático; metabolismo saturable, por lo que pequeños aumentos de dosis pueden producir incrementos desproporcionados de la concentración plasmática.",
+        "eliminacion": "Principalmente por vía renal en forma de metabolitos; una pequeña proporción se elimina sin cambios."
+      },
+      "indicaciones": "Estado epiléptico tónico-clónico; crisis tónico-clónicas generalizadas; crisis parciales simples o complejas; tratamiento y prevención de convulsiones en neurocirugía; determinadas arritmias auriculares y ventriculares, especialmente las relacionadas con intoxicación digitálica.",
+      "contraindicaciones": "Hipersensibilidad a la fenitoína, otras hidantoínas o los excipientes; bradicardia sinusal; bloqueo sinoauricular; bloqueo auriculoventricular de segundo o tercer grado; síndrome de Adams-Stokes. Verificar también las contraindicaciones específicas de la presentación comercial.",
+      "precauciones": "Insuficiencia hepática; insuficiencia renal; edad avanzada; pacientes debilitados o gravemente enfermos; hipotensión; insuficiencia cardíaca; diabetes; riesgo de hiperglucemia; riesgo de lesión tisular por extravasación; antecedentes de reacciones cutáneas graves.",
+      "advertencias": "La administración intravenosa rápida puede causar hipotensión grave y arritmias cardíacas; requiere monitorización cardiovascular.\nLa solución es alcalina y puede causar inflamación, lesión tisular y necrosis si se administra fuera de la vena.\nNo administrar por vía subcutánea ni perivascular.\nPuede provocar reacciones cutáneas graves, alteraciones hematológicas y daño hepático.\nNo suspender bruscamente el tratamiento antiepiléptico sin indicación médica.",
+      "embarazo_lactancia": "Puede aumentar el riesgo de malformaciones congénitas y otros efectos adversos en el feto; requiere valoración médica individualizada. No suspender el tratamiento por cuenta propia durante el embarazo.\nLa fenitoína pasa a la leche materna; valorar individualmente los beneficios de la lactancia y los posibles riesgos para el lactante.",
+      "ajustes": {
+        "renal": "No existe una pauta única de ajuste basada exclusivamente en la función renal. La insuficiencia renal y la hipoalbuminemia pueden aumentar la fracción libre activa; interpretar las concentraciones plasmáticas teniendo en cuenta la albúmina y, cuando corresponda, medir fenitoína libre.",
+        "hepatico": "Puede requerir reducción de dosis y vigilancia estrecha debido a la disminución del metabolismo hepático y al mayor riesgo de toxicidad."
+      },
+      "interacciones": "Anticoagulantes orales; anticonceptivos hormonales; otros antiepilépticos; antifúngicos azólicos; antibióticos; antineoplásicos; corticoides; ciclosporina; digoxina; vitamina D; alcohol; medicamentos depresores del sistema nervioso central; lidocaína intravenosa. La fenitoína puede alterar las concentraciones o la eficacia de numerosos medicamentos. Verificar cada combinación en las fichas técnicas correspondientes.",
+      "reacciones_adversas": "Nistagmo; ataxia; diplopía; mareos; somnolencia; confusión; náuseas; vómitos; hiperplasia gingival; hirsutismo; erupciones cutáneas; reacciones cutáneas graves; alteraciones hematológicas; alteraciones hepáticas; hiperglucemia; osteomalacia; hipotensión; arritmias cardíacas; irritación venosa y lesión tisular por extravasación.",
+      "toxicidad_sobredosis": "Puede provocar nistagmo; ataxia; disartria; diplopía; letargo; confusión; disminución del nivel de conciencia; coma en casos graves. La administración intravenosa excesivamente rápida puede causar hipotensión y arritmias.\nAnte sospecha de toxicidad, solicitar valoración médica urgente; controlar la vía aérea, la respiración, la circulación, el ECG y el estado neurológico; determinar las concentraciones plasmáticas según indicación médica.",
+      "antidotos": "No existe un antídoto específico; el tratamiento es de soporte y depende de las manifestaciones clínicas.",
+      "monitorizacion": {
+        "clinica": "Nivel de conciencia; frecuencia y características de las crisis; presión arterial; frecuencia cardíaca; ECG durante la administración intravenosa; marcha y coordinación; signos de toxicidad neurológica; reacciones cutáneas; estado del acceso venoso y signos de extravasación.",
+        "laboratorio": "Concentración plasmática de fenitoína; función hepática; hemograma según indicación clínica; glucemia en pacientes de riesgo; albúmina; función renal. Considerar la medición de fenitoína libre en insuficiencia renal, hipoalbuminemia u otras situaciones que alteren la unión a proteínas."
+      },
+      "parametros_valoracion": {
+        "antes": "Indicación y dosis prescrita; peso; antecedentes de hipersensibilidad; medicación concomitante; función hepática y renal; albúmina; presión arterial; frecuencia cardíaca; ECG cuando corresponda; permeabilidad del acceso venoso.",
+        "durante": "Nivel de conciencia; respuesta anticonvulsivante; presión arterial; frecuencia cardíaca; ECG; velocidad de administración; permeabilidad y estado del sitio de infusión; signos de extravasación; aparición de reacciones adversas.",
+        "despues": "Respuesta clínica; recurrencia de las crisis; estabilidad hemodinámica; estado neurológico; estado del sitio de punción; concentraciones plasmáticas cuando estén indicadas; necesidad de ajuste de dosis."
+      },
+      "presentaciones": "Solución inyectable de 50 mg/ml; ampollas de 2 ml que contienen 100 mg de fenitoína sódica; ampollas de 5 ml que contienen 250 mg de fenitoína sódica. También existen presentaciones orales, cuya concentración y disponibilidad dependen del producto.",
+      "dosis": {
+        "adultos": "Estado epiléptico y crisis tónico-clónicas: algunas fichas técnicas indican una dosis de carga intravenosa aproximada de 15–20 mg/kg, según el producto y el protocolo clínico; dosis de mantenimiento orientativa de 5–7 mg/kg/día, individualizada según respuesta y concentraciones plasmáticas. La velocidad intravenosa no debe superar 50 mg/min en adultos para las presentaciones consultadas.",
+        "pediatrico": "Depende de la edad, el peso, la indicación y la presentación. Algunas fichas técnicas describen dosis de carga de 15–20 mg/kg para determinadas indicaciones y mantenimiento orientativo de 5 mg/kg/día. La dosis y la velocidad deben ajustarse a la ficha técnica específica y al protocolo pediátrico.",
+        "geriatrico": "Individualizar según el estado clínico, la función hepática, la albúmina y las concentraciones plasmáticas. En pacientes mayores, debilitados o con disfunción hepática puede ser necesario reducir la dosis y administrar más lentamente; algunas fichas técnicas recomiendan velocidades de 5–25 mg/min en estos pacientes."
+      },
+      "vias_administracion": "Intravenosa directa lenta o infusión intravenosa, según la presentación y su ficha técnica. La vía intramuscular no suele recomendarse por la absorción errática y el riesgo de lesión tisular.",
+      "preparacion": {
+        "dilucion": "Para las presentaciones inyectables de 50 mg/ml consultadas, diluir exclusivamente con solución fisiológica de cloruro de sodio al 0,9 %, hasta una concentración final de 1–10 mg/ml. Utilizar únicamente soluciones transparentes y libres de precipitados.",
+        "compatibilidad_iv": "Solución fisiológica de cloruro de sodio al 0,9 % para la dilución. No se recomiendan otras soluciones de infusión por riesgo de precipitación. Administrar solución salina antes y después de la infusión por el mismo catéter, conforme a la ficha técnica y al protocolo institucional."
+      },
+      "velocidad_infusion": "Adultos: no superar 50 mg/min para las presentaciones consultadas.\nNeonatos: no superar 1–3 mg/kg/min, respetando también el límite absoluto especificado en la ficha técnica.\nPacientes geriátricos, debilitados o con disfunción hepática: puede ser necesario reducir la velocidad a 5–25 mg/min, según la situación clínica y la ficha técnica aplicable.",
+      "estabilidad_soluciones": "La solución debe permanecer transparente y libre de turbidez o precipitados. La ficha técnica de Fenitoína Altan indica un período de validez del producto sin abrir de dos años y que no requiere condiciones especiales de conservación; esto no establece por sí solo la estabilidad de una solución diluida. Preparar y administrar según la ficha técnica específica y el protocolo institucional.",
+      "concentracion": "Concentración comercial: 50 mg/ml; ampolla de 2 ml = 100 mg; ampolla de 5 ml = 250 mg.\nConcentración final para infusión intravenosa: entre 1 y 10 mg/ml, utilizando solución fisiológica de cloruro de sodio al 0,9 %.\nConcentración máxima de administración: 10 mg/ml como límite superior de concentración final para infusión en las presentaciones consultadas. No extrapolar este valor a otras formulaciones sin consultar su ficha técnica.",
+      "alarma_riesgo": "Medicamento de alto riesgo; posibilidad de hipotensión y arritmias durante la administración intravenosa; riesgo de lesión tisular grave por extravasación; riesgo de precipitación con diluyentes incompatibles; necesidad de monitorización cardiovascular durante la administración intravenosa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, el peso, la dosis, la vía y la velocidad de administración antes de preparar el medicamento.",
+          "Confirmar la concentración de la ampolla y calcular el volumen correspondiente a la dosis prescrita.",
+          "Comprobar que la solución sea transparente y esté libre de precipitados.",
+          "Utilizar exclusivamente solución fisiológica al 0,9 % para diluir la presentación consultada.",
+          "Verificar la permeabilidad del acceso venoso antes de iniciar la administración.",
+          "Administrar lentamente y respetar el límite de velocidad correspondiente al paciente y al producto.",
+          "Monitorizar la presión arterial, la frecuencia cardíaca y el ECG durante la administración intravenosa.",
+          "Vigilar el sitio de infusión por dolor, edema, cambios de coloración o signos de extravasación.",
+          "Administrar solución fisiológica antes y después de la infusión por el mismo catéter, conforme a la ficha técnica y al protocolo institucional.",
+          "No mezclar con otros medicamentos ni utilizar conexiones compartidas sin verificar la compatibilidad.",
+          "Controlar la respuesta clínica y la recurrencia de las crisis convulsivas.",
+          "Vigilar signos de toxicidad neurológica, como nistagmo, ataxia, disartria, confusión o disminución del nivel de conciencia.",
+          "Controlar las concentraciones plasmáticas cuando estén indicadas y comunicar los resultados fuera del rango terapéutico.",
+          "Registrar la dosis, la vía, la velocidad, la respuesta clínica y las reacciones adversas observadas."
+        ],
+        "educacion_paciente": [
+          "No suspender ni modificar el tratamiento sin indicación médica.",
+          "Informar al equipo de salud sobre todos los medicamentos, suplementos y productos herbales que utiliza.",
+          "Consultar antes de iniciar anticonceptivos hormonales u otros medicamentos por el riesgo de interacciones.",
+          "Informar de inmediato si aparecen erupciones cutáneas, ampollas, lesiones en la boca, hinchazón o dificultad para respirar.",
+          "Comunicar síntomas como mareos intensos, visión doble, dificultad para caminar o confusión.",
+          "Mantener los controles clínicos y de laboratorio indicados.",
+          "Mantener una higiene bucal adecuada y realizar controles odontológicos periódicos durante el tratamiento prolongado.",
+          "Evitar conducir o realizar actividades que requieran alerta si presenta somnolencia, mareos o alteraciones de la coordinación.",
+          "Si está embarazada, busca un embarazo o está en período de lactancia, consultar al equipo tratante sin interrumpir el medicamento por cuenta propia."
+        ]
+      }
     }
   ]
 }
