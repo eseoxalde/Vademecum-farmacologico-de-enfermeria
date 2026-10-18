@@ -5487,6 +5487,87 @@
           "Explicar la importancia de conservar el medicamento fuera del alcance de los niños y de no compartirlo con otras personas."
         ]
       }
+    },
+    {
+      "id": "68",
+      "nombre_generico": "Propofol",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Propofol",
+        "clasificacion": "Anestésico general intravenoso de acción corta; hipnótico sedante; código ATC N01AX10.",
+        "efecto_terapeutica": "Inducción y mantenimiento de la anestesia general; sedación para procedimientos diagnósticos y quirúrgicos; sedación de pacientes mayores de 16 años con ventilación asistida en cuidados intensivos, según la ficha técnica de referencia.",
+        "mecanismo_accion": "Potencia la neurotransmisión inhibitoria mediada por el ácido gamma-aminobutírico (GABA), principalmente a través de los receptores GABA-A; produce hipnosis y sedación; no proporciona analgesia suficiente por sí solo."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "No corresponde a la vía intravenosa; la administración intravenosa permite la disponibilidad sistémica inmediata del fármaco.",
+        "distribucion": "Distribución rápida desde la sangre hacia los tejidos muy perfundidos, seguida de redistribución hacia otros tejidos; elevada unión a proteínas plasmáticas.",
+        "metabolismo": "Metabolismo principalmente hepático, mediante conjugación y otros procesos metabólicos; formación de metabolitos inactivos o con actividad farmacológica muy reducida.",
+        "eliminacion": "Principalmente renal en forma de metabolitos; la eliminación del propofol sin modificar es limitada."
+      },
+      "indicaciones": "Inducción y mantenimiento de la anestesia general en adultos y niños mayores de un mes; sedación para procedimientos diagnósticos y quirúrgicos en adultos y niños mayores de un mes; sedación de pacientes mayores de 16 años sometidos a ventilación asistida en UCI. Las edades e indicaciones autorizadas deben comprobarse para cada producto.",
+      "contraindicaciones": "Hipersensibilidad al propofol o a cualquiera de los excipientes; alergia a la soja o al cacahuete cuando así lo establezca la ficha técnica de la formulación; sedación en UCI en pacientes de 16 años o menores con la presentación de referencia.",
+      "precauciones": "Insuficiencia cardíaca, respiratoria, renal o hepática; hipovolemia; pacientes debilitados o de edad avanzada; trastornos del metabolismo lipídico; epilepsia; presión intracraneal elevada asociada a presión arterial media baja; enfermedades mitocondriales; riesgo de bradicardia e hipotensión; uso concomitante de otros depresores del sistema nervioso central.",
+      "advertencias": "Administrar exclusivamente por personal capacitado en anestesia o cuidados intensivos y en un entorno equipado para mantener la vía aérea, proporcionar ventilación asistida y realizar reanimación; puede causar apnea, obstrucción de la vía aérea, hipotensión profunda, bradicardia, asistolia y parada cardiorrespiratoria; la administración prolongada o a dosis elevadas puede provocar síndrome de infusión de propofol; la emulsión carece de conservantes antimicrobianos y puede favorecer el crecimiento microbiano.",
+      "embarazo_lactancia": "Embarazo: evitar su uso salvo que sea claramente necesario, según valoración médica; atraviesa la placenta y puede causar depresión neonatal. Lactancia: consultar la ficha técnica específica y la indicación médica sobre la reanudación de la lactancia, ya que las recomendaciones pueden variar según el contexto de administración.",
+      "ajustes": {
+        "renal": "No existe una pauta de reducción universal para todas las situaciones; titular cuidadosamente según respuesta clínica y estabilidad hemodinámica; vigilar especialmente a pacientes críticos o con perfusiones prolongadas.",
+        "hepatico": "No existe una pauta de ajuste universal establecida; administrar con precaución y titular según respuesta clínica, especialmente en pacientes con insuficiencia hepática."
+      },
+      "interacciones": "Opioides, benzodiacepinas, anestésicos generales, anestésicos inhalatorios y otros depresores del sistema nervioso central pueden potenciar la sedación y la depresión respiratoria y cardiovascular; fentanilo puede aumentar transitoriamente la concentración plasmática de propofol y el riesgo de apnea; valproato puede reducir los requerimientos de propofol; pueden producirse episodios de hipotensión intensa con algunos medicamentos concomitantes, por lo que debe revisarse la medicación completa.",
+      "reacciones_adversas": "Hipotensión; bradicardia; taquicardia; apnea transitoria; hipoventilación; obstrucción de la vía aérea; dolor en el sitio de inyección; movimientos involuntarios; tos o hipo; náuseas y vómitos durante la recuperación; cefalea; reacciones de hipersensibilidad, incluida anafilaxia; en casos graves o con perfusiones prolongadas, acidosis metabólica, rabdomiólisis, hiperpotasemia, hiperlipidemia, insuficiencia renal y cardíaca asociadas al síndrome de infusión de propofol.",
+      "toxicidad_sobredosis": "Puede causar depresión cardiorrespiratoria grave, apnea, hipotensión, bradicardia, pérdida profunda de conciencia y parada cardiorrespiratoria; el riesgo aumenta con dosis excesivas, administración rápida y asociación con otros depresores del sistema nervioso central; requiere tratamiento inmediato de soporte, mantenimiento de la vía aérea, oxigenación, ventilación y soporte hemodinámico.",
+      "antidotos": "No existe antídoto específico; tratamiento de soporte respiratorio y cardiovascular según el cuadro clínico.",
+      "monitorizacion": {
+        "clinica": "Nivel de conciencia y profundidad de sedación; frecuencia y esfuerzo respiratorio; permeabilidad de la vía aérea; saturación de oxígeno; frecuencia cardíaca y ECG; presión arterial; perfusión periférica; respuesta hemodinámica; dolor en el sitio de infusión; temperatura y recuperación posterior; signos de síndrome de infusión de propofol durante perfusiones prolongadas.",
+        "laboratorio": "Según la duración de la perfusión y la situación clínica: gases en sangre y equilibrio ácido-base; lactato; electrolitos, especialmente potasio; triglicéridos; función renal; creatina-cinasa ante sospecha de rabdomiólisis; función hepática y otros parámetros según indicación médica."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, prescripción, peso utilizado para el cálculo, concentración y velocidad previstas; verificar alergias y antecedentes relevantes; valorar conciencia, vía aérea, respiración, saturación, presión arterial, frecuencia cardíaca, volemia y riesgo de aspiración; comprobar disponibilidad de oxígeno, aspiración, ventilación asistida y equipo de reanimación; revisar medicación concomitante y acceso venoso.",
+        "durante": "Monitorizar continuamente respiración, saturación de oxígeno, ECG y presión arterial; valorar profundidad de sedación y respuesta clínica; observar apnea, obstrucción de vía aérea, hipotensión, bradicardia, arritmias y signos de hipoperfusión; comprobar bomba, velocidad, conexiones, acceso venoso y asepsia; en perfusiones prolongadas, controlar alteraciones metabólicas y signos de síndrome de infusión de propofol.",
+        "despues": "Vigilar recuperación de conciencia, respiración espontánea eficaz, saturación, estabilidad hemodinámica y reflejos protectores según el procedimiento; evaluar náuseas, vómitos, dolor y otras reacciones adversas; mantener observación hasta cumplir los criterios de recuperación y alta establecidos por el equipo responsable; comprobar que el paciente reciba instrucciones de alta y acompañamiento cuando corresponda."
+      },
+      "presentaciones": "Propofol Fresenius 10 mg/ml: ampollas de 20 ml (200 mg); viales de 50 ml (500 mg); viales de 100 ml (1.000 mg). La disponibilidad de cada tamaño puede variar según el mercado.",
+      "dosis": {
+        "adultos": "Inducción de anestesia general: habitualmente 1,5–2,5 mg/kg, administrados de forma titulada según respuesta; mantenimiento de anestesia general: aproximadamente 4–12 mg/kg/h; sedación para procedimientos: dosis inicial habitual de 0,5–1 mg/kg durante 1–5 minutos, con mantenimiento aproximado de 1,5–4,5 mg/kg/h; sedación en UCI en pacientes mayores de 16 años: 0,3–4 mg/kg/h, sin recomendar velocidades superiores a 4 mg/kg/h. Individualizar según edad, estado clínico, premedicación y respuesta.",
+        "pediatrico": "Anestesia general en niños mayores de un mes: la dosis de inducción y mantenimiento depende de la edad y de la respuesta; en niños mayores de 8 años, la inducción suele requerir aproximadamente 2,5 mg/kg; en niños más pequeños puede requerirse una dosis mayor; mantenimiento anestésico orientativo: 9–15 mg/kg/h, ajustado clínicamente; sedación para procedimientos: dosis inicial habitual de 1–2 mg/kg y mantenimiento de 1,5–9 mg/kg/h. No utilizar para sedación en UCI en pacientes de 16 años o menores. Estas dosis requieren personal especializado y deben verificarse en la ficha de la presentación concreta.",
+        "geriatrico": "No existe una dosis fija universal; utilizar dosis menores y administrar lentamente, titulando según respuesta; en adultos mayores de 55 años y pacientes con clasificación ASA III–IV pueden requerirse reducciones importantes de la dosis de inducción y de la velocidad de administración."
+      },
+      "vias_administracion": "Intravenosa, mediante inyección lenta o perfusión continua; no administrar por vía intramuscular.",
+      "preparacion": {
+        "dilucion": "Puede administrarse sin diluir o diluido, según la indicación y la ficha técnica; para Propofol Fresenius 10 mg/ml, diluir únicamente con glucosa al 5 % o cloruro sódico al 0,9 %, respetando la técnica aséptica; la dilución máxima es de 1 parte de propofol por 4 partes de diluyente, con una concentración final mínima de 2 mg/ml; preparar inmediatamente antes de administrar y utilizar dentro de las 6 horas posteriores a la preparación.",
+        "compatibilidad_iv": "No mezclar con otros medicamentos salvo las excepciones expresamente autorizadas en la ficha técnica; puede diluirse con glucosa al 5 % o cloruro sódico al 0,9 %; para reducir el dolor en el sitio de inyección, la ficha de referencia permite mezclar 20 partes de propofol con hasta 1 parte de lidocaína al 1 % sin conservantes, bajo condiciones asépticas; administrar atracurio o mivacurio por el mismo acceso únicamente después de lavar la línea, según las instrucciones del producto."
+      },
+      "velocidad_infusion": "Inducción en adultos: administrar de forma titulada, con referencia de 20–40 mg cada 10 segundos en adultos menores de 55 años; mantenimiento anestésico en adultos: aproximadamente 4–12 mg/kg/h; sedación para procedimientos en adultos: aproximadamente 1,5–4,5 mg/kg/h; sedación en UCI en mayores de 16 años: 0,3–4 mg/kg/h, sin recomendar velocidades superiores a 4 mg/kg/h. Ajustar a la respuesta y a la situación clínica; estos valores no sustituyen una prescripción individualizada.",
+      "estabilidad_soluciones": "Conservar el envase original según la ficha técnica; para Propofol Fresenius 10 mg/ml, vida útil de 3 años y conservación por debajo de 25 °C, sin congelar; utilizar inmediatamente después de abrir; las diluciones deben prepararse asépticamente y administrarse dentro de las 6 horas posteriores a su preparación; los sistemas de perfusión con producto sin diluir deben sustituirse como máximo cada 12 horas; desechar los restos y no reutilizar el producto en otro paciente; no utilizar si la emulsión presenta separación de fases después de agitarla.",
+      "concentracion": "La presentación de referencia contiene 10 mg/ml (1 %): ampolla de 20 ml = 200 mg; vial de 50 ml = 500 mg; vial de 100 ml = 1.000 mg. La ficha técnica no establece una concentración máxima universal de administración; permite utilizar la emulsión sin diluir a 10 mg/ml. Cuando se diluye, la concentración final no debe ser inferior a 2 mg/ml, y la dilución no debe superar 1 parte de propofol por 4 partes de diluyente. Este límite se refiere a la dilución máxima permitida, no a una concentración máxima de administración. Verificar por separado las instrucciones de formulaciones de 20 mg/ml.",
+      "alarma_riesgo": "ALTO RIESGO. Puede producir apnea, obstrucción de la vía aérea, hipotensión grave, bradicardia y parada cardiorrespiratoria; las perfusiones prolongadas, especialmente a dosis elevadas, se asocian al síndrome de infusión de propofol; requiere monitorización continua y disponibilidad inmediata de ventilación asistida y reanimación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la indicación, el peso utilizado para el cálculo, la concentración y la velocidad de administración.",
+          "Confirmar alergias al propofol y a los excipientes de la formulación.",
+          "Comprobar el acceso venoso y valorar el sitio de infusión.",
+          "Agitar el envase antes de usar y comprobar que la emulsión sea homogénea, sin separación de fases ni partículas.",
+          "Aplicar técnica aséptica estricta y comenzar la administración inmediatamente después de abrir el envase.",
+          "Utilizar una bomba de infusión cuando corresponda y verificar la programación y las conexiones.",
+          "Monitorizar continuamente la respiración, la saturación de oxígeno, el ECG y la presión arterial.",
+          "Mantener disponibles oxígeno, aspiración, material para el manejo de la vía aérea, ventilación asistida y equipo de reanimación.",
+          "Observar signos de apnea, hipoventilación, obstrucción de la vía aérea, hipotensión, bradicardia, arritmias y disminución de la perfusión.",
+          "Valorar la profundidad de sedación y comunicar inmediatamente los cambios clínicos relevantes al equipo responsable.",
+          "Respetar los tiempos de utilización del envase y de sustitución del sistema de perfusión establecidos por la ficha técnica.",
+          "Desechar el sobrante y los materiales de administración al finalizar; no conservar para otro uso ni para otro paciente.",
+          "Durante perfusiones prolongadas, vigilar alteraciones metabólicas, acidosis, hiperpotasemia, rabdomiólisis, hiperlipidemia, deterioro renal y signos de insuficiencia cardíaca.",
+          "Registrar la dosis total, la velocidad, la respuesta clínica, las constantes monitorizadas y los acontecimientos adversos."
+        ],
+        "educacion_paciente": [
+          "Explicar, cuando el estado de conciencia lo permita, que el medicamento produce anestesia o sedación y que puede afectar la respiración y la presión arterial.",
+          "Solicitar que informe sobre alergias, antecedentes médicos y medicamentos que utiliza antes del procedimiento.",
+          "Explicar que permanecerá bajo observación hasta cumplir los criterios de recuperación establecidos por el equipo asistencial.",
+          "Indicar que no debe conducir, manejar maquinaria ni realizar actividades peligrosas durante el período indicado por el equipo médico.",
+          "Advertir que no debe consumir alcohol ni tomar sedantes adicionales sin autorización médica durante la recuperación.",
+          "Si el procedimiento es ambulatorio, explicar las indicaciones de alta y la necesidad de retirarse acompañado cuando corresponda."
+        ]
+      }
     }
   ]
 }
