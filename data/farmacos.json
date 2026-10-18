@@ -5649,6 +5649,88 @@
           "En procedimientos ambulatorios, explicar que debe retirarse acompañado por un adulto y seguir las indicaciones de alta."
         ]
       }
+    },
+    {
+      "id": "70",
+      "nombre_generico": "Dexmedetomidina",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Dexmedetomidina, como hidrocloruro de dexmedetomidina.",
+        "clasificacion": "Sedante e hipnótico; agonista selectivo de los receptores alfa-2 adrenérgicos; código ATC N05CM18.",
+        "efecto_terapeutica": "Sedación de pacientes adultos en cuidados intensivos que puedan despertarse ante estímulos verbales; sedación de pacientes adultos no intubados antes o durante procedimientos diagnósticos o quirúrgicos; efecto analgésico ahorrador de otros anestésicos y analgésicos.",
+        "mecanismo_accion": "Agonista selectivo de los receptores alfa-2 adrenérgicos; disminuye la liberación de noradrenalina y la actividad simpática; produce sedación mediante la inhibición del locus coeruleus; puede reducir la frecuencia cardíaca y la presión arterial; a concentraciones más altas puede producir vasoconstricción periférica e hipertensión."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa, por lo que no depende de la absorción gastrointestinal; la perfusión permite ajustar progresivamente el efecto clínico.",
+        "distribucion": "Distribución rápida; semivida de distribución aproximada de 6 minutos; unión a proteínas plasmáticas elevada, alrededor del 94 %.",
+        "metabolismo": "Metabolismo principalmente hepático mediante glucuronidación y biotransformación oxidativa; participan enzimas del citocromo P450, entre ellas CYP2A6.",
+        "eliminacion": "Eliminación principalmente urinaria en forma de metabolitos; una proporción menor se elimina por las heces; semivida terminal aproximada de 2 horas, que puede prolongarse en pacientes con insuficiencia hepática."
+      },
+      "indicaciones": "Sedación de pacientes adultos en UCI que requieren un nivel de sedación ligero o moderado, con respuesta a estímulos verbales, equivalente a RASS de 0 a −3; sedación de pacientes adultos no intubados antes o durante procedimientos diagnósticos o quirúrgicos, según la ficha técnica de referencia.",
+      "contraindicaciones": "Hipersensibilidad a la dexmedetomidina o a los excipientes; bloqueo cardíaco avanzado de segundo o tercer grado sin marcapasos; hipotensión no controlada; enfermedad cerebrovascular aguda.",
+      "precauciones": "Bradicardia preexistente; hipotensión, hipovolemia o inestabilidad cardiovascular; insuficiencia cardíaca o disfunción ventricular grave; cardiopatía isquémica o enfermedad cerebrovascular grave; edad avanzada; insuficiencia hepática; lesiones neurológicas graves; tratamiento concomitante con fármacos sedantes, antihipertensivos o que reduzcan la frecuencia cardíaca; riesgo de abstinencia tras la suspensión brusca de tratamientos prolongados.",
+      "advertencias": "Uso exclusivamente hospitalario, en UCI, quirófano o entornos de procedimientos con monitorización adecuada; administrar únicamente mediante perfusión intravenosa diluida y controlada; no administrar en bolo; no se recomienda una dosis de carga en sedación en UCI; puede causar bradicardia grave, hipotensión, hipertensión transitoria, apnea y parada cardíaca; no es adecuada como único agente cuando se necesita sedación profunda continua; no suprime la actividad convulsiva; evaluar regularmente la necesidad de tratamiento prolongado, ya que la experiencia de uso superior a 14 días es limitada.",
+      "embarazo_lactancia": "Embarazo: no se recomienda durante el embarazo salvo que el cuadro clínico requiera su uso; los estudios en animales han mostrado toxicidad para la reproducción. Lactancia: pasa a la leche materna; los niveles se sitúan por debajo del límite de detección dentro de las 24 horas posteriores a suspender el tratamiento, pero no puede excluirse el riesgo para el lactante; valorar individualmente la interrupción de la lactancia o del tratamiento.",
+      "ajustes": {
+        "renal": "No se requiere ajuste sistemático de dosis en insuficiencia renal según la ficha técnica de referencia; individualizar la vigilancia de acuerdo con la situación clínica y los tratamientos concomitantes.",
+        "hepatico": "Utilizar con precaución; el metabolismo hepático reducido puede prolongar el efecto y aumentar el riesgo de sobresedación y reacciones adversas; considerar una dosis de mantenimiento menor, especialmente en insuficiencia hepática grave."
+      },
+      "interacciones": "Opioides, benzodiacepinas, propofol, anestésicos, hipnóticos y otros sedantes pueden potenciar la sedación y los efectos cardiorrespiratorios; betabloqueantes y otros fármacos que disminuyen la frecuencia cardíaca o la presión arterial pueden aumentar el riesgo de bradicardia e hipotensión; considerar ajustes de dosis cuando se administre con otros depresores del sistema nervioso central.",
+      "reacciones_adversas": "Muy frecuentes: hipotensión, hipertensión y bradicardia; frecuentes: depresión respiratoria, náuseas, vómitos, sequedad de boca, agitación, hiperglucemia, hipoglucemia, taquicardia, isquemia o infarto de miocardio, síndrome de abstinencia e hipertermia; poco frecuentes: apnea, disnea, alucinaciones, bloqueo auriculoventricular, disminución del gasto cardíaco y parada cardíaca; frecuencia no conocida: diabetes insípida.",
+      "toxicidad_sobredosis": "Puede producir bradicardia intensa, hipotensión, hipertensión, sobresedación, depresión respiratoria y parada cardíaca; reducir o interrumpir la perfusión ante una sobredosis con manifestaciones clínicas; instaurar tratamiento de soporte según el cuadro, incluyendo manejo cardiovascular y reanimación si fuera necesario.",
+      "antidotos": "No existe un antídoto específico; el tratamiento es de soporte; la bradicardia puede responder a medidas clínicas y a fármacos anticolinérgicos, como atropina, según indicación médica.",
+      "monitorizacion": {
+        "clinica": "Frecuencia cardíaca y ECG continuos; presión arterial; frecuencia y esfuerzo respiratorio; saturación de oxígeno; nivel de conciencia y escala de sedación, preferentemente RASS; signos de hipotensión, hipertensión, bradicardia, bloqueo cardíaco o mala perfusión; dolor y respuesta a estímulos; agitación, hipertermia y signos de abstinencia si se interrumpe tras uso prolongado.",
+        "laboratorio": "Glucemia según condición clínica; función hepática cuando esté indicada; electrolitos y función renal según comorbilidades y duración del tratamiento; sodio sérico y osmolalidad urinaria si aparece poliuria o se sospecha diabetes insípida; otros análisis según evolución clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, prescripción, peso, dosis, concentración y velocidad de perfusión; valorar frecuencia cardíaca, presión arterial, ECG y estado respiratorio; evaluar nivel de conciencia y sedación basal; revisar antecedentes cardiovasculares, cerebrovasculares y hepáticos; comprobar medicación concomitante; verificar acceso venoso, bomba de infusión y disponibilidad de equipos de reanimación.",
+        "durante": "Mantener monitorización cardíaca continua; controlar presión arterial y saturación de oxígeno; valorar frecuencia y esfuerzo respiratorio, especialmente en pacientes no intubados; registrar RASS y respuesta a estímulos; vigilar bradicardia, hipotensión, hipertensión, apnea y signos de hipoperfusión; revisar la bomba, la velocidad y el acceso venoso; observar hipertermia, poliuria y signos de abstinencia en tratamientos prolongados.",
+        "despues": "Evaluar recuperación del nivel de conciencia y estabilidad hemodinámica; continuar la monitorización durante el período indicado por el procedimiento y la condición del paciente; observar bradicardia, hipotensión, hipertensión, depresión respiratoria y agitación; vigilar signos de abstinencia tras tratamientos prolongados; en pacientes ambulatorios, mantener observación estrecha durante al menos una hora y supervisión médica durante al menos otra hora, o más según la evolución."
+      },
+      "presentaciones": "Concentrado para solución para perfusión de 100 microgramos/ml; ampollas de 2 ml (200 microgramos); ampollas de 4 ml (400 microgramos); ampollas de 10 ml (1.000 microgramos). La disponibilidad de cada tamaño depende del fabricante y del mercado.",
+      "dosis": {
+        "adultos": "Sedación en UCI: iniciar generalmente con 0,7 microgramos/kg/h y ajustar dentro del rango de 0,2–1,4 microgramos/kg/h según respuesta y nivel de sedación deseado; no administrar dosis de carga en UCI con la presentación de referencia; si no se alcanza una sedación adecuada con 1,4 microgramos/kg/h, cambiar a un sedante alternativo. Sedación para procedimientos: dosis de carga habitual de 1 microgramo/kg durante 10 minutos; para procedimientos menos invasivos puede utilizarse 0,5 microgramos/kg durante 10 minutos; mantenimiento habitual de 0,2–1 microgramo/kg/h, ajustado a la respuesta clínica.",
+        "pediatrico": "No se ha establecido una recomendación posológica para niños de 0 a 18 años en la ficha técnica de referencia; no extrapolar las dosis de adultos a pacientes pediátricos; cualquier uso debe seguir la ficha técnica específica y el protocolo especializado correspondiente.",
+        "geriatrico": "No siempre es necesario ajustar la dosis de forma sistemática; los mayores de 65 años pueden tener mayor riesgo de hipotensión, especialmente con dosis de carga; valorar una reducción de dosis y titular cuidadosamente según respuesta clínica."
+      },
+      "vias_administracion": "Intravenosa, exclusivamente como perfusión diluida y controlada mediante bomba de infusión; no administrar en bolo ni por vía intramuscular o subcutánea.",
+      "preparacion": {
+        "dilucion": "Para obtener una concentración final de 4 microgramos/ml, diluir 2 ml del concentrado de 100 microgramos/ml con 48 ml de diluyente hasta un volumen final de 50 ml; para obtener 8 microgramos/ml, utilizar 4 ml de concentrado y 46 ml de diluyente hasta un volumen final de 50 ml; utilizar glucosa al 5 %, cloruro sódico al 0,9 % o solución Ringer, según la ficha técnica del producto; mezclar suavemente e inspeccionar visualmente antes de administrar.",
+        "compatibilidad_iv": "Se ha demostrado compatibilidad con solución Ringer lactato, glucosa al 5 % y cloruro sódico al 0,9 %; también se describe compatibilidad con determinados medicamentos intravenosos, entre ellos midazolam, morfina, fentanilo, propofol, atropina, dopamina, noradrenalina y algunos bloqueantes neuromusculares; verificar la compatibilidad específica, las concentraciones y las condiciones de administración antes de compartir una línea o preparar mezclas; no asumir que la compatibilidad en conexión en Y autoriza la mezcla en una misma bolsa o jeringa."
+      },
+      "velocidad_infusion": "UCI: 0,2–1,4 microgramos/kg/h, con dosis inicial habitual de 0,7 microgramos/kg/h y máximo recomendado de 1,4 microgramos/kg/h; sedación para procedimientos: mantenimiento de 0,2–1 microgramo/kg/h; dosis de carga para procedimientos, cuando esté indicada: 0,5–1 microgramo/kg durante 10 minutos; no administrar en bolo; ajustar gradualmente y monitorizar la respuesta hemodinámica y el nivel de sedación.",
+      "estabilidad_soluciones": "La ficha técnica de Dexmedetomidina B. Braun indica que la solución diluida presenta estabilidad fisicoquímica durante un máximo de 48 horas a 25 °C; desde el punto de vista microbiológico, utilizar inmediatamente, salvo que la preparación se haya realizado en condiciones que controlen el riesgo de contaminación; si no se utiliza inmediatamente, los tiempos y las condiciones de conservación son responsabilidad del usuario; no refrigerar la solución diluida según esta ficha; no utilizar si presenta partículas, coloración o falta de transparencia. Verificar las condiciones de conservación de la marca disponible.",
+      "concentracion": "Concentración comercial del concentrado de referencia: 100 microgramos/ml; ampolla de 2 ml = 200 microgramos; ampolla de 4 ml = 400 microgramos; ampolla de 10 ml = 1.000 microgramos. La concentración final tras dilución debe ser de 4 u 8 microgramos/ml según la ficha técnica; estas son concentraciones de preparación, no una concentración máxima universal de administración. En cuanto a la velocidad de perfusión, el máximo recomendado para sedación en UCI es de 1,4 microgramos/kg/h; para sedación en procedimientos, el mantenimiento se ajusta entre 0,2 y 1 microgramo/kg/h. No confundir concentración en microgramos/ml con velocidad de perfusión en microgramos/kg/h.",
+      "alarma_riesgo": "ALTO RIESGO. Riesgo de bradicardia intensa, hipotensión, hipertensión transitoria, depresión respiratoria y parada cardíaca; requiere bomba de infusión y monitorización cardíaca continua; evitar bolos y vigilar especialmente a pacientes con bradicardia, hipovolemia, enfermedad cardiovascular o edad avanzada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, el peso, la dosis, la concentración final y la velocidad programada antes de iniciar la perfusión.",
+          "Confirmar la indicación y el nivel de sedación objetivo según la escala RASS.",
+          "Comprobar el acceso venoso y utilizar una bomba de infusión controlada.",
+          "Preparar la dilución con técnica aséptica y comprobar que la solución sea transparente, incolora y sin partículas.",
+          "No administrar en bolo ni utilizar una dosis de carga para sedación en UCI con la presentación de referencia.",
+          "Mantener monitorización cardíaca continua y controlar la presión arterial y la saturación de oxígeno.",
+          "Valorar la frecuencia y el esfuerzo respiratorio, especialmente en pacientes no intubados.",
+          "Vigilar bradicardia, hipotensión, hipertensión, alteraciones del ECG y signos de hipoperfusión.",
+          "Evaluar periódicamente el nivel de sedación y la respuesta a estímulos verbales.",
+          "Revisar la medicación concomitante por el riesgo de efectos sedantes y cardiovasculares aditivos.",
+          "Ante bradicardia o hipotensión clínicamente significativa, avisar inmediatamente al equipo responsable y actuar según el protocolo institucional.",
+          "Vigilar poliuria e hipertermia inexplicada durante el tratamiento.",
+          "Evitar la interrupción brusca después de perfusiones prolongadas sin valorar el riesgo de abstinencia.",
+          "Registrar dosis, velocidad, duración, nivel de sedación, constantes vitales y reacciones adversas."
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento produce sedación y que puede causar somnolencia, disminución de la frecuencia cardíaca y cambios en la presión arterial.",
+          "Indicar que comunique antecedentes de problemas cardíacos, episodios de desmayo y uso de medicamentos que disminuyan la presión arterial o la frecuencia cardíaca.",
+          "Explicar que puede despertarse y responder a estímulos durante la sedación, sin que esto signifique necesariamente que el medicamento no esté funcionando.",
+          "Indicar que avise al personal si presenta mareo, dificultad respiratoria, sensación de desmayo o malestar importante.",
+          "Después de un procedimiento ambulatorio, indicar que no debe conducir ni realizar actividades peligrosas durante el período recomendado por el equipo médico.",
+          "Recomendar que evite alcohol y otros medicamentos sedantes sin autorización médica durante la recuperación.",
+          "Tras el alta, indicar que debe permanecer acompañado según las instrucciones del equipo asistencial."
+        ]
+      }
     }
   ]
 }
