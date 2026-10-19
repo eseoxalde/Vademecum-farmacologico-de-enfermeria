@@ -9106,6 +9106,77 @@
           "Mantener los controles de glucemia, HbA1c y función renal indicados."
         ]
       }
+    },
+    {
+      "id": "114",
+      "nombre_generico": "Vildagliptina",
+      "letra": "V",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Vildagliptina",
+        "clasificacion": "Antidiabético oral; inhibidor de la dipeptidil peptidasa 4 (DPP-4).",
+        "efecto_terapeutica": "Mejora el control glucémico en adultos con diabetes mellitus tipo 2, sola o en combinación con otros antidiabéticos según la indicación autorizada.",
+        "mecanismo_accion": "Inhibe la enzima DPP-4, prolongando la actividad de las incretinas GLP-1 y GIP. Esto favorece la secreción de insulina dependiente de glucosa y reduce la liberación de glucagón cuando la glucemia está elevada."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe rápidamente por vía oral; los alimentos tienen un efecto limitado sobre la exposición total.",
+        "distribucion": "Presenta baja unión a proteínas plasmáticas.",
+        "metabolismo": "Se metaboliza principalmente por hidrólisis a metabolitos inactivos; las enzimas del citocromo P450 no son la vía principal.",
+        "eliminacion": "Se elimina principalmente por vía renal, en buena parte como metabolitos; una fracción se excreta sin cambios."
+      },
+      "indicaciones": "Tratamiento de la diabetes mellitus tipo 2 en adultos, como monoterapia cuando corresponde o en combinación con otros medicamentos, según la autorización local y las características del paciente.",
+      "contraindicaciones": "Hipersensibilidad a la vildagliptina o a los excipientes. Considerar las restricciones de la ficha técnica local, especialmente en insuficiencia hepática o antecedentes de alteraciones hepáticas.",
+      "precauciones": "Evaluar función hepática antes del tratamiento y controlarla periódicamente según la ficha técnica. Valorar función renal, antecedentes de pancreatitis, insuficiencia cardíaca y enfermedades concomitantes. La hipoglucemia es más probable cuando se combina con insulina o sulfonilureas.",
+      "advertencias": "Se han notificado casos de disfunción hepática y pancreatitis aguda. Suspender y evaluar ante sospecha de lesión hepática o pancreatitis. No utilizar para tratar la diabetes tipo 1 ni la cetoacidosis diabética.",
+      "embarazo_lactancia": "No se recomienda durante el embarazo por la insuficiencia de datos de seguridad y la disponibilidad de alternativas mejor establecidas. Se desconoce si pasa a la leche humana en cantidades clínicamente relevantes; consultar la ficha técnica y valorar alternativas durante la lactancia.",
+      "ajustes": {
+        "renal": "En insuficiencia renal moderada o grave, la dosis habitualmente recomendada es 50 mg una vez al día; confirmar los criterios exactos y la indicación en la ficha técnica local. No utilizar sin evaluación especializada en enfermedad renal avanzada o diálisis.",
+        "hepatico": "No se recomienda en pacientes con insuficiencia hepática o antes de iniciar si las transaminasas están elevadas por encima de los límites aceptados en la ficha técnica. Controlar enzimas hepáticas antes y durante el tratamiento."
+      },
+      "interacciones": "El riesgo de hipoglucemia aumenta al combinarla con insulina o sulfonilureas, por lo que puede ser necesario ajustar estos medicamentos. Algunos medicamentos pueden modificar la exposición a vildagliptina; revisar la ficha técnica y el tratamiento completo.",
+      "reacciones_adversas": "Mareo, cefalea, temblor o hipoglucemia, especialmente en combinación con otros antidiabéticos; también pueden aparecer molestias gastrointestinales y edema periférico. Se han comunicado elevación de enzimas hepáticas, pancreatitis y reacciones de hipersensibilidad, incluidas reacciones cutáneas graves poco frecuentes.",
+      "toxicidad_sobredosis": "La experiencia con sobredosis es limitada. Pueden aumentar los efectos adversos; se requiere valoración clínica, tratamiento de soporte y consulta especializada. La eliminación por diálisis depende de la sustancia y sus metabolitos.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte; consultar toxicología ante sobredosis.",
+      "monitorizacion": {
+        "clinica": "Control glucémico, síntomas de hipoglucemia, dolor abdominal persistente, signos de hipersensibilidad y síntomas compatibles con alteración hepática.",
+        "laboratorio": "Glucemia y HbA1c; enzimas hepáticas antes de iniciar y periódicamente conforme a la ficha técnica; función renal para valorar la dosis."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, función renal y hepática, tratamiento concomitante y antecedentes de pancreatitis o enfermedad hepática.",
+        "durante": "Controlar glucemia y síntomas adversos. Vigilar con especial atención la aparición de dolor abdominal intenso y persistente, ictericia, orina oscura o prurito generalizado.",
+        "despues": "Evaluar respuesta mediante glucemia y HbA1c, tolerancia y resultados de función hepática y renal. Comunicar de inmediato síntomas compatibles con pancreatitis o lesión hepática."
+      },
+      "presentaciones": "Comprimidos orales, habitualmente de 50 mg, sola o en combinaciones con otros antidiabéticos, según el mercado.",
+      "dosis": {
+        "adultos": "La dosis habitual total es de 50 a 100 mg al día, según monoterapia o combinación y ficha técnica. En muchos prospectos se utiliza 50 mg dos veces al día en determinadas combinaciones, o 50 mg una vez al día cuando corresponde por insuficiencia renal. No superar la dosis máxima autorizada.",
+        "pediatrico": "No se recomienda de forma rutinaria en niños y adolescentes por falta de evidencia y autorización según producto.",
+        "geriatrico": "En general no requiere ajuste únicamente por edad; valorar función renal y hepática, fragilidad y tratamientos concomitantes."
+      },
+      "vias_administracion": "Oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución. Administrar el comprimido por vía oral según prescripción.",
+        "compatibilidad_iv": "No corresponde; no se administra por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde.",
+      "estabilidad_soluciones": "No corresponde para los comprimidos habituales. Conservar de acuerdo con el prospecto del producto.",
+      "concentracion": "La presentación habitual es de 50 mg por comprimido; verificar el envase y si se trata de una combinación fija.",
+      "alarma_riesgo": "Alertar ante dolor abdominal intenso y persistente, ictericia, orina oscura, reacción alérgica o hipoglucemia, especialmente cuando se combina con insulina o sulfonilureas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar dosis, frecuencia y posibles combinaciones de medicamentos.",
+          "Controlar glucemia y resultados de HbA1c.",
+          "Revisar función renal y hepática conforme a la prescripción y la ficha técnica.",
+          "Observar signos de pancreatitis, lesión hepática o hipersensibilidad.",
+          "Vigilar hipoglucemia cuando se utiliza con insulina o sulfonilureas.",
+          "Registrar respuesta terapéutica, tolerancia y resultados de laboratorio."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la pauta indicada y no modificar la dosis por cuenta propia.",
+          "Reconocer los síntomas de hipoglucemia si utiliza otros antidiabéticos y seguir el plan de tratamiento indicado.",
+          "Consultar de inmediato ante dolor abdominal intenso y persistente, coloración amarillenta de piel u ojos, orina oscura o reacción alérgica.",
+          "Mantener los controles de glucemia y de laboratorio indicados."
+        ]
+      }
     }
   ]
 }
