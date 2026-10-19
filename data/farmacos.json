@@ -7179,6 +7179,83 @@
           "Conservar el medicamento bajo llave y devolver los sobrantes según las indicaciones locales de eliminación segura."
         ]
       }
+    },
+    {
+      "id": "89",
+      "nombre_generico": "Morfina",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Morfina, generalmente presentada como sulfato o clorhidrato de morfina, según la formulación.",
+        "clasificacion": "Analgésico opioide potente, agonista de los receptores opioides mu. Medicamento de alto riesgo y sujeto a controles especiales según la normativa local.",
+        "efecto_terapeutica": "Produce analgesia para el tratamiento del dolor intenso. Puede reducir la sensación de disnea en situaciones clínicas seleccionadas, bajo supervisión profesional.",
+        "mecanismo_accion": "Activa principalmente los receptores opioides mu del sistema nervioso central, inhibiendo la transmisión nociceptiva y modificando la percepción del dolor. También deprime los centros respiratorios, reduce la motilidad gastrointestinal y puede provocar sedación y miosis."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral, aunque presenta un metabolismo de primer paso hepático importante. Por vía intravenosa, el efecto es rápido. La absorción y el inicio de acción dependen de la vía y de la formulación.",
+        "distribucion": "Se distribuye ampliamente por el organismo y atraviesa la barrera hematoencefálica. Su unión a proteínas plasmáticas es relativamente baja.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante glucuronidación. Produce morfina-3-glucurónido, sin actividad analgésica opioide clínicamente relevante, y morfina-6-glucurónido, con actividad analgésica y potencial de depresión respiratoria.",
+        "eliminacion": "Se elimina principalmente por vía renal en forma de metabolitos. Estos pueden acumularse en pacientes con insuficiencia renal."
+      },
+      "indicaciones": "Tratamiento del dolor agudo intenso y del dolor crónico intenso cuando se requiere un opioide y otras alternativas no son suficientes o adecuadas. Puede utilizarse en determinados contextos perioperatorios, oncológicos y de cuidados paliativos. Su uso para disnea debe individualizarse según la situación clínica y los protocolos aplicables.",
+      "contraindicaciones": "Hipersensibilidad a la morfina o a componentes de la formulación; depresión respiratoria significativa sin soporte ventilatorio; asma bronquial aguda o grave en un entorno no monitorizado; obstrucción gastrointestinal conocida o sospechada, incluido íleo paralítico. Algunas formulaciones tienen contraindicaciones adicionales. Verificar la ficha técnica del producto.",
+      "precauciones": "Utilizar con precaución en pacientes mayores, debilitados, con enfermedad respiratoria, apnea del sueño, hipotensión, traumatismo craneoencefálico, alteración del nivel de conciencia, enfermedad renal o hepática, hipotiroidismo, hipertrofia prostática o antecedentes de trastornos por consumo de sustancias. Puede causar tolerancia, dependencia física y síndrome de abstinencia. El riesgo aumenta con otros depresores del sistema nervioso central.",
+      "advertencias": "Puede causar depresión respiratoria grave o mortal, sedación profunda, hipotensión y coma, especialmente al iniciar el tratamiento, aumentar la dosis o combinarla con sedantes. Las formulaciones de liberación prolongada no deben triturarse ni masticarse. Los errores de conversión entre formulaciones orales, parenterales y de liberación modificada pueden causar sobredosis. Mantener disponible naloxona y soporte ventilatorio según el entorno clínico.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar solo si existe una indicación clínica y tras evaluar riesgos y beneficios. El uso prolongado puede producir dependencia y síndrome de abstinencia neonatal; la administración próxima al parto puede causar depresión respiratoria neonatal. Durante la lactancia, la morfina puede pasar a la leche materna y causar sedación o depresión respiratoria en el lactante. La decisión requiere valoración profesional, especialmente si se prevén dosis repetidas o elevadas.",
+      "ajustes": {
+        "renal": "Se requiere especial precaución porque los metabolitos activos pueden acumularse y prolongar la sedación y la depresión respiratoria. Puede ser necesario reducir la dosis o ampliar los intervalos según la función renal, la formulación y la respuesta clínica.",
+        "hepatico": "La alteración hepática puede modificar el metabolismo y la exposición a morfina. Considerar dosis iniciales menores, titulación lenta y vigilancia estrecha según la gravedad y la ficha técnica."
+      },
+      "interacciones": "La combinación con benzodiacepinas, alcohol, anestésicos generales, hipnóticos, sedantes, otros opioides y otros depresores del sistema nervioso central aumenta el riesgo de sedación, depresión respiratoria, coma y muerte. Los fármacos anticolinérgicos pueden agravar el estreñimiento y la retención urinaria. Los antihipertensivos pueden aumentar la hipotensión. Los inhibidores de la monoaminooxidasa pueden producir interacciones graves; respetar las contraindicaciones y los períodos de separación indicados en la ficha técnica.",
+      "reacciones_adversas": "Náuseas, vómitos, estreñimiento, somnolencia, mareos, prurito, sudoración, miosis y retención urinaria. Puede causar hipotensión, bradicardia, confusión, delirium, dependencia y síndrome de abstinencia. Las reacciones graves incluyen depresión respiratoria, apnea, broncoespasmo o hipersensibilidad, íleo paralítico y disminución del nivel de conciencia.",
+      "toxicidad_sobredosis": "Puede producir somnolencia profunda, dificultad para despertar, respiración lenta o ausente, pupilas puntiformes, cianosis, hipotensión, bradicardia y coma. Activar de inmediato el sistema de emergencias, asegurar la vía aérea y proporcionar ventilación y oxígeno según necesidad. Administrar naloxona conforme al protocolo de emergencia. Puede ser necesario repetirla porque su efecto puede durar menos que el de la morfina, especialmente con formulaciones de liberación prolongada. Mantener vigilancia por riesgo de recurrencia de la depresión respiratoria.",
+      "antidotos": "Naloxona, antagonista de los receptores opioides. Administrar según el protocolo de emergencia y la presentación disponible, repitiendo las dosis si es necesario. El soporte de la vía aérea y la ventilación son prioritarios y no deben demorarse mientras se administra el antídoto.",
+      "monitorizacion": {
+        "clinica": "Controlar intensidad del dolor, frecuencia y patrón respiratorio, saturación de oxígeno, nivel de conciencia, sedación, presión arterial y frecuencia cardíaca. Vigilar estreñimiento, náuseas, vómitos, retención urinaria y signos de acumulación de metabolitos, especialmente en pacientes con insuficiencia renal. Durante sedación profunda o administración parenteral, utilizar la monitorización apropiada al entorno clínico.",
+        "laboratorio": "No requiere pruebas de laboratorio rutinarias en todos los pacientes. Valorar función renal y hepática según los antecedentes, la duración del tratamiento y la situación clínica. En pacientes con riesgo de retención urinaria o complicaciones específicas, solicitar los estudios indicados por el equipo tratante."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar identidad, indicación, prescripción, formulación, dosis, vía y antecedentes de exposición a opioides. Valorar dolor, frecuencia y patrón respiratorio, saturación de oxígeno, presión arterial, frecuencia cardíaca, nivel de conciencia, función renal y hepática, tránsito intestinal y medicación concomitante. Comprobar la disponibilidad de equipos de soporte respiratorio y naloxona cuando corresponda.",
+        "durante": "Evaluar la respuesta analgésica y vigilar respiración, oxigenación, sedación y estabilidad hemodinámica con la frecuencia indicada por el protocolo. Observar signos de depresión respiratoria, hipotensión, confusión, náuseas, vómitos, estreñimiento y retención urinaria. En administración intravenosa, seguir estrictamente la velocidad y las condiciones de monitorización prescritas.",
+        "despues": "Reevaluar el dolor, la sedación, la ventilación y los signos vitales. Mantener observación según la vía, la formulación, la dosis y la respuesta clínica. Registrar la administración y los efectos observados. Tras administrar naloxona, vigilar la reaparición de la depresión respiratoria."
+      },
+      "presentaciones": "Comprimidos o cápsulas de liberación inmediata o prolongada, solución oral, solución inyectable y otras presentaciones según el país y el fabricante. Las concentraciones, las vías autorizadas y las indicaciones varían entre productos.",
+      "dosis": {
+        "adultos": "Individualizar según la indicación, la intensidad del dolor, la vía, la formulación, la exposición previa a opioides y la respuesta. Las dosis orales y parenterales no son equivalentes miligramo por miligramo. Iniciar y titular conforme a la prescripción, la ficha técnica local y el protocolo institucional. No aplicar una pauta genérica a formulaciones de liberación prolongada.",
+        "pediatrico": "La dosis debe calcularse según peso, edad, indicación, vía y formulación, con especial atención a la función respiratoria y renal. Requiere prescripción individualizada y monitorización apropiada. No extrapolar directamente dosis de adultos.",
+        "geriatrico": "Considerar dosis iniciales menores y titulación lenta por mayor sensibilidad a los opioides y mayor probabilidad de insuficiencia renal, fragilidad y polifarmacia. Vigilar estrechamente sedación, depresión respiratoria, hipotensión, confusión y estreñimiento."
+      },
+      "vias_administracion": "Oral, intravenosa, intramuscular, subcutánea o rectal, según la presentación autorizada y la práctica clínica local. Las formulaciones de liberación prolongada se administran exclusivamente por las vías indicadas por el fabricante y no deben triturarse ni masticarse.",
+      "preparacion": {
+        "dilucion": "Para la solución inyectable, verificar la concentración de la ampolla y las instrucciones específicas del fabricante. Diluir únicamente cuando esté indicado y con el diluyente autorizado por la ficha técnica o el protocolo institucional. Utilizar técnica aséptica, rotular la concentración final y aplicar la doble verificación prevista para medicamentos de alto riesgo.",
+        "compatibilidad_iv": "La compatibilidad depende de la concentración, el diluyente, el recipiente y los medicamentos administrados simultáneamente. Consultar una fuente institucional de compatibilidad intravenosa antes de mezclarla con otros medicamentos o administrarla en una misma línea. No asumir compatibilidad sin datos específicos."
+      },
+      "velocidad_infusion": "Depende de la indicación, la dosis y la formulación. Administrar lentamente y conforme a la ficha técnica y al protocolo institucional para reducir el riesgo de hipotensión, sedación intensa y depresión respiratoria. Si se utiliza una infusión continua, emplear el dispositivo indicado y monitorizar la respuesta clínica y respiratoria.",
+      "estabilidad_soluciones": "Depende de la presentación, la concentración, el diluyente, el envase y las condiciones de conservación. Preparar y conservar según la ficha técnica del fabricante y las normas institucionales. No establecer un tiempo de estabilidad después de la dilución sin datos específicos. Desechar la solución si presenta alteraciones visibles o no se puede garantizar su integridad.",
+      "concentracion": "Variable según la presentación y el fabricante. Verificar si la etiqueta expresa la concentración como morfina base o como una sal, además de la cantidad total por ampolla, comprimido o mililitro. Confirmar las unidades de la prescripción y evitar errores de conversión entre miligramos y microgramos.",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Puede provocar depresión respiratoria mortal. Confirmar dosis, vía, formulación y unidades; aplicar doble verificación según el protocolo. Vigilar sedación, frecuencia respiratoria, saturación de oxígeno y presión arterial. Mantener disponible naloxona y medios de soporte respiratorio en los entornos donde corresponda.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la identidad del paciente, la prescripción, la indicación, la dosis, las unidades, la vía y la formulación antes de administrar.",
+          "Aplicar la doble verificación independiente establecida por la institución para opioides de alto riesgo.",
+          "Valorar dolor, frecuencia y patrón respiratorio, saturación de oxígeno, nivel de conciencia, presión arterial y frecuencia cardíaca antes y después de la administración.",
+          "Administrar la formulación inyectable según la prescripción y el protocolo, respetando la velocidad indicada y manteniendo la monitorización requerida.",
+          "No triturar ni masticar comprimidos o cápsulas de liberación prolongada. No intercambiar formulaciones sin una conversión clínica específica.",
+          "Vigilar estreñimiento, náuseas, vómitos, prurito, retención urinaria, confusión y signos de acumulación del fármaco o sus metabolitos.",
+          "Ante respiración lenta, sedación profunda o dificultad para despertar, suspender nuevas administraciones, activar la respuesta de emergencia y aplicar el protocolo de soporte respiratorio y naloxona.",
+          "Registrar dosis, vía, hora, respuesta analgésica, controles realizados y cualquier reacción adversa.",
+          "Respetar las normas de almacenamiento seguro, custodia, registro y control de estupefacientes."
+        ],
+        "educacion_paciente": [
+          "Utilizar la morfina exactamente según la prescripción y no aumentar, reducir ni suspender bruscamente un tratamiento prolongado sin orientación profesional.",
+          "No consumir alcohol ni combinarla con sedantes u otros opioides sin indicación y supervisión médica.",
+          "No conducir ni manejar maquinaria si presenta somnolencia, mareos o disminución del estado de alerta.",
+          "Informar al equipo sanitario si presenta respiración lenta, somnolencia excesiva, confusión intensa, dificultad para orinar o estreñimiento persistente.",
+          "Conservar el medicamento bajo llave, fuera del alcance de niños y otras personas, y no compartirlo.",
+          "No triturar ni masticar formulaciones de liberación prolongada y consultar antes de modificar la forma de administración.",
+          "Solicitar asistencia urgente ante dificultad respiratoria, imposibilidad de despertar, labios azulados o pérdida de conciencia."
+        ]
+      }
     }
   ]
 }
