@@ -9319,6 +9319,79 @@
           "Mantener los controles de glucemia y HbA1c indicados."
         ]
       }
+    },
+    {
+      "id": "117",
+      "nombre_generico": "Dapagliflozina",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Dapagliflozina",
+        "clasificacion": "Antidiabético oral; inhibidor del cotransportador sodio-glucosa tipo 2 (SGLT2).",
+        "efecto_terapeutica": "Reduce la glucemia en adultos con diabetes mellitus tipo 2. Según la autorización local, también se utiliza para reducir riesgos y tratar determinadas situaciones de insuficiencia cardíaca y enfermedad renal crónica.",
+        "mecanismo_accion": "Inhibe SGLT2 en el túbulo proximal renal, disminuyendo la reabsorción de glucosa y aumentando su eliminación urinaria. También aumenta la excreción de sodio y agua."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral; los alimentos pueden retrasar el tiempo hasta la concentración máxima sin modificar significativamente la exposición total.",
+        "distribucion": "Presenta unión importante a proteínas plasmáticas.",
+        "metabolismo": "Se metaboliza principalmente por glucuronidación, con participación de UGT1A9.",
+        "eliminacion": "Se elimina principalmente como metabolitos por orina y heces. La eliminación de glucosa por orina depende de la función renal."
+      },
+      "indicaciones": "Diabetes mellitus tipo 2 en adultos, como monoterapia o combinada con otros tratamientos. Según el producto y la autorización local, también puede indicarse en insuficiencia cardíaca y enfermedad renal crónica, incluso en personas sin diabetes en determinadas circunstancias.",
+      "contraindicaciones": "Hipersensibilidad a la dapagliflozina o a los excipientes. No está indicada para tratar la diabetes tipo 1 ni la cetoacidosis diabética. Las restricciones por función renal dependen de la indicación y de la ficha técnica local.",
+      "precauciones": "Valorar función renal, presión arterial y estado de hidratación antes y durante el tratamiento. Precaución en personas mayores, con hipotensión, tratamiento diurético o antecedentes de infecciones genitales. Puede aumentar el riesgo de cetoacidosis, incluso con glucemia no muy elevada, y de infecciones urinarias o genitales.",
+      "advertencias": "La cetoacidosis puede presentarse con náuseas, vómitos, dolor abdominal, respiración rápida, malestar o somnolencia, incluso sin hiperglucemia marcada. Puede ser necesario suspender temporalmente el medicamento ante cirugía, ayuno prolongado o enfermedad aguda grave, siguiendo la ficha técnica y el protocolo médico. Buscar atención urgente ante sospecha de cetoacidosis, infección perineal grave o deshidratación importante.",
+      "embarazo_lactancia": "No se recomienda durante el embarazo, especialmente durante el segundo y tercer trimestre, por posibles efectos sobre el desarrollo renal fetal. No se recomienda durante la lactancia debido al posible riesgo para el riñón en desarrollo del lactante. Consultar la ficha técnica y al equipo tratante.",
+      "ajustes": {
+        "renal": "La dosis y la posibilidad de iniciar o continuar el tratamiento dependen de la indicación y del filtrado glomerular estimado. El efecto hipoglucemiante disminuye con deterioro renal, aunque ciertos beneficios cardiorrenales pueden mantenerse en rangos de función renal más bajos. Verificar el umbral autorizado para cada indicación y el producto local.",
+        "hepatico": "En insuficiencia hepática leve o moderada generalmente no se requiere ajuste. En insuficiencia hepática grave, iniciar o ajustar con precaución y consultar la ficha técnica."
+      },
+      "interacciones": "Los diuréticos pueden aumentar la diuresis y el riesgo de deshidratación o hipotensión. La insulina y las sulfonilureas aumentan el riesgo de hipoglucemia, por lo que puede requerirse ajuste de esos tratamientos. Algunos inductores enzimáticos pueden reducir la exposición. Revisar otros medicamentos que afecten el volumen intravascular y la función renal.",
+      "reacciones_adversas": "Infecciones genitales micóticas, aumento de la diuresis, hipotensión o deshidratación, e infecciones urinarias. Puede causar hipoglucemia cuando se combina con insulina o sulfonilureas. Son eventos poco frecuentes pero graves la cetoacidosis, la fascitis necrosante del periné y algunas formas de lesión renal aguda, especialmente en pacientes predispuestos.",
+      "toxicidad_sobredosis": "No existe un cuadro único de sobredosis. Valorar glucemia, presión arterial, hidratación, función renal y signos de cetoacidosis. El tratamiento es de soporte y requiere evaluación clínica; consultar toxicología si corresponde.",
+      "antidotos": "No existe un antídoto específico. Tratamiento de soporte según el cuadro clínico y consulta a toxicología.",
+      "monitorizacion": {
+        "clinica": "Glucemia según indicación, presión arterial, estado de hidratación, diuresis, síntomas de infección genital o urinaria y signos de cetoacidosis. En insuficiencia cardíaca, vigilar síntomas y evolución según el plan asistencial.",
+        "laboratorio": "Glucemia y HbA1c en diabetes; creatinina y filtrado glomerular estimado antes y durante el tratamiento según riesgo; electrolitos según estado clínico. Si se sospecha cetoacidosis, medir cetonas, bicarbonato, brecha aniónica y otros parámetros indicados."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, función renal, presión arterial, estado de hidratación, antecedentes de cetoacidosis e infecciones genitales, y tratamiento con diuréticos, insulina o sulfonilureas.",
+        "durante": "Vigilar presión arterial, hidratación, diuresis, síntomas urinarios o genitales y signos de cetoacidosis. Reevaluar ante fiebre, vómitos, diarrea, reducción de ingesta o enfermedad aguda.",
+        "despues": "Evaluar respuesta glucémica y, cuando corresponda, evolución cardiorrenal. Revisar función renal, tolerancia, presión arterial y necesidad de mantener o suspender temporalmente el tratamiento según indicación médica."
+      },
+      "presentaciones": "Comprimidos orales, habitualmente de 5 mg y 10 mg, según el mercado; también existen combinaciones con otros antidiabéticos.",
+      "dosis": {
+        "adultos": "En diabetes tipo 2, la dosis habitual es de 10 mg una vez al día. Algunas indicaciones o circunstancias pueden requerir una pauta específica. Confirmar el filtrado glomerular, la indicación y la ficha técnica local antes de administrar.",
+        "pediatrico": "La autorización pediátrica depende de la indicación, edad y producto. No extrapolar la dosis adulta; verificar la ficha técnica local y la prescripción especializada.",
+        "geriatrico": "Generalmente no se ajusta solo por edad, pero se debe valorar función renal, presión arterial, hidratación, fragilidad y uso de diuréticos."
+      },
+      "vias_administracion": "Oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución. Administrar el comprimido según la prescripción; puede tomarse con o sin alimentos según la ficha técnica.",
+        "compatibilidad_iv": "No corresponde; no se administra por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde.",
+      "estabilidad_soluciones": "No corresponde para los comprimidos habituales. Conservar según las instrucciones del fabricante.",
+      "concentracion": "Presentaciones habituales de 5 mg y 10 mg por comprimido; confirmar el envase y si se trata de una combinación fija.",
+      "alarma_riesgo": "Sospechar cetoacidosis ante náuseas, vómitos, dolor abdominal, respiración rápida o malestar intenso, aunque la glucemia no sea muy elevada. Alertar ante hipotensión, deshidratación grave, fiebre con dolor o inflamación perineal e infección urinaria grave.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar indicación, dosis, función renal y tratamiento concomitante.",
+          "Controlar presión arterial, hidratación y signos de hipotensión, especialmente en pacientes que reciben diuréticos.",
+          "Vigilar síntomas de infección genital o urinaria y comunicar los signos de infección grave.",
+          "Reconocer síntomas de cetoacidosis y activar la evaluación urgente; no descartarla por una glucemia normal o moderadamente elevada.",
+          "Verificar las indicaciones de suspensión temporal antes de cirugía, ayuno prolongado o enfermedad aguda, conforme a la prescripción y al protocolo.",
+          "Controlar glucemia y función renal según indicación; revisar riesgo de hipoglucemia si se combina con insulina o sulfonilureas.",
+          "Registrar administración, tolerancia, controles y eventos adversos."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la pauta prescrita y no modificarlo por cuenta propia.",
+          "Mantener una hidratación adecuada, salvo que exista una restricción médica de líquidos.",
+          "Reconocer signos de deshidratación, infección genital y cetoacidosis, y solicitar atención ante síntomas de alarma.",
+          "Informar al equipo de salud si tiene una cirugía programada, debe ayunar o presenta una enfermedad aguda con vómitos o disminución importante de la ingesta.",
+          "No suspender ni modificar otros antidiabéticos sin indicación profesional."
+        ]
+      }
     }
   ]
 }
