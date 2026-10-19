@@ -7411,6 +7411,82 @@
           "No duplicar una dosis olvidada ni compensarla con una dosis adicional; consultar las instrucciones específicas del equipo tratante."
         ]
       }
+    },
+    {
+      "id": "92",
+      "nombre_generico": "Succinilcolina (suxametonio)",
+      "letra": "S",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Succinilcolina, también denominada suxametonio, generalmente como cloruro de succinilcolina.",
+        "clasificacion": "Bloqueante neuromuscular despolarizante de acción corta. Medicamento de alto riesgo utilizado en anestesia y manejo avanzado de la vía aérea.",
+        "efecto_terapeutica": "Produce relajación muscular rápida y parálisis temporal del músculo esquelético para facilitar la intubación endotraqueal y determinados procedimientos. No produce analgesia, amnesia ni pérdida de conciencia.",
+        "mecanismo_accion": "Actúa como agonista de los receptores nicotínicos de acetilcolina en la placa neuromuscular. Produce despolarización persistente de la membrana muscular, inicialmente con fasciculaciones y posteriormente con parálisis flácida. Su acción termina principalmente por hidrólisis en el plasma mediante butirilcolinesterasa."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se administra principalmente por vía intravenosa y, en determinadas circunstancias, por vía intramuscular. La administración intravenosa produce un inicio de acción muy rápido.",
+        "distribucion": "Actúa en la unión neuromuscular periférica. Su distribución funcional depende del acceso a los receptores nicotínicos de la placa motora.",
+        "metabolismo": "Se hidroliza rápidamente en el plasma mediante butirilcolinesterasa, también llamada pseudocolinesterasa plasmática. Las variantes genéticas o las alteraciones adquiridas de esta enzima pueden prolongar considerablemente el bloqueo.",
+        "eliminacion": "Su actividad disminuye principalmente por hidrólisis plasmática, más que por eliminación renal directa del fármaco intacto. La duración puede prolongarse en personas con actividad reducida de butirilcolinesterasa."
+      },
+      "indicaciones": "Facilitar la intubación endotraqueal durante la inducción anestésica o en determinadas situaciones de emergencia que requieren control avanzado de la vía aérea. También puede utilizarse para proporcionar relajación muscular breve durante procedimientos específicos, bajo anestesia y monitorización adecuadas.",
+      "contraindicaciones": "Hipersensibilidad conocida a la succinilcolina; antecedentes personales o familiares de hipertermia maligna; susceptibilidad conocida a hipertermia maligna; hiperpotasemia preexistente significativa; miopatías del músculo esquelético asociadas a riesgo de hiperpotasemia; antecedentes o situaciones con riesgo elevado de hiperpotasemia por denervación, lesión neurológica o destrucción muscular, como la fase posterior a quemaduras extensas, traumatismos graves, lesiones medulares, accidentes cerebrovasculares con déficit motor o inmovilización prolongada, según el contexto y la ficha técnica. También debe evitarse en determinadas deficiencias hereditarias de butirilcolinesterasa o antecedentes de apnea prolongada por succinilcolina. Verificar las contraindicaciones específicas del producto.",
+      "precauciones": "Utilizar exclusivamente en entornos donde se pueda mantener inmediatamente la vía aérea y la ventilación. Extremar las precauciones ante enfermedad neuromuscular, alteraciones electrolíticas, insuficiencia renal con hiperpotasemia, traumatismos, quemaduras, denervación, inmovilización prolongada, enfermedad hepática grave, desnutrición o exposición previa a fármacos que alteren la actividad de la butirilcolinesterasa. Puede producir bradicardia, especialmente con dosis repetidas y en población pediátrica. Puede aumentar la presión intraocular, intragástrica e intracraneal de forma transitoria. La parálisis puede durar más de lo esperado en personas con metabolismo alterado.",
+      "advertencias": "Puede causar apnea y parálisis de los músculos respiratorios, hiperpotasemia grave, arritmias, paro cardíaco y anafilaxia. Puede desencadenar hipertermia maligna, una emergencia anestésica potencialmente mortal. No administrar sin personal capacitado, equipo de ventilación, medios para asegurar la vía aérea y capacidad de reanimación. Debe garantizarse una inducción anestésica o sedación adecuada, según la situación, porque la succinilcolina no produce inconsciencia ni analgesia. La ausencia de fasciculaciones visibles no garantiza la ausencia de bloqueo neuromuscular.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar solo cuando exista una indicación clínica clara y el beneficio esperado justifique el riesgo, bajo supervisión anestésica. La actividad de la butirilcolinesterasa puede disminuir durante el embarazo y el puerperio, lo que puede prolongar el bloqueo en algunas pacientes. La transferencia a la leche materna y la relevancia clínica dependen de la situación y de la formulación; consultar la ficha técnica y las recomendaciones de anestesia y lactancia antes de establecer indicaciones específicas.",
+      "ajustes": {
+        "renal": "La insuficiencia renal no determina por sí sola una pauta única de ajuste. La hiperpotasemia, las alteraciones neuromusculares y las condiciones asociadas pueden aumentar el riesgo. Valorar potasio sérico y el contexto clínico antes de administrarla cuando corresponda.",
+        "hepatico": "La enfermedad hepática puede disminuir la síntesis de butirilcolinesterasa y prolongar el bloqueo neuromuscular. Valorar el riesgo individual, los antecedentes y la posible necesidad de una alternativa."
+      },
+      "interacciones": "Los inhibidores de la colinesterasa, incluidos algunos anticolinesterásicos, pueden prolongar o modificar el bloqueo. Determinados insecticidas organofosforados y otros compuestos que inhiben la butirilcolinesterasa pueden prolongar la parálisis. Los anestésicos inhalatorios pueden potenciar el bloqueo y aumentar el riesgo de hipertermia maligna en personas susceptibles. Otros bloqueantes neuromusculares pueden modificar la intensidad o duración del efecto. Algunos antibióticos, como los aminoglucósidos, y otros fármacos con efectos sobre la transmisión neuromuscular pueden potenciar el bloqueo. Revisar la medicación y la ficha técnica del producto.",
+      "reacciones_adversas": "Fasciculaciones musculares, mialgias posoperatorias, bradicardia, taquicardia, arritmias, hipotensión, hipertensión transitoria, aumento de la presión intraocular e intragástrica, rubor y reacciones de hipersensibilidad. Las complicaciones graves incluyen hiperpotasemia, paro cardíaco, anafilaxia, apnea prolongada, rabdomiólisis y desencadenamiento de hipertermia maligna.",
+      "toxicidad_sobredosis": "La administración excesiva o el bloqueo prolongado pueden producir parálisis respiratoria persistente y apnea. También puede provocar hiperpotasemia, arritmias, paro cardíaco, rabdomiólisis o hipertermia maligna. Mantener ventilación y oxigenación hasta que se recupere la función neuromuscular, con monitorización continua. Ante sospecha de hipertermia maligna, activar inmediatamente el protocolo específico, suspender los agentes desencadenantes y administrar dantroleno según el protocolo institucional. Tratar la hiperpotasemia y las arritmias de acuerdo con los protocolos de emergencia.",
+      "antidotos": "No existe un antagonista específico de uso rutinario que revierta de forma fiable el bloqueo despolarizante de fase I. El tratamiento principal es mantener la vía aérea, la oxigenación y la ventilación hasta la recuperación espontánea. La hipertermia maligna requiere dantroleno y tratamiento de soporte urgente. El manejo de la hiperpotasemia grave requiere tratamiento específico conforme al protocolo de emergencia. La neostigmina y otros inhibidores de la acetilcolinesterasa no deben emplearse de forma indiscriminada, ya que pueden prolongar o empeorar el bloqueo de fase I.",
+      "monitorizacion": {
+        "clinica": "Monitorizar continuamente oxigenación, ventilación, frecuencia cardíaca, presión arterial y electrocardiograma. Evaluar la función neuromuscular con monitorización objetiva cuando esté disponible. Vigilar la recuperación de la ventilación espontánea y de la fuerza muscular. Observar signos de hiperpotasemia, anafilaxia e hipertermia maligna, incluidos rigidez muscular, aumento inexplicable del dióxido de carbono espirado, taquicardia, acidosis y elevación de la temperatura.",
+        "laboratorio": "Determinar potasio sérico cuando exista riesgo de hiperpotasemia. Ante sospecha de hipertermia maligna o rabdomiólisis, evaluar gases en sangre, equilibrio ácido-base, potasio, creatina quinasa, función renal y otros parámetros según el cuadro clínico. La determinación de actividad o variantes de butirilcolinesterasa puede considerarse después de un bloqueo prolongado inexplicado."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar la indicación, la prescripción, la dosis, la vía, la identidad del paciente y los antecedentes de alergias, hipertermia maligna, apnea prolongada previa, enfermedades neuromusculares, quemaduras, traumatismos, denervación e inmovilización. Valorar el riesgo de hiperpotasemia y revisar el potasio cuando esté indicado. Comprobar la disponibilidad de equipo de intubación, ventilación, monitorización, reanimación y tratamiento de hipertermia maligna.",
+        "durante": "Monitorizar continuamente la oxigenación, la ventilación, el electrocardiograma y la presión arterial. Confirmar que se mantiene el soporte de la vía aérea durante la parálisis. Vigilar bradicardia, arritmias, cambios hemodinámicos, fasciculaciones, rigidez muscular y signos de hipertermia maligna. Utilizar monitorización neuromuscular objetiva cuando esté disponible.",
+        "despues": "Mantener soporte ventilatorio hasta comprobar una recuperación neuromuscular y respiratoria suficiente. Valorar la fuerza muscular, la capacidad de ventilación y la estabilidad hemodinámica antes de retirar el soporte. Si el bloqueo es prolongado, investigar posibles alteraciones de la butirilcolinesterasa, interacciones o condiciones adquiridas. Documentar dosis, hora, respuesta, duración del bloqueo y eventos adversos."
+      },
+      "presentaciones": "Solución inyectable en ampollas o viales, generalmente para administración intravenosa y, según la formulación, intramuscular. Las concentraciones, los volúmenes y las condiciones de conservación varían según el fabricante y el país.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación, el peso, la vía, el contexto anestésico y la situación clínica. Para facilitar la intubación se utilizan pautas intravenosas basadas en el peso bajo supervisión anestésica. No aplicar una dosis universal sin verificar la ficha técnica, la prescripción y el protocolo institucional.",
+        "pediatrico": "Uso restringido a situaciones clínicas específicas, especialmente cuando se requiere una intervención urgente sobre la vía aérea. Existe riesgo de hiperpotasemia grave y rabdomiólisis en niños con miopatías no diagnosticadas. La dosis debe establecerla un profesional con experiencia pediátrica conforme al peso, la indicación y la ficha técnica local.",
+        "geriatrico": "Individualizar según peso, estado fisiológico, comorbilidades y riesgo de alteración de la función neuromuscular. No existe un ajuste universal exclusivamente por edad. Mantener vigilancia respiratoria y hemodinámica estricta."
+      },
+      "vias_administracion": "Intravenosa; intramuscular en situaciones específicas cuando la presentación y el contexto clínico lo permiten. Utilizar exclusivamente las vías autorizadas por la ficha técnica del producto.",
+      "preparacion": {
+        "dilucion": "Verificar la concentración y las instrucciones del fabricante antes de preparar. Diluir únicamente si está indicado en la ficha técnica o en el protocolo institucional, utilizando el diluyente autorizado y técnica aséptica. Rotular claramente la jeringa con el nombre del fármaco y la concentración. Aplicar doble verificación independiente conforme a las normas para medicamentos de alto riesgo.",
+        "compatibilidad_iv": "La compatibilidad depende de la formulación, el diluyente, la concentración y los medicamentos administrados simultáneamente. Consultar una fuente institucional de compatibilidad intravenosa antes de mezclar o compartir una línea. No mezclar con otros medicamentos sin datos específicos."
+      },
+      "velocidad_infusion": "Generalmente se administra como una dosis intravenosa para producir bloqueo neuromuscular rápido, no como una infusión continua de rutina. La administración y la velocidad deben ajustarse a la indicación, la presentación y el protocolo anestésico. Evitar pautas universales sin verificar la ficha técnica.",
+      "estabilidad_soluciones": "Depende del fabricante, la concentración, el diluyente, el envase y las condiciones de conservación. Respetar las condiciones de almacenamiento y el período de uso indicados en la ficha técnica. No asumir estabilidad después de la dilución ni utilizar soluciones con alteraciones visibles o conservación incierta.",
+      "concentracion": "Variable según la presentación y el fabricante. Verificar la concentración en mg/mL y el contenido total de cada ampolla o vial antes de calcular la dosis. Confirmar las unidades y realizar una doble verificación para evitar errores de cálculo.",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Puede producir apnea, hiperpotasemia mortal, arritmias y desencadenar hipertermia maligna. No administrar sin capacidad inmediata para ventilación, intubación y reanimación. No produce analgesia ni inconsciencia. Verificar antecedentes neuromusculares, quemaduras, denervación, hiperpotasemia y susceptibilidad a hipertermia maligna.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la identidad del paciente, la indicación, la dosis, las unidades, la concentración y la vía antes de administrar.",
+          "Aplicar doble verificación independiente según el protocolo institucional para medicamentos de alto riesgo.",
+          "Confirmar que se dispone de equipo de intubación, ventilación manual, oxígeno, monitorización, desfibrilador y medios de reanimación.",
+          "Comprobar antecedentes de hipertermia maligna, apnea prolongada por succinilcolina, enfermedad neuromuscular, quemaduras, traumatismos, denervación e inmovilización prolongada.",
+          "Valorar el riesgo de hiperpotasemia y revisar los resultados de laboratorio cuando estén indicados.",
+          "Asegurar que se administran anestesia o sedación y analgesia adecuadas, según el procedimiento, porque la succinilcolina no produce inconsciencia ni analgesia.",
+          "Monitorizar continuamente oxigenación, ventilación, electrocardiograma y presión arterial durante el bloqueo.",
+          "Mantener el soporte ventilatorio hasta comprobar una recuperación respiratoria y neuromuscular suficiente.",
+          "Vigilar signos de hipertermia maligna, hiperpotasemia, anafilaxia, arritmias y parálisis prolongada; activar inmediatamente el protocolo correspondiente si aparecen.",
+          "Registrar la administración, la respuesta, la duración del bloqueo y cualquier complicación."
+        ],
+        "educacion_paciente": [
+          "Explicar, cuando la situación clínica lo permita, que el medicamento relaja temporalmente los músculos y que puede ser necesario asistir la respiración durante su efecto.",
+          "Informar al equipo sanitario sobre antecedentes personales o familiares de hipertermia maligna, enfermedades musculares o reacciones previas a anestésicos.",
+          "Comunicar antecedentes de parálisis prolongada o dificultades respiratorias después de una anestesia previa.",
+          "Después del procedimiento, informar al equipo si persisten debilidad muscular, dificultad para respirar o tragar, o cualquier síntoma inusual.",
+          "Recordar que la recuperación y el alta dependen de la evaluación clínica y de la recuperación adecuada de la función respiratoria y muscular."
+        ]
+      }
     }
   ]
 }
