@@ -9998,6 +9998,81 @@
           "No duplicar una dosis olvidada."
         ]
       }
+    },
+    {
+      "id": "126",
+      "nombre_generico": "Metformina + Dapagliflozina",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Hidrocloruro de metformina y dapagliflozina",
+        "clasificacion": "Antidiabético oral; biguanida e inhibidor del cotransportador sodio-glucosa tipo 2 (SGLT2); código ATC A10BD15",
+        "efecto_terapeutica": "Mejora el control glucémico en adultos con diabetes mellitus tipo 2; dapagliflozina también tiene indicaciones específicas cardiorrenales según el producto autorizado",
+        "mecanismo_accion": "La metformina disminuye la producción hepática de glucosa y mejora la sensibilidad a la insulina; dapagliflozina inhibe SGLT2 en el túbulo proximal renal, reduciendo la reabsorción de glucosa y aumentando su eliminación urinaria"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Ambos principios activos se absorben por vía oral; los alimentos pueden retrasar la absorción de metformina",
+        "distribucion": "La metformina presenta unión insignificante a proteínas plasmáticas; dapagliflozina presenta unión elevada a proteínas plasmáticas",
+        "metabolismo": "La metformina prácticamente no se metaboliza; dapagliflozina se metaboliza principalmente por glucuronidación mediante UGT1A9",
+        "eliminacion": "La metformina se elimina sin modificar por vía renal; dapagliflozina se elimina principalmente como metabolitos por orina y, en menor proporción, por vía fecal"
+      },
+      "indicaciones": "Tratamiento de adultos con diabetes mellitus tipo 2 como complemento de dieta y ejercicio cuando la metformina sola no proporciona control suficiente; también puede utilizarse en combinación con otros antidiabéticos o en pacientes que ya reciben ambos principios activos por separado; las indicaciones cardiorrenales deben verificarse en la ficha técnica específica",
+      "contraindicaciones": "Hipersensibilidad a los principios activos o excipientes; acidosis metabólica aguda; cetoacidosis diabética; insuficiencia renal grave con TFGe inferior a 30 ml/min/1,73 m² para metformina; deshidratación grave; enfermedad aguda que comprometa la función renal o la oxigenación; intoxicación alcohólica aguda o alcoholismo según la ficha técnica",
+      "precauciones": "Riesgo de acidosis láctica; cetoacidosis diabética incluso sin hiperglucemia marcada; deshidratación; hipotensión; deterioro renal; infección genitourinaria; ayuno; cirugía; consumo de alcohol; tratamiento con diuréticos; dieta muy baja en carbohidratos; enfermedad aguda",
+      "advertencias": "Suspender y evaluar urgentemente ante sospecha de cetoacidosis; la metformina puede requerir interrupción temporal ante contrastes yodados, cirugía o enfermedad aguda; valorar suspensión temporal de dapagliflozina ante cirugía mayor o enfermedad aguda grave según la ficha técnica; vigilar hidratación y función renal",
+      "embarazo_lactancia": "No se recomienda durante el embarazo; considerar insulina para el control de la diabetes durante la gestación; no se recomienda durante la lactancia debido al posible riesgo relacionado con dapagliflozina para el riñón en desarrollo del lactante",
+      "ajustes": {
+        "renal": "La dosis debe individualizarse según TFGe e indicación; dapagliflozina presenta menor eficacia hipoglucemiante con función renal reducida; metformina está contraindicada con TFGe inferior a 30 ml/min/1,73 m²; no utilizar una combinación fija si impide ajustar ambos componentes conforme a la ficha técnica",
+        "hepatico": "La insuficiencia hepática aumenta el riesgo de acidosis láctica por metformina; valorar una alternativa en enfermedad hepática significativa y seguir la ficha técnica específica"
+      },
+      "interacciones": "El alcohol aumenta el riesgo de acidosis láctica; los contrastes yodados pueden requerir suspensión temporal de metformina; los diuréticos pueden aumentar la deshidratación y la hipotensión; la insulina y las sulfonilureas aumentan el riesgo de hipoglucemia; los inductores de UGT pueden disminuir la exposición a dapagliflozina",
+      "reacciones_adversas": "Náuseas; vómitos; diarrea; dolor abdominal; disminución del apetito; infecciones genitales; infección urinaria; aumento de la diuresis; deshidratación; hipotensión; hipoglucemia con insulina o sulfonilureas; cetoacidosis diabética; acidosis láctica, rara pero potencialmente mortal",
+      "toxicidad_sobredosis": "Puede causar alteraciones gastrointestinales, deshidratación y acidosis láctica; evaluar también la posibilidad de cetoacidosis; requiere atención médica urgente, control de glucemia, función renal, electrolitos y equilibrio ácido-base",
+      "antidotos": "No existe antídoto específico; tratamiento de soporte; la hemodiálisis puede ser necesaria en casos graves de acidosis láctica",
+      "monitorizacion": {
+        "clinica": "Glucemia; presión arterial; hidratación; diuresis; síntomas de infección genital o urinaria; signos de cetoacidosis; tolerancia gastrointestinal; síntomas de hipotensión",
+        "laboratorio": "Glucemia; HbA1c; creatinina y TFGe; electrolitos según indicación; cetonas ante sospecha de cetoacidosis; lactato y equilibrio ácido-base ante sospecha de acidosis láctica"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar glucemia, HbA1c, función renal, presión arterial, hidratación, antecedentes de cetoacidosis, consumo de alcohol y medicación concomitante",
+        "durante": "Controlar glucemia y función renal; valorar hidratación, presión arterial, diuresis y signos de infección genitourinaria; investigar náuseas, vómitos, dolor abdominal o respiración anormal",
+        "despues": "Evaluar control glucémico, tolerancia y adherencia; documentar reacciones adversas y revisar la función renal según indicación"
+      },
+      "presentaciones": "Comprimidos de 5 mg/850 mg y 5 mg/1.000 mg en las presentaciones consultadas; la disponibilidad depende del producto y del mercado",
+      "dosis": {
+        "adultos": "La dosis diaria total habitual de dapagliflozina es de 10 mg; la dosis de metformina se individualiza según el tratamiento previo, tolerancia y función renal; las combinaciones fijas suelen administrarse dos veces al día; respetar las limitaciones de la ficha técnica",
+        "pediatrico": "La ficha técnica consultada de dapagliflozina/metformina está indicada en adultos; no extrapolar la pauta a menores de edad",
+        "geriatrico": "Individualizar según función renal, estado de hidratación, presión arterial, uso de diuréticos y riesgo de deshidratación"
+      },
+      "vias_administracion": "Oral; administrar con las comidas",
+      "preparacion": {
+        "dilucion": "No requiere dilución; administrar los comprimidos por vía oral",
+        "compatibilidad_iv": "No aplica; formulación oral"
+      },
+      "velocidad_infusion": "No aplica",
+      "estabilidad_soluciones": "No aplica; conservar según el prospecto específico",
+      "concentracion": "No aplica; medicamento oral sin concentración máxima de administración establecida",
+      "alarma_riesgo": "Náuseas y vómitos con dolor abdominal; respiración rápida o dificultosa; confusión; deshidratación intensa; síncope; sospecha de cetoacidosis o acidosis láctica",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar glucemia y registrar la respuesta al tratamiento.",
+          "Valorar presión arterial, hidratación y signos de hipotensión.",
+          "Comprobar función renal según la pauta clínica.",
+          "Vigilar síntomas de infección urinaria o genital.",
+          "Reconocer signos de cetoacidosis incluso cuando la glucemia no sea muy elevada.",
+          "Revisar la necesidad de interrupción temporal ante cirugía, enfermedad aguda o contraste yodado.",
+          "Comunicar de inmediato síntomas compatibles con acidosis láctica o cetoacidosis."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento con las comidas y según la prescripción.",
+          "Mantener una hidratación adecuada, salvo restricción médica.",
+          "Reconocer síntomas de cetoacidosis, como náuseas, vómitos, dolor abdominal o respiración dificultosa.",
+          "Consultar ante fiebre, ardor al orinar o síntomas de infección genital.",
+          "Informar al equipo sanitario antes de una cirugía o estudio con contraste.",
+          "Evitar dietas extremas o ayunos prolongados sin supervisión médica.",
+          "No suspender ni modificar otros antidiabéticos sin indicación profesional."
+        ]
+      }
     }
   ]
 }
