@@ -6145,6 +6145,85 @@
           "Mantener el medicamento fuera del alcance de niños y no compartirlo con otras personas."
         ]
       }
+    },
+    {
+      "id": "76",
+      "nombre_generico": "Clorpromazina",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorpromazina, habitualmente en forma de clorhidrato de clorpromazina.",
+        "clasificacion": "Antipsicótico típico de primera generación; neuroléptico; fenotiazina; antagonista dopaminérgico.",
+        "efecto_terapeutica": "Disminuye la agitación psicomotriz y los síntomas psicóticos; posee efectos sedantes, antieméticos y tranquilizantes.",
+        "mecanismo_accion": "Bloquea principalmente los receptores dopaminérgicos D2. También antagoniza receptores alfa-1 adrenérgicos, histaminérgicos H1, muscarínicos y serotoninérgicos, contribuyendo a sus efectos sedantes, hipotensores y anticolinérgicos."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral, aunque presenta biodisponibilidad variable debido al metabolismo de primer paso. La absorción y el inicio de acción dependen de la formulación y de la vía.",
+        "distribucion": "Se distribuye ampliamente por los tejidos y atraviesa la barrera hematoencefálica y la placenta. Presenta elevada unión a proteínas plasmáticas.",
+        "metabolismo": "Metabolismo hepático extenso, principalmente mediante oxidación, hidroxilación y conjugación. Puede presentar variabilidad interindividual.",
+        "eliminacion": "Se elimina principalmente por vía renal y biliar en forma de metabolitos. La eliminación es prolongada y puede variar entre pacientes."
+      },
+      "indicaciones": "Tratamiento de esquizofrenia y otros trastornos psicóticos; episodios maníacos y estados de agitación psicomotriz según la presentación y las autorizaciones locales; tratamiento de corta duración de agitación y agresividad en determinados cuadros psicóticos por vía parenteral; otras indicaciones antieméticas o sedantes únicamente cuando estén autorizadas y prescritas según la ficha técnica correspondiente. <https://cima.aemps.es/cima/dochtml/ft/23665/FT_23665.html>",
+      "contraindicaciones": "Hipersensibilidad a la clorpromazina o a otras fenotiazinas; coma o depresión grave del sistema nervioso central por alcohol, barbitúricos u otros depresores; riesgo de glaucoma de ángulo cerrado; riesgo de retención urinaria por trastornos uretroprostáticos; antecedentes de agranulocitosis; lactancia cuando así lo establece la ficha técnica; combinación contraindicada con determinados medicamentos, incluidos citalopram, escitalopram o agentes dopaminérgicos según la ficha técnica aplicable. Consultar las contraindicaciones específicas del producto y del país. <https://cima.aemps.es/cima/dochtml/ft/23665/FT_23665.html>",
+      "precauciones": "Enfermedad cardiovascular; hipotensión o hipotensión ortostática; insuficiencia renal o hepática; epilepsia; enfermedad de Parkinson; diabetes o riesgo de hiperglucemia; antecedentes de convulsiones; estreñimiento grave o riesgo de íleo paralítico; hipertrofia prostática; antecedentes de alteraciones hematológicas; personas mayores; riesgo de prolongación del intervalo QT; antecedentes de tromboembolismo.",
+      "advertencias": "Puede causar sedación intensa, hipotensión, alteraciones extrapiramidales, prolongación del QT y arritmias. Puede disminuir el umbral convulsivo y producir alteraciones hematológicas, lesión hepática, síndrome neuroléptico maligno o discinesia tardía. En personas mayores con psicosis asociada a demencia, los antipsicóticos se relacionan con mayor riesgo de mortalidad. Fiebre, rigidez muscular, confusión, sudoración, palpitaciones, síncope, dolor abdominal intenso, fiebre con dolor de garganta o lesiones cutáneas graves requieren valoración urgente. Evitar alcohol y no suspender ni modificar el tratamiento sin indicación médica.",
+      "embarazo_lactancia": "Embarazo: utilizar únicamente tras una evaluación médica individual de beneficios y riesgos. La exposición puede asociarse con efectos extrapiramidales o síntomas de abstinencia en el recién nacido si se administra durante el tercer trimestre. Lactancia: algunas fichas técnicas contraindican su uso durante la lactancia; verificar la ficha del producto y valorar alternativas con el equipo médico. No iniciar, suspender ni cambiar el tratamiento sin supervisión profesional. <https://cima.aemps.es/cima/dochtml/ft/23665/FT_23665.html>",
+      "ajustes": {
+        "renal": "No existe una pauta universal de ajuste basada únicamente en la función renal. Usar con precaución en insuficiencia renal y vigilar tolerancia, hipotensión y efectos adversos.",
+        "hepatico": "Usar con precaución por su metabolismo hepático; puede requerir reducción de dosis o evitarse según la gravedad de la insuficiencia hepática y la ficha técnica del producto."
+      },
+      "interacciones": "Alcohol; opioides; benzodiacepinas; sedantes e hipnóticos; antihipertensivos; medicamentos que prolongan el intervalo QT; otros antipsicóticos; antidepresivos; fármacos anticolinérgicos; litio; levodopa y agonistas dopaminérgicos; anticonvulsivantes; medicamentos que producen alteraciones electrolíticas. Puede aumentar la sedación y la hipotensión, incrementar el riesgo de arritmias o antagonizar los efectos de fármacos dopaminérgicos. Verificar cada combinación en la ficha técnica específica.",
+      "reacciones_adversas": "Somnolencia; sedación; mareos; hipotensión ortostática; taquicardia; sequedad de boca; estreñimiento; retención urinaria; visión borrosa; aumento de peso; hiperprolactinemia; alteraciones menstruales; disfunción sexual; síntomas extrapiramidales; acatisia; distonía; parkinsonismo; discinesia tardía; fotosensibilidad; alteraciones hepáticas; leucopenia o agranulocitosis; prolongación del QT; arritmias; síndrome neuroléptico maligno; íleo paralítico.",
+      "toxicidad_sobredosis": "Puede producir depresión del sistema nervioso central, coma, hipotensión intensa, hipotermia, convulsiones, síntomas extrapiramidales, depresión respiratoria y alteraciones del ritmo cardíaco. La sobredosis requiere atención urgente, monitorización cardíaca y respiratoria y tratamiento de soporte. No inducir el vómito ni administrar tratamientos caseros.",
+      "antidotos": "No existe un antídoto específico. Tratamiento de soporte en un entorno sanitario, con control de vía aérea, respiración, circulación, temperatura y electrocardiograma. El tratamiento de las complicaciones debe ser indicado por el equipo médico.",
+      "monitorizacion": {
+        "clinica": "Nivel de conciencia; sedación; presión arterial, incluida la respuesta ortostática; frecuencia cardíaca; frecuencia respiratoria; temperatura; síntomas extrapiramidales; estado mental; tránsito intestinal; retención urinaria; signos de síndrome neuroléptico maligno; palpitaciones o síncope; peso y signos de alteraciones metabólicas.",
+        "laboratorio": "Hemograma basal y cuando esté clínicamente indicado; función hepática; glucemia y/o HbA1c; perfil lipídico; electrolitos, especialmente potasio y magnesio cuando exista riesgo de arritmia; función renal según comorbilidades. ECG basal y de seguimiento cuando exista riesgo cardiovascular, uso concomitante de medicamentos que prolongan QT o indicación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar prescripción, indicación, dosis, vía y formulación; revisar alergias, medicación concomitante y consumo de alcohol; valorar estado mental, nivel de conciencia, presión arterial, frecuencia cardíaca, riesgo de caídas, antecedentes cardiovasculares, enfermedad de Parkinson, epilepsia, función hepática y renal; realizar ECG y análisis basales según factores de riesgo y protocolo.",
+        "durante": "Evaluar respuesta clínica y nivel de sedación; controlar presión arterial, frecuencia cardíaca y respiración; vigilar hipotensión ortostática, caídas, síntomas extrapiramidales, cambios conductuales, estreñimiento, retención urinaria y reacciones cutáneas; revisar ECG y controles analíticos según indicación.",
+        "despues": "Valorar respuesta terapéutica y estado de conciencia; comprobar estabilidad hemodinámica y ausencia de efectos adversos importantes; documentar la administración y la respuesta; mantener vigilancia tras la vía parenteral hasta la estabilidad clínica; comunicar signos de alarma y reforzar las indicaciones de seguimiento."
+      },
+      "presentaciones": "Según el país y el fabricante: comprimidos recubiertos de 25 mg y 100 mg; gotas orales de 40 mg/ml; solución inyectable de 5 mg/ml en ampollas de 5 ml (25 mg por ampolla). Confirmar las presentaciones comercializadas localmente. <https://cima.aemps.es/cima/dochtml/ft/23665/FT_23665.html> <https://cima.aemps.es/cima/dochtml/ft/19622/FichaTecnica_19622.html>",
+      "dosis": {
+        "adultos": "Vía oral: una ficha técnica de referencia describe habitualmente 75–150 mg/día divididos en tres tomas, iniciando con 25–50 mg/día y ajustando gradualmente; no superar 300 mg/día salvo indicación especializada. Vía intramuscular o perfusión intravenosa: la ficha técnica consultada describe 25–50 mg por administración, varias veces al día, sin superar 150 mg/día salvo casos particulares. Las dosis dependen de la indicación, la vía y el producto; no usar estas cifras como pauta individual. <https://cima.aemps.es/cima/dochtml/ft/23665/FT_23665.html> <https://cima.aemps.es/cima/dochtml/ft/19622/FichaTecnica_19622.html>",
+        "pediatrico": "La dosis depende de la edad, el peso, la indicación y la formulación. Una ficha técnica de referencia describe 1 mg/kg/día en niños de 1–5 años y, en niños mayores, aproximadamente un tercio o la mitad de la dosis adulta según el peso. No utilizar en menores de un año; las restricciones para comprimidos y solución oral varían según el producto. El uso pediátrico requiere prescripción y supervisión especializada. <https://cima.aemps.es/cima/dochtml/ft/23665/FT_23665.html>",
+        "geriatrico": "Iniciar aproximadamente con la mitad de la dosis habitual adulta, cuando corresponda, y aumentar de forma gradual según respuesta y tolerancia. Mayor riesgo de sedación, hipotensión ortostática, caídas, efectos extrapiramidales y complicaciones cardiovasculares; reevaluar periódicamente. <https://cima.aemps.es/cima/dochtml/ft/23665/FT_23665.html>"
+      },
+      "vias_administracion": "Oral; intramuscular profunda; intravenosa mediante perfusión, únicamente cuando la formulación y la ficha técnica lo permitan. No administrar por vía intravenosa en bolo si el producto exige perfusión.",
+      "preparacion": {
+        "dilucion": "La preparación depende de la presentación. Para la solución inyectable de 5 mg/ml consultada, la administración intravenosa debe realizarse mediante perfusión para reducir reacciones locales. Verificar en la ficha técnica del producto la solución diluyente, concentración y procedimiento autorizados antes de prepararla; no extrapolar instrucciones entre marcas. <https://cima.aemps.es/cima/dochtml/ft/19622/FichaTecnica_19622.html>",
+        "compatibilidad_iv": "No asumir compatibilidad con otros medicamentos o soluciones. Confirmar compatibilidad, diluyente y condiciones de administración en la ficha técnica específica o con farmacia. Evitar mezclar en la misma jeringa o bolsa sin datos de compatibilidad."
+      },
+      "velocidad_infusion": "Administrar por perfusión intravenosa, no como bolo rápido. La velocidad y duración deben ajustarse a la ficha técnica de la presentación y al protocolo institucional, con vigilancia estrecha de presión arterial, frecuencia cardíaca y respiración.",
+      "estabilidad_soluciones": "No establecer un tiempo universal de estabilidad sin identificar el producto, el diluyente y las condiciones de preparación. Preparar y conservar según la ficha técnica específica y las normas institucionales de preparación aséptica; descartar si se observa cambio de aspecto o si se supera el tiempo autorizado.",
+      "concentracion": "Solución inyectable de referencia: 5 mg/ml; ampolla de 5 ml equivalente a 25 mg. Esta es la concentración comercial de la presentación consultada, no una concentración máxima universal para perfusión. <https://cima.aemps.es/cima/dochtml/ft/19622/FichaTecnica_19622.html>",
+      "alarma_riesgo": "Alto riesgo de hipotensión, sedación profunda, caídas, prolongación del QT y arritmias; vigilar especialmente la administración parenteral. Fiebre con rigidez y alteración de conciencia puede indicar síndrome neuroléptico maligno. Palpitaciones, síncope, dificultad respiratoria, convulsiones, fiebre con dolor de garganta o erupción grave requieren atención urgente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la dosis, la vía, la formulación y las alergias antes de administrar.",
+          "Valorar estado de conciencia, presión arterial, frecuencia cardíaca y respiración antes y después de la administración.",
+          "Evaluar el riesgo de caídas e implementar medidas de prevención, especialmente al iniciar el tratamiento o aumentar la dosis.",
+          "Administrar la formulación parenteral según la ficha técnica; la vía intramuscular debe ser profunda y la intravenosa debe administrarse mediante perfusión cuando esté autorizada.",
+          "Vigilar hipotensión ortostática, sedación intensa, alteraciones extrapiramidales y signos de arritmia.",
+          "Revisar la medicación concomitante y comunicar interacciones relevantes, especialmente con depresores del sistema nervioso central y medicamentos que prolongan el QT.",
+          "Controlar los análisis, el ECG y los parámetros metabólicos según prescripción y factores de riesgo.",
+          "Observar signos de síndrome neuroléptico maligno, lesión hepática, agranulocitosis o reacciones cutáneas graves y comunicar inmediatamente cualquier sospecha.",
+          "Registrar dosis, vía, hora, respuesta terapéutica y reacciones adversas.",
+          "No suspender ni modificar el tratamiento sin indicación del equipo prescriptor."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento exactamente según la prescripción y no modificar la dosis por cuenta propia.",
+          "Evitar el alcohol y consultar antes de utilizar otros medicamentos o productos sedantes.",
+          "No conducir ni manejar maquinaria si presenta somnolencia, mareos o disminución del estado de alerta.",
+          "Levantarse lentamente de la cama o de una silla para reducir el riesgo de mareos y caídas.",
+          "Informar al equipo de salud si presenta palpitaciones, desmayos, fiebre con rigidez muscular, movimientos involuntarios, dolor de garganta, úlceras bucales, ictericia o erupción cutánea importante.",
+          "Mantener los controles clínicos, de laboratorio y electrocardiográficos indicados.",
+          "No suspender bruscamente ni compartir el medicamento con otras personas.",
+          "Consultar al equipo médico si está embarazada, planea un embarazo o está amamantando."
+        ]
+      }
     }
   ]
 }
