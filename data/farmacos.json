@@ -10623,6 +10623,80 @@
           "Explicar que puede requerir controles de INR o de coagulación y ajustes posteriores del tratamiento"
         ]
       }
+    },
+    {
+      "id": "135",
+      "nombre_generico": "Sulfato de protamina",
+      "letra": "S",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de protamina",
+        "clasificacion": "Antídoto anticoagulante; antagonista de la heparina",
+        "efecto_terapeutica": "Neutraliza la actividad anticoagulante de la heparina y revierte parcialmente la actividad de algunas heparinas de bajo peso molecular.",
+        "mecanismo_accion": "Es una proteína básica que se une a la heparina, de carga negativa, formando un complejo estable que neutraliza su actividad anticoagulante. En exceso, la protamina puede presentar actividad anticoagulante propia y prolongar los tiempos de coagulación."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La administración es intravenosa, por lo que la biodisponibilidad es completa.",
+        "distribucion": "Actúa principalmente en el compartimento intravascular, donde se une a la heparina circulante.",
+        "metabolismo": "Se metaboliza mediante procesos proteolíticos; la información farmacocinética clínica es limitada.",
+        "eliminacion": "La eliminación depende de la formación y el procesamiento de complejos con heparina y de la degradación de la protamina. La duración de su efecto depende de la heparina administrada y del contexto clínico."
+      },
+      "indicaciones": "Neutralización de la heparina no fraccionada; tratamiento de hemorragias clínicamente significativas relacionadas con heparina; reversión de la anticoagulación por heparina en determinados procedimientos quirúrgicos, circulación extracorpórea y diálisis; reversión parcial de algunas heparinas de bajo peso molecular cuando está indicada.",
+      "contraindicaciones": "Hipersensibilidad conocida al sulfato de protamina o a alguno de los componentes de la formulación.",
+      "precauciones": "Extremar la precaución ante antecedentes de reacciones a la protamina, exposición previa a protamina, uso de insulina que contiene protamina, alergia al pescado, vasectomía o infertilidad; disponer de medios para tratar anafilaxia y colapso cardiovascular; administrar lentamente; evitar dosis excesivas, que pueden prolongar la coagulación; en heparinas de bajo peso molecular, considerar que la neutralización puede ser incompleta; no utilizar para revertir anticoagulantes que no sean heparinas.",
+      "advertencias": "La administración rápida puede provocar hipotensión grave, bradicardia, broncoespasmo, reacciones anafilactoides, hipertensión pulmonar, edema pulmonar no cardiogénico y colapso cardiovascular. Existe riesgo de hemorragia de rebote después de una neutralización inicialmente adecuada, especialmente tras circulación extracorpórea o cirugía vascular. La dosis debe individualizarse según el tipo de heparina, la cantidad administrada, el tiempo transcurrido y las pruebas de coagulación.",
+      "embarazo_lactancia": "Embarazo: los datos son limitados; utilizar solamente cuando sea claramente necesario y bajo valoración médica. Lactancia: la información sobre excreción en leche materna es insuficiente; evaluar individualmente la necesidad del tratamiento y seguir el prospecto de la presentación utilizada.",
+      "ajustes": {
+        "renal": "No se establece un ajuste renal universal en el prospecto argentino consultado. Individualizar según situación clínica, tipo de heparina y duración de su efecto, especialmente en insuficiencia renal, que puede prolongar la actividad de algunas heparinas de bajo peso molecular.",
+        "hepatico": "No se establece un ajuste hepático universal. Individualizar según estado clínico, riesgo hemorrágico y resultados de coagulación."
+      },
+      "interacciones": "La interacción farmacológica principal es con la heparina, cuya actividad neutraliza. No asumir que revierte por completo las heparinas de bajo peso molecular; no neutraliza anticoagulantes cumarínicos. No mezclar con otros medicamentos en la misma solución o línea sin confirmar compatibilidad.",
+      "reacciones_adversas": "Hipotensión; bradicardia; rubor y sensación de calor; náuseas y vómitos; disnea; broncoespasmo; urticaria; angioedema; reacciones anafilactoides; hipertensión pulmonar; edema pulmonar no cardiogénico; colapso cardiovascular; hemorragia de rebote; trombocitopenia o neutropenia, infrecuentes.",
+      "toxicidad_sobredosis": "La sobredosis puede causar efecto anticoagulante propio, prolongación de los tiempos de coagulación y hemorragia; también pueden aparecer hipotensión, rubor, prurito, náuseas, vómitos y reacciones cardiovasculares o respiratorias graves. Suspender la administración, evaluar la coagulación y tratar las complicaciones según indicación médica; ante hemorragia grave, puede requerirse soporte transfusional.",
+      "antidotos": "No existe un antídoto específico para la sobredosis de protamina. El tratamiento es de soporte y depende de las manifestaciones clínicas; puede incluir hemoderivados ante hemorragia grave y tratamiento específico de la hipotensión o de las reacciones anafilactoides.",
+      "monitorizacion": {
+        "clinica": "Presión arterial; frecuencia cardíaca; electrocardiograma cuando esté indicado; frecuencia respiratoria; saturación de oxígeno; signos de broncoespasmo, hipersensibilidad o colapso cardiovascular; sangrado activo y signos de hemorragia recurrente.",
+        "laboratorio": "Tiempo de tromboplastina parcial activado (TTPa); tiempo de coagulación activado (TCA) en cirugía cardíaca o circulación extracorpórea; tiempo de trombina u otras pruebas específicas según contexto; hemoglobina y hematocrito; plaquetas; evaluación de la coagulación antes y después de la administración según protocolo."
+      },
+      "parametros_valoracion": {
+        "antes": "Identificar el tipo de heparina, la dosis administrada, la hora de la última administración y la indicación de reversión; valorar sangrado activo, estado hemodinámico, antecedentes de exposición o reacción a protamina y resultados de coagulación; confirmar el cálculo de dosis con el equipo tratante.",
+        "durante": "Controlar continuamente el estado hemodinámico y respiratorio durante la administración intravenosa; vigilar hipotensión, bradicardia, disnea, broncoespasmo y signos de anafilaxia; respetar la velocidad de administración y el límite de dosis por período establecido en el prospecto y el protocolo.",
+        "despues": "Reevaluar la hemostasia y las pruebas de coagulación; observar la aparición de sangrado de rebote; controlar signos vitales y parámetros hematológicos según el contexto; comunicar de inmediato cualquier deterioro hemodinámico o recurrencia del sangrado."
+      },
+      "presentaciones": "El prospecto argentino de DENPRU aprobado por ANMAT describe solución inyectable intravenosa de 50 mg/5 mL y 250 mg/25 mL, ambas de 10 mg/mL. Verificar la presentación y el prospecto vigentes del producto disponible.",
+      "dosis": {
+        "adultos": "Como referencia del prospecto argentino consultado: aproximadamente 1 mg de sulfato de protamina por cada 100 UI de heparina no fraccionada que se necesita neutralizar cuando han transcurrido menos de 15 minutos desde su administración; reducir la dosis a medida que aumenta el tiempo transcurrido. No superar 50 mg en una única dosis según dicho prospecto. La dosis definitiva debe basarse en la cantidad de heparina residual, el tiempo transcurrido y las pruebas de coagulación. Para heparinas de bajo peso molecular, el cálculo es específico del fármaco y la reversión puede ser parcial.",
+        "pediatrico": "El prospecto argentino consultado no establece eficacia y seguridad pediátricas suficientes. Utilizar solamente con indicación especializada, cálculo individualizado y monitorización estricta de la coagulación y del estado hemodinámico.",
+        "geriatrico": "El prospecto argentino consultado no aporta información específica suficiente para establecer una dosis diferente por edad. Individualizar según función renal, tipo y dosis de heparina, riesgo hemorrágico y resultados de coagulación."
+      },
+      "vias_administracion": "Intravenosa lenta, mediante inyección o infusión según el prospecto específico y el protocolo institucional.",
+      "preparacion": {
+        "dilucion": "La presentación de DENPRU consultada puede administrarse por vía intravenosa lenta o mediante infusión en una solución compatible, según el prospecto. Confirmar si la presentación requiere dilución antes de prepararla; no asumir que todas las marcas tienen las mismas instrucciones. Preparar con técnica aséptica y utilizar inmediatamente si así lo establece la ficha técnica.",
+        "compatibilidad_iv": "El prospecto argentino consultado permite la administración en infusión con soluciones como glucosada o Ringer. No mezclar con otros medicamentos sin verificar compatibilidad específica. La solución fisiológica puede ser compatible con determinadas presentaciones, pero debe confirmarse en el prospecto correspondiente."
+      },
+      "velocidad_infusion": "Administrar lentamente durante aproximadamente 10 minutos; el prospecto argentino consultado indica una velocidad inferior a 5 mg/min y un máximo de 50 mg por dosis única. No exceder la velocidad ni el límite especificados para el producto utilizado.",
+      "estabilidad_soluciones": "Conservar la presentación original protegida de la luz, a temperatura ambiente no superior a 30 °C, según el prospecto argentino consultado. No asignar un período universal de estabilidad a las soluciones diluidas; prepararlas y utilizarlas de acuerdo con la ficha técnica y el protocolo institucional.",
+      "concentracion": "Las presentaciones argentinas consultadas contienen 10 mg/mL. La administración debe realizarse por vía intravenosa lenta según las instrucciones del producto; la necesidad de dilución y la concentración final dependen de la presentación y del protocolo institucional.",
+      "alarma_riesgo": "Medicamento de alto riesgo. Riesgo de hipotensión grave, anafilaxia, broncoespasmo, hipertensión pulmonar y colapso cardiovascular, especialmente con administración rápida o dosis excesivas. Requiere monitorización durante la administración y disponibilidad inmediata de medidas de reanimación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la indicación, el tipo de heparina, la cantidad administrada y el tiempo transcurrido antes de calcular la dosis.",
+          "Realizar una doble comprobación independiente del cálculo de dosis y del volumen a administrar.",
+          "Confirmar concentración, presentación, diluyente, compatibilidad y velocidad de administración según el prospecto y el protocolo institucional.",
+          "Comprobar la disponibilidad de oxígeno, equipos de reanimación y medicación para tratar anafilaxia y colapso cardiovascular.",
+          "Controlar presión arterial, frecuencia cardíaca, respiración y saturación de oxígeno durante la administración.",
+          "Observar rubor, urticaria, angioedema, disnea, broncoespasmo, bradicardia o hipotensión; interrumpir la administración y activar el protocolo de emergencia ante una reacción grave.",
+          "Controlar las pruebas de coagulación antes y después de la administración según indicación, incluyendo TTPa o TCA según el contexto.",
+          "Vigilar signos de hemorragia persistente o recurrente por posible efecto anticoagulante de rebote.",
+          "Documentar dosis, hora, velocidad de administración, respuesta clínica, pruebas de coagulación y posibles reacciones adversas."
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento se utiliza para revertir el efecto de la heparina cuando existe una indicación clínica.",
+          "Indicar que comunique inmediatamente dificultad respiratoria, mareos, palpitaciones, sensación de desmayo, picazón o hinchazón.",
+          "Explicar que debe informar antecedentes de reacción a protamina, alergia al pescado, vasectomía o uso de insulina que contenga protamina.",
+          "Aclarar que la reversión puede requerir controles posteriores porque el sangrado puede reaparecer."
+        ]
+      }
     }
   ]
 }
