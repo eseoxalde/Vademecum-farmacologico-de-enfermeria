@@ -7949,6 +7949,83 @@
           "No triturar ni masticar los comprimidos de liberación prolongada y consultar al farmacéutico o al equipo de salud si tiene dificultades para tragarlos."
         ]
       }
+    },
+    {
+      "id": "99",
+      "nombre_generico": "Sertralina",
+      "letra": "S",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Sertralina, habitualmente administrada como clorhidrato de sertralina.",
+        "clasificacion": "Antidepresivo; inhibidor selectivo de la recaptación de serotonina (ISRS).",
+        "efecto_terapeutica": "Antidepresivo y ansiolítico. Puede reducir síntomas depresivos, obsesiones, compulsiones, crisis de pánico y ansiedad. El efecto clínico suele desarrollarse progresivamente durante varias semanas.",
+        "mecanismo_accion": "Inhibe selectivamente la recaptación neuronal de serotonina, aumentando su disponibilidad en el espacio sináptico. También inhibe la captación de serotonina por las plaquetas."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral. La concentración plasmática máxima suele alcanzarse aproximadamente entre 4,5 y 8,5 horas después de la administración. Los alimentos pueden modificar ligeramente la absorción.",
+        "distribucion": "Presenta una elevada unión a proteínas plasmáticas, aproximadamente del 98 %. Se distribuye ampliamente en los tejidos.",
+        "metabolismo": "Se metaboliza extensamente en el hígado, principalmente mediante procesos de desmetilación y otras vías enzimáticas, formando metabolitos de menor actividad farmacológica.",
+        "eliminacion": "Se elimina principalmente como metabolitos por heces y orina. La semivida de eliminación de la sertralina es de aproximadamente 26 horas."
+      },
+      "indicaciones": "Tratamiento del trastorno depresivo mayor, trastorno obsesivo-compulsivo, trastorno de pánico, trastorno de estrés postraumático y trastorno de ansiedad social. Algunas formulaciones y autorizaciones incluyen el trastorno disfórico premenstrual. En población pediátrica, su uso está establecido principalmente para el trastorno obsesivo-compulsivo a partir de los 6 años, según la ficha técnica aplicable.",
+      "contraindicaciones": "Hipersensibilidad a la sertralina o a los componentes de la formulación. Uso concomitante con inhibidores de la monoaminooxidasa (IMAO), incluido el período de lavado requerido entre tratamientos. Uso concomitante con pimozida. Revisar la ficha técnica específica antes de iniciar o cambiar tratamientos.",
+      "precauciones": "Utilizar con precaución en pacientes con antecedentes de manía o trastorno bipolar, epilepsia, riesgo de hemorragia, hiponatremia, glaucoma de ángulo estrecho, prolongación del QT o factores que aumenten ese riesgo. Vigilar especialmente al inicio del tratamiento y después de modificar la dosis. Puede producir disfunción sexual y síntomas de discontinuación si se interrumpe bruscamente.",
+      "advertencias": "Puede aumentar el riesgo de ideación o conducta suicida, especialmente en niños, adolescentes y adultos jóvenes al inicio del tratamiento o durante cambios de dosis. Puede causar síndrome serotoninérgico, sobre todo al combinarse con otros medicamentos serotoninérgicos. También puede provocar sangrado, hiponatremia y activación de manía o hipomanía. No suspender abruptamente sin indicación profesional.",
+      "embarazo_lactancia": "Evaluar individualmente los beneficios y riesgos durante el embarazo, considerando las consecuencias de una enfermedad no tratada y los posibles efectos neonatales, especialmente con exposición al final de la gestación. La sertralina pasa a la leche materna en cantidades generalmente bajas y suele considerarse una opción compatible con la lactancia cuando está clínicamente indicada. Vigilar al recién nacido o lactante y no iniciar ni suspender el tratamiento sin evaluación profesional.",
+      "ajustes": {
+        "renal": "En general, no se requiere ajuste rutinario en insuficiencia renal, debido a su metabolismo extenso y a la escasa eliminación renal del fármaco sin modificar. Individualizar según el estado clínico.",
+        "hepatico": "Se requiere precaución y puede ser necesario reducir la dosis o la frecuencia en insuficiencia hepática leve. En insuficiencia moderada o grave, algunas fichas técnicas desaconsejan su uso. Consultar la ficha técnica del producto disponible."
+      },
+      "interacciones": "Los IMAO están contraindicados por riesgo de síndrome serotoninérgico. Evitar la combinación con pimozida. Tramadol, fentanilo, metadona, otros antidepresivos, triptanos, litio, linezolid y hierba de San Juan pueden aumentar el riesgo serotoninérgico. AINE, ácido acetilsalicílico, antiagregantes y anticoagulantes aumentan el riesgo de hemorragia. Puede modificar el efecto de medicamentos metabolizados por determinadas enzimas hepáticas, como CYP2D6. Revisar toda la medicación concomitante.",
+      "reacciones_adversas": "Frecuentes: náuseas, diarrea, dispepsia, temblor, sudoración, cefalea, mareos, alteraciones del sueño, cambios del apetito y disfunción sexual. También puede producir ansiedad o agitación inicial, fatiga y alteraciones menstruales. Reacciones graves: síndrome serotoninérgico, hiponatremia, hemorragia importante, convulsiones, reacción alérgica grave, viraje maníaco e ideación suicida.",
+      "toxicidad_sobredosis": "La sobredosis puede causar náuseas, vómitos, somnolencia, agitación, taquicardia, temblor y, en casos graves, convulsiones, alteraciones del estado de conciencia o síndrome serotoninérgico. El riesgo aumenta con otros medicamentos o alcohol. Requiere evaluación urgente, vigilancia clínica y tratamiento de soporte. No inducir el vómito ni administrar tratamientos por cuenta propia.",
+      "antidotos": "No existe un antídoto específico. El tratamiento de la sobredosis es de soporte y sintomático, con vigilancia de las funciones vitales y tratamiento de las complicaciones según indicación médica.",
+      "monitorizacion": {
+        "clinica": "Evaluar estado de ánimo, ansiedad, conducta suicida, agitación, sueño, tolerancia digestiva, función sexual y adherencia. Vigilar signos de síndrome serotoninérgico, sangrado, hiponatremia, convulsiones y manía o hipomanía.",
+        "laboratorio": "No requiere análisis rutinarios específicos en todos los pacientes. Considerar sodio sérico en personas con factores de riesgo de hiponatremia; hemograma y estudios de coagulación si existe sospecha de hemorragia o indicación clínica. Solicitar función hepática según antecedentes y situación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar prescripción, dosis, indicación, antecedentes de alergia, tratamientos concomitantes, antecedentes de trastorno bipolar, convulsiones, sangrado, hiponatremia e ideación suicida. Identificar el uso reciente de IMAO y otros fármacos serotoninérgicos.",
+        "durante": "Controlar respuesta terapéutica y tolerancia, especialmente al inicio y después de cambios de dosis. Observar cambios conductuales, empeoramiento del ánimo, agitación, signos de síndrome serotoninérgico, hemorragia o alteraciones neurológicas.",
+        "despues": "Registrar la respuesta clínica, los efectos adversos, la adherencia y las intervenciones realizadas. Reforzar el seguimiento profesional y la reducción gradual de la dosis cuando se decida finalizar el tratamiento."
+      },
+      "presentaciones": "Comprimidos recubiertos de distintas concentraciones, habitualmente de 25 mg, 50 mg y 100 mg, según fabricante y mercado. La disponibilidad y las concentraciones deben verificarse en el producto específico.",
+      "dosis": {
+        "adultos": "La dosis inicial habitual es de 50 mg por vía oral una vez al día para depresión; para trastorno de pánico, estrés postraumático y ansiedad social puede iniciarse con 25 mg al día. En determinadas indicaciones se ajusta gradualmente, generalmente en intervalos de al menos una semana. Para muchas indicaciones, el máximo habitual es de 200 mg al día; el trastorno disfórico premenstrual tiene pautas específicas. La dosis depende de la indicación, la respuesta y la tolerancia, y debe ser prescrita por un profesional.",
+        "pediatrico": "Para trastorno obsesivo-compulsivo, puede utilizarse desde los 6 años según la ficha técnica: habitualmente 25 mg al día entre 6 y 12 años y 50 mg al día desde los 13 años como dosis inicial. Los aumentos deben ser graduales y supervisados por un especialista, considerando el peso, la respuesta y los riesgos. No extrapolar estas dosis a otras indicaciones pediátricas.",
+        "geriatrico": "Puede utilizarse dentro del rango de dosis habitual, individualizando según tolerancia, comorbilidades y medicación concomitante. Considerar mayor riesgo de hiponatremia, caídas, sangrado e interacciones. Ajustar según función hepática y respuesta clínica."
+      },
+      "vias_administracion": "Vía oral. Administrar una vez al día, por la mañana o por la noche, con o sin alimentos, procurando mantener un horario constante. No administrar por vía intravenosa.",
+      "preparacion": {
+        "dilucion": "Los comprimidos se administran por vía oral y no requieren dilución. Si se utiliza una solución oral comercial, seguir las instrucciones específicas del fabricante para su medición y administración.",
+        "compatibilidad_iv": "No corresponde: la sertralina de uso habitual no dispone de una presentación para administración intravenosa."
+      },
+      "velocidad_infusion": "No corresponde. Administración oral.",
+      "estabilidad_soluciones": "No corresponde a comprimidos. Para soluciones orales comerciales, respetar las condiciones de conservación, el período de uso una vez abierto y las instrucciones del fabricante.",
+      "concentracion": "Comprimidos habitualmente de 25 mg, 50 mg o 100 mg. Las soluciones orales, cuando están disponibles, tienen concentraciones específicas según fabricante; verificar el envase y la ficha técnica antes de calcular el volumen.",
+      "alarma_riesgo": "Solicitar atención urgente ante fiebre con agitación, confusión, sudoración intensa, diarrea, temblor, rigidez o hiperreflexia compatibles con síndrome serotoninérgico; convulsiones; hemorragia importante; reacción alérgica grave; o aparición o intensificación de ideas suicidas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la identidad del paciente, la dosis, el horario y la vía oral antes de administrar.",
+          "Revisar la medicación concomitante para identificar IMAO, otros fármacos serotoninérgicos, anticoagulantes, antiagregantes y AINE.",
+          "Valorar el estado de ánimo, la conducta, el riesgo suicida y los cambios de comportamiento al inicio del tratamiento y después de modificar la dosis.",
+          "Observar náuseas, diarrea, alteraciones del sueño, temblor, sudoración, mareos y disfunción sexual, y comunicar los efectos adversos relevantes.",
+          "Vigilar signos de síndrome serotoninérgico, sangrado, hiponatremia y activación de manía o hipomanía.",
+          "Controlar el sodio sérico cuando esté indicado por los factores de riesgo o la situación clínica.",
+          "Registrar la administración, la respuesta terapéutica, los efectos adversos y la educación brindada.",
+          "No suspender ni modificar la dosis de forma autónoma; coordinar con el equipo tratante cualquier cambio."
+        ],
+        "educacion_paciente": [
+          "Explicar que el efecto terapéutico puede tardar varias semanas y que la mejoría inicial no siempre es inmediata.",
+          "Tomar el medicamento diariamente según la prescripción y procurar mantener un horario constante.",
+          "No duplicar la dosis olvidada ni suspender el tratamiento bruscamente; consultar las indicaciones específicas ante una dosis omitida.",
+          "Informar al equipo de salud sobre todos los medicamentos, suplementos y productos herbales que utiliza.",
+          "Consultar de inmediato ante agitación intensa, fiebre con temblores o rigidez, confusión, sangrado inusual o empeoramiento marcado del estado de ánimo.",
+          "Evitar la automedicación y consultar antes de consumir alcohol u otras sustancias que puedan aumentar los efectos adversos.",
+          "Informar si está embarazada, planea un embarazo o está amamantando.",
+          "Mantener el medicamento fuera del alcance de niños y no compartirlo con otras personas."
+        ]
+      }
     }
   ]
 }
