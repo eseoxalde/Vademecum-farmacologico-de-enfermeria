@@ -6313,6 +6313,81 @@
           "No compartir el medicamento con otras personas y mantenerlo fuera del alcance de niños."
         ]
       }
+    },
+    {
+      "id": "78",
+      "nombre_generico": "Bupivacaína",
+      "letra": "B",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Bupivacaína, generalmente como clorhidrato de bupivacaína.",
+        "clasificacion": "Anestésico local de tipo amida, de acción prolongada.",
+        "efecto_terapeutica": "Produce pérdida reversible de la sensibilidad en una región del cuerpo. Según la técnica y la dosis, también puede producir bloqueo motor. Se utiliza para anestesia local, regional, epidural y determinados bloqueos nerviosos.",
+        "mecanismo_accion": "Bloquea los canales de sodio dependientes del voltaje en las membranas neuronales, inhibiendo la generación y propagación de los impulsos nerviosos. La absorción sistémica excesiva puede producir toxicidad neurológica y cardiovascular."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La absorción sistémica depende de la dosis, la concentración, la vía, la vascularización del sitio de administración y el uso de vasoconstrictores. La administración intravascular accidental puede ocasionar toxicidad grave inmediata.",
+        "distribucion": "Se distribuye por los tejidos y se une en gran proporción a proteínas plasmáticas, especialmente a la alfa-1-glucoproteína ácida. Atraviesa la placenta.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante vías enzimáticas, incluida la CYP3A4.",
+        "eliminacion": "Sus metabolitos se eliminan principalmente por vía renal. Una pequeña proporción se excreta sin modificar. La eliminación puede alterarse en pacientes con disfunción hepática o renal."
+      },
+      "indicaciones": "Anestesia local o regional mediante infiltración, bloqueos nerviosos periféricos, anestesia epidural y otras técnicas regionales según la formulación y la ficha técnica. Algunas formulaciones se utilizan en anestesia obstétrica. No todas las presentaciones están autorizadas para todas las vías. La bupivacaína no debe administrarse por vía intravenosa como anestésico local de rutina.",
+      "contraindicaciones": "Hipersensibilidad a la bupivacaína o a otros anestésicos locales de tipo amida. Contraindicaciones específicas de la técnica, como infección en el sitio de punción o alteraciones importantes de la coagulación para determinados bloqueos neuroaxiales. La anestesia regional intravenosa está contraindicada con bupivacaína debido al riesgo de cardiotoxicidad grave. Considerar también las contraindicaciones específicas de cada formulación y técnica.",
+      "precauciones": "Administrar exclusivamente por personal capacitado en anestesia o en técnicas regionales, con monitorización y recursos de reanimación disponibles. Utilizar la menor dosis eficaz. Inyectar de forma fraccionada, aspirando antes de cada administración cuando corresponda, sin asumir que la aspiración negativa descarta una inyección intravascular. Extremar las precauciones en pacientes con enfermedad cardiovascular, trastornos de conducción, hepatopatía, edad avanzada, embarazo, hipoxia, acidosis o bajo gasto cardíaco. Evitar la administración intravascular accidental y respetar las restricciones de cada formulación.",
+      "advertencias": "Puede causar toxicidad sistémica por anestésicos locales (LAST), con parestesias periorales, sabor metálico, tinnitus, agitación, convulsiones, depresión del sistema nervioso central, hipotensión, arritmias ventriculares, colapso cardiovascular y paro cardíaco. La cardiotoxicidad puede ser grave y difícil de tratar. Los síntomas pueden aparecer de inmediato o retrasarse después de la administración. Debe haber disponibilidad inmediata de oxígeno, equipos de reanimación y emulsión lipídica al 20 % para el tratamiento de la toxicidad sistémica grave, siguiendo el protocolo institucional vigente.",
+      "embarazo_lactancia": "Atraviesa la placenta. Puede utilizarse en determinadas técnicas anestésicas obstétricas cuando el beneficio clínico lo justifica, bajo supervisión especializada y con selección cuidadosa de dosis. La elección de la técnica y la dosis debe considerar los efectos maternos y fetales. Pasa a la leche materna en cantidades generalmente bajas; valorar la situación clínica, la formulación y las recomendaciones de la ficha técnica antes de su uso durante la lactancia.",
+      "ajustes": {
+        "renal": "No existe un ajuste universal basado únicamente en la función renal. En insuficiencia renal grave puede alterarse la eliminación de metabolitos y aumentar el riesgo de acumulación en determinadas circunstancias. Individualizar la dosis según el estado clínico, la duración de la técnica y la ficha técnica.",
+        "hepatico": "El metabolismo hepático puede estar reducido en la hepatopatía, especialmente si es grave, lo que aumenta el riesgo de acumulación y toxicidad con dosis repetidas o infusiones prolongadas. Considerar reducir la dosis y aumentar la vigilancia clínica."
+      },
+      "interacciones": "Los antiarrítmicos y otros anestésicos locales pueden sumar efectos tóxicos cardíacos o neurológicos. Los fármacos que afectan el metabolismo hepático pueden modificar la exposición a bupivacaína. Los medicamentos que deprimen la conducción o la función cardiovascular pueden aumentar el riesgo de complicaciones. Revisar la medicación concomitante y la ficha técnica específica antes de administrarla.",
+      "reacciones_adversas": "Hipotensión, bradicardia, náuseas, vómitos, mareos, parestesias, retención urinaria y bloqueo motor, según la técnica. La anestesia neuroaxial puede producir cefalea pospunción dural, bloqueo alto o total, depresión respiratoria y alteraciones hemodinámicas. Puede presentarse lesión nerviosa, hematoma o infección relacionada con el procedimiento. Las reacciones graves incluyen convulsiones, arritmias, depresión miocárdica, paro cardíaco y reacciones de hipersensibilidad.",
+      "toxicidad_sobredosis": "La toxicidad sistémica puede deberse a una dosis excesiva, absorción rápida o inyección intravascular accidental. Suspender inmediatamente la administración ante signos sospechosos, solicitar ayuda y activar el protocolo de emergencia. Asegurar la vía aérea y la oxigenación, tratar las convulsiones y las alteraciones cardiovasculares según el protocolo específico para toxicidad por anestésicos locales. En toxicidad grave, administrar emulsión lipídica al 20 % conforme a las recomendaciones vigentes. La reanimación puede diferir de la habitual; evitar vasopresina, betabloqueantes, antagonistas del calcio y anestésicos locales adicionales en el tratamiento de la cardiotoxicidad por LAST, de acuerdo con el protocolo especializado.",
+      "antidotos": "No existe un antídoto específico convencional. La emulsión lipídica intravenosa al 20 % es un tratamiento de rescate para la toxicidad sistémica grave por anestésicos locales y debe administrarse conforme al protocolo institucional y a las recomendaciones especializadas vigentes. No sustituye el soporte vital avanzado.",
+      "monitorizacion": {
+        "clinica": "Controlar presión arterial, frecuencia cardíaca, electrocardiograma, frecuencia respiratoria, saturación de oxígeno, nivel de conciencia y respuesta al bloqueo. Vigilar de forma continua durante la administración y el período de riesgo posterior, según la técnica y el estado del paciente. Observar signos precoces de toxicidad neurológica o cardiovascular y de bloqueo neuroaxial excesivo.",
+        "laboratorio": "No se requieren análisis específicos de rutina para cada administración. Según el paciente y el procedimiento, valorar hemograma, coagulación, función renal, función hepática y electrolitos. La medición plasmática de bupivacaína no suele ser útil para tomar decisiones urgentes y no debe retrasar el tratamiento de la toxicidad."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar identidad, indicación, alergias, antecedentes de reacciones a anestésicos locales, medicación concomitante, peso, estado cardiovascular y función hepática y renal cuando corresponda. Verificar formulación, concentración, dosis total prevista, vía y técnica. Registrar signos vitales y evaluación neurológica basal. Comprobar que el equipo de reanimación y la emulsión lipídica al 20 % estén disponibles.",
+        "durante": "Administrar por la vía indicada y mediante la técnica correspondiente, con aspiración e inyección fraccionada cuando proceda. Vigilar presión arterial, pulso, ECG, respiración, saturación, conciencia y respuesta anestésica. Suspender la administración y activar el protocolo de emergencia ante síntomas de toxicidad, cambios hemodinámicos relevantes o alteraciones del ritmo cardíaco.",
+        "despues": "Mantener la vigilancia hasta la recuperación adecuada de la sensibilidad, la función motora y los parámetros hemodinámicos, según la técnica utilizada. Evaluar dolor, bloqueo residual, movilidad, sensibilidad, micción cuando corresponda y posibles complicaciones neurológicas o del sitio de punción. Indicar medidas de prevención de lesiones mientras persista el bloqueo."
+      },
+      "presentaciones": "Soluciones inyectables en distintas concentraciones, habitualmente 0,25 %, 0,5 % y 0,75 % según el producto y el país; algunas formulaciones contienen adrenalina y otras están diseñadas para usos específicos, como la anestesia neuroaxial. La disponibilidad y las vías autorizadas varían según la presentación. Verificar siempre el envase y la ficha técnica antes de usar.",
+      "dosis": {
+        "adultos": "La dosis depende de la técnica, la región anatómica, la concentración, la vía, el estado clínico y el uso de vasoconstrictor. Como referencia general, muchas fichas técnicas establecen límites máximos distintos según la técnica y la formulación; en algunas infiltraciones o bloqueos se citan límites de hasta 2 mg/kg sin adrenalina y hasta 3 mg/kg con adrenalina, con topes absolutos específicos del producto. Estos valores no son aplicables a todas las técnicas y no deben usarse como pauta universal. Utilizar la menor dosis eficaz y consultar la ficha técnica local.",
+        "pediatrico": "La dosis debe calcularla un profesional especializado según peso, edad, técnica y formulación. Los límites varían entre procedimientos y productos; no extrapolar dosis adultas ni administrar sin monitorización y medios de reanimación adecuados. Verificar la ficha técnica específica y el protocolo pediátrico institucional.",
+        "geriatrico": "Puede requerirse una dosis menor debido a cambios fisiológicos, comorbilidades y mayor sensibilidad a los efectos cardiovasculares y neurológicos. Individualizar según el estado clínico, la técnica y la respuesta, con vigilancia estrecha."
+      },
+      "vias_administracion": "Infiltración local, bloqueo de nervios periféricos, epidural y otras técnicas regionales autorizadas para la presentación específica. La administración intratecal solo debe realizarse con una formulación expresamente autorizada para ese uso. No administrar por vía intravenosa como anestésico local de rutina ni utilizar una presentación para una vía no autorizada.",
+      "preparacion": {
+        "dilucion": "Usar la concentración y la formulación indicadas para la técnica. No diluir de manera rutinaria si el producto está listo para usar. Si se requiere dilución, utilizar únicamente el diluyente autorizado y una técnica aséptica, de acuerdo con la ficha técnica y el protocolo institucional. No mezclar con otros medicamentos sin confirmar compatibilidad.",
+        "compatibilidad_iv": "No corresponde a una infusión intravenosa rutinaria de bupivacaína como anestésico local. Para usos especializados o mezclas autorizadas, verificar la compatibilidad con farmacia y la ficha técnica del producto. No asumir compatibilidad por pertenecer a la misma clase farmacológica."
+      },
+      "velocidad_infusion": "No existe una velocidad de infusión intravenosa universal para la bupivacaína como anestésico local. La administración epidural u otras técnicas continuas deben realizarse únicamente mediante protocolos específicos, con bomba cuando corresponda y vigilancia especializada. Respetar los límites de dosis y la ficha técnica de la formulación utilizada.",
+      "estabilidad_soluciones": "Conservar según las condiciones indicadas por el fabricante. Inspeccionar antes de usar; no utilizar si la solución presenta partículas, cambio de color, envase dañado o alteración visible. La estabilidad después de abrir, preparar o diluir depende del producto, del envase, del diluyente y de las condiciones asépticas; no asignar un período de uso posterior sin consultar la ficha técnica.",
+      "concentracion": "Las concentraciones habituales incluyen 0,25 % (2,5 mg/mL), 0,5 % (5 mg/mL) y 0,75 % (7,5 mg/mL), según la presentación disponible. Confirmar la concentración exacta en el envase; no confundir porcentaje con mg/mL ni intercambiar formulaciones sin comprobar la indicación y la vía autorizada.",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Puede causar convulsiones, arritmias ventriculares y paro cardíaco por inyección intravascular accidental o sobredosis. Verificar concentración, dosis total, vía y formulación antes de administrar. Requiere personal capacitado, monitorización adecuada y disponibilidad inmediata de recursos de reanimación y emulsión lipídica al 20 %.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar prescripción, identidad del paciente, alergias, presentación, concentración, vía, dosis total y técnica prevista antes de la administración.",
+          "Comprobar que la formulación sea adecuada para la vía indicada, especialmente en técnicas neuroaxiales.",
+          "Realizar doble verificación independiente de la dosis y de la concentración conforme al protocolo institucional.",
+          "Asegurar monitorización y disponibilidad de oxígeno, material de reanimación, medicación de emergencia y emulsión lipídica al 20 %.",
+          "Mantener técnica aséptica y colaborar con el profesional responsable durante la administración.",
+          "Vigilar de forma continua los signos vitales, el electrocardiograma, la respiración, la conciencia y la aparición de síntomas neurológicos o cardiovasculares.",
+          "Suspender la administración y activar el protocolo de emergencia ante sospecha de toxicidad sistémica.",
+          "Registrar la dosis total, la concentración, la vía, el sitio de administración, la hora, la respuesta clínica y cualquier evento adverso.",
+          "Proteger la zona anestesiada de traumatismos, calor y frío extremos mientras persista la pérdida de sensibilidad."
+        ],
+        "educacion_paciente": [
+          "Explicar que la sensibilidad y, en algunos casos, la movilidad pueden permanecer reducidas durante un período variable después del procedimiento.",
+          "Indicar que no debe caminar sin ayuda ni apoyar peso sobre una extremidad anestesiada hasta recuperar la fuerza y la sensibilidad de forma segura.",
+          "Advertir que debe comunicar inmediatamente sabor metálico, zumbidos, mareos intensos, adormecimiento alrededor de la boca, palpitaciones, dificultad para respirar, confusión o convulsiones.",
+          "Recomendar evitar fuentes de calor, frío extremo y lesiones en la zona anestesiada hasta que se recupere la sensibilidad.",
+          "Indicar que informe al equipo de salud si el adormecimiento, la debilidad, el dolor o cualquier alteración neurológica persiste más de lo esperado o empeora."
+        ]
+      }
     }
   ]
 }
