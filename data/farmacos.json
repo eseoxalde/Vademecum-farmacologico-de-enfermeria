@@ -7712,6 +7712,85 @@
           "Indicar que comunique antecedentes de reacciones alérgicas, enfermedades neuromusculares y medicamentos que utiliza."
         ]
       }
+    },
+    {
+      "id": "96",
+      "nombre_generico": "Escitalopram",
+      "letra": "E",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Escitalopram, habitualmente como oxalato de escitalopram.",
+        "clasificacion": "Antidepresivo inhibidor selectivo de la recaptación de serotonina (ISRS).",
+        "efecto_terapeutica": "Disminuye los síntomas de depresión y ansiedad. Puede mejorar el estado de ánimo, reducir las preocupaciones excesivas y aliviar los síntomas de algunos trastornos de ansiedad. La respuesta terapéutica puede tardar varias semanas.",
+        "mecanismo_accion": "Inhibe selectivamente el transportador de serotonina, aumentando su disponibilidad en el espacio sináptico y potenciando la neurotransmisión serotoninérgica en el sistema nervioso central."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe bien por vía oral. La biodisponibilidad es elevada y la presencia de alimentos no modifica significativamente la absorción. Alcanza concentraciones plasmáticas máximas aproximadamente entre 3 y 5 horas después de la administración.",
+        "distribucion": "Presenta una unión a proteínas plasmáticas aproximada del 56 % y se distribuye ampliamente en el organismo.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante las enzimas CYP2C19, CYP3A4 y CYP2D6, formando metabolitos con menor actividad farmacológica.",
+        "eliminacion": "Se elimina por vía renal y fecal, principalmente como metabolitos y parcialmente como fármaco sin modificar. Su semivida de eliminación es de aproximadamente 27 a 32 horas."
+      },
+      "indicaciones": "Tratamiento del trastorno depresivo mayor y de determinados trastornos de ansiedad, como trastorno de ansiedad generalizada, trastorno de pánico, ansiedad social y trastorno obsesivo-compulsivo, según las autorizaciones de cada país y la ficha técnica del producto.",
+      "contraindicaciones": "Hipersensibilidad al escitalopram o a alguno de los componentes de la formulación. Uso concomitante con inhibidores de la monoaminooxidasa (IMAO) o dentro de los períodos de separación establecidos para evitar el síndrome serotoninérgico. Contraindicado en pacientes con prolongación congénita conocida del intervalo QT y con determinados medicamentos que prolongan el QT, según la ficha técnica y la normativa local.",
+      "precauciones": "Utilizar con precaución en pacientes con antecedentes de convulsiones, trastorno bipolar o manía, hiponatremia, diabetes, glaucoma de ángulo estrecho, riesgo de hemorragia, enfermedad cardíaca o alteraciones electrolíticas. Valorar el riesgo de caídas en personas mayores. Vigilar el empeoramiento clínico y la aparición de ideación suicida, especialmente al inicio del tratamiento y después de modificar la dosis.",
+      "advertencias": "Puede aumentar el riesgo de síndrome serotoninérgico, hemorragias, hiponatremia y prolongación del intervalo QT. Puede aumentar transitoriamente la ansiedad o la inquietud al inicio del tratamiento. No suspender bruscamente: reducir la dosis gradualmente bajo indicación profesional para disminuir los síntomas de discontinuación. En niños, adolescentes y adultos jóvenes, vigilar especialmente la aparición o el empeoramiento de ideación o conducta suicida.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar únicamente después de valorar los beneficios y los riesgos. La exposición durante etapas avanzadas puede asociarse con efectos neonatales, como síntomas de adaptación y, en algunos casos, hipertensión pulmonar persistente del recién nacido. El escitalopram pasa a la leche materna; valorar individualmente la necesidad del tratamiento, las alternativas y la vigilancia del lactante. No suspender el tratamiento sin consultar al equipo de salud.",
+      "ajustes": {
+        "renal": "En insuficiencia renal leve o moderada generalmente no se requiere ajuste rutinario. En insuficiencia renal grave, utilizar con precaución porque la evidencia es limitada y puede ser necesario individualizar la dosis.",
+        "hepatico": "En insuficiencia hepática se recomienda generalmente una dosis inicial menor y una dosis máxima reducida, de acuerdo con la ficha técnica local. La eliminación puede disminuir y aumentar la exposición al medicamento."
+      },
+      "interacciones": "No combinar con IMAO ni con otros medicamentos serotoninérgicos sin una evaluación clínica específica por riesgo de síndrome serotoninérgico. Tramadol, fentanilo, litio, triptanos, linezolid y hierba de San Juan pueden aumentar el riesgo serotoninérgico. Anticoagulantes, antiagregantes y AINE pueden aumentar el riesgo de hemorragia. Otros medicamentos que prolongan el QT pueden aumentar el riesgo de arritmias. Los inhibidores de CYP2C19 pueden elevar las concentraciones de escitalopram. Revisar las interacciones antes de iniciar, suspender o modificar otros tratamientos.",
+      "reacciones_adversas": "Náuseas, cefalea, insomnio o somnolencia, mareos, sudoración aumentada, fatiga, diarrea, estreñimiento, sequedad bucal y alteraciones sexuales, como disminución de la libido o retraso de la eyaculación. También pueden aparecer ansiedad inicial, temblor y cambios de peso. Reacciones graves menos frecuentes incluyen síndrome serotoninérgico, hiponatremia, hemorragia, convulsiones, manía, ideación suicida y arritmias asociadas a prolongación del QT.",
+      "toxicidad_sobredosis": "La sobredosis puede producir náuseas, vómitos, mareos, temblor, agitación, somnolencia, taquicardia, convulsiones, alteraciones del electrocardiograma y, en casos graves, síndrome serotoninérgico o arritmias. Requiere valoración urgente, monitorización clínica y electrocardiográfica y tratamiento de soporte. No inducir el vómito ni administrar tratamientos caseros. En caso de sospecha de sobredosis, acudir a urgencias o contactar con el servicio local de emergencias.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte, con control de la vía aérea, signos vitales, estado neurológico y electrocardiograma según la gravedad. El síndrome serotoninérgico requiere suspender los agentes causales y tratamiento médico urgente; en determinados casos se utiliza ciproheptadina bajo supervisión clínica.",
+      "monitorizacion": {
+        "clinica": "Evaluar la evolución de los síntomas depresivos o ansiosos, el sueño, la adherencia, los efectos adversos y la aparición de agitación, manía o ideación suicida. Vigilar signos de síndrome serotoninérgico, sangrado y alteraciones del ritmo cardíaco en pacientes con factores de riesgo.",
+        "laboratorio": "No requiere análisis rutinarios específicos en todos los pacientes. Considerar sodio sérico en personas mayores o con factores de riesgo de hiponatremia. Evaluar electrolitos y función renal o hepática según antecedentes y situación clínica. Solicitar electrocardiograma cuando existan factores de riesgo de prolongación del QT o según indicación médica."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis prescrita, antecedentes de alergias, tratamientos concomitantes, episodios de manía, convulsiones, riesgo suicida y antecedentes cardíacos. Revisar factores de riesgo de hiponatremia, sangrado y prolongación del QT. Valorar embarazo o lactancia cuando corresponda.",
+        "durante": "Evaluar periódicamente la respuesta clínica, la adherencia y la tolerancia. Vigilar cambios del estado de ánimo, ansiedad inicial, alteraciones del sueño, efectos sexuales, signos de sangrado y síntomas compatibles con síndrome serotoninérgico. Controlar sodio o realizar ECG cuando esté indicado.",
+        "despues": "Reevaluar la eficacia, los efectos adversos y la necesidad de continuar el tratamiento. Si se indica suspenderlo, comprobar que exista un plan de reducción gradual y vigilar síntomas de discontinuación o recaída. Documentar la evolución y comunicar oportunamente los signos de alarma."
+      },
+      "presentaciones": "Comprimidos recubiertos, habitualmente de 5 mg, 10 mg y 20 mg, y solución oral en determinadas presentaciones. La disponibilidad y las concentraciones varían según el fabricante y el país; verificar el envase y la ficha técnica.",
+      "dosis": {
+        "adultos": "La dosis habitual depende de la indicación. En adultos, suele iniciarse con 10 mg por vía oral una vez al día y puede aumentarse hasta 20 mg diarios según la respuesta y la ficha técnica. En algunos trastornos o pacientes puede indicarse una dosis inicial menor. Los aumentos deben realizarse bajo supervisión profesional, considerando la tolerancia y el riesgo de prolongación del QT.",
+        "pediatrico": "La seguridad y la autorización varían según la edad, la indicación y el país. No administrar sin prescripción y seguimiento especializado. En niños y adolescentes, vigilar estrechamente los cambios conductuales y la ideación suicida.",
+        "geriatrico": "En personas mayores, la dosis recomendada suele ser de 10 mg una vez al día y deben respetarse los límites establecidos por la ficha técnica local. Valorar hiponatremia, caídas, interacciones y riesgo de prolongación del QT."
+      },
+      "vias_administracion": "Oral, en comprimidos o solución oral según la presentación. Administrar una vez al día, con o sin alimentos, preferentemente a una hora constante.",
+      "preparacion": {
+        "dilucion": "Los comprimidos se administran por vía oral y no requieren dilución. La solución oral debe medirse con el dispositivo dosificador correspondiente. Si se necesita mezclar la solución con una bebida, seguir las instrucciones de la ficha técnica del producto.",
+        "compatibilidad_iv": "No corresponde: el escitalopram se administra por vía oral y no dispone de una presentación intravenosa de uso habitual."
+      },
+      "velocidad_infusion": "No corresponde. Se administra por vía oral.",
+      "estabilidad_soluciones": "Conservar los comprimidos y la solución oral en su envase original, bajo las condiciones de temperatura, protección de la luz y período de uso indicados por el fabricante. Una vez abierta la solución oral, respetar el período de utilización especificado en su ficha técnica.",
+      "concentracion": "Los comprimidos suelen estar disponibles en concentraciones de 5 mg, 10 mg y 20 mg. La solución oral, cuando está disponible, presenta concentraciones variables según el fabricante. Confirmar la concentración exacta antes de calcular la dosis.",
+      "alarma_riesgo": "Vigilar ideación suicida nueva o agravada, agitación intensa, fiebre con temblor o rigidez, confusión, convulsiones, síncope, palpitaciones importantes o signos de sangrado. Estos síntomas requieren evaluación médica urgente. Evitar la suspensión brusca y revisar las interacciones serotoninérgicas y los medicamentos que prolongan el QT.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la dosis, la vía oral y los antecedentes de alergias.",
+          "Revisar la medicación concomitante para detectar IMAO, otros fármacos serotoninérgicos, anticoagulantes, antiagregantes y medicamentos que prolongan el QT.",
+          "Valorar el estado de ánimo, los síntomas de ansiedad o depresión y el riesgo de autolesión según el contexto clínico.",
+          "Explicar que el efecto terapéutico puede tardar varias semanas y que no debe aumentarse la dosis por cuenta propia.",
+          "Vigilar náuseas, alteraciones del sueño, mareos, cambios sexuales y otros efectos adversos que puedan afectar la adherencia.",
+          "Observar signos de síndrome serotoninérgico, como agitación, fiebre, sudoración, temblor, hiperreflexia o rigidez, y comunicar de inmediato la sospecha.",
+          "Vigilar confusión, debilidad o convulsiones que puedan indicar hiponatremia, especialmente en personas mayores o pacientes con factores de riesgo.",
+          "Controlar el sodio sérico y el electrocardiograma cuando estén indicados por los factores de riesgo o la situación clínica.",
+          "Reforzar que no debe suspenderse bruscamente y que cualquier reducción debe realizarse bajo indicación profesional.",
+          "Registrar la respuesta terapéutica, la adherencia, los efectos adversos y las intervenciones de enfermería."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento diariamente según la prescripción, a una hora constante, con o sin alimentos.",
+          "No modificar la dosis ni suspender el tratamiento sin consultar al profesional que lo indicó.",
+          "Informar sobre todos los medicamentos, suplementos y productos herbales que utiliza, especialmente tramadol, otros antidepresivos y hierba de San Juan.",
+          "Comprender que la mejoría puede tardar varias semanas y que debe mantener los controles programados.",
+          "Solicitar ayuda urgente ante ideas de suicidio, agitación intensa, fiebre acompañada de temblores o rigidez, desmayo, convulsiones o palpitaciones importantes.",
+          "Evitar el consumo de alcohol o consultar al equipo de salud sobre sus riesgos durante el tratamiento, ya que puede empeorar algunos efectos adversos.",
+          "Consultar si aparecen sangrados inusuales, confusión persistente, debilidad marcada o efectos adversos que dificulten continuar el tratamiento.",
+          "Consultar antes de usar antiinflamatorios, anticoagulantes, otros antidepresivos o suplementos que puedan interactuar."
+        ]
+      }
     }
   ]
 }
