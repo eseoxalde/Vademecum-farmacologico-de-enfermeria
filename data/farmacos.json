@@ -9695,6 +9695,84 @@
           "Consultar si presenta vómitos persistentes, fiebre, dificultad para alimentarse, ictericia o reacciones cutáneas."
         ]
       }
+    },
+    {
+      "id": "122",
+      "nombre_generico": "Glibenclamida",
+      "letra": "G",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Glibenclamida",
+        "clasificacion": "Antidiabético oral; sulfonilurea de segunda generación; código ATC A10BB01",
+        "efecto_terapeutica": "Disminuye la glucemia en pacientes con diabetes mellitus tipo 2 al estimular la secreción pancreática de insulina",
+        "mecanismo_accion": "Se une a receptores específicos de las células beta pancreáticas y bloquea los canales de potasio sensibles al ATP; provoca despolarización de la membrana celular, entrada de calcio y liberación de insulina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral; la absorción puede verse influida por los alimentos y por las características de la formulación",
+        "distribucion": "Presenta una elevada unión a proteínas plasmáticas",
+        "metabolismo": "Se metaboliza principalmente en el hígado y forma metabolitos con actividad hipoglucemiante limitada o no significativa según la información del producto",
+        "eliminacion": "Se elimina en forma de metabolitos por vía biliar y urinaria; la ficha técnica consultada describe aproximadamente un 60 % de eliminación biliar y un 40 % urinaria; la eliminación puede prolongarse en determinadas condiciones clínicas"
+      },
+      "indicaciones": "Tratamiento de adultos con diabetes mellitus tipo 2 cuando la dieta, el ejercicio físico y la reducción de peso no son suficientes para controlar la glucemia",
+      "contraindicaciones": "Hipersensibilidad a la glibenclamida o a alguno de los excipientes; diabetes mellitus tipo 1; cetoacidosis diabética; precoma o coma diabético; insuficiencia renal grave; insuficiencia hepática grave; embarazo; lactancia; tratamiento concomitante con bosentán según el prospecto de Daonil",
+      "precauciones": "Riesgo elevado de hipoglucemia grave o prolongada; comidas irregulares; ayuno; malnutrición; ejercicio intenso; consumo de alcohol; insuficiencia renal o hepática; edad avanzada; deficiencia de G6PD; enfermedades agudas; interacciones medicamentosas",
+      "advertencias": "Puede producir hipoglucemia intensa, prolongada y recurrente; el riesgo aumenta en personas mayores y en pacientes con insuficiencia renal, insuficiencia hepática o alimentación insuficiente; algunas medicaciones pueden enmascarar los síntomas de hipoglucemia; el uso con bosentán no está recomendado por el riesgo de alteración hepática",
+      "embarazo_lactancia": "No se recomienda durante el embarazo; se recomienda cambiar a insulina bajo supervisión médica; no se recomienda durante la lactancia por el posible paso del medicamento a la leche materna y el riesgo para el lactante",
+      "ajustes": {
+        "renal": "La insuficiencia renal aumenta el riesgo de hipoglucemia; el prospecto de Daonil contraindica su uso en insuficiencia renal grave; en otros grados de deterioro se requiere valoración individual y puede ser preferible una alternativa con menor riesgo de hipoglucemia",
+        "hepatico": "La insuficiencia hepática aumenta el riesgo de hipoglucemia y puede prolongar sus efectos; el prospecto de Daonil contraindica su uso en insuficiencia hepática grave"
+      },
+      "interacciones": "Pueden aumentar el efecto hipoglucemiante los antidiabéticos, insulina, salicilatos, algunos antiinflamatorios, fibratos, anticoagulantes cumarínicos, determinados antibióticos, antifúngicos, fluoxetina e inhibidores de la monoaminooxidasa; pueden elevar la glucemia los glucocorticoides, diuréticos, estrógenos, progestágenos, hormonas tiroideas y simpaticomiméticos; el alcohol puede modificar imprevisiblemente la glucemia; bosentán está contraindicado en combinación con Daonil según su prospecto; colesevelam puede reducir la absorción de glibenclamida",
+      "reacciones_adversas": "Hipoglucemia; náuseas; vómitos; dolor abdominal; diarrea; aumento de peso; reacciones alérgicas; prurito; erupciones cutáneas; fotosensibilidad; elevación de enzimas hepáticas; hepatitis o ictericia; alteraciones hematológicas como trombocitopenia, leucopenia, agranulocitosis o anemia hemolítica; alteraciones visuales transitorias asociadas a cambios de la glucemia",
+      "toxicidad_sobredosis": "La sobredosis puede producir hipoglucemia grave, prolongada y recurrente; requiere atención médica urgente, determinaciones seriadas de glucemia y administración de glucosa según el estado clínico; puede necesitarse hospitalización y vigilancia prolongada por el riesgo de recurrencia",
+      "antidotos": "No existe un antídoto específico; la glucosa es el tratamiento de la hipoglucemia; el glucagón puede utilizarse en situaciones seleccionadas según el protocolo clínico",
+      "monitorizacion": {
+        "clinica": "Glucemia; estado de conciencia; síntomas de hipoglucemia; patrón de alimentación; peso; presión arterial según estado clínico; signos de alergia; signos de lesión hepática",
+        "laboratorio": "Glucemia; hemoglobina glucosilada; función renal; función hepática; hemograma cuando esté indicado"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar glucemia y HbA1c; función renal y hepática; edad y fragilidad; patrón alimentario; antecedentes de hipoglucemia; consumo de alcohol; medicamentos concomitantes; capacidad para reconocer y tratar una hipoglucemia",
+        "durante": "Controlar glucemia según la pauta; observar sudoración, temblores, palpitaciones, mareos, confusión o somnolencia; verificar la ingesta de alimentos; vigilar función renal y hepática según indicación; evaluar interacciones y reacciones adversas",
+        "despues": "Evaluar la respuesta glucémica y la tolerancia; registrar los episodios de hipoglucemia; valorar la necesidad de reevaluación médica de la dosis; documentar las reacciones adversas y reforzar la educación del paciente"
+      },
+      "presentaciones": "Comprimidos de 5 mg en el prospecto argentino de Daonil consultado; pueden existir otras presentaciones o formulaciones según el producto y el mercado",
+      "dosis": {
+        "adultos": "En el prospecto de Daonil, la dosis inicial habitual es de 2,5 mg a 5 mg una vez al día, antes de la primera comida abundante; ajustar gradualmente bajo supervisión médica según glucemia y tolerancia; el prospecto consultado contempla aumentos progresivos y dosis mayores únicamente en situaciones seleccionadas",
+        "pediatrico": "No se recomienda para uso pediátrico; no se ha establecido una pauta de dosificación pediátrica apropiada",
+        "geriatrico": "Iniciar con la menor dosis posible y ajustar con extrema precaución; existe mayor riesgo de hipoglucemia grave y prolongada en personas mayores"
+      },
+      "vias_administracion": "Oral",
+      "preparacion": {
+        "dilucion": "No requiere dilución; administrar el comprimido por vía oral",
+        "compatibilidad_iv": "No aplica; no es una formulación intravenosa"
+      },
+      "velocidad_infusion": "No aplica",
+      "estabilidad_soluciones": "No aplica; conservar los comprimidos de acuerdo con el prospecto específico",
+      "concentracion": "Comprimidos de 5 mg en el producto Daonil consultado",
+      "alarma_riesgo": "Hipoglucemia grave o recurrente; alteración de conciencia; convulsiones; incapacidad para deglutir; ictericia; reacción alérgica grave",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar la glucemia según la pauta prescrita y registrar sus variaciones.",
+          "Valorar signos de hipoglucemia antes y después de la administración cuando esté indicado.",
+          "Comprobar que el paciente pueda ingerir alimentos y mantener horarios regulares de comidas.",
+          "Vigilar el estado de conciencia y la capacidad de deglución ante sospecha de hipoglucemia.",
+          "Si el paciente está inconsciente o no puede deglutir, no administrar alimentos ni líquidos por vía oral y activar la atención de urgencia.",
+          "Vigilar función renal y hepática según indicación clínica.",
+          "Revisar las interacciones con otros medicamentos y comunicar las combinaciones contraindicadas.",
+          "Registrar los episodios de hipoglucemia y comunicar inmediatamente los casos graves o recurrentes."
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación exactamente según la prescripción, generalmente antes de la primera comida abundante.",
+          "No omitir comidas después de tomar el medicamento.",
+          "No duplicar la dosis para compensar una toma olvidada.",
+          "Reconocer síntomas de hipoglucemia como sudoración, temblores, hambre, palpitaciones, mareos o confusión.",
+          "Llevar una fuente de glucosa de acción rápida y seguir las instrucciones sanitarias para tratar una hipoglucemia.",
+          "Evitar el consumo de alcohol o consultar previamente con el equipo sanitario.",
+          "Informar al médico sobre todos los medicamentos que utiliza, incluidos los de venta libre.",
+          "Consultar antes de realizar cambios importantes en la alimentación, el ejercicio o el tratamiento.",
+          "Informar si presenta vómitos persistentes, fiebre, infección, dificultad para alimentarse o síntomas de alteración hepática."
+        ]
+      }
     }
   ]
 }
