@@ -9465,6 +9465,82 @@
           "No suspender ni modificar otros antidiabéticos sin indicación profesional."
         ]
       }
+    },
+    {
+      "id": "119",
+      "nombre_generico": "Canagliflozina",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Canagliflozina",
+        "clasificacion": "Antidiabético oral; inhibidor del cotransportador sodio-glucosa tipo 2 (SGLT2); código ATC A10BK02",
+        "efecto_terapeutica": "Disminuye la glucemia en adultos con diabetes mellitus tipo 2; favorece la eliminación urinaria de glucosa y produce diuresis osmótica",
+        "mecanismo_accion": "Inhibe selectivamente el SGLT2 en el túbulo proximal renal, reduciendo la reabsorción de glucosa filtrada y aumentando su excreción urinaria; puede aumentar la excreción de sodio y disminuir el volumen intravascular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral; la concentración plasmática máxima se alcanza aproximadamente entre 1 y 2 horas; los alimentos no modifican de forma clínicamente relevante su farmacocinética",
+        "distribucion": "Presenta una unión elevada a proteínas plasmáticas, principalmente albúmina",
+        "metabolismo": "Se metaboliza principalmente mediante glucuronidación por UGT1A9 y UGT2B4; la participación del metabolismo oxidativo por CYP3A4 es minoritaria",
+        "eliminacion": "Se elimina principalmente como metabolitos por vía fecal y urinaria; la excreción renal de fármaco sin modificar es mínima"
+      },
+      "indicaciones": "Tratamiento de adultos con diabetes mellitus tipo 2 insuficientemente controlada junto con dieta y ejercicio; puede utilizarse en monoterapia cuando la metformina no es adecuada por intolerancia o contraindicación, o en combinación con otros antidiabéticos; determinadas formulaciones tienen indicaciones específicas para enfermedad renal diabética según su ficha técnica",
+      "contraindicaciones": "Hipersensibilidad a la canagliflozina o a alguno de los excipientes",
+      "precauciones": "Insuficiencia renal; edad avanzada; hipotensión o riesgo de depleción del volumen; tratamiento con diuréticos; enfermedad cardiovascular; antecedentes de amputación o enfermedad del pie; riesgo de cetoacidosis diabética; infecciones genitourinarias; tratamiento concomitante con insulina o sulfonilureas",
+      "advertencias": "Puede producir cetoacidosis diabética incluso con glucemia no marcadamente elevada; puede causar deshidratación, hipotensión, infecciones genitales y urinarias; se han descrito casos de gangrena de Fournier y amputaciones de miembros inferiores; suspender y evaluar urgentemente ante sospecha de cetoacidosis; valorar interrupción temporal ante cirugía mayor o enfermedad aguda grave según indicación médica",
+      "embarazo_lactancia": "No se recomienda durante el embarazo, especialmente durante el segundo y tercer trimestre; no se recomienda durante la lactancia debido al posible riesgo para el riñón en desarrollo del lactante",
+      "ajustes": {
+        "renal": "La dosis y la posibilidad de iniciar o continuar el tratamiento dependen de la tasa de filtración glomerular estimada y de la indicación; en la ficha de Canagliflozina Teva, la dosis habitual es 100 mg/día cuando la TFGe es de 30 a menos de 60 ml/min/1,73 m²; con TFGe inferior a 30 no se debe iniciar y la continuación se limita a situaciones específicas contempladas en la ficha técnica",
+        "hepatico": "No se requiere ajuste en insuficiencia hepática leve o moderada; no se recomienda en insuficiencia hepática grave por falta de experiencia suficiente"
+      },
+      "interacciones": "La insulina y las sulfonilureas pueden aumentar el riesgo de hipoglucemia; los diuréticos pueden aumentar la depleción de volumen; los inductores de UGT, como rifampicina, fenitoína, fenobarbital y ritonavir, pueden reducir la exposición al fármaco; puede aumentar la concentración de digoxina y requiere vigilancia cuando se administran conjuntamente",
+      "reacciones_adversas": "Candidiasis vulvovaginal y otras infecciones genitales; poliuria y polaquiuria; infección urinaria; hipoglucemia cuando se combina con insulina o secretagogos; sed; estreñimiento; náuseas; mareos; hipotensión; deshidratación; alteraciones de la función renal; cetoacidosis diabética; fascitis necrosante del periné y amputación de miembros inferiores notificadas con distinta frecuencia",
+      "toxicidad_sobredosis": "No se dispone de un antídoto específico; una sobredosis requiere valoración médica y tratamiento de soporte; vigilar glucemia, presión arterial, hidratación, función renal y signos de cetoacidosis",
+      "antidotos": "No existe antídoto específico conocido",
+      "monitorizacion": {
+        "clinica": "Glucemia; presión arterial; estado de hidratación; diuresis; síntomas de hipotensión; signos de infección genital o urinaria; integridad de los pies; síntomas compatibles con cetoacidosis",
+        "laboratorio": "Glucemia; hemoglobina glucosilada; creatinina y TFGe; electrolitos cuando esté indicado; cetonas ante sospecha de cetoacidosis; función renal periódica"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar glucemia y HbA1c; función renal; presión arterial; estado de hidratación; antecedentes de cetoacidosis; medicación concomitante; antecedentes de enfermedad vascular periférica, úlceras o amputaciones",
+        "durante": "Controlar glucemia; vigilar hipotensión, mareos, deshidratación e infecciones genitourinarias; evaluar la función renal según riesgo; comprobar la aparición de lesiones en los pies; investigar náuseas, vómitos, dolor abdominal o respiración anormal",
+        "despues": "Evaluar respuesta glucémica y tolerancia; comprobar la función renal según indicación; documentar reacciones adversas; reforzar las medidas preventivas y la educación sobre signos de alarma"
+      },
+      "presentaciones": "Comprimidos recubiertos de 100 mg y 300 mg en las presentaciones de Canagliflozina Teva; la disponibilidad de envases depende del mercado",
+      "dosis": {
+        "adultos": "Dosis inicial habitual: 100 mg por vía oral una vez al día, preferiblemente antes de la primera comida; puede aumentarse a 300 mg/día en pacientes seleccionados que toleren 100 mg, con función renal adecuada y necesidad de mayor control glucémico; respetar los límites de la ficha técnica según TFGe e indicación",
+        "pediatrico": "No se ha establecido la seguridad ni la eficacia en menores de 18 años",
+        "geriatrico": "No existe una dosis geriátrica única; considerar función renal, estado de hidratación, presión arterial y mayor susceptibilidad a reacciones adversas"
+      },
+      "vias_administracion": "Oral",
+      "preparacion": {
+        "dilucion": "No requiere dilución; se administra en forma de comprimidos",
+        "compatibilidad_iv": "No aplica; no es una formulación intravenosa"
+      },
+      "velocidad_infusion": "No aplica",
+      "estabilidad_soluciones": "No aplica; conservar los comprimidos según el prospecto del producto específico",
+      "concentracion": "Comprimidos de 100 mg y 300 mg",
+      "alarma_riesgo": "Sospecha de cetoacidosis, aunque la glucemia no sea muy elevada; deshidratación intensa; hipotensión o síncope; dolor, enrojecimiento o inflamación genital o perineal; lesión o infección del pie",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar glucemia capilar según indicación y registrar tendencias.",
+          "Valorar presión arterial, hidratación, diuresis y signos de hipotensión ortostática.",
+          "Vigilar función renal y comunicar cambios clínicamente relevantes.",
+          "Observar signos de infección urinaria, candidiasis genital o infección perineal grave.",
+          "Evaluar la integridad de los pies y comunicar lesiones, úlceras o cambios de coloración.",
+          "Ante sospecha de cetoacidosis, solicitar evaluación médica urgente sin descartarla por una glucemia relativamente normal.",
+          "Revisar los tratamientos concomitantes que puedan favorecer hipoglucemia o deshidratación."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la prescripción, preferiblemente antes de la primera comida del día.",
+          "No duplicar la dosis si olvida una toma.",
+          "Mantener una hidratación adecuada, salvo que tenga una restricción médica de líquidos.",
+          "Reconocer síntomas de cetoacidosis como náuseas, vómitos, dolor abdominal, cansancio intenso o respiración dificultosa y buscar atención urgente.",
+          "Informar de ardor al orinar, secreción genital, fiebre o dolor e inflamación en la zona genital o perineal.",
+          "Revisar los pies diariamente y comunicar heridas o signos de infección.",
+          "Informar al equipo médico antes de una cirugía o ante una enfermedad aguda que impida comer o beber normalmente.",
+          "No suspender ni modificar otros antidiabéticos sin indicación profesional."
+        ]
+      }
     }
   ]
 }
