@@ -9618,6 +9618,83 @@
           "Informar al equipo sanitario si presenta vómitos persistentes, fiebre, infección, cirugía programada o dificultades para alimentarse."
         ]
       }
+    },
+    {
+      "id": "121",
+      "nombre_generico": "Gliclazida",
+      "letra": "G",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Gliclazida",
+        "clasificacion": "Antidiabético oral; sulfonilurea; código ATC A10BB09",
+        "efecto_terapeutica": "Disminuye la glucemia mediante la estimulación de la secreción de insulina en pacientes con diabetes mellitus tipo 2; presenta propiedades hemovasculares descritas en la ficha técnica",
+        "mecanismo_accion": "Estimula la secreción de insulina por las células beta pancreáticas mediante la interacción con los canales de potasio sensibles al ATP; restablece el pico inicial de secreción de insulina en respuesta a la glucosa y mejora la respuesta posprandial"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral; las formulaciones de liberación modificada proporcionan una absorción gradual y un perfil de concentración plasmática prolongado",
+        "distribucion": "La distribución sistémica ocurre después de la absorción oral; consultar la ficha técnica de la formulación específica para los parámetros cuantitativos",
+        "metabolismo": "Se metaboliza principalmente en el hígado; sus metabolitos carecen de actividad hipoglucemiante significativa según la ficha técnica consultada",
+        "eliminacion": "Se elimina principalmente por vía urinaria en forma de metabolitos; la excreción del fármaco sin modificar es mínima"
+      },
+      "indicaciones": "Tratamiento de adultos con diabetes mellitus tipo 2 cuando la dieta, el ejercicio físico y la reducción de peso no son suficientes para controlar la glucemia; la indicación corresponde a formulaciones orales autorizadas",
+      "contraindicaciones": "Hipersensibilidad a la gliclazida, otras sulfonilureas, sulfonamidas relacionadas o excipientes; diabetes mellitus tipo 1; cetoacidosis diabética; precoma o coma diabético; insuficiencia renal o hepática grave según la formulación; tratamiento con miconazol cuando esté contraindicado por la ficha técnica; embarazo y lactancia según las recomendaciones del producto",
+      "precauciones": "Riesgo de hipoglucemia; comidas irregulares; ayuno; dieta insuficiente; ejercicio intenso; consumo de alcohol; insuficiencia renal o hepática; edad avanzada; déficit de G6PD; enfermedad aguda; uso concomitante de otros antidiabéticos",
+      "advertencias": "Puede producir hipoglucemia grave, especialmente si se omiten comidas o existe desequilibrio entre alimentación y ejercicio; la insuficiencia renal o hepática puede prolongar el riesgo; se han notificado reacciones hematológicas, hepáticas y cutáneas; algunas formulaciones de liberación modificada no deben triturarse ni masticarse",
+      "embarazo_lactancia": "No se recomienda durante el embarazo; se prefiere insulina para el control de la diabetes durante la gestación; no se recomienda durante la lactancia por el posible riesgo para el lactante",
+      "ajustes": {
+        "renal": "En insuficiencia renal leve o moderada, seguir la ficha técnica del producto y vigilar estrechamente la glucemia; la insuficiencia renal grave suele requerir una alternativa terapéutica debido al riesgo de hipoglucemia",
+        "hepatico": "La insuficiencia hepática aumenta el riesgo de hipoglucemia; no se recomienda en insuficiencia hepática grave según la ficha técnica consultada"
+      },
+      "interacciones": "Pueden aumentar el riesgo de hipoglucemia el miconazol, otros antidiabéticos, insulina, algunos antiinflamatorios, salicilatos, anticoagulantes, determinados antibióticos y antifúngicos; pueden elevar la glucemia los glucocorticoides, diuréticos, estrógenos, progestágenos y simpaticomiméticos; el alcohol puede modificar el control glucémico; revisar todas las interacciones en el prospecto de la marca concreta",
+      "reacciones_adversas": "Hipoglucemia; dolor abdominal; náuseas; vómitos; diarrea; estreñimiento; erupciones cutáneas; prurito; urticaria; elevación de enzimas hepáticas; hepatitis o ictericia en casos infrecuentes; alteraciones hematológicas como anemia, leucopenia, trombocitopenia o agranulocitosis en casos raros; alteraciones visuales transitorias relacionadas con cambios de la glucemia",
+      "toxicidad_sobredosis": "La sobredosis puede producir hipoglucemia grave y prolongada; requiere atención médica inmediata, control repetido de glucemia y administración de glucosa según el estado clínico; puede requerirse hospitalización y vigilancia prolongada",
+      "antidotos": "No existe un antídoto específico; la glucosa es el tratamiento de la hipoglucemia; el glucagón puede utilizarse en situaciones seleccionadas según el protocolo clínico",
+      "monitorizacion": {
+        "clinica": "Glucemia; síntomas de hipoglucemia; estado de conciencia; tolerancia digestiva; peso; adherencia al tratamiento; signos de alergia o lesión hepática",
+        "laboratorio": "Glucemia; hemoglobina glucosilada; función renal; función hepática; hemograma cuando esté indicado"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar glucemia y HbA1c; función renal y hepática; alimentación; antecedentes de hipoglucemia; medicamentos concomitantes; confirmar si la presentación es de liberación inmediata o modificada",
+        "durante": "Controlar glucemia según pauta; vigilar signos de hipoglucemia; comprobar que no se omitan comidas; observar reacciones cutáneas y síntomas de alteración hepática; valorar tolerancia y adherencia",
+        "despues": "Evaluar el control glucémico; registrar hipoglucemias y otros efectos adversos; comprobar la tolerancia de la formulación; comunicar cambios clínicos que puedan requerir ajuste de la dosis"
+      },
+      "presentaciones": "Comprimidos convencionales y comprimidos de liberación modificada; existen presentaciones de 30 mg y 60 mg de liberación modificada y otras concentraciones según el producto y el mercado",
+      "dosis": {
+        "adultos": "Para gliclazida de liberación modificada, la dosis inicial habitual es de 30 mg una vez al día con el desayuno; ajustar gradualmente según la respuesta; la dosis habitual puede variar entre 30 mg y 120 mg/día según la formulación; no extrapolar estas dosis a comprimidos convencionales sin consultar su ficha técnica",
+        "pediatrico": "No se recomienda en niños por falta de datos suficientes de seguridad y eficacia",
+        "geriatrico": "La dosis inicial de las formulaciones de liberación modificada suele ser de 30 mg/día; individualizar según función renal, alimentación, fragilidad y riesgo de hipoglucemia"
+      },
+      "vias_administracion": "Oral",
+      "preparacion": {
+        "dilucion": "No requiere dilución; administrar el comprimido según las instrucciones específicas de la formulación",
+        "compatibilidad_iv": "No aplica; no es una formulación intravenosa"
+      },
+      "velocidad_infusion": "No aplica",
+      "estabilidad_soluciones": "No aplica; conservar los comprimidos según el prospecto del producto",
+      "concentracion": "Comprimidos de liberación modificada de 30 mg y 60 mg en las presentaciones consultadas; pueden existir otras concentraciones según la formulación",
+      "alarma_riesgo": "Hipoglucemia grave; alteración de conciencia; convulsiones; incapacidad para deglutir; reacción alérgica grave; ictericia o signos de lesión hepática",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar la glucemia según la pauta prescrita y registrar los resultados.",
+          "Valorar signos de hipoglucemia y comprobar la disponibilidad de un protocolo de tratamiento.",
+          "Verificar que el paciente pueda mantener una alimentación regular.",
+          "Administrar la formulación de liberación modificada según el prospecto y no triturarla ni masticarla cuando esté contraindicado.",
+          "Vigilar la función renal y hepática según indicación clínica.",
+          "Observar reacciones cutáneas, ictericia o signos de alteración hematológica.",
+          "Revisar medicamentos concomitantes que puedan aumentar o reducir el efecto hipoglucemiante.",
+          "Comunicar episodios de hipoglucemia grave o recurrente."
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación según la prescripción, generalmente con el desayuno cuando se trate de una formulación de liberación modificada.",
+          "No omitir comidas ni duplicar la dosis olvidada.",
+          "No triturar ni masticar los comprimidos de liberación modificada si el prospecto indica que deben tragarse enteros.",
+          "Reconocer síntomas de hipoglucemia como sudoración, temblores, hambre, mareos o confusión.",
+          "Llevar una fuente de glucosa de acción rápida y seguir el plan indicado para tratar la hipoglucemia.",
+          "Evitar el consumo de alcohol o consultar con el equipo sanitario antes de consumirlo.",
+          "Informar sobre todos los medicamentos que utiliza antes de iniciar un tratamiento nuevo.",
+          "Consultar si presenta vómitos persistentes, fiebre, dificultad para alimentarse, ictericia o reacciones cutáneas."
+        ]
+      }
     }
   ]
 }
