@@ -7637,6 +7637,81 @@
           "Indicar que comunique antecedentes de reacciones alérgicas, enfermedades neuromusculares y medicamentos que utiliza."
         ]
       }
+    },
+    {
+      "id": "95",
+      "nombre_generico": "Rocuronio",
+      "letra": "R",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Bromuro de rocuronio",
+        "clasificacion": "Bloqueante neuromuscular no despolarizante, relajante muscular de acción intermedia.",
+        "efecto_terapeutica": "Produce relajación de la musculatura esquelética para facilitar la intubación endotraqueal y permitir la relajación muscular durante procedimientos quirúrgicos o la ventilación mecánica.",
+        "mecanismo_accion": "Compite con la acetilcolina por los receptores nicotínicos de la placa motora, bloqueando la transmisión neuromuscular e impidiendo la contracción muscular. No produce analgesia, sedación ni pérdida de conciencia."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se administra por vía intravenosa, por lo que su biodisponibilidad sistémica es completa. No se utiliza por vía oral para producir bloqueo neuromuscular.",
+        "distribucion": "Se distribuye principalmente en el compartimento extracelular. No atraviesa significativamente la barrera hematoencefálica.",
+        "metabolismo": "Se metaboliza en grado limitado. La mayor parte del fármaco circulante se elimina sin cambios; su metabolismo hepático es limitado.",
+        "eliminacion": "Se elimina principalmente por vía biliar y fecal, con participación de la vía renal. La insuficiencia hepática o renal puede modificar o prolongar su efecto."
+      },
+      "indicaciones": "Como complemento de la anestesia general para facilitar la intubación endotraqueal, incluida la secuencia rápida de intubación cuando está indicado, y proporcionar relajación muscular durante procedimientos quirúrgicos. Puede utilizarse para facilitar la ventilación mecánica en pacientes seleccionados de cuidados intensivos, bajo supervisión especializada.",
+      "contraindicaciones": "Hipersensibilidad conocida al rocuronio, al bromuro de rocuronio o a alguno de los componentes de la formulación. Considerar las restricciones específicas de la ficha técnica del producto y evaluar cuidadosamente los antecedentes de reacciones anafilácticas a bloqueantes neuromusculares.",
+      "precauciones": "Utilizar con especial cuidado en pacientes con enfermedades neuromusculares, insuficiencia hepática o renal, alteraciones electrolíticas, trastornos ácido-base, hipotermia, quemaduras extensas, obesidad, edad avanzada o antecedentes de reacciones alérgicas. La duración y la intensidad del bloqueo pueden variar considerablemente según el estado clínico y los medicamentos concomitantes.",
+      "advertencias": "Medicamento de alto riesgo. Puede producir parálisis de los músculos respiratorios y apnea. Administrar únicamente por personal capacitado, en un entorno con disponibilidad inmediata de oxígeno, ventilación asistida, equipo de intubación y monitorización adecuada. No produce sedación, amnesia ni analgesia; deben garantizarse anestesia y sedación apropiadas. Puede producir bloqueo neuromuscular residual y reacciones anafilácticas graves.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar únicamente cuando esté clínicamente indicado y bajo supervisión especializada. En cesáreas, la elección y la dosis deben ajustarse al protocolo anestésico y a la ficha técnica. La información sobre lactancia es limitada; valorar individualmente la necesidad del tratamiento y consultar la ficha técnica específica.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede modificar la duración del bloqueo. No aplicar un ajuste universal: individualizar la dosis y la repetición según la respuesta clínica y la monitorización neuromuscular.",
+        "hepatico": "La insuficiencia hepática o la colestasis pueden reducir la eliminación y prolongar el bloqueo. Individualizar la administración según la respuesta y la monitorización neuromuscular."
+      },
+      "interacciones": "Los anestésicos inhalatorios, aminoglucósidos, polimixinas, magnesio, litio y otros medicamentos con efecto bloqueante neuromuscular pueden potenciar o prolongar el bloqueo. Algunos anestésicos, antibióticos y antiarrítmicos también pueden modificar la respuesta. Los inhibidores de la acetilcolinesterasa, como la neostigmina, pueden revertir el bloqueo en condiciones apropiadas. El sugammadex puede revertir el bloqueo inducido por rocuronio cuando está indicado. Algunos anticonvulsivantes administrados crónicamente pueden reducir el efecto.",
+      "reacciones_adversas": "Bloqueo neuromuscular prolongado o residual, debilidad muscular y compromiso respiratorio. Puede provocar alteraciones de la frecuencia cardíaca o de la presión arterial y reacciones de hipersensibilidad, incluida anafilaxia. La gravedad depende de la dosis, la velocidad de administración, la duración del tratamiento y el estado clínico.",
+      "toxicidad_sobredosis": "Puede causar bloqueo neuromuscular excesivo o prolongado, apnea y parálisis respiratoria. Mantener una vía aérea permeable y proporcionar oxigenación y ventilación asistida hasta la recuperación. Valorar la reversión con sugammadex o, en circunstancias apropiadas, con un inhibidor de la acetilcolinesterasa asociado a un antimuscarínico, según el grado de bloqueo y el protocolo institucional.",
+      "antidotos": "El sugammadex puede revertir el bloqueo neuromuscular producido por rocuronio, con selección de dosis según la profundidad del bloqueo, el momento de administración y la ficha técnica. La neostigmina asociada a un antimuscarínico es una alternativa cuando la recuperación espontánea es suficiente. No existe un antídoto que sustituya la ventilación asistida y la monitorización hasta la recuperación adecuada.",
+      "monitorizacion": {
+        "clinica": "Monitorizar continuamente oxigenación, ventilación, presión arterial, frecuencia y ritmo cardíacos. Vigilar signos de anafilaxia, broncoespasmo y bloqueo prolongado. Evaluar la recuperación neuromuscular antes de retirar el soporte ventilatorio.",
+        "laboratorio": "No requiere análisis específicos de rutina exclusivamente por su administración. Según el contexto, controlar función renal y hepática, electrolitos y equilibrio ácido-base. Utilizar monitorización objetiva del bloqueo neuromuscular mediante estimulación de nervios periféricos cuando esté disponible."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, prescripción, peso, dosis, vía, concentración y antecedentes de alergia o enfermedad neuromuscular. Revisar la función renal y hepática cuando corresponda, así como los medicamentos concomitantes. Verificar la disponibilidad de oxígeno, ventilación asistida, equipo de intubación y monitorización. Confirmar que se administrará anestesia o sedación adecuada.",
+        "durante": "Monitorizar continuamente oxigenación, ventilación y parámetros hemodinámicos. Evaluar el grado de bloqueo mediante monitorización neuromuscular objetiva cuando esté disponible. Vigilar reacciones de hipersensibilidad, broncoespasmo, alteraciones hemodinámicas y bloqueo excesivo.",
+        "despues": "Confirmar recuperación neuromuscular adecuada mediante evaluación clínica y monitorización objetiva antes de retirar el soporte ventilatorio. Vigilar debilidad residual y ventilación insuficiente. Registrar la dosis, la respuesta, los eventos adversos y cualquier medida de reversión."
+      },
+      "presentaciones": "Solución inyectable o concentrado para solución inyectable, según el producto y el fabricante. Las concentraciones y los volúmenes disponibles varían; verificar el envase y la ficha técnica de la presentación utilizada.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación, el peso, la técnica anestésica y la respuesta individual. Como referencia general, para la intubación habitual suele utilizarse una dosis inicial de aproximadamente 0,6 mg/kg IV. Para secuencia rápida de intubación pueden utilizarse dosis mayores, frecuentemente de 1–1,2 mg/kg IV, según el protocolo y la situación clínica. Las dosis de mantenimiento deben individualizarse mediante monitorización neuromuscular. No utilizar estas referencias sin considerar la ficha técnica y el contexto clínico.",
+        "pediatrico": "La dosis depende de la edad, el peso, la indicación y la formulación. No extrapolar automáticamente las dosis adultas. Utilizar referencias pediátricas específicas y protocolos institucionales bajo supervisión especializada.",
+        "geriatrico": "La duración del bloqueo puede ser mayor en personas mayores, especialmente ante deterioro renal o hepático. Individualizar la dosis y la frecuencia según la respuesta clínica y la monitorización neuromuscular."
+      },
+      "vias_administracion": "Intravenosa, mediante inyección o infusión según indicación, presentación y protocolo institucional. No administrar por vía intramuscular salvo autorización expresa de una ficha técnica específica, ya que no es la vía habitual.",
+      "preparacion": {
+        "dilucion": "Puede administrarse según las instrucciones específicas de la presentación, sin diluir o con dilución adicional cuando esté autorizada. Utilizar únicamente diluyentes compatibles documentados, mantener técnica aséptica y rotular la jeringa o solución preparada con el medicamento y su concentración final.",
+        "compatibilidad_iv": "La compatibilidad depende de la formulación, el diluyente y los medicamentos administrados simultáneamente. No mezclar en la misma jeringa ni administrar por la misma línea con otros fármacos sin verificar compatibilidad documentada. Si se desconoce la compatibilidad, utilizar una línea separada o lavar la línea conforme al protocolo institucional."
+      },
+      "velocidad_infusion": "La dosis inicial se administra por vía intravenosa conforme a la ficha técnica y al protocolo anestésico. Para infusión continua, ajustar la velocidad según la respuesta clínica y la monitorización neuromuscular. No utilizar una velocidad universal para todos los pacientes.",
+      "estabilidad_soluciones": "Las condiciones de conservación y el período de uso después de la apertura, reconstitución o dilución dependen del fabricante y de la presentación. Algunas formulaciones requieren refrigeración; otras pueden admitir condiciones específicas diferentes. Respetar la ficha técnica del producto disponible y no utilizar soluciones fuera del período de estabilidad autorizado.",
+      "concentracion": "Variable según la presentación y el fabricante. Confirmar la concentración expresada en mg/mL antes de calcular la dosis y verificar la concentración final después de cualquier dilución.",
+      "alarma_riesgo": "ALTO RIESGO: produce parálisis respiratoria y puede causar apnea. No administrar sin capacidad inmediata para asegurar la vía aérea y proporcionar ventilación asistida. No confundir con anestésicos, sedantes o analgésicos. Verificar cuidadosamente el medicamento, la dosis, la vía y la concentración. Confirmar la recuperación neuromuscular antes de retirar el soporte ventilatorio.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la identidad del paciente, el peso utilizado para el cálculo, la dosis, la vía y la concentración.",
+          "Comprobar antecedentes de alergias, enfermedades neuromusculares, alteraciones renales o hepáticas y medicación concomitante.",
+          "Confirmar la disponibilidad de oxígeno, ventilación asistida, equipo de intubación y personal capacitado antes de administrar el medicamento.",
+          "Asegurar que se proporcione anestesia, sedación y analgesia adecuadas según el procedimiento, ya que el rocuronio no produce pérdida de conciencia ni alivio del dolor.",
+          "Monitorizar continuamente oxigenación, ventilación, presión arterial y frecuencia cardíaca.",
+          "Utilizar monitorización neuromuscular objetiva cuando esté disponible y ajustar la administración conforme a la respuesta.",
+          "Vigilar signos de anafilaxia, broncoespasmo, alteraciones hemodinámicas y bloqueo neuromuscular prolongado.",
+          "Verificar la compatibilidad, la concentración final y las condiciones de conservación antes de administrar.",
+          "Confirmar la recuperación neuromuscular adecuada antes de retirar el soporte ventilatorio y mantener la vigilancia respiratoria según el contexto clínico.",
+          "Registrar la dosis administrada, la hora, la respuesta, los parámetros monitorizados, los eventos adversos y las medidas de reversión."
+        ],
+        "educacion_paciente": [
+          "Explicar, antes del procedimiento cuando sea posible, que el medicamento relaja temporalmente los músculos y requiere vigilancia especializada.",
+          "Aclarar que el rocuronio no es un anestésico ni un analgésico y que se utilizarán los medicamentos necesarios para evitar conciencia y dolor durante el procedimiento.",
+          "Informar que puede necesitar asistencia respiratoria hasta que se confirme una recuperación muscular suficiente.",
+          "Indicar que comunique antecedentes de reacciones alérgicas, enfermedades neuromusculares y medicamentos que utiliza."
+        ]
+      }
     }
   ]
 }
