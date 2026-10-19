@@ -7562,6 +7562,81 @@
           "Indicar que debe comunicar antecedentes de reacciones alérgicas, enfermedades neuromusculares y todos los medicamentos que utiliza."
         ]
       }
+    },
+    {
+      "id": "94",
+      "nombre_generico": "Vecuronio",
+      "letra": "V",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Bromuro de vecuronio",
+        "clasificacion": "Bloqueante neuromuscular no despolarizante, relajante muscular de acción intermedia.",
+        "efecto_terapeutica": "Produce relajación de la musculatura esquelética para facilitar la intubación endotraqueal y permitir la relajación muscular durante intervenciones quirúrgicas o la ventilación mecánica.",
+        "mecanismo_accion": "Compite con la acetilcolina por los receptores nicotínicos de la placa motora, bloqueando la transmisión neuromuscular e impidiendo la contracción muscular. No produce analgesia, sedación ni pérdida de conciencia."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se administra principalmente por vía intravenosa, por lo que su biodisponibilidad sistémica es completa. No se utiliza por vía oral para producir bloqueo neuromuscular.",
+        "distribucion": "Se distribuye principalmente en el compartimento extracelular. No atraviesa significativamente la barrera hematoencefálica.",
+        "metabolismo": "Se metaboliza parcialmente en el hígado. Uno de sus metabolitos, el 3-desacetilvecuronio, conserva actividad bloqueante neuromuscular.",
+        "eliminacion": "Se elimina principalmente por vía biliar y fecal, con participación de la vía renal. La insuficiencia hepática o renal puede prolongar su efecto."
+      },
+      "indicaciones": "Como complemento de la anestesia general para facilitar la intubación endotraqueal y proporcionar relajación muscular durante procedimientos quirúrgicos. Puede utilizarse para facilitar la ventilación mecánica en pacientes seleccionados de cuidados intensivos, bajo supervisión especializada y según el protocolo institucional.",
+      "contraindicaciones": "Hipersensibilidad conocida al vecuronio, al bromuro de vecuronio o a alguno de los componentes de la formulación. Considerar las contraindicaciones y restricciones específicas establecidas en la ficha técnica del producto.",
+      "precauciones": "Utilizar con especial cuidado en pacientes con miastenia gravis u otras enfermedades neuromusculares, insuficiencia hepática o renal, alteraciones electrolíticas, trastornos ácido-base, hipotermia, quemaduras extensas o antecedentes de reacciones anafilácticas. La respuesta puede modificarse por la edad, el estado clínico y los medicamentos concomitantes.",
+      "advertencias": "Medicamento de alto riesgo. Produce parálisis de los músculos respiratorios y puede provocar apnea. Administrar únicamente por personal capacitado en entornos con disponibilidad inmediata de ventilación asistida, oxígeno, equipo de intubación y monitorización adecuada. No produce sedación, amnesia ni analgesia: deben garantizarse anestesia y sedación apropiadas según el contexto. Puede persistir un bloqueo neuromuscular residual después de finalizar su administración.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar únicamente cuando esté clínicamente indicado y bajo supervisión especializada. Los datos disponibles sobre lactancia son limitados; evaluar individualmente la necesidad del tratamiento y consultar la ficha técnica específica antes de tomar decisiones sobre la lactancia.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede prolongar la duración del bloqueo, especialmente por acumulación de metabolitos activos. Individualizar la dosis y la frecuencia de administración según la respuesta clínica y la monitorización neuromuscular.",
+        "hepatico": "La insuficiencia hepática o la colestasis pueden reducir la eliminación y prolongar el efecto. Ajustar la administración según la respuesta y la monitorización neuromuscular."
+      },
+      "interacciones": "Los anestésicos inhalatorios, aminoglucósidos, polimixinas, magnesio, litio y otros fármacos con efecto bloqueante neuromuscular pueden potenciar o prolongar el bloqueo. Algunos anestésicos, antibióticos y antiarrítmicos también pueden modificar la respuesta. La neostigmina y otros inhibidores de la acetilcolinesterasa pueden revertir el bloqueo en condiciones apropiadas. Algunos anticonvulsivantes administrados crónicamente pueden reducir el efecto. Verificar las interacciones según el tratamiento concomitante.",
+      "reacciones_adversas": "Bloqueo neuromuscular prolongado o residual, debilidad muscular, apnea y compromiso respiratorio. Pueden presentarse taquicardia, alteraciones de la presión arterial y reacciones de hipersensibilidad, incluida anafilaxia. La frecuencia y gravedad dependen de la dosis, la duración de la administración, el estado clínico y los medicamentos concomitantes.",
+      "toxicidad_sobredosis": "Puede causar bloqueo neuromuscular excesivo o prolongado, apnea y parálisis respiratoria. Mantener una vía aérea permeable, asegurar oxigenación y ventilación asistida hasta la recuperación. Valorar la reversión farmacológica según el grado de bloqueo, la monitorización neuromuscular y el protocolo anestésico.",
+      "antidotos": "No existe un antídoto que neutralice directamente el vecuronio. La neostigmina asociada a un antimuscarínico puede revertir el bloqueo no despolarizante cuando la recuperación espontánea es suficiente. El sugammadex puede revertir el bloqueo inducido por vecuronio cuando está indicado, disponible y autorizado según la ficha técnica y el protocolo local. La ventilación asistida debe mantenerse hasta la recuperación adecuada.",
+      "monitorizacion": {
+        "clinica": "Vigilar continuamente oxigenación, ventilación, presión arterial, frecuencia y ritmo cardíacos. Observar signos de hipersensibilidad y evaluar la recuperación muscular antes de retirar el soporte ventilatorio.",
+        "laboratorio": "No requiere análisis específicos de rutina exclusivamente por su administración. Según el contexto clínico, controlar función renal y hepática, electrolitos y equilibrio ácido-base. Utilizar monitorización objetiva del bloqueo neuromuscular mediante estimulación de nervios periféricos cuando esté disponible."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, prescripción, peso, dosis, vía, concentración y antecedentes de alergia o enfermedad neuromuscular. Revisar la función renal y hepática cuando corresponda, además de los medicamentos concomitantes. Verificar la disponibilidad de oxígeno, ventilación asistida, equipo de intubación y monitorización. Confirmar que se proporcionará anestesia o sedación adecuada.",
+        "durante": "Monitorizar continuamente oxigenación, ventilación y parámetros hemodinámicos. Evaluar el grado de bloqueo con monitorización neuromuscular objetiva cuando esté disponible. Vigilar la respuesta al medicamento, posibles reacciones de hipersensibilidad y signos de bloqueo excesivo.",
+        "despues": "Confirmar la recuperación neuromuscular adecuada mediante evaluación clínica y monitorización objetiva antes de retirar el soporte ventilatorio. Vigilar debilidad residual, ventilación insuficiente y complicaciones respiratorias. Registrar dosis, respuesta, eventos adversos y reversión si se realizó."
+      },
+      "presentaciones": "Polvo liofilizado para solución inyectable, generalmente en viales que requieren reconstitución. La cantidad de principio activo por vial y los diluyentes autorizados varían según el fabricante y el país; comprobar la ficha técnica del producto disponible.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación, el peso, la técnica anestésica y la respuesta individual. Como referencia general, la dosis inicial para intubación suele situarse alrededor de 0,08–0,1 mg/kg IV. Las dosis de mantenimiento y las infusiones continuas deben individualizarse según la monitorización neuromuscular y el protocolo institucional.",
+        "pediatrico": "La dosis depende de la edad, el peso, la indicación y la formulación. La respuesta y la duración del bloqueo pueden diferir de las del adulto. Utilizar referencias pediátricas específicas y protocolos institucionales bajo supervisión especializada.",
+        "geriatrico": "La recuperación puede ser más prolongada, especialmente si existe deterioro de la función hepática o renal. Individualizar la dosis y la frecuencia según la respuesta clínica y la monitorización neuromuscular."
+      },
+      "vias_administracion": "Intravenosa, mediante inyección o infusión según la indicación, la presentación y el protocolo institucional. No administrar por vía intramuscular salvo autorización expresa de una ficha técnica específica, ya que no es la vía habitual.",
+      "preparacion": {
+        "dilucion": "Reconstituir con el diluyente autorizado para la presentación específica, siguiendo las instrucciones del fabricante y las normas de técnica aséptica. Si se requiere dilución adicional, utilizar únicamente soluciones y concentraciones compatibles documentadas. Rotular la preparación con medicamento, concentración, fecha y hora cuando corresponda.",
+        "compatibilidad_iv": "La compatibilidad depende de la formulación, el diluyente y los medicamentos administrados simultáneamente. No mezclar en la misma jeringa ni administrar por la misma línea con otros fármacos sin verificar compatibilidad documentada. Ante compatibilidad desconocida, utilizar una línea separada o lavar la línea conforme al protocolo institucional."
+      },
+      "velocidad_infusion": "La administración inicial y las dosis de mantenimiento deben ajustarse a la ficha técnica y al protocolo anestésico. En caso de infusión continua, individualizar la velocidad según la respuesta y la monitorización neuromuscular; no utilizar una velocidad universal para todos los pacientes.",
+      "estabilidad_soluciones": "La estabilidad después de la reconstitución o dilución depende del fabricante, el diluyente, la concentración y las condiciones de conservación. Respetar los tiempos, las temperaturas y las condiciones de uso establecidos en la ficha técnica de la presentación disponible. No utilizar soluciones con cambios de aspecto o que hayan superado el período de estabilidad autorizado.",
+      "concentracion": "Variable según la presentación y el fabricante. Verificar la cantidad de principio activo por vial y la concentración final después de la reconstitución antes de calcular o administrar la dosis.",
+      "alarma_riesgo": "ALTO RIESGO: puede causar parálisis respiratoria y apnea. No administrar sin capacidad inmediata para asegurar la vía aérea, proporcionar ventilación asistida y monitorizar al paciente. No confundir con anestésicos, sedantes o analgésicos. Verificar medicamento, dosis, vía, concentración y recuperación neuromuscular antes de retirar el soporte ventilatorio.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la identidad del paciente, el peso utilizado para el cálculo, la dosis, la vía y la concentración.",
+          "Comprobar antecedentes de alergias, enfermedades neuromusculares, disfunción renal o hepática y medicación concomitante.",
+          "Confirmar la disponibilidad de oxígeno, ventilación asistida, equipo de intubación y personal capacitado antes de la administración.",
+          "Asegurar que se proporcione anestesia, sedación y analgesia adecuadas según el procedimiento, ya que el vecuronio no produce pérdida de conciencia ni alivio del dolor.",
+          "Monitorizar continuamente oxigenación, ventilación, presión arterial y frecuencia cardíaca.",
+          "Utilizar monitorización neuromuscular objetiva cuando esté disponible y ajustar la administración conforme a la respuesta.",
+          "Vigilar signos de bloqueo prolongado, debilidad residual, compromiso respiratorio y reacciones de hipersensibilidad.",
+          "Verificar el diluyente, la concentración final, la compatibilidad y las condiciones de conservación de la preparación.",
+          "Confirmar la recuperación neuromuscular adecuada antes de retirar el soporte ventilatorio y continuar la vigilancia respiratoria según el contexto clínico.",
+          "Registrar la dosis administrada, la hora, la respuesta, los parámetros monitorizados, los eventos adversos y las medidas de reversión."
+        ],
+        "educacion_paciente": [
+          "Explicar, antes del procedimiento cuando sea posible, que el medicamento relaja temporalmente los músculos y requiere vigilancia especializada.",
+          "Aclarar que el vecuronio no es un anestésico ni un analgésico y que se utilizarán los medicamentos necesarios para evitar conciencia y dolor durante el procedimiento.",
+          "Informar que la asistencia respiratoria puede mantenerse hasta confirmar que la fuerza muscular y la respiración se hayan recuperado suficientemente.",
+          "Indicar que comunique antecedentes de reacciones alérgicas, enfermedades neuromusculares y medicamentos que utiliza."
+        ]
+      }
     }
   ]
 }
