@@ -10771,6 +10771,80 @@
           "Explicar que la necesidad de reiniciar la anticoagulación será evaluada por el equipo tratante según el control del sangrado y el riesgo de trombosis."
         ]
       }
+    },
+    {
+      "id": "137",
+      "nombre_generico": "Andexanet alfa",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Andexanet alfa",
+        "clasificacion": "Agente reversor de anticoagulantes; factor Xa recombinante modificado e inactivo",
+        "efecto_terapeutica": "Reduce la actividad anticoagulante de apixabán y rivaroxabán en situaciones seleccionadas de hemorragia potencialmente mortal o no controlada.",
+        "mecanismo_accion": "Actúa como señuelo para los inhibidores del factor Xa, uniéndose a apixabán o rivaroxabán y reduciendo su actividad inhibitoria sobre el factor Xa. No posee la actividad catalítica normal del factor Xa."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa; biodisponibilidad completa.",
+        "distribucion": "Actúa en el compartimento intravascular. La farmacocinética depende de la dosis y del esquema de administración.",
+        "metabolismo": "Es una proteína recombinante que se procesa mediante mecanismos de degradación proteica.",
+        "eliminacion": "La eliminación ocurre principalmente mediante catabolismo proteico. La duración de la reversión es limitada y puede observarse reaparición de actividad anti-factor Xa después de finalizar la administración."
+      },
+      "indicaciones": "En la ficha técnica estadounidense consultada, reversión de la anticoagulación por apixabán o rivaroxabán cuando se requiere por hemorragia potencialmente mortal o no controlada. No extrapolar esta indicación a otros anticoagulantes ni asumir autorización o disponibilidad en Argentina sin verificar el registro sanitario vigente.",
+      "contraindicaciones": "La ficha técnica estadounidense consultada no enumera contraindicaciones formales específicas; existen advertencias graves relativas a eventos tromboembólicos, eventos isquémicos, paro cardíaco y muerte súbita. Verificar la ficha técnica autorizada en la jurisdicción correspondiente.",
+      "precauciones": "Utilizar únicamente en situaciones justificadas por la gravedad del sangrado; evaluar el riesgo de trombosis arterial y venosa; monitorizar la respuesta hemostática y la posible reaparición de actividad anticoagulante; valorar cuidadosamente el reinicio de anticoagulación cuando sea clínicamente apropiado; no utilizar para revertir dabigatrán ni como antídoto general para cualquier anticoagulante.",
+      "advertencias": "Se han notificado eventos tromboembólicos graves, eventos isquémicos, paro cardíaco y muerte súbita. Puede producirse reversión incompleta o reaparición de actividad anti-factor Xa. Tras su administración, la respuesta a heparina no fraccionada puede verse afectada; no utilizar heparina no fraccionada después de andexanet alfa según la advertencia de la ficha técnica estadounidense consultada. No usar antes de una anticoagulación necesaria con heparina.",
+      "embarazo_lactancia": "Datos insuficientes para establecer la seguridad durante el embarazo y la lactancia. Considerar solamente en situaciones urgentes, tras evaluación especializada de beneficios y riesgos.",
+      "ajustes": {
+        "renal": "No se establece un ajuste rutinario por función renal en la ficha técnica consultada. La decisión de utilizarlo debe basarse en la indicación, el anticoagulante involucrado y la gravedad clínica.",
+        "hepatico": "No se establece un ajuste rutinario por función hepática en la ficha técnica consultada. Individualizar según la situación clínica."
+      },
+      "interacciones": "Revierte la actividad de apixabán y rivaroxabán en las condiciones descritas en la ficha técnica. No se ha establecido eficacia para revertir otros inhibidores del factor Xa. Puede causar falta de respuesta a la heparina no fraccionada; evitar su uso cuando se requiera anticoagulación con heparina. No mezclar con otros medicamentos en la misma solución.",
+      "reacciones_adversas": "Eventos tromboembólicos arteriales o venosos; eventos isquémicos, incluido infarto de miocardio y accidente cerebrovascular; paro cardíaco; muerte súbita; reacciones relacionadas con la infusión; elevación o reaparición de la actividad anti-factor Xa.",
+      "toxicidad_sobredosis": "La seguridad de administrar dosis adicionales no está establecida. Ante una administración excesiva, vigilar estrechamente complicaciones trombóticas, eventos isquémicos, alteraciones hemodinámicas y respuesta hemostática; consultar inmediatamente a hematología y al equipo de cuidados críticos.",
+      "antidotos": "No existe un antídoto específico para la sobredosis de andexanet alfa. El tratamiento es de soporte y dirigido a las complicaciones clínicas.",
+      "monitorizacion": {
+        "clinica": "Control del sangrado y de la estabilidad hemodinámica; signos de trombosis venosa o arterial; dolor torácico; cambios neurológicos focales; signos de isquemia; paro cardíaco; reacciones relacionadas con la infusión.",
+        "laboratorio": "Hemoglobina y hematocrito; plaquetas; función renal; parámetros de coagulación seleccionados según contexto; actividad anti-factor Xa cuando el método y el momento de la muestra permitan una interpretación válida. Los ensayos anti-factor Xa pueden verse afectados por andexanet alfa y no todos son adecuados para medir su efecto."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar que el paciente recibe apixabán o rivaroxabán; verificar dosis y hora de la última toma; establecer la gravedad y el sitio del sangrado; evaluar estabilidad hemodinámica, hemograma, función renal y pruebas pertinentes; confirmar la disponibilidad del medicamento y el protocolo institucional vigente.",
+        "durante": "Controlar continuamente signos vitales, estado neurológico y sangrado; vigilar reacciones durante la administración; verificar la dosis y la velocidad según el esquema indicado; observar signos de trombosis o isquemia.",
+        "despues": "Reevaluar la hemostasia y controlar la posible recurrencia del sangrado; vigilar eventos tromboembólicos e isquémicos; coordinar la monitorización de laboratorio y valorar con el equipo tratante cuándo reiniciar la anticoagulación."
+      },
+      "presentaciones": "La ficha técnica estadounidense consultada describe polvo liofilizado para solución intravenosa en viales de 200 mg. La cantidad de viales depende del régimen de dosis. No se confirmó una presentación comercial vigente autorizada en Argentina.",
+      "dosis": {
+        "adultos": "Referencia de la ficha técnica estadounidense consultada, no confirmada como pauta autorizada en Argentina: régimen de dosis baja, bolo intravenoso de 400 mg seguido de infusión de 4 mg/min durante 120 minutos; régimen de dosis alta, bolo intravenoso de 800 mg seguido de infusión de 8 mg/min durante 120 minutos. La elección depende del anticoagulante, la dosis tomada y el tiempo transcurrido desde la última administración. Verificar la tabla de dosificación vigente y el protocolo especializado antes de cualquier uso.",
+        "pediatrico": "No establecer una pauta pediátrica rutinaria. La evidencia y la autorización deben verificarse en la ficha técnica aplicable; cualquier uso requiere evaluación especializada.",
+        "geriatrico": "No se establece una pauta distinta exclusivamente por edad en la ficha técnica consultada. Individualizar según gravedad del sangrado, anticoagulante utilizado, comorbilidades y riesgo trombótico."
+      },
+      "vias_administracion": "Intravenosa exclusivamente, mediante bolo seguido de infusión conforme al régimen de dosis correspondiente.",
+      "preparacion": {
+        "dilucion": "La presentación estadounidense consultada es un polvo liofilizado que requiere reconstitución antes de la administración. El número de viales, el volumen de reconstitución, la concentración final y los tiempos de preparación deben seguir exactamente la ficha técnica vigente del producto y el protocolo institucional.",
+        "compatibilidad_iv": "No mezclar con otros medicamentos en la misma solución. Utilizar un acceso intravenoso dedicado y verificar la compatibilidad y el procedimiento de lavado de línea en la ficha técnica aplicable."
+      },
+      "velocidad_infusion": "Según la ficha técnica estadounidense consultada: bolo de dosis baja de 400 mg a una velocidad objetivo de 30 mg/min, seguido de 4 mg/min durante 120 minutos; bolo de dosis alta de 800 mg a una velocidad objetivo de 30 mg/min, seguido de 8 mg/min durante 120 minutos. Confirmar la pauta vigente y la indicación antes de utilizar.",
+      "estabilidad_soluciones": "La estabilidad depende del producto reconstituido, el diluyente, la temperatura y el tiempo transcurrido desde la preparación. No asignar un período universal: seguir la ficha técnica específica y el procedimiento institucional de preparación aséptica.",
+      "concentracion": "La presentación estadounidense consultada contiene 200 mg de polvo liofilizado por vial. No corresponde a una solución lista para administrar; la concentración final depende de la reconstitución indicada en la ficha técnica.",
+      "alarma_riesgo": "Medicamento de alto riesgo con advertencia grave por tromboembolismo, isquemia, paro cardíaco y muerte súbita. Puede interferir con la respuesta a heparina no fraccionada. No utilizar sin indicación especializada, monitorización hospitalaria y confirmación de la ficha técnica y disponibilidad regulatoria aplicables.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar el anticoagulante, la dosis, la hora de la última administración y la indicación de reversión.",
+          "Verificar que el uso esté autorizado por el equipo tratante y que se disponga de un protocolo institucional vigente.",
+          "Realizar doble comprobación del régimen de dosis, los viales necesarios y el cálculo de la velocidad de administración.",
+          "Reconstituir y preparar la solución siguiendo exactamente la ficha técnica de la presentación disponible.",
+          "No mezclar con otros medicamentos y utilizar un acceso intravenoso adecuado.",
+          "Controlar continuamente presión arterial, frecuencia cardíaca, respiración, estado neurológico y evolución del sangrado.",
+          "Vigilar signos de trombosis, infarto, accidente cerebrovascular, isquemia o paro cardíaco.",
+          "No administrar heparina no fraccionada después de andexanet alfa según la advertencia de la ficha técnica consultada; comunicarlo al equipo tratante si se necesita anticoagulación.",
+          "Coordinar controles de laboratorio, teniendo en cuenta las limitaciones de los ensayos anti-factor Xa tras su administración.",
+          "Registrar dosis, preparación, velocidad, respuesta hemostática y cualquier evento adverso."
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento se utiliza en situaciones específicas de hemorragia grave para revertir determinados anticoagulantes.",
+          "Indicar que comunique inmediatamente dolor torácico, dificultad respiratoria, debilidad repentina, alteraciones del habla, pérdida de visión, dolor o hinchazón de una extremidad y cualquier nuevo sangrado.",
+          "Explicar que el equipo médico evaluará cuándo reiniciar la anticoagulación, debido al riesgo de trombosis después de la reversión."
+        ]
+      }
     }
   ]
 }
