@@ -8576,6 +8576,82 @@
           "Registrar glucemias, dosis y episodios de hipoglucemia."
         ]
       }
+    },
+    {
+      "id": "107",
+      "nombre_generico": "Insulina glulisina",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Insulina glulisina.",
+        "clasificacion": "Análogo de insulina humana de acción rápida; medicamento de alto riesgo.",
+        "efecto_terapeutica": "Reduce la glucemia, especialmente la elevación posprandial, en personas con diabetes que requieren insulina.",
+        "mecanismo_accion": "Activa los receptores de insulina, favorece la captación celular de glucosa e inhibe la producción hepática de glucosa. Su estructura facilita una absorción subcutánea rápida."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Comienza a actuar aproximadamente en 10-20 minutos tras la administración subcutánea. El perfil depende del lugar de inyección y de factores individuales.",
+        "distribucion": "Actúa principalmente en músculo, tejido adiposo e hígado mediante los receptores de insulina.",
+        "metabolismo": "Se degrada mediante procesos proteolíticos en hígado, riñones y otros tejidos.",
+        "eliminacion": "Se elimina mediante degradación metabólica. La insuficiencia renal o hepática puede reducir los requerimientos de insulina."
+      },
+      "indicaciones": "Control de la glucemia en personas con diabetes mellitus que requieren insulina prandial. Puede utilizarse por vía subcutánea y, en formulaciones autorizadas, por vía intravenosa bajo supervisión clínica. Algunas presentaciones son compatibles con bombas específicas.",
+      "contraindicaciones": "Hipoglucemia activa e hipersensibilidad a la insulina glulisina o a los componentes de la formulación.",
+      "precauciones": "Riesgo de hipoglucemia, especialmente si la comida se retrasa o se omite. Verificar la dosis, la concentración, la ingesta y el dispositivo. Rotar los sitios de inyección y vigilar la función renal y hepática.",
+      "advertencias": "Medicamento de alto riesgo. La hipoglucemia grave puede causar convulsiones, coma o muerte. No intercambiar dispositivos ni concentraciones sin verificar la prescripción. La administración intravenosa requiere una formulación autorizada y un protocolo específico.",
+      "embarazo_lactancia": "Puede utilizarse cuando está indicada para controlar la diabetes durante el embarazo o la lactancia, con supervisión profesional y ajustes según glucemia y requerimientos individuales.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede reducir los requerimientos de insulina. Ajustar individualmente y aumentar la vigilancia de glucemia.",
+        "hepatico": "La insuficiencia hepática puede modificar los requerimientos y aumentar el riesgo de hipoglucemia. Individualizar la dosis."
+      },
+      "interacciones": "Otros antidiabéticos, alcohol, salicilatos y ciertos antidepresivos pueden aumentar el riesgo de hipoglucemia. Corticoides, simpaticomiméticos y algunos antipsicóticos pueden elevar la glucemia. Los betabloqueantes pueden enmascarar síntomas adrenérgicos de hipoglucemia.",
+      "reacciones_adversas": "Hipoglucemia, reacciones en el sitio de inyección, lipodistrofia, aumento de peso, edema, reacciones alérgicas e hipopotasemia.",
+      "toxicidad_sobredosis": "La sobredosis puede causar hipoglucemia leve, grave o recurrente, con sudoración, temblor, confusión, convulsiones o pérdida de conciencia. Requiere tratamiento inmediato y vigilancia prolongada según la situación clínica.",
+      "antidotos": "No existe antídoto específico. Utilizar glucosa oral si la persona está consciente y puede deglutir; glucosa intravenosa o glucagón según gravedad, estado clínico y protocolo. Vigilar potasio cuando esté indicado.",
+      "monitorizacion": {
+        "clinica": "Controlar glucemia, ingesta, estado de conciencia, signos de hipoglucemia y sitios de inyección. En uso intravenoso, mantener la monitorización establecida por el protocolo.",
+        "laboratorio": "Controlar glucemia y HbA1c. Evaluar potasio y función renal o hepática según el contexto clínico."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar identidad, prescripción, concentración, dosis, vía, glucemia e ingesta prevista. Descartar hipoglucemia activa y confirmar el dispositivo correcto.",
+        "durante": "Vigilar glucemia, respuesta a la dosis, ingesta y síntomas de hipoglucemia. Seguir protocolo específico para administración intravenosa o mediante bomba.",
+        "despues": "Registrar dosis, horario, sitio de inyección, glucemia, ingesta y respuesta. Comunicar episodios de hipoglucemia y errores de administración."
+      },
+      "presentaciones": "Solución inyectable en viales, cartuchos o plumas precargadas, según el mercado. Confirmar disponibilidad, concentración y compatibilidad con dispositivos en la ficha técnica local.",
+      "dosis": {
+        "adultos": "Individualizada según glucemia, ingesta, actividad física, sensibilidad a la insulina y pauta prescrita. Administrar en relación con la comida conforme a la ficha técnica de la presentación. No existe una dosis universal segura.",
+        "pediatrico": "La dosis depende de edad, peso, ingesta, glucemia y esquema de insulina. Debe establecerla el equipo especializado y ajustarse según la respuesta.",
+        "geriatrico": "Individualizar considerando función renal, fragilidad, ingesta variable y riesgo de hipoglucemia. Aumentar la vigilancia cuando cambien la alimentación o el estado clínico."
+      },
+      "vias_administracion": "Subcutánea mediante dispositivo compatible o bomba autorizada para la presentación. Algunas formulaciones permiten administración intravenosa bajo supervisión médica. No administrar por vía intramuscular.",
+      "preparacion": {
+        "dilucion": "Para uso subcutáneo se utiliza la presentación lista para administrar. Diluir o mezclar únicamente cuando la ficha técnica lo autorice. Para bombas, seguir las instrucciones del dispositivo y del fabricante.",
+        "compatibilidad_iv": "Verificar la compatibilidad del producto, el diluyente y la línea intravenosa mediante la ficha técnica y una referencia institucional validada. No mezclar con otros medicamentos sin confirmación."
+      },
+      "velocidad_infusion": "No corresponde a la vía subcutánea. En administración intravenosa, la velocidad debe determinarse mediante un protocolo clínico validado con monitorización frecuente de glucemia.",
+      "estabilidad_soluciones": "Depende de la marca, presentación, dispositivo y condiciones de conservación. Respetar las instrucciones del fabricante sobre temperatura, protección frente a congelación y calor, y período de uso tras apertura.",
+      "concentracion": "Confirmar la concentración exacta en el envase antes de administrar. No intercambiar presentaciones ni realizar conversiones manuales sin comprobar la prescripción y el dispositivo.",
+      "alarma_riesgo": "Medicamento de alto riesgo. La confusión, sudoración intensa, temblor, convulsiones o pérdida de conciencia pueden indicar hipoglucemia grave. Controlar la glucemia y activar inmediatamente el protocolo correspondiente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar paciente, tipo de insulina, concentración, dosis, vía, dispositivo y horario.",
+          "Confirmar la glucemia y la disponibilidad de la comida cuando corresponda.",
+          "Aplicar las medidas institucionales de prevención de errores con medicamentos de alto riesgo.",
+          "Rotar sitios de inyección y vigilar reacciones locales.",
+          "Controlar signos de hipoglucemia y seguir el protocolo de tratamiento.",
+          "Revisar función renal, función hepática, ingesta y medicamentos concomitantes.",
+          "Registrar dosis, glucemia, horario, ingesta y respuesta.",
+          "Utilizar solo formulaciones y dispositivos autorizados para bombas o administración intravenosa."
+        ],
+        "educacion_paciente": [
+          "Administrar la insulina según la pauta prescrita y la relación indicada con las comidas.",
+          "Reconocer y tratar la hipoglucemia según el plan individual.",
+          "No cambiar dosis, concentración o tipo de insulina por cuenta propia.",
+          "No extraer insulina de una pluma con una jeringa.",
+          "Consultar qué hacer ante vómitos, falta de ingesta o enfermedad aguda.",
+          "Conservar la insulina según las indicaciones del fabricante.",
+          "Registrar glucemias, dosis y episodios de hipoglucemia."
+        ]
+      }
     }
   ]
 }
