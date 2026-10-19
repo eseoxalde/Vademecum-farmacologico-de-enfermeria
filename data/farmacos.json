@@ -10221,6 +10221,79 @@
           "No intentar preparar ni administrar infusiones intravenosas por cuenta propia."
         ]
       }
+    },
+    {
+      "id": "129",
+      "nombre_generico": "Atropina",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de atropina",
+        "clasificacion": "Antagonista muscarínico; anticolinérgico; código ATC A03BA01",
+        "efecto_terapeutica": "Aumenta la frecuencia cardíaca; disminuye secreciones; reduce el tono y la motilidad gastrointestinal; produce midriasis y cicloplejía",
+        "mecanismo_accion": "Bloquea competitivamente los receptores muscarínicos de acetilcolina en órganos efectores parasimpáticos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La administración intravenosa produce efecto rápido; también se absorbe por vía intramuscular y subcutánea",
+        "distribucion": "Se distribuye ampliamente por el organismo y atraviesa la barrera hematoencefálica y la placenta",
+        "metabolismo": "Se metaboliza parcialmente en el hígado",
+        "eliminacion": "Se elimina por vía renal, en parte sin modificar y en parte como metabolitos"
+      },
+      "indicaciones": "Bradicardia sintomática en situaciones específicas; intoxicación por inhibidores de la acetilcolinesterasa y determinados agentes colinérgicos; reducción de secreciones en indicaciones anestésicas; otras indicaciones conforme al prospecto y al protocolo institucional",
+      "contraindicaciones": "Hipersensibilidad a la atropina o excipientes; en emergencias vitales, valorar el riesgo-beneficio sin retrasar el tratamiento indicado; precaución o restricciones específicas en glaucoma de ángulo cerrado, retención urinaria, obstrucción gastrointestinal, íleo paralítico y taquiarritmias",
+      "precauciones": "Cardiopatía; taquicardia; isquemia miocárdica; edad avanzada; hiperplasia prostática; glaucoma; obstrucción intestinal; fiebre; hipertiroidismo; enfermedades que aumenten la sensibilidad a efectos anticolinérgicos",
+      "advertencias": "Puede producir taquicardia, hipertermia, retención urinaria, confusión y delirium; la dosificación depende de la indicación; las dosis utilizadas para intoxicaciones colinérgicas pueden ser diferentes de las usadas en bradicardia; verificar siempre el protocolo correspondiente",
+      "embarazo_lactancia": "Utilizar durante el embarazo cuando exista una indicación clínica y el beneficio justifique el riesgo; puede pasar a la leche materna y reducir la producción de leche; consultar el prospecto específico",
+      "ajustes": {
+        "renal": "No existe un ajuste único aplicable a todas las indicaciones; utilizar con precaución en insuficiencia renal y vigilar efectos anticolinérgicos",
+        "hepatico": "No existe un ajuste único aplicable a todas las indicaciones; utilizar con precaución en insuficiencia hepática y según respuesta clínica"
+      },
+      "interacciones": "Otros anticolinérgicos pueden potenciar sequedad, retención urinaria, estreñimiento y confusión; los antihistamínicos sedantes, antidepresivos tricíclicos y determinados antipsicóticos pueden aumentar los efectos anticolinérgicos; puede antagonizar los efectos de fármacos colinérgicos",
+      "reacciones_adversas": "Taquicardia; palpitaciones; sequedad de boca; visión borrosa; midriasis; fotofobia; estreñimiento; retención urinaria; disminución de la sudoración; hipertermia; confusión; agitación; delirium; reacciones de hipersensibilidad",
+      "toxicidad_sobredosis": "Puede producir síndrome anticolinérgico con hipertermia, taquicardia, midriasis, piel seca, retención urinaria, agitación, delirium, convulsiones y coma; requiere atención urgente, soporte vital y tratamiento especializado",
+      "antidotos": "No existe un antídoto universal; la fisostigmina puede considerarse en casos seleccionados de toxicidad anticolinérgica grave bajo supervisión especializada y tras evaluar contraindicaciones",
+      "monitorizacion": {
+        "clinica": "Frecuencia cardíaca; electrocardiograma; presión arterial; estado de conciencia; temperatura; secreciones; diuresis; respuesta al tratamiento",
+        "laboratorio": "No existe un análisis específico obligatorio para todos los usos; evaluar electrolitos, gases y otros parámetros según la causa de la bradicardia o intoxicación"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar frecuencia cardíaca, ritmo, presión arterial, estado de conciencia y causa probable; revisar antecedentes de glaucoma, retención urinaria y medicación anticolinérgica",
+        "durante": "Controlar ritmo cardíaco, presión arterial, temperatura y estado neurológico; vigilar respuesta terapéutica y efectos anticolinérgicos",
+        "despues": "Reevaluar frecuencia cardíaca y estabilidad hemodinámica; vigilar recurrencia de bradicardia, retención urinaria, hipertermia y alteraciones del estado mental"
+      },
+      "presentaciones": "Solución inyectable de sulfato de atropina de 1 mg/ml; confirmar presentación, volumen y condiciones de conservación del producto institucional",
+      "dosis": {
+        "adultos": "En bradicardia sintomática, el protocolo de reanimación avanzada utiliza 1 mg IV, repetible cada 3 a 5 minutos hasta un máximo total de 3 mg; las intoxicaciones colinérgicas requieren pautas diferentes y tituladas según respuesta clínica",
+        "pediatrico": "La dosis depende de la indicación; en bradicardia pediátrica puede utilizarse 0,02 mg/kg IV/IO según protocolo, respetando dosis mínima y máxima establecidas por la guía pediátrica; en intoxicación colinérgica se requiere una pauta específica",
+        "geriatrico": "Individualizar según indicación, estado cardiovascular, riesgo de delirium, glaucoma, retención urinaria y comorbilidades"
+      },
+      "vias_administracion": "Intravenosa; intramuscular; subcutánea en indicaciones específicas; otras vías únicamente si están autorizadas por el producto y el protocolo",
+      "preparacion": {
+        "dilucion": "Puede administrarse sin diluir en determinadas indicaciones; si se requiere dilución, utilizar el diluyente y la concentración indicados en el prospecto y protocolo institucional",
+        "compatibilidad_iv": "Confirmar compatibilidad con el diluyente y los medicamentos administrados por la misma vía; no mezclar en la misma jeringa sin verificar compatibilidad"
+      },
+      "velocidad_infusion": "No existe una velocidad universal para todas las indicaciones; administrar según el protocolo de bradicardia, anestesia o intoxicación",
+      "estabilidad_soluciones": "Conservar según el prospecto; verificar integridad de la ampolla y aspecto de la solución; desechar los remanentes de ampollas monodosis",
+      "concentracion": "No existe una concentración máxima de administración universal para todas las indicaciones; la presentación argentina consultada es de 1 mg/ml y debe verificarse la concentración apropiada para cada protocolo",
+      "alarma_riesgo": "Taquicardia marcada; dolor torácico; hipertermia; confusión o delirium; convulsiones; retención urinaria; empeoramiento de la inestabilidad hemodinámica",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar indicación, dosis, vía y concentración antes de administrar.",
+          "Monitorizar frecuencia cardíaca, ritmo y presión arterial.",
+          "Evaluar estado neurológico y temperatura corporal.",
+          "Vigilar retención urinaria, sequedad intensa y alteraciones visuales.",
+          "Registrar la dosis acumulada y la respuesta clínica.",
+          "En intoxicaciones colinérgicas, seguir el protocolo específico y reevaluar continuamente las secreciones y la ventilación.",
+          "Comprobar compatibilidad antes de compartir una vía intravenosa."
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento puede causar sequedad de boca, visión borrosa y palpitaciones.",
+          "Solicitar ayuda si presenta dolor torácico, palpitaciones intensas, confusión o dificultad para orinar.",
+          "Evitar conducir mientras persista la visión borrosa o el mareo.",
+          "Informar sobre glaucoma, problemas urinarios y otros medicamentos que utilice.",
+          "No utilizar ni repetir dosis por cuenta propia."
+        ]
+      }
     }
   ]
 }
