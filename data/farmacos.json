@@ -6641,6 +6641,82 @@
           "Consultar con el equipo tratante antes de recibir vacunas y comunicar si existe embarazo, planificación de embarazo o lactancia."
         ]
       }
+    },
+    {
+      "id": "82",
+      "nombre_generico": "Paracetamol",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Paracetamol (acetaminofén)",
+        "clasificacion": "Analgésico y antipirético no opioide.",
+        "efecto_terapeutica": "Alivia el dolor leve a moderado y reduce la fiebre. Tiene escasa actividad antiinflamatoria periférica.",
+        "mecanismo_accion": "Su mecanismo no está completamente establecido. Actúa principalmente a nivel del sistema nervioso central, modulando las vías relacionadas con la percepción del dolor y la regulación de la temperatura corporal."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe rápidamente por vía oral, con concentraciones máximas generalmente entre 30 minutos y 2 horas, según la formulación y la ingesta de alimentos. La absorción rectal es más variable. Por vía intravenosa, la disponibilidad sistémica es completa.",
+        "distribucion": "Se distribuye ampliamente en los líquidos corporales. La unión a proteínas plasmáticas es baja a concentraciones terapéuticas y puede aumentar en caso de sobredosis.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante glucuronidación y sulfatación. Una pequeña proporción se transforma mediante enzimas del citocromo P450 en el metabolito reactivo NAPQI, que normalmente se neutraliza mediante glutatión.",
+        "eliminacion": "Se elimina principalmente por vía renal como metabolitos conjugados. Una pequeña proporción se excreta sin cambios. La semivida suele ser de aproximadamente 2 a 3 horas en adultos sanos, aunque puede prolongarse en determinadas enfermedades o en caso de sobredosis."
+      },
+      "indicaciones": "Tratamiento sintomático del dolor leve a moderado, como cefalea, odontalgia, mialgias y dolor asociado a cuadros respiratorios. Tratamiento de la fiebre. Algunas formulaciones intravenosas se utilizan para el dolor y la fiebre cuando la vía oral no resulta adecuada. No trata la causa subyacente de la enfermedad.",
+      "contraindicaciones": "Hipersensibilidad al paracetamol o a los componentes de la formulación. Insuficiencia hepática grave o enfermedad hepática activa grave, según la ficha técnica del producto. No administrar si existe una sobredosis conocida o sospechada sin valoración médica urgente.",
+      "precauciones": "Utilizar con precaución en personas con enfermedad hepática, consumo crónico o excesivo de alcohol, malnutrición, deshidratación, bajo peso, insuficiencia renal o uso prolongado. Verificar todos los medicamentos que recibe el paciente, incluidos los productos combinados para resfríos y dolor, para evitar duplicar el paracetamol. La dosis máxima depende de la edad, el peso, la formulación, los factores de riesgo y la ficha técnica.",
+      "advertencias": "La sobredosis puede causar lesión hepática grave, incluso si inicialmente no hay síntomas. Ante una ingestión superior a la indicada o una posible duplicación de dosis, solicitar atención médica urgente sin esperar la aparición de síntomas. El tratamiento es más eficaz cuando se inicia precozmente. No superar la dosis máxima diaria indicada para el paciente ni combinar productos que contengan paracetamol sin verificar la cantidad total.",
+      "embarazo_lactancia": "Puede utilizarse durante el embarazo cuando sea clínicamente necesario, a la menor dosis eficaz y durante el menor tiempo posible, previa valoración del beneficio y el riesgo. Durante la lactancia, generalmente es compatible cuando se utiliza a dosis terapéuticas. Evitar la automedicación prolongada y consultar ante necesidad de uso repetido.",
+      "ajustes": {
+        "renal": "En insuficiencia renal grave puede ser necesario prolongar el intervalo entre dosis o reducir la dosis, según la ficha técnica y el contexto clínico. Verificar las recomendaciones específicas de la formulación utilizada.",
+        "hepatico": "En enfermedad hepática, alcoholismo crónico, malnutrición u otros factores de riesgo, puede ser necesario reducir la dosis máxima diaria o ampliar el intervalo entre dosis. En insuficiencia hepática grave, evitarlo según la ficha técnica y la indicación médica."
+      },
+      "interacciones": "El uso regular y prolongado puede aumentar el efecto anticoagulante de la warfarina y otros antagonistas de la vitamina K. Los inductores enzimáticos y algunos medicamentos hepatotóxicos pueden aumentar el riesgo de lesión hepática. El consumo excesivo de alcohol incrementa el riesgo de toxicidad. La colestiramina puede reducir la absorción si se administra simultáneamente. Revisar posibles duplicaciones en medicamentos combinados para dolor, gripe o resfrío.",
+      "reacciones_adversas": "A dosis terapéuticas suele tolerarse bien. Pueden aparecer náuseas, molestias abdominales o elevación de enzimas hepáticas. Raramente se presentan reacciones cutáneas graves, hipersensibilidad, alteraciones hematológicas o lesión hepática. La toxicidad hepática es el riesgo principal en la sobredosis.",
+      "toxicidad_sobredosis": "La sobredosis puede producir necrosis hepática, insuficiencia hepática aguda, alteraciones de la coagulación, hipoglucemia, acidosis metabólica y, en casos graves, insuficiencia renal o muerte. Inicialmente puede haber pocos síntomas o ninguno. Requiere evaluación urgente, determinación de la concentración plasmática cuando corresponda, pruebas hepáticas y coagulación. El tratamiento puede incluir carbón activado en situaciones seleccionadas y N-acetilcisteína según el tiempo transcurrido, la concentración y el protocolo toxicológico.",
+      "antidotos": "N-acetilcisteína: antídoto específico que repone las reservas de glutatión y favorece la neutralización del metabolito tóxico. Administrar según el protocolo de toxicología; no retrasar la evaluación urgente por esperar síntomas.",
+      "monitorizacion": {
+        "clinica": "Evaluar intensidad del dolor, temperatura, respuesta al tratamiento y aparición de reacciones adversas. Vigilar factores de riesgo de hepatotoxicidad y posibles signos de sobredosis, como náuseas, vómitos, dolor en hipocondrio derecho, ictericia o alteración del estado general.",
+        "laboratorio": "En tratamientos habituales de corta duración en pacientes sin factores de riesgo, generalmente no se requieren controles específicos. En tratamientos prolongados, pacientes de riesgo o sospecha de toxicidad, valorar ALT, AST, bilirrubina, tiempo de protrombina/INR, función renal y otros estudios según indicación. En sobredosis, determinar la concentración plasmática en el momento apropiado y aplicar el nomograma y protocolo local cuando sean válidos."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, edad, peso, dosis, vía y formulación. Valorar dolor o temperatura, antecedentes de enfermedad hepática o renal, consumo de alcohol y medicamentos concomitantes. Revisar si otros productos administrados contienen paracetamol y calcular la dosis total diaria.",
+        "durante": "Evaluar la respuesta analgésica o antipirética y vigilar tolerancia. Controlar la dosis acumulada de todas las fuentes de paracetamol, respetar los intervalos y observar signos de reacción alérgica o posible toxicidad.",
+        "despues": "Registrar la dosis, la vía, la hora y la respuesta clínica. Reevaluar el dolor o la temperatura. Comunicar falta de respuesta, necesidad de uso frecuente o signos de toxicidad; no prolongar el tratamiento sin reevaluación cuando los síntomas persisten."
+      },
+      "presentaciones": "Comprimidos, cápsulas, gotas, solución o suspensión oral, sobres, supositorios y solución para infusión intravenosa, según disponibilidad y fabricante. Las concentraciones y cantidades por unidad varían; verificar el envase y el prospecto antes de calcular la dosis.",
+      "dosis": {
+        "adultos": "Por vía oral, una pauta frecuente es de 500 a 1000 mg por toma, respetando el intervalo y el máximo diario del producto. En adultos sanos, algunas fichas técnicas permiten hasta 4000 mg/día, pero otras establecen máximos inferiores; no utilizar 4000 mg/día como límite universal. En personas con factores de riesgo puede requerirse un máximo menor. La dosis intravenosa depende del peso, la indicación y la presentación.",
+        "pediatrico": "La dosis se calcula por peso y formulación. Una pauta oral frecuente es de 10 a 15 mg/kg por toma, con intervalos de 4 a 6 horas según el producto y un máximo diario establecido por la ficha técnica y el protocolo pediátrico. No superar la dosis máxima por toma ni diaria. En menores de 3 meses, fiebre o síntomas preocupantes requieren valoración médica; no administrar sin seguir las indicaciones pediátricas correspondientes.",
+        "geriatrico": "No siempre requiere ajuste por edad aislada, pero deben valorarse peso, fragilidad, función hepática y renal, malnutrición, consumo de alcohol y medicación concomitante. Puede ser necesario reducir la dosis máxima diaria."
+      },
+      "vias_administracion": "Oral, rectal e intravenosa, según la presentación. No utilizar una formulación por una vía diferente de la autorizada. La vía rectal puede presentar absorción irregular y no debe considerarse automáticamente equivalente a la oral.",
+      "preparacion": {
+        "dilucion": "Las formulaciones orales y rectales suelen administrarse sin dilución. La solución intravenosa lista para usar debe administrarse según el prospecto; algunas presentaciones concentradas requieren dilución. Verificar concentración, volumen, compatibilidad y requisitos del producto específico antes de preparar. No extrapolar las instrucciones de una marca a otra.",
+        "compatibilidad_iv": "La compatibilidad depende de la presentación, la concentración y el medicamento concomitante. No mezclar con otros medicamentos en la misma bolsa o jeringa sin datos de compatibilidad documentados. Utilizar una línea exclusiva cuando así lo indique la ficha técnica o el protocolo institucional."
+      },
+      "velocidad_infusion": "Para algunas formulaciones intravenosas, la administración se realiza mediante infusión durante aproximadamente 15 minutos. Confirmar siempre la velocidad y las condiciones de administración en el prospecto de la presentación utilizada; no administrar en bolo salvo que la ficha técnica lo autorice expresamente.",
+      "estabilidad_soluciones": "La estabilidad depende de la presentación, el envase, la dilución y las condiciones de conservación. Respetar la fecha de vencimiento, las instrucciones del fabricante y las normas de preparación aséptica. No conservar una solución diluida ni reutilizar envases abiertos fuera de las condiciones autorizadas.",
+      "concentracion": "Varía según la forma farmacéutica y el fabricante. Las presentaciones orales pueden expresarse en mg por comprimido o en mg/mL; las formulaciones intravenosas suelen tener concentraciones específicas, por ejemplo 10 mg/mL. Verificar siempre la etiqueta antes de calcular o administrar.",
+      "alarma_riesgo": "ALERTA: la sobredosis de paracetamol puede causar daño hepático grave y al principio ser asintomática. Verificar la dosis total procedente de todos los medicamentos, el peso en pediatría y los factores de riesgo hepático. Ante una posible sobredosis, derivar inmediatamente a evaluación médica o toxicológica, incluso si el paciente se encuentra bien.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar la prescripción, la indicación, la dosis, la vía, el intervalo y la presentación.",
+          "En pediatría, calcular la dosis en función del peso actual y verificar el máximo por toma y por día.",
+          "Revisar todos los medicamentos administrados para detectar productos combinados que también contengan paracetamol.",
+          "Valorar dolor y temperatura antes y después de la administración para documentar la respuesta.",
+          "En pacientes con enfermedad hepática, consumo excesivo de alcohol, malnutrición o tratamiento prolongado, verificar la pauta y los controles indicados.",
+          "Si se administra por vía intravenosa, comprobar la concentración, el volumen, la velocidad y las instrucciones específicas del producto.",
+          "No administrar una dosis adicional ante una posible duplicación sin verificar previamente la dosis total recibida.",
+          "Ante sospecha de sobredosis, activar el protocolo institucional y solicitar evaluación urgente; no esperar a que aparezcan síntomas.",
+          "Registrar dosis, vía, horario, respuesta clínica y cualquier reacción adversa."
+        ],
+        "educacion_paciente": [
+          "Explicar que debe respetar la dosis y los intervalos indicados y no tomar dosis adicionales por falta de alivio sin consultar.",
+          "Advertir que muchos medicamentos para resfríos, gripe y dolor contienen paracetamol y que combinarlos puede provocar una sobredosis.",
+          "Evitar el consumo excesivo de alcohol y consultar antes de utilizarlo si existe enfermedad hepática o renal.",
+          "Buscar atención médica si el dolor persiste, la fiebre continúa o empeora, o aparecen síntomas nuevos o preocupantes.",
+          "Consultar urgentemente ante una posible sobredosis, incluso si no hay síntomas.",
+          "Mantener los medicamentos fuera del alcance de niños y utilizar dispositivos de medición adecuados para soluciones orales."
+        ]
+      }
     }
   ]
 }
