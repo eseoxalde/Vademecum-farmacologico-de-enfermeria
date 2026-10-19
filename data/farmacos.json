@@ -10527,6 +10527,79 @@
           "Recomendar no reiniciar ni modificar la digoxina sin una indicación médica explícita"
         ]
       }
+    },
+    {
+      "id": "134",
+      "nombre_generico": "Fitomenadiona (vitamina K1)",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fitomenadiona, vitamina K1",
+        "clasificacion": "Antihemorrágico; vitamina liposoluble necesaria para la síntesis funcional de factores de coagulación",
+        "efecto_terapeutica": "Favorece la recuperación de la coagulación cuando existe deficiencia de vitamina K o efecto excesivo de anticoagulantes antagonistas de la vitamina K",
+        "mecanismo_accion": "Actúa como cofactor de la gamma-carboxilación hepática de los factores de coagulación II, VII, IX y X y de las proteínas C y S. Revierte el efecto de los anticoagulantes cumarínicos al permitir la síntesis de factores funcionales; no neutraliza la heparina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Por vía oral, la absorción ocurre principalmente en el intestino delgado y depende de una absorción adecuada de grasas y sales biliares; por vía intravenosa, la disponibilidad sistémica es inmediata",
+        "distribucion": "Circula principalmente unida a lipoproteínas plasmáticas; atraviesa la placenta en cantidades limitadas y pasa a la leche materna en pequeñas cantidades",
+        "metabolismo": "Se transforma rápidamente en metabolitos más polares, entre ellos el epóxido de vitamina K1",
+        "eliminacion": "Los metabolitos se eliminan por bilis y orina, principalmente como conjugados; la semivida terminal depende de la vía y de las condiciones clínicas"
+      },
+      "indicaciones": "Tratamiento y prevención de hemorragias o riesgo de hemorragia por deficiencia de vitamina K; reversión del efecto excesivo de anticoagulantes cumarínicos, como warfarina o acenocumarol, cuando esté indicada; tratamiento de hipoprotrombinemia por determinadas alteraciones de absorción, nutrición o medicación. La indicación y la vía dependen de la gravedad y del producto autorizado",
+      "contraindicaciones": "Hipersensibilidad a la fitomenadiona o a cualquiera de los excipientes. La vía intramuscular debe evitarse en pacientes anticoagulados cuando el prospecto contraindique su uso por riesgo de hematoma y efecto de depósito",
+      "precauciones": "La administración intravenosa puede causar reacciones anafilactoides graves, incluso con una administración correcta; utilizar solo cuando esté indicada y administrar lentamente conforme al prospecto. En hemorragias graves asociadas a antagonistas de vitamina K, la vitamina K puede no revertir el riesgo de inmediato y puede requerirse tratamiento hemostático adicional, como concentrado de complejo protrombínico, según indicación médica",
+      "advertencias": "No confundir vitamina K1 (fitomenadiona) con otras formas de vitamina K. La respuesta no es inmediata porque depende de la síntesis de factores de coagulación. Puede antagonizar el efecto de anticoagulantes cumarínicos y dificultar la reanudación del tratamiento anticoagulante. En pacientes con hepatopatía grave, la respuesta puede ser limitada y requiere control cuidadoso del INR",
+      "embarazo_lactancia": "Durante el embarazo, utilizar cuando esté clínicamente indicado y tras valorar el balance riesgo-beneficio. En lactancia, la información del prospecto de Konakion MM indica que pequeñas cantidades pasan a la leche y que las dosis terapéuticas no suponen un riesgo conocido relevante; confirmar siempre la especialidad y la indicación",
+      "ajustes": {
+        "renal": "No suele requerir un ajuste específico por insuficiencia renal, pero la pauta debe individualizarse según indicación, respuesta y estado clínico",
+        "hepatico": "La respuesta puede ser limitada en insuficiencia hepática grave; monitorizar el INR y valorar causas alternativas de coagulopatía. La dosis debe ajustarse a la situación clínica y al protocolo de reversión"
+      },
+      "interacciones": "Antagoniza el efecto de anticoagulantes cumarínicos como warfarina y acenocumarol; puede dificultar la reanudación de la anticoagulación; los anticonvulsivantes pueden modificar la respuesta a la vitamina K1; no neutraliza la heparina",
+      "reacciones_adversas": "Reacciones anafilactoides o de hipersensibilidad, especialmente con administración intravenosa; hipotensión; disnea; taquicardia; sudoración; irritación venosa o flebitis; dolor o reacciones locales según la vía; alteración de la respuesta anticoagulante",
+      "toxicidad_sobredosis": "Una dosis excesiva puede producir una reversión prolongada del efecto de los anticoagulantes cumarínicos y dificultar el restablecimiento de la anticoagulación. No existe un antídoto específico para la sobredosis de fitomenadiona; controlar INR y evolución clínica, y coordinar la estrategia de anticoagulación con el equipo tratante",
+      "antidotos": "No existe un antídoto específico para la fitomenadiona. Si se produce una reacción anafilactoide, tratar de inmediato según el protocolo de anafilaxia; si existe reversión excesiva de anticoagulación, el manejo debe individualizarse y supervisarse médicamente",
+      "monitorizacion": {
+        "clinica": "Signos de sangrado; estabilidad hemodinámica; reacciones de hipersensibilidad durante y después de la administración; signos de trombosis o cambios clínicos relacionados con la reversión de la anticoagulación",
+        "laboratorio": "INR o tiempo de protrombina antes y después de la administración según la indicación; hemograma y otros estudios de coagulación cuando corresponda; repetir controles según gravedad, vía, dosis y respuesta"
+      },
+      "parametros_valoracion": {
+        "antes": "Determinar la indicación, la gravedad del sangrado y el riesgo trombótico; revisar anticoagulantes y otros medicamentos; obtener INR o tiempo de protrombina cuando corresponda; comprobar la presentación, la concentración y la vía prescrita; valorar antecedentes de hipersensibilidad",
+        "durante": "Administrar por la vía indicada y respetar la velocidad establecida en el prospecto; vigilar presión arterial, frecuencia cardíaca, respiración y signos de hipersensibilidad, especialmente durante la administración intravenosa; observar la vía venosa",
+        "despues": "Controlar la evolución del sangrado y repetir INR o tiempo de protrombina según la indicación; vigilar reacciones tardías y signos de trombosis o reversión excesiva de la anticoagulación; documentar la dosis, la vía, la velocidad, la respuesta y los efectos adversos"
+      },
+      "presentaciones": "Konakion MM, vitamina K1: ampollas de 10 mg/1 mL (10 mg/mL), con prospecto aprobado por ANMAT. Existen otras presentaciones y concentraciones según producto y uso; verificar registro y disponibilidad antes de seleccionar la ampolla",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación, del INR, de la presencia y gravedad del sangrado, del anticoagulante y de la vía. El prospecto argentino de Konakion MM describe, para hemorragia grave o potencialmente mortal asociada a anticoagulantes cumarínicos, 5–10 mg por vía IV lenta, con tratamiento hemostático adicional cuando esté indicado. Para elevación del INR sin hemorragia grave se utilizan dosis menores y la vía puede ser oral o IV según el caso. No usar una dosis única para todas las situaciones",
+        "pediatrico": "La dosis depende de la edad, el peso, la indicación y la presentación. En recién nacidos y lactantes deben utilizarse formulaciones y concentraciones apropiadas para evitar errores de dosificación; seguir protocolos pediátricos específicos y no extrapolar la pauta adulta",
+        "geriatrico": "Individualizar según indicación, INR, riesgo de sangrado y riesgo trombótico; el prospecto de Konakion MM recomienda considerar los límites inferiores de los rangos de dosis en pacientes de edad avanzada"
+      },
+      "vias_administracion": "Vía intravenosa lenta o vía oral, según la presentación autorizada y la indicación. No utilizar la vía intramuscular en pacientes anticoagulados cuando esté contraindicada por el prospecto. Confirmar las vías autorizadas para la especialidad disponible",
+      "preparacion": {
+        "dilucion": "Para Konakion MM 10 mg/1 mL, el prospecto argentino indica que la solución no debe diluirse ni mezclarse con otros inyectables; puede administrarse mediante un equipo de infusión de solución fisiológica al 0,9 % o dextrosa al 5 % según las instrucciones del prospecto. No extrapolar estas instrucciones a otras formulaciones",
+        "compatibilidad_iv": "No mezclar con otros medicamentos inyectables. Si se utiliza una línea de infusión, seguir el prospecto específico y verificar compatibilidad con la solución utilizada; no asumir compatibilidad en una misma jeringa o bolsa"
+      },
+      "velocidad_infusion": "Para Konakion MM 10 mg/1 mL, el prospecto indica administración IV lenta durante al menos 30 segundos; respetar la pauta específica del producto y el protocolo institucional. La administración rápida debe evitarse por riesgo de reacciones graves",
+      "estabilidad_soluciones": "La solución debe estar límpida al momento de usarla. Si presenta turbidez, separación de fases o alteraciones del aspecto, desechar la ampolla. Respetar las condiciones de conservación y no asumir estabilidad después de abrir o preparar sin datos del prospecto",
+      "concentracion": "No se establece una concentración máxima universal de administración aplicable a todas las formulaciones. La presentación Konakion MM consultada contiene 10 mg/mL y el prospecto indica que no debe diluirse ni mezclarse con otros inyectables; verificar siempre el producto específico y su ficha técnica",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO EN ADMINISTRACIÓN INTRAVENOSA. Puede causar reacciones anafilactoides graves; administrar lentamente, con vigilancia clínica y equipo para tratar una reacción de hipersensibilidad disponible. La reversión de la anticoagulación depende de la indicación y no es inmediata",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar la indicación, la dosis, la vía y la concentración antes de administrar",
+          "Verificar el INR o tiempo de protrombina cuando corresponda y revisar la presencia de sangrado activo",
+          "Inspeccionar la ampolla y desecharla si presenta turbidez, separación de fases o alteraciones del aspecto",
+          "No mezclar ni diluir Konakion MM 10 mg/mL salvo que el prospecto específico lo autorice",
+          "Administrar por vía intravenosa lentamente y vigilar presión arterial, frecuencia cardíaca y respiración",
+          "Mantener disponibles los elementos necesarios para responder a una reacción anafilactoide",
+          "Controlar la respuesta clínica y los valores de coagulación después de la administración",
+          "Registrar dosis, vía, hora, velocidad, respuesta y posibles reacciones adversas"
+        ],
+        "educacion_paciente": [
+          "Explicar que la vitamina K1 ayuda a recuperar la coagulación cuando existe deficiencia o exceso de efecto de ciertos anticoagulantes",
+          "Indicar que comunique inmediatamente dificultad respiratoria, mareos intensos, sensación de desmayo, palpitaciones o aparición de sangrado",
+          "Advertir que no debe modificar ni reiniciar anticoagulantes por cuenta propia después de recibir vitamina K1",
+          "Explicar que puede requerir controles de INR o de coagulación y ajustes posteriores del tratamiento"
+        ]
+      }
     }
   ]
 }
