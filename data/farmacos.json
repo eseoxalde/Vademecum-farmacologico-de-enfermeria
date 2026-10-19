@@ -9033,6 +9033,79 @@
           "Revisar almacenamiento, vencimiento y reposición del producto."
         ]
       }
+    },
+    {
+      "id": "113",
+      "nombre_generico": "Metformina",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de metformina",
+        "clasificacion": "Antidiabético oral; biguanida.",
+        "efecto_terapeutica": "Reduce la glucemia en personas con diabetes mellitus tipo 2, sin estimular directamente la secreción de insulina.",
+        "mecanismo_accion": "Disminuye principalmente la producción hepática de glucosa, reduce en parte la absorción intestinal de glucosa y mejora la sensibilidad periférica a la insulina."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral. La absorción y el tiempo hasta la concentración máxima dependen de si la formulación es de liberación inmediata o prolongada. Los alimentos pueden modificar la absorción y suelen mejorar la tolerancia gastrointestinal.",
+        "distribucion": "Se distribuye en los tejidos y no se une significativamente a proteínas plasmáticas.",
+        "metabolismo": "Prácticamente no se metaboliza.",
+        "eliminacion": "Se elimina principalmente sin cambios por vía renal. La reducción de la función renal aumenta el riesgo de acumulación."
+      },
+      "indicaciones": "Tratamiento de la diabetes mellitus tipo 2, junto con alimentación y actividad física, sola o combinada con otros antidiabéticos o insulina. Otros usos dependen de la indicación médica y de las autorizaciones locales.",
+      "contraindicaciones": "Hipersensibilidad a la metformina; filtrado glomerular estimado inferior a 30 ml/min/1,73 m²; acidosis metabólica aguda o crónica, incluida cetoacidosis diabética. Revisar la ficha técnica para otras contraindicaciones específicas.",
+      "precauciones": "Evaluar función renal antes de iniciar y periódicamente durante el tratamiento. Considerar la suspensión temporal ante deshidratación importante, infección grave, hipoxia, cirugía o procedimientos con contraste yodado, según función renal y protocolo. El uso prolongado puede reducir la vitamina B12.",
+      "advertencias": "La acidosis láctica es rara, pero potencialmente mortal. El riesgo aumenta con insuficiencia renal, hipoxia, enfermedad hepática grave, consumo excesivo de alcohol y cuadros agudos graves. No utilizar como tratamiento de la cetoacidosis diabética.",
+      "embarazo_lactancia": "El tratamiento durante el embarazo debe individualizarse según el control glucémico y las recomendaciones obstétricas; la insulina suele ser la opción preferida para el control de la diabetes durante el embarazo en muchas guías. La metformina pasa a la leche materna en pequeñas cantidades; valorar beneficios y riesgos con el equipo tratante.",
+      "ajustes": {
+        "renal": "No utilizar si el filtrado glomerular estimado es inferior a 30 ml/min/1,73 m². Con valores de 30 a 44, generalmente no se recomienda iniciar y, si ya se utiliza, se requiere evaluación individual de la dosis y vigilancia estrecha. Entre 45 y 59, valorar factores de riesgo y monitorizar. Seguir la ficha técnica local.",
+        "hepatico": "Evitar en insuficiencia hepática significativa por el mayor riesgo de acidosis láctica. Evaluar enfermedad hepática y consumo de alcohol."
+      },
+      "interacciones": "El alcohol aumenta el riesgo de acidosis láctica. Algunos medicamentos que afectan la función renal o la eliminación tubular pueden aumentar la exposición a metformina. El contraste yodado puede requerir suspensión temporal. Los corticoides, diuréticos y otros fármacos pueden modificar la glucemia. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia por la combinación.",
+      "reacciones_adversas": "Náuseas, diarrea, dolor abdominal, disminución del apetito y alteraciones del gusto, especialmente al inicio. Puede reducir la vitamina B12 con el uso prolongado. La acidosis láctica es rara, pero grave.",
+      "toxicidad_sobredosis": "La sobredosis puede causar acidosis láctica grave, alteraciones gastrointestinales, hipotermia, hipotensión y compromiso del estado de conciencia. Requiere atención urgente; los casos graves pueden precisar hemodiálisis.",
+      "antidotos": "No existe un antídoto específico. El manejo es de soporte y, en casos graves, puede requerir hemodiálisis bajo supervisión especializada.",
+      "monitorizacion": {
+        "clinica": "Control glucémico, tolerancia gastrointestinal, hidratación, signos de infección o hipoxia y síntomas compatibles con acidosis láctica. Valorar adherencia y alimentación.",
+        "laboratorio": "Glucemia y HbA1c; creatinina y filtrado glomerular estimado antes de iniciar y periódicamente; vitamina B12 en tratamientos prolongados o si hay anemia o neuropatía. Evaluar otros parámetros según el cuadro clínico."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar indicación, dosis, formulación, función renal, estado de hidratación, antecedentes de acidosis, consumo de alcohol y medicamentos concomitantes.",
+        "durante": "Administrar con alimentos según la formulación prescrita. Vigilar tolerancia digestiva, glucemia y signos de deterioro renal o enfermedad aguda.",
+        "despues": "Evaluar control glucémico, adherencia y efectos adversos. Confirmar controles de función renal y vitamina B12 cuando corresponda. Si aparecen signos de acidosis láctica, suspender y solicitar atención urgente conforme al protocolo."
+      },
+      "presentaciones": "Comprimidos de liberación inmediata y prolongada en distintas concentraciones; también existen combinaciones con otros antidiabéticos. Confirmar la presentación comercial disponible.",
+      "dosis": {
+        "adultos": "La dosis inicial habitual de liberación inmediata suele ser 500 mg una o dos veces al día con las comidas, con aumentos graduales según tolerancia y respuesta. Las formulaciones de liberación prolongada tienen pautas específicas. La dosis máxima depende del producto y la jurisdicción; no extrapolar entre formulaciones.",
+        "pediatrico": "Puede utilizarse en determinados pacientes pediátricos con diabetes tipo 2 según edad, producto y autorización local. La dosis debe ser indicada y ajustada por el equipo tratante.",
+        "geriatrico": "Individualizar según función renal, fragilidad, hidratación y comorbilidades. Controlar la función renal con mayor frecuencia cuando exista riesgo de deterioro."
+      },
+      "vias_administracion": "Oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución. Administrar los comprimidos según las instrucciones del producto. No triturar ni partir las formulaciones de liberación prolongada salvo que la ficha técnica lo permita.",
+        "compatibilidad_iv": "No corresponde; no se administra por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde.",
+      "estabilidad_soluciones": "No corresponde para las presentaciones sólidas habituales. Conservar según el prospecto, protegida de la humedad y del calor excesivo.",
+      "concentracion": "Existen distintas concentraciones y formulaciones; comprobar los miligramos por comprimido y si es de liberación inmediata o prolongada.",
+      "alarma_riesgo": "Vigilar signos de acidosis láctica: malestar intenso, debilidad marcada, dolor muscular, dificultad respiratoria, somnolencia inusual, dolor abdominal o hipotermia. Requieren evaluación urgente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la dosis, la formulación y la administración con alimentos según prescripción.",
+          "Controlar glucemia y revisar resultados de HbA1c y función renal.",
+          "Observar intolerancia gastrointestinal y promover el reporte de síntomas persistentes.",
+          "Revisar si existe deshidratación, hipoxia, infección grave o deterioro renal que requiera reevaluación médica.",
+          "Confirmar las indicaciones de suspensión temporal ante contraste yodado o procedimientos, según función renal y protocolo.",
+          "Vigilar posible déficit de vitamina B12 durante tratamientos prolongados.",
+          "Registrar administración, tolerancia y controles relevantes."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento con las comidas si así lo indica la formulación prescrita.",
+          "No duplicar una dosis olvidada ni modificar la dosis sin indicación profesional.",
+          "Informar al equipo de salud sobre estudios con contraste, cirugía, vómitos o diarrea intensos, deshidratación o enfermedad aguda.",
+          "Consultar de urgencia ante síntomas compatibles con acidosis láctica.",
+          "Mantener los controles de glucemia, HbA1c y función renal indicados."
+        ]
+      }
     }
   ]
 }
