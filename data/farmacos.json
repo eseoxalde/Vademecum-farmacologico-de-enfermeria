@@ -8961,6 +8961,78 @@
           "Conservar el producto según las instrucciones del fabricante."
         ]
       }
+    },
+    {
+      "id": "112",
+      "nombre_generico": "Glucagón",
+      "letra": "G",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Glucagón",
+        "clasificacion": "Hormona hiperglucemiante; agente antihipoglucemiante y diagnóstico.",
+        "efecto_terapeutica": "Eleva la glucemia al estimular la liberación de glucosa hepática. Puede utilizarse para tratar la hipoglucemia grave y, en determinados procedimientos, como agente diagnóstico.",
+        "mecanismo_accion": "Se une a receptores hepáticos y activa la vía del AMP cíclico, estimulando la glucogenólisis y la gluconeogénesis. Su efecto puede ser limitado cuando las reservas de glucógeno están agotadas."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La absorción depende de la vía y de la formulación. Las presentaciones intramusculares, subcutáneas, intravenosas e intranasales tienen características diferentes.",
+        "distribucion": "Péptido que actúa principalmente sobre el hígado; su distribución sistémica es rápida.",
+        "metabolismo": "Se degrada mediante proteólisis en plasma, hígado, riñones y otros tejidos.",
+        "eliminacion": "Sus metabolitos se eliminan principalmente por vías renales y metabólicas."
+      },
+      "indicaciones": "Tratamiento de la hipoglucemia grave cuando la persona no puede ingerir carbohidratos de forma segura. Algunas formulaciones se utilizan como ayuda diagnóstica o para reducir temporalmente la motilidad gastrointestinal en procedimientos específicos, según la autorización del producto.",
+      "contraindicaciones": "Hipersensibilidad al glucagón o a los componentes de la formulación. Feocromocitoma; insulinoma, salvo indicaciones específicas y supervisión médica. Algunas formulaciones tienen contraindicaciones adicionales que deben verificarse en el prospecto.",
+      "precauciones": "Puede ser menos eficaz en personas con ayuno prolongado, desnutrición, insuficiencia suprarrenal o hipoglucemia crónica, por disminución de las reservas de glucógeno. Una vez recuperada la conciencia, administrar carbohidratos por vía oral si la deglución es segura.",
+      "advertencias": "La hipoglucemia grave es una emergencia. Solicitar asistencia médica según el protocolo local. Si no hay respuesta en el tiempo esperado, puede requerirse una nueva intervención y glucosa por vía intravenosa. Existe riesgo de vómitos y aspiración.",
+      "embarazo_lactancia": "En una emergencia, el tratamiento de la hipoglucemia grave no debe retrasarse. La decisión durante el embarazo o la lactancia debe basarse en la situación clínica y en la información específica de la formulación.",
+      "ajustes": {
+        "renal": "No suele establecerse un ajuste específico para el tratamiento de emergencia; considerar el estado clínico y el protocolo aplicable.",
+        "hepatico": "La respuesta puede ser menor si las reservas hepáticas de glucógeno están reducidas o existe enfermedad hepática grave."
+      },
+      "interacciones": "Los betabloqueantes pueden aumentar la respuesta presora y modificar la frecuencia cardíaca. La indometacina puede reducir el efecto hiperglucemiante o producir respuestas paradójicas. Puede aumentar el efecto anticoagulante de warfarina; vigilar según indicación clínica.",
+      "reacciones_adversas": "Náuseas, vómitos, dolor abdominal, cefalea y reacciones en el lugar de administración. Pueden aparecer cambios transitorios de la presión arterial y de la frecuencia cardíaca. Las reacciones graves son poco frecuentes, pero dependen de la situación clínica y la formulación.",
+      "toxicidad_sobredosis": "Puede producir náuseas, vómitos, hiperglucemia y alteraciones de la presión arterial o de la frecuencia cardíaca. La sobredosis requiere valoración clínica y tratamiento de soporte.",
+      "antidotos": "No existe un antídoto específico. Tratar las alteraciones de la glucemia y los efectos cardiovasculares según indicación médica.",
+      "monitorizacion": {
+        "clinica": "Nivel de conciencia, capacidad de deglución, signos de aspiración, frecuencia cardíaca, presión arterial y respuesta al tratamiento.",
+        "laboratorio": "Glucemia antes y después de la administración, sin retrasar el tratamiento de una hipoglucemia grave. Controles adicionales según evolución."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar estado de conciencia, glucemia si está disponible sin demorar la intervención, capacidad de deglución, antecedentes relevantes y presentación disponible.",
+        "durante": "Administrar según la vía y las instrucciones del producto. Proteger la vía aérea si hay vómitos y solicitar asistencia conforme al protocolo de emergencia.",
+        "despues": "Recontrolar glucemia y estado neurológico. Cuando la persona esté alerta y pueda tragar con seguridad, administrar carbohidratos de acción rápida y luego alimentos con carbohidratos de acción más sostenida según el protocolo. Investigar la causa de la hipoglucemia."
+      },
+      "presentaciones": "Polvo para reconstituir, soluciones listas para usar e intranasales, según producto y mercado. Las concentraciones y dispositivos no son intercambiables automáticamente.",
+      "dosis": {
+        "adultos": "Hipoglucemia grave: en presentaciones inyectables convencionales suele utilizarse 1 mg IM o SC; en un entorno sanitario puede utilizarse la vía IV según formulación y protocolo. Algunas presentaciones intranasales tienen una dosis fija propia, por ejemplo 3 mg en productos autorizados. Confirmar siempre la presentación y sus instrucciones.",
+        "pediatrico": "La dosis depende de la edad, el peso y la formulación. En algunas presentaciones inyectables se emplea 0,5 mg en niños de menor peso y 1 mg en niños de mayor peso; verificar el prospecto y el protocolo pediátrico local.",
+        "geriatrico": "En general se utilizan las dosis correspondientes a adultos, con valoración de comorbilidades, causa de la hipoglucemia y respuesta clínica."
+      },
+      "vias_administracion": "Intramuscular, subcutánea, intravenosa en formulaciones apropiadas e intranasal en productos específicos. No todas las presentaciones permiten todas las vías.",
+      "preparacion": {
+        "dilucion": "Las presentaciones en polvo pueden requerir reconstitución con el diluyente provisto. No utilizar un diluyente alternativo ni administrar por una vía no autorizada. Las formulaciones listas para usar no deben reconstituirse.",
+        "compatibilidad_iv": "Verificar compatibilidad y condiciones de administración intravenosa en la ficha técnica de la presentación específica. No mezclar con otros medicamentos en la misma jeringa o línea sin compatibilidad documentada."
+      },
+      "velocidad_infusion": "No existe una velocidad universal aplicable a todas las presentaciones. Para uso intravenoso, seguir la ficha técnica y el protocolo institucional.",
+      "estabilidad_soluciones": "La estabilidad después de la reconstitución depende del producto. Algunas presentaciones deben utilizarse inmediatamente y desechar el remanente. Seguir las instrucciones del fabricante.",
+      "concentracion": "Variable según la presentación y la formulación; comprobar el contenido total, el volumen final y la vía autorizada antes de administrar.",
+      "alarma_riesgo": "Alto riesgo en emergencias por hipoglucemia grave. Confirmar paciente, dosis, vía y formulación. Vigilar la respuesta, el riesgo de vómitos y la necesidad de glucosa adicional.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Activar el protocolo de hipoglucemia grave y solicitar ayuda sin demoras innecesarias.",
+          "Verificar la formulación, la dosis, la vía y las instrucciones de preparación.",
+          "No administrar alimentos ni líquidos por boca mientras exista alteración de conciencia o riesgo de aspiración.",
+          "Controlar glucemia, conciencia, signos vitales y respuesta clínica.",
+          "Colocar a la persona de lado si corresponde y proteger la vía aérea ante vómitos.",
+          "Tras la recuperación, administrar carbohidratos por vía oral solo si la deglución es segura y según protocolo.",
+          "Registrar la administración, la respuesta y los controles posteriores."
+        ],
+        "educacion_paciente": [
+          "Enseñar a la persona y a quienes la asisten a reconocer los signos de hipoglucemia grave y cuándo utilizar el producto prescrito.",
+          "Explicar que deben seguir las instrucciones específicas del dispositivo y solicitar asistencia de emergencia.",
+          "Indicar que, tras la recuperación y si puede tragar con seguridad, debe ingerir carbohidratos según las instrucciones recibidas.",
+          "Revisar almacenamiento, vencimiento y reposición del producto."
+        ]
+      }
     }
   ]
 }
