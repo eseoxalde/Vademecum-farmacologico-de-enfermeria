@@ -4497,66 +4497,76 @@
       "id": "54",
       "nombre_generico": "Hidrocortisona",
       "letra": "H",
-      "alto_riesgo": false,
+      "alto_riesgo": true,
       "farmacodinamia": {
-        "principio_activo": "Hidrocortisona (Cortisol)",
-        "clasificacion": "Corticoide de acción corta; alta actividad mineralocorticoide",
-        "efecto_terapeutica": "Potente efecto antiinflamatorio, inmunosupresor y metabólico",
-        "mecanismo_accion": "Altera la transcripción de ADN inhibiendo mediadores inflamatorios"
+        "principio_activo": "Hidrocortisona, también denominada cortisol. Para administración parenteral se utiliza, entre otras formulaciones, hidrocortisona succinato sódico.",
+        "clasificacion": "Glucocorticoide de acción corta con actividad mineralocorticoide significativa.",
+        "efecto_terapeutica": "Efecto antiinflamatorio, inmunosupresor, antialérgico y metabólico. También ejerce acción mineralocorticoide, favoreciendo la retención de sodio y agua y la eliminación de potasio.",
+        "mecanismo_accion": "Se une a receptores glucocorticoides intracelulares y modifica la expresión de genes relacionados con la respuesta inflamatoria e inmunitaria. Reduce la producción y liberación de mediadores inflamatorios y modifica el metabolismo de carbohidratos, proteínas y grasas."
       },
       "farmacocinetica_adme": {
-        "absorcion": "Inmediata vía IV",
-        "distribucion": "Cruza placenta; pasa a leche materna",
-        "metabolismo": "Hepático",
-        "eliminacion": "Renal; vida media biológica 8-12 horas"
+        "absorcion": "La administración intravenosa produce disponibilidad sistémica inmediata. La administración intramuscular depende de la formulación y del sitio de inyección. Las presentaciones orales se absorben en el tracto gastrointestinal y las tópicas presentan absorción variable según la zona, la extensión y el estado de la piel.",
+        "distribucion": "Se distribuye ampliamente y circula unida a proteínas plasmáticas, principalmente transcortina y albúmina. Atraviesa la placenta y pequeñas cantidades pueden pasar a la leche materna.",
+        "metabolismo": "Se metaboliza principalmente en el hígado a metabolitos inactivos.",
+        "eliminacion": "Se elimina principalmente por vía renal en forma de metabolitos conjugados y, en menor proporción, como fármaco sin modificar. Su semivida plasmática es de aproximadamente 1,5 a 2 horas, mientras que sus efectos biológicos pueden persistir entre 8 y 12 horas."
       },
-      "indicaciones": "Insuficiencia suprarrenal aguda, shock anafiláctico/séptico, estatus asmático",
-      "contraindicaciones": "Infecciones fúngicas sistémicas, úlcera péptica activa",
-      "precauciones": "Retención de sodio y agua; riesgo de edema e hipertensión",
-      "advertencias": "Puede causar psicosis por corticoides e hiperglucemia extrema",
-      "embarazo_lactancia": "Categoría C. Puede suprimir crecimiento en tratamientos largos",
+      "indicaciones": "Tratamiento de reemplazo en insuficiencia suprarrenal aguda o crónica cuando se requiere una formulación parenteral. También se utiliza en determinadas enfermedades inflamatorias, alérgicas e inmunológicas graves y como tratamiento complementario en algunas emergencias, como reacciones anafilácticas graves, exacerbaciones graves del asma y ciertos casos de shock séptico según el contexto clínico y los protocolos vigentes. En la anafilaxia, no sustituye a la adrenalina intramuscular, que es el tratamiento inicial de elección.",
+      "contraindicaciones": "Hipersensibilidad a la hidrocortisona o a alguno de los componentes de la formulación. Las infecciones fúngicas sistémicas constituyen una contraindicación importante para el tratamiento sistémico, salvo circunstancias excepcionales indicadas por especialistas. Las vacunas vivas están contraindicadas durante tratamientos con dosis inmunosupresoras de corticoides. En situaciones potencialmente mortales, una contraindicación relativa puede requerir una evaluación individual del balance entre riesgos y beneficios.",
+      "precauciones": "Utilizar con precaución en pacientes con hipertensión, insuficiencia cardíaca, enfermedad renal, diabetes, osteoporosis, glaucoma, antecedentes de trastornos psiquiátricos, úlcera o hemorragia gastrointestinal, epilepsia o infecciones activas. Puede provocar retención hidrosalina, hipopotasemia, hiperglucemia y disminución de la respuesta inmunitaria. Los tratamientos prolongados pueden causar supresión del eje hipotálamo-hipófiso-suprarrenal. Considerar el riesgo de reactivación de infecciones latentes, como tuberculosis, según los antecedentes del paciente.",
+      "advertencias": "Los corticoides sistémicos pueden enmascarar signos de infección, agravar infecciones existentes, producir hiperglucemia, alteraciones psiquiátricas y supresión suprarrenal. La interrupción brusca de tratamientos prolongados puede ocasionar insuficiencia suprarrenal. En una crisis suprarrenal, el tratamiento urgente no debe retrasarse por estudios diagnósticos. La hidrocortisona no debe considerarse el tratamiento único ni de primera línea de la anafilaxia. La administración intravenosa rápida de dosis elevadas puede causar molestias perineales transitorias, entre otras reacciones, por lo que debe respetarse la velocidad indicada para la formulación y la dosis.",
+      "embarazo_lactancia": "Puede utilizarse durante el embarazo cuando esté clínicamente indicado, valorando los beneficios y riesgos. No debe asignarse una categoría de riesgo antigua como criterio único de decisión. El tratamiento sistémico prolongado o con dosis altas puede asociarse con riesgos maternos y fetales y requiere supervisión médica. La hidrocortisona pasa a la leche materna en cantidades pequeñas; con dosis sistémicas altas o tratamientos prolongados, valorar los posibles efectos en el lactante y la necesidad de seguimiento.",
       "ajustes": {
-        "renal": "No requiere ajuste estricto",
-        "hepatico": "Monitorizar estrechamente (disminuye aclaramiento)"
+        "renal": "No existe un ajuste universal de dosis basado exclusivamente en la función renal. En insuficiencia renal, hipertensión, edema o alteraciones electrolíticas, vigilar especialmente la retención de líquidos, la presión arterial y el potasio. Individualizar la dosis según la indicación y la respuesta clínica.",
+        "hepatico": "La hepatopatía puede modificar el metabolismo y la unión a proteínas plasmáticas. No hay un ajuste único aplicable a todos los pacientes; valorar la gravedad de la enfermedad hepática, la respuesta clínica y los efectos adversos."
       },
-      "interacciones": "Hipopotasemia severa con diuréticos; aumenta riesgo de sangrado con AINEs",
-      "reacciones_adversas": "Hiperglucemia, retraso en cicatrización, osteoporosis, edema",
-      "toxicidad_sobredosis": "Crisis hipertensiva, descompensación metabólica",
-      "antidotos": "No existe; tratamiento sintomático",
+      "interacciones": "Los diuréticos que eliminan potasio y la anfotericina B pueden aumentar el riesgo de hipopotasemia. Los antiinflamatorios no esteroideos y el ácido acetilsalicílico pueden incrementar el riesgo de úlcera y hemorragia gastrointestinal. Puede aumentar la glucemia y modificar los requerimientos de insulina y antidiabéticos. Los inductores enzimáticos, como rifampicina, fenitoína y carbamazepina, pueden reducir el efecto de los corticoides; algunos inhibidores enzimáticos pueden aumentarlo. Puede reducir la respuesta a vacunas y aumentar el riesgo de infección con inmunosupresores. Revisar la medicación concomitante antes de administrar.",
+      "reacciones_adversas": "Hiperglucemia, aumento del apetito, dispepsia, retención de sodio y agua, edema, hipertensión, hipopotasemia, alteraciones del estado de ánimo, insomnio y mayor susceptibilidad a infecciones. Con tratamientos prolongados pueden aparecer síndrome de Cushing, osteoporosis, debilidad muscular, piel frágil, retraso en la cicatrización, cataratas, glaucoma y supresión suprarrenal. También pueden presentarse hemorragia gastrointestinal, pancreatitis, reacciones de hipersensibilidad y alteraciones psiquiátricas graves. La frecuencia y gravedad dependen de la dosis, la vía y la duración del tratamiento.",
+      "toxicidad_sobredosis": "Una dosis excesiva puede provocar hiperglucemia, hipertensión, retención hidrosalina, hipopotasemia, alteraciones psiquiátricas y empeoramiento de enfermedades preexistentes. La administración prolongada puede causar supresión suprarrenal y síndrome de Cushing. No existe un antídoto específico. El manejo consiste en suspender o ajustar el tratamiento cuando corresponda, proporcionar medidas de soporte y controlar las complicaciones. Si se sospecha una crisis suprarrenal por retirada o insuficiencia suprarrenal, se requiere tratamiento urgente.",
+      "antidotos": "No existe un antídoto específico. El tratamiento de una sobredosis es sintomático y de soporte, con vigilancia clínica y corrección de alteraciones metabólicas y electrolíticas. No suspender bruscamente un tratamiento prolongado sin evaluación médica, debido al riesgo de insuficiencia suprarrenal.",
       "monitorizacion": {
-        "clinica": "PA, glucemia basal, balance hidroelectrolítico",
-        "laboratorio": "Potasio sérico"
+        "clinica": "Controlar presión arterial, frecuencia cardíaca, temperatura, estado de hidratación, balance de líquidos, presencia de edema, signos de infección y respuesta al tratamiento. En tratamientos prolongados, vigilar peso, fuerza muscular, estado mental, signos de hipercortisolismo y posibles manifestaciones de insuficiencia suprarrenal.",
+        "laboratorio": "Controlar glucemia y, según dosis, duración y situación clínica, electrolitos séricos, especialmente potasio y sodio. En tratamientos prolongados pueden ser necesarios controles de hemograma, función renal, función hepática y parámetros específicos según la enfermedad de base. Evaluar el eje suprarrenal cuando esté clínicamente indicado y sea apropiado para el tratamiento recibido."
       },
       "parametros_valoracion": {
-        "antes": "Evaluar sitio de punción venosa",
-        "durante": "Infundir dosis de 100 mg en 3 a 5 minutos",
-        "despues": "Registrar balance de ingresos y egresos"
+        "antes": "Verificar prescripción, indicación, identidad del paciente, alergias, presentación y vía. Registrar presión arterial, frecuencia cardíaca, glucemia cuando corresponda, estado de hidratación, balance de líquidos, antecedentes de diabetes, hipertensión, insuficiencia cardíaca, infecciones y tratamiento corticoide previo. En emergencias, no retrasar el tratamiento urgente por controles que no sean imprescindibles.",
+        "durante": "Administrar según la vía, dosis y velocidad indicadas para la presentación concreta. Vigilar presión arterial, frecuencia cardíaca, respuesta clínica, glucemia cuando corresponda, balance hidroelectrolítico y signos de hipersensibilidad. En pacientes críticos, monitorizar estrechamente el estado hemodinámico y metabólico.",
+        "despues": "Evaluar la respuesta terapéutica, la evolución de los síntomas y la aparición de reacciones adversas. Controlar glucemia, presión arterial, electrolitos y balance de líquidos según el contexto. Registrar dosis, vía, hora, respuesta y eventos adversos. Si el tratamiento fue prolongado, verificar que exista un plan médico de reducción gradual cuando corresponda."
       },
-      "presentaciones": "Frasco ampolla (Succinato sódico)",
+      "presentaciones": "Las presentaciones dependen del fabricante y del país. Existen comprimidos, soluciones o suspensiones orales, preparados tópicos y formulaciones parenterales. Para uso intravenoso o intramuscular se comercializa, entre otras, hidrocortisona succinato sódico en polvo para solución inyectable o para perfusión, en viales de diferentes dosis, como 100 mg y 500 mg. Confirmar el contenido expresado como hidrocortisona base y las instrucciones del producto específico.",
       "dosis": {
-        "adultos": "100 mg a 500 mg cada 6 u 8 horas",
-        "pediatrico": "1 a 5 mg/kg/día dividido c/6-8h",
-        "geriatrico": "Rango inferior por riesgo cardiovascular"
+        "adultos": "La dosis depende de la indicación, la gravedad, la vía y la formulación. En una crisis suprarrenal adulta se utilizan habitualmente 100 mg por vía IV o IM de inmediato, seguidos de 200 mg en 24 horas mediante infusión continua o 50 mg IV/IM cada 6 horas, junto con el tratamiento de soporte indicado. En otras enfermedades pueden emplearse dosis diferentes. No utilizar el intervalo general de 100 a 500 mg cada 6 a 8 horas como pauta universal; las dosis elevadas deben responder a una indicación específica y a un protocolo médico.",
+        "pediatrico": "La dosis depende de la edad, el peso o la superficie corporal y de la indicación. En crisis suprarrenal pediátrica se utilizan pautas de emergencia específicas por edad, peso o superficie corporal, con dosis máximas definidas por el protocolo. No aplicar de forma general la pauta de 1 a 5 mg/kg/día a todas las indicaciones. Consultar la ficha técnica y el protocolo pediátrico institucional.",
+        "geriatrico": "No existe una reducción fija por edad. Utilizar la dosis eficaz más baja apropiada para la indicación y vigilar con mayor atención hipertensión, insuficiencia cardíaca, edema, hiperglucemia, hipopotasemia, osteoporosis, infecciones y alteraciones neuropsiquiátricas."
       },
-      "vias_administracion": "IV, IM, Tópica",
+      "vias_administracion": "La hidrocortisona puede administrarse por vía oral, intravenosa, intramuscular, tópica, rectal u otras vías según la formulación autorizada. La hidrocortisona succinato sódico inyectable se utiliza por vía intravenosa o intramuscular; la perfusión intravenosa está permitida para las presentaciones cuya ficha técnica la autoriza. No administrar una formulación por una vía para la que no esté autorizada.",
       "preparacion": {
-        "dilucion": "Reconstituir y diluir en SF 0.9% o Dextrosa 5%",
-        "compatibilidad_iv": "Uso inmediato preferente; estable 3 días protegido de luz"
+        "dilucion": "Para la formulación de succinato sódico en polvo, reconstituir con el diluyente y el volumen especificados en la ficha técnica del producto. Algunas presentaciones de 100 mg se reconstituyen con 2 ml de agua para preparaciones inyectables y, si se administran en perfusión, pueden diluirse posteriormente en solución de cloruro de sodio al 0,9 % o dextrosa al 5 %, conforme a la ficha técnica. Los volúmenes permitidos y los diluyentes pueden variar entre fabricantes y concentraciones. Preparar con técnica aséptica e inspeccionar visualmente antes de administrar.",
+        "compatibilidad_iv": "La compatibilidad depende de la formulación, el diluyente, la concentración y los medicamentos que compartan la línea. Algunas presentaciones de succinato sódico permiten dilución en solución de cloruro de sodio al 0,9 % o dextrosa al 5 %. No mezclar con otros fármacos ni administrar simultáneamente por la misma línea sin verificar la compatibilidad en una fuente institucional o con farmacia."
       },
-      "velocidad_infusion": "Bolo directo lento (3-5 min); infusión intermitente (20-30 min)",
-      "estabilidad_soluciones": "Temperatura ambiente (15-30 °C)",
-      "concentracion": "Variable",
-      "alarma_riesgo": "Riesgo de ardor perineal si se inyecta rápido",
+      "velocidad_infusion": "La velocidad depende de la dosis y de la ficha técnica de la presentación. Algunas formulaciones permiten administrar 100 mg por vía intravenosa durante aproximadamente 30 segundos; las dosis mayores deben administrarse respetando los tiempos especificados por el producto y el protocolo. Para perfusión intermitente o continua, utilizar la dilución y la velocidad prescritas. No considerar 3 a 5 minutos ni 20 a 30 minutos como velocidades universales para todas las dosis y presentaciones.",
+      "estabilidad_soluciones": "Conservar el producto sin reconstituir según las condiciones indicadas por el fabricante. La estabilidad microbiológica y fisicoquímica tras la reconstitución o dilución varía según la presentación, el diluyente, la temperatura y las condiciones de preparación. Algunas fichas técnicas requieren desechar el remanente inmediatamente después de la reconstitución; otras establecen plazos específicos. No asumir que la solución es estable durante 3 días ni utilizar un plazo general. Consultar la ficha técnica local, respetar las normas de preparación aséptica e inspeccionar la solución antes de administrarla.",
+      "concentracion": "Variable según la presentación. Una formulación habitual contiene 100 mg de hidrocortisona como succinato sódico por vial y puede alcanzar 50 mg/ml tras reconstitución con 2 ml, si así lo especifica la ficha técnica. Existen otras concentraciones y presentaciones, incluidas algunas de 500 mg. Confirmar la cantidad expresada como hidrocortisona base, el volumen final y la concentración resultante antes de calcular la dosis.",
+      "alarma_riesgo": "Precaución con las dosis altas y la administración intravenosa. Puede causar hiperglucemia, hipertensión, retención de líquidos, hipopotasemia y alteraciones psiquiátricas; los tratamientos prolongados pueden suprimir la función suprarrenal. La administración intravenosa rápida de dosis elevadas puede causar molestias perineales transitorias. En anafilaxia, no reemplaza la adrenalina intramuscular. Verificar dosis, vía, concentración, dilución y velocidad según la presentación.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Control estricto de glucemia (cada 4-6h)",
-          "Vigilar signos de hipersensibilidad",
-          "Monitorizar edemas y PA"
+          "Verificar la prescripción, la identidad del paciente, la indicación, las alergias, la presentación, la dosis y la vía antes de administrar.",
+          "Confirmar si el producto expresa la dosis como hidrocortisona base o como sal y comprobar el contenido real de principio activo.",
+          "Reconstituir y diluir únicamente con los diluyentes y volúmenes autorizados para la presentación específica, utilizando técnica aséptica.",
+          "Inspeccionar la solución y desecharla si presenta partículas, cambio de color o cualquier alteración visible.",
+          "Administrar respetando la velocidad prescrita y las instrucciones de la ficha técnica.",
+          "Controlar presión arterial, frecuencia cardíaca, glucemia y electrolitos según la indicación, la dosis y el estado clínico.",
+          "Vigilar edema, balance de líquidos, signos de infección, alteraciones del estado mental y respuesta al tratamiento.",
+          "En tratamientos prolongados, vigilar signos de supresión suprarrenal y comprobar que exista un plan médico de retirada gradual cuando corresponda.",
+          "Registrar dosis, vía, hora, dilución, velocidad, respuesta clínica y posibles reacciones adversas.",
+          "En una emergencia, seguir el protocolo institucional y no retrasar el tratamiento vital por controles no esenciales."
         ],
         "educacion_paciente": [
-          "Informar debilidad muscular",
-          "No suspender tratamiento prolongado bruscamente",
-          "Dieta baja en sodio"
+          "Explicar el objetivo del tratamiento y la importancia de respetar la dosis y la duración indicadas.",
+          "Advertir que no debe suspender bruscamente un tratamiento prolongado sin indicación médica.",
+          "Recomendar que informe al equipo de salud si presenta fiebre, signos de infección, edema importante, dificultad respiratoria, alteraciones visuales, cambios intensos del estado de ánimo o síntomas de hiperglucemia.",
+          "Informar al equipo de salud sobre diabetes, hipertensión, enfermedad cardíaca, renal o hepática, infecciones y otros medicamentos que utilice.",
+          "Si recibe tratamiento prolongado, consultar sobre las precauciones durante enfermedades, cirugías o situaciones de estrés físico, ya que puede necesitar ajustes indicados por el equipo médico.",
+          "No modificar la dosis ni utilizar una presentación diferente sin consultar al profesional responsable."
         ]
       }
     },
