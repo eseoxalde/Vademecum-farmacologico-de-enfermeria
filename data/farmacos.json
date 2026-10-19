@@ -8417,6 +8417,89 @@
           "Conservar el medicamento según las instrucciones del envase y mantenerlo fuera del alcance de niños."
         ]
       }
+    },
+    {
+      "id": "105",
+      "nombre_generico": "Insulina lispro",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Insulina lispro, análogo de insulina humana de acción rápida.",
+        "clasificacion": "Insulina prandial de acción rápida; medicamento antidiabético y medicamento de alto riesgo.",
+        "efecto_terapeutica": "Reduce la glucemia, especialmente la elevación posprandial. Se utiliza en personas con diabetes mellitus tipo 1 o tipo 2 que requieren insulina y en otras situaciones clínicas específicas según la indicación médica.",
+        "mecanismo_accion": "Se une a los receptores de insulina y activa vías intracelulares que favorecen la captación de glucosa por músculo y tejido adiposo, reducen la producción hepática de glucosa y estimulan el almacenamiento de glucógeno y lípidos. Su modificación estructural acelera la absorción subcutánea respecto de la insulina humana regular."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Tras la administración subcutánea, comienza a actuar habitualmente en unos 10 a 20 minutos. La absorción depende de la dosis, el lugar de inyección, la perfusión local, la temperatura y la actividad física. Las formulaciones concentradas o especiales pueden tener perfiles diferentes.",
+        "distribucion": "Se distribuye por el espacio extracelular y actúa principalmente en tejidos sensibles a la insulina. No presenta una distribución oral debido a que se administra por vías parenterales.",
+        "metabolismo": "Se degrada mediante enzimas proteolíticas en hígado, riñón y otros tejidos, como ocurre con la insulina.",
+        "eliminacion": "Se elimina mediante degradación metabólica, principalmente en hígado y riñones. La insuficiencia renal o hepática puede reducir los requerimientos de insulina y aumentar el riesgo de hipoglucemia."
+      },
+      "indicaciones": "Control de la glucemia en personas con diabetes mellitus tipo 1 o tipo 2 que requieren insulina prandial o correcciones de hiperglucemia según un plan prescrito. Puede utilizarse por vía subcutánea y, en situaciones clínicas específicas, por vía intravenosa con formulaciones y protocolos apropiados. Algunas formulaciones están autorizadas para uso mediante bombas de infusión; confirmar la compatibilidad con el dispositivo.",
+      "contraindicaciones": "Hipoglucemia activa y hipersensibilidad a la insulina lispro o a los componentes de la formulación. Las formulaciones concentradas o con excipientes específicos pueden tener contraindicaciones adicionales. No administrar una dosis prandial sin verificar la glucemia, la ingesta prevista y la pauta prescrita.",
+      "precauciones": "Riesgo elevado de hipoglucemia por errores de dosis, retrasos o ausencia de comidas, ejercicio no previsto, cambios de función renal o hepática e interacciones farmacológicas. Vigilar cambios en la sensibilidad a la insulina durante enfermedades agudas, estrés, cambios de dieta o tratamiento concomitante. Rotar los sitios de inyección para reducir lipodistrofia y variabilidad de absorción. No intercambiar concentraciones ni dispositivos sin verificar la prescripción.",
+      "advertencias": "Es un medicamento de alto riesgo. La hipoglucemia grave puede provocar convulsiones, pérdida del conocimiento, coma o muerte. Confundir concentraciones, tipos de insulina o dispositivos puede causar errores potencialmente mortales. Las formulaciones U-200 no deben administrarse por vía intravenosa ni utilizarse en bombas de infusión. Para administración intravenosa, utilizar exclusivamente una formulación autorizada para esa vía y un protocolo institucional validado. No mezclar ni diluir sin autorización expresa del fabricante.",
+      "embarazo_lactancia": "La insulina se utiliza durante el embarazo cuando está indicada para el control de la diabetes; los requerimientos pueden cambiar a lo largo de la gestación y después del parto. La insulina lispro puede utilizarse durante la lactancia cuando esté clínicamente indicada, pero las necesidades de insulina pueden disminuir y aumenta la importancia de prevenir hipoglucemias. Ajustar bajo supervisión del equipo tratante.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede reducir los requerimientos de insulina y aumentar el riesgo de hipoglucemia. Ajustar según glucemias, ingesta, evolución clínica y prescripción; intensificar la vigilancia durante cambios de función renal.",
+        "hepatico": "La insuficiencia hepática puede disminuir la gluconeogénesis y modificar el metabolismo de la insulina, aumentando el riesgo de hipoglucemia. Individualizar los requerimientos y monitorizar la glucemia con mayor frecuencia."
+      },
+      "interacciones": "Los corticoides, algunos diuréticos, simpaticomiméticos y determinados antipsicóticos pueden elevar la glucemia y aumentar los requerimientos de insulina. Alcohol, otros antidiabéticos, salicilatos, algunos antidepresivos, inhibidores de la enzima convertidora de angiotensina y otros fármacos pueden aumentar el riesgo de hipoglucemia o modificar la respuesta. Los betabloqueantes pueden enmascarar algunos síntomas adrenérgicos de hipoglucemia. La combinación con pioglitazona u otras tiazolidinedionas puede aumentar el riesgo de retención de líquidos e insuficiencia cardíaca. Revisar toda la medicación concomitante.",
+      "reacciones_adversas": "Hipoglucemia, reacciones en el sitio de inyección, lipodistrofia, edema y aumento de peso. También pueden aparecer hipopotasemia, reacciones alérgicas locales o sistémicas y variaciones importantes de la glucemia. La hipoglucemia grave puede provocar convulsiones, pérdida de conciencia, coma y muerte.",
+      "toxicidad_sobredosis": "La sobredosis produce hipoglucemia, que puede ser inmediata o prolongada según la cantidad administrada, el sitio de inyección y las circunstancias clínicas. Puede manifestarse con sudoración, temblor, palpitaciones, hambre, cefalea, confusión, alteraciones conductuales, convulsiones o pérdida del conocimiento. También puede causar hipopotasemia. Requiere control inmediato de glucemia, tratamiento de la hipoglucemia y vigilancia posterior, ya que puede recurrir.",
+      "antidotos": "No existe un antídoto farmacológico específico. La hipoglucemia se trata con glucosa oral si la persona está consciente y puede deglutir con seguridad, o con glucosa intravenosa o glucagón cuando corresponda según el estado clínico y el protocolo. No administrar alimentos ni líquidos por boca a una persona con alteración de conciencia. Corregir y monitorizar la hipopotasemia si está presente.",
+      "monitorizacion": {
+        "clinica": "Controlar glucemia capilar o mediante monitorización continua, ingesta alimentaria, estado de conciencia y signos de hipoglucemia e hiperglucemia. Vigilar potasio cuando esté indicado, sitios de inyección, técnica de administración y respuesta a la dosis. En pacientes hospitalizados, seguir el protocolo institucional para monitorización y prevención de errores.",
+        "laboratorio": "Controlar glucemia según el plan terapéutico y la situación clínica. La HbA1c se utiliza para valorar el control glucémico a largo plazo. Controlar potasio en situaciones de riesgo, administración intravenosa o sospecha de hipopotasemia. Evaluar función renal y hepática según antecedentes y evolución clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar identidad, prescripción, tipo y concentración de insulina, dosis, dispositivo, vía y horario. Confirmar glucemia, relación con la comida, disponibilidad de la ingesta y presencia de síntomas de hipoglucemia. Revisar última dosis, actividad física, función renal y hepática y posibles factores que alteren los requerimientos. Realizar doble verificación independiente cuando lo establezca el protocolo institucional.",
+        "durante": "Administrar según el plan prescrito y el protocolo. Vigilar glucemia, ingesta, respuesta clínica y signos de hipoglucemia. En administración intravenosa, controlar la glucemia y el potasio con la frecuencia indicada por el protocolo y utilizar una bomba de infusión cuando corresponda.",
+        "despues": "Registrar dosis, concentración, hora, vía, sitio de inyección, glucemia, ingesta y respuesta. Continuar la vigilancia de hipoglucemia según el tipo de administración y la evolución clínica. Documentar y comunicar cualquier error de administración o episodio hipoglucémico."
+      },
+      "presentaciones": "Solución inyectable en cartuchos, plumas precargadas y viales, según el producto y el mercado. Son comunes las presentaciones U-100 y existen formulaciones U-200 de acción rápida para dispositivos específicos. Algunas presentaciones están diseñadas para bombas de infusión. Verificar siempre la concentración y las vías autorizadas del producto exacto.",
+      "dosis": {
+        "adultos": "La dosis es individualizada según el tipo de diabetes, glucemia, ingesta de carbohidratos, sensibilidad a la insulina, actividad física, función renal y tratamiento concomitante. En general, la insulina prandial se administra en relación con la comida según la pauta prescrita; las formulaciones habituales permiten administrarla poco antes de comer y algunas fichas técnicas autorizan su administración inmediatamente después de la comida. Las dosis de corrección deben seguir una escala o un plan individual prescrito. No existe una dosis universal segura.",
+        "pediatrico": "La dosis debe individualizarse según edad, peso, ingesta, sensibilidad a la insulina, glucemias y plan de tratamiento. El horario de administración depende de la formulación y de la capacidad del niño para comer. Requiere supervisión del equipo especializado y educación de cuidadores para prevenir hipoglucemia.",
+        "geriatrico": "Individualizar la dosis considerando ingesta variable, función renal, fragilidad, deterioro cognitivo, riesgo de caídas y capacidad para reconocer o tratar una hipoglucemia. Puede requerirse un esquema más conservador y monitorización más frecuente."
+      },
+      "vias_administracion": "Vía subcutánea mediante jeringa compatible, pluma, cartucho o bomba de infusión autorizada para la formulación. Determinadas presentaciones U-100 pueden administrarse por vía intravenosa bajo supervisión médica y con protocolo específico. Las formulaciones U-200 no deben administrarse por vía intravenosa ni utilizarse en bombas de infusión. No administrar por vía intramuscular.",
+      "preparacion": {
+        "dilucion": "La administración subcutánea de las presentaciones listas para usar generalmente no requiere dilución. No mezclar ni diluir insulina lispro salvo que la ficha técnica de la formulación lo permita expresamente. Las presentaciones U-200 no deben transferirse de la pluma a una jeringa ni diluirse. Para administración intravenosa, utilizar únicamente la presentación autorizada y seguir el protocolo institucional validado.",
+        "compatibilidad_iv": "La compatibilidad intravenosa depende de la formulación, la concentración, el diluyente y los medicamentos administrados simultáneamente. No mezclar con otros medicamentos en la misma solución sin verificar una referencia institucional validada. Utilizar únicamente formulaciones autorizadas para vía intravenosa y confirmar las condiciones específicas del fabricante."
+      },
+      "velocidad_infusion": "No corresponde a la administración subcutánea. En infusión intravenosa, la velocidad se determina según la indicación, la glucemia y el protocolo institucional; requiere bomba de infusión y monitorización frecuente. No utilizar una velocidad universal para todas las situaciones clínicas.",
+      "estabilidad_soluciones": "La conservación antes y después de abrir depende de la marca, la concentración y el dispositivo. Proteger de la congelación, el calor excesivo y la luz directa. No utilizar si la solución presenta partículas, cambios de aspecto no previstos o daños en el dispositivo. Consultar la ficha técnica para la temperatura de conservación y el período de uso tras apertura; no extrapolar esos plazos entre presentaciones.",
+      "concentracion": "Son comunes las presentaciones U-100, equivalentes a 100 unidades/mL, y existen presentaciones U-200, equivalentes a 200 unidades/mL, según el producto. Verificar la concentración en cada administración. Las plumas dosificadoras muestran las unidades administradas y no requieren conversión manual de volumen; nunca extraer insulina de una pluma con una jeringa.",
+      "alarma_riesgo": "Medicamento de alto riesgo. Ante sudoración, temblor, confusión, alteración del comportamiento, convulsiones o pérdida de conciencia, medir la glucemia de inmediato y activar el protocolo de hipoglucemia. Ante hipoglucemia grave, no administrar nada por boca si existe alteración de conciencia. Verificar siempre tipo de insulina, concentración, dosis, vía, horario e ingesta para prevenir errores.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Tratar la insulina como medicamento de alto riesgo y cumplir el protocolo institucional de doble verificación cuando corresponda.",
+          "Verificar identidad, prescripción, tipo de insulina, concentración, dosis, dispositivo, vía y horario antes de cada administración.",
+          "Controlar la glucemia y confirmar que la ingesta esté disponible cuando se administra una dosis prandial.",
+          "Coordinar la administración con las comidas y seguir las instrucciones específicas de la formulación.",
+          "Utilizar exclusivamente jeringas o dispositivos compatibles con la concentración indicada.",
+          "No extraer insulina de una pluma con una jeringa ni convertir manualmente las unidades de una pluma dosificadora.",
+          "Rotar los sitios de inyección y revisar la piel para prevenir lipodistrofia y alteraciones de absorción.",
+          "Vigilar signos de hipoglucemia antes y después de la administración y seguir el protocolo de tratamiento si aparece.",
+          "Controlar potasio y glucemia con mayor frecuencia en infusión intravenosa o situaciones clínicas de riesgo.",
+          "Registrar dosis, concentración, hora, vía, sitio de inyección, glucemia, ingesta y respuesta clínica.",
+          "Revisar conservación, caducidad, integridad y aspecto de la solución antes de usarla.",
+          "Comunicar de inmediato errores de administración, hipoglucemia grave o cambios clínicos importantes."
+        ],
+        "educacion_paciente": [
+          "Explicar cómo medir la glucemia, administrar la dosis y utilizar correctamente el dispositivo prescrito.",
+          "Reconocer los síntomas de hipoglucemia, como sudoración, temblor, hambre, palpitaciones, mareos y confusión.",
+          "Si está consciente y puede deglutir con seguridad, tratar una hipoglucemia según el plan indicado, habitualmente con una fuente de glucosa de acción rápida, y volver a controlar la glucemia según las instrucciones recibidas.",
+          "Si una persona pierde el conocimiento o presenta convulsiones, no darle alimentos ni líquidos por boca; solicitar asistencia urgente y utilizar glucagón si está indicado y disponible, siguiendo la capacitación recibida.",
+          "Coordinar la administración con las comidas y consultar qué hacer si no puede comer, vomita o presenta una enfermedad aguda.",
+          "No cambiar el tipo, la concentración, la dosis ni el dispositivo sin indicación profesional.",
+          "No omitir ni modificar la insulina basal en diabetes tipo 1 sin instrucciones médicas, aunque la ingesta disminuya; consultar el plan para días de enfermedad.",
+          "Conservar la insulina de acuerdo con las instrucciones específicas del fabricante y no congelarla.",
+          "Informar sobre cambios en actividad física, alimentación, función renal, embarazo o medicamentos que puedan modificar los requerimientos.",
+          "Mantener un registro de glucemias, dosis, comidas y episodios de hipoglucemia, y llevarlo a los controles."
+        ]
+      }
     }
   ]
 }
