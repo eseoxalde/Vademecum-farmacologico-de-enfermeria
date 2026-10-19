@@ -6398,6 +6398,83 @@
           "Indicar que informe al equipo de salud si el adormecimiento, la debilidad, el dolor o cualquier alteración neurológica persiste más de lo esperado o empeora."
         ]
       }
+    },
+    {
+      "id": "79",
+      "nombre_generico": "Prednisona",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Prednisona.",
+        "clasificacion": "Glucocorticoide sintético de acción intermedia, con actividad antiinflamatoria e inmunosupresora y actividad mineralocorticoide relativamente baja.",
+        "efecto_terapeutica": "Reduce la inflamación, las manifestaciones alérgicas y la actividad de determinadas enfermedades autoinmunes. Disminuye la respuesta inmunitaria y modifica el metabolismo de carbohidratos, proteínas y grasas.",
+        "mecanismo_accion": "Se transforma principalmente en el hígado en prednisolona, su metabolito activo. La prednisolona se une a receptores glucocorticoides intracelulares y modifica la transcripción de genes relacionados con la inflamación y la respuesta inmunitaria, reduciendo la producción de mediadores inflamatorios."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral en el tracto gastrointestinal. La absorción puede variar según la formulación y las condiciones del paciente.",
+        "distribucion": "Se distribuye ampliamente por el organismo. Circula unida a proteínas plasmáticas, principalmente albúmina y transcortina. Su metabolito activo, la prednisolona, atraviesa la placenta y puede pasar a la leche materna.",
+        "metabolismo": "Se metaboliza principalmente en el hígado a prednisolona, que es farmacológicamente activa. Posteriormente, la prednisolona y sus metabolitos sufren transformaciones hepáticas adicionales.",
+        "eliminacion": "Se elimina principalmente por vía renal en forma de metabolitos y, en menor proporción, como fármaco sin modificar. La semivida plasmática es relativamente corta, pero los efectos biológicos persisten aproximadamente entre 18 y 36 horas."
+      },
+      "indicaciones": "Tratamiento de enfermedades inflamatorias, alérgicas, autoinmunes y otras afecciones que responden a glucocorticoides. Puede utilizarse en exacerbaciones de asma y determinadas enfermedades respiratorias, reacciones alérgicas graves como tratamiento complementario, enfermedades reumatológicas, dermatológicas, hematológicas, renales y gastrointestinales, así como en determinados esquemas inmunosupresores. La indicación y la duración deben establecerse según el diagnóstico y la respuesta clínica. No sustituye los tratamientos de primera línea de las emergencias, como la adrenalina intramuscular en la anafilaxia.",
+      "contraindicaciones": "Hipersensibilidad a la prednisona o a alguno de los componentes de la formulación. Las infecciones fúngicas sistémicas constituyen una contraindicación importante para el tratamiento sistémico, salvo circunstancias excepcionales indicadas por especialistas. Las vacunas vivas están contraindicadas durante tratamientos con dosis inmunosupresoras de corticoides. Evaluar cuidadosamente las infecciones activas y las demás contraindicaciones especificadas en la ficha técnica del producto.",
+      "precauciones": "Utilizar con precaución en pacientes con diabetes, hipertensión, insuficiencia cardíaca, enfermedad renal, osteoporosis, glaucoma, cataratas, úlcera péptica, antecedentes de trastornos psiquiátricos, epilepsia o infecciones activas. Puede elevar la glucemia, aumentar la presión arterial, producir alteraciones del estado de ánimo y reducir la respuesta inmunitaria. Los tratamientos prolongados pueden provocar síndrome de Cushing, pérdida de masa ósea, debilidad muscular y supresión del eje hipotálamo-hipófiso-suprarrenal. Valorar antecedentes de tuberculosis, estrongiloidiasis u otras infecciones latentes según los factores de riesgo.",
+      "advertencias": "Puede enmascarar signos de infección y aumentar la susceptibilidad a infecciones nuevas o reactivar infecciones latentes. La suspensión brusca después de un tratamiento prolongado puede causar insuficiencia suprarrenal y agravamiento de la enfermedad de base; la reducción debe ser gradual cuando esté indicada. Los tratamientos prolongados o con dosis elevadas pueden causar alteraciones metabólicas, cardiovasculares, óseas, oculares y psiquiátricas. En pacientes con insuficiencia suprarrenal, la prednisona oral no debe considerarse automáticamente equivalente a los esquemas de hidrocortisona utilizados en emergencias.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar cuando el beneficio esperado justifique los posibles riesgos, con evaluación médica individual. El tratamiento sistémico prolongado puede asociarse con complicaciones maternas y fetales y requiere seguimiento. La prednisona se transforma en prednisolona; una parte de esta puede atravesar la placenta y pasar a la leche materna. Durante la lactancia, valorar la dosis y la duración; con dosis altas puede ser necesario considerar el momento de la toma o una vigilancia específica, según la recomendación médica.",
+      "ajustes": {
+        "renal": "No existe un ajuste universal de dosis basado exclusivamente en la función renal. Individualizar según la indicación, la respuesta clínica y las comorbilidades. Vigilar presión arterial, edema y alteraciones electrolíticas en pacientes con enfermedad renal.",
+        "hepatico": "La insuficiencia hepática puede reducir la conversión de prednisona a prednisolona y modificar su efecto. En hepatopatía grave, el profesional puede considerar prednisolona u otra alternativa, según la indicación y la disponibilidad. Individualizar el tratamiento y vigilar la respuesta."
+      },
+      "interacciones": "Los antiinflamatorios no esteroideos y el ácido acetilsalicílico pueden aumentar el riesgo de úlcera y hemorragia gastrointestinal. Los diuréticos que eliminan potasio pueden aumentar el riesgo de hipopotasemia. Puede elevar la glucemia y modificar los requerimientos de insulina y antidiabéticos. Inductores enzimáticos como rifampicina, fenitoína y carbamazepina pueden reducir su efecto; inhibidores enzimáticos como algunos antifúngicos azólicos pueden aumentarlo. Puede modificar la respuesta a anticoagulantes y vacunas y aumentar el riesgo de infección cuando se combina con inmunosupresores. Revisar la medicación concomitante antes de iniciar o modificar el tratamiento.",
+      "reacciones_adversas": "Aumento del apetito, dispepsia, insomnio, cambios del estado de ánimo, hiperglucemia, retención de sodio y agua, hipertensión y mayor susceptibilidad a infecciones. Con tratamientos prolongados pueden aparecer síndrome de Cushing, aumento de peso, osteoporosis, fracturas, debilidad muscular, piel fina, equimosis, retraso en la cicatrización, cataratas, glaucoma y supresión suprarrenal. También pueden presentarse alteraciones psiquiátricas graves, pancreatitis y hemorragia gastrointestinal. La frecuencia y gravedad dependen de la dosis, la duración y las características del paciente.",
+      "toxicidad_sobredosis": "La sobredosis aguda puede causar molestias gastrointestinales y alteraciones metabólicas; la exposición prolongada o repetida a dosis excesivas puede provocar síndrome de Cushing, hipertensión, hiperglucemia, hipopotasemia, infecciones y supresión suprarrenal. No existe un antídoto específico. El manejo es sintomático y de soporte, con evaluación de glucemia, electrolitos, presión arterial y otras complicaciones según la situación clínica. No suspender bruscamente un tratamiento prolongado sin valoración médica.",
+      "antidotos": "No existe un antídoto específico. El tratamiento de la sobredosis consiste en medidas de soporte, vigilancia clínica y corrección de las alteraciones metabólicas o electrolíticas. Si existe supresión suprarrenal o riesgo de insuficiencia suprarrenal, el manejo debe ser indicado por un profesional.",
+      "monitorizacion": {
+        "clinica": "Controlar respuesta terapéutica, presión arterial, peso, edema, signos de infección, estado mental y tolerancia gastrointestinal. En tratamientos prolongados, valorar fuerza muscular, salud ósea, signos de hipercortisolismo, síntomas oculares y manifestaciones de insuficiencia suprarrenal.",
+        "laboratorio": "Controlar glucemia y, según la dosis, la duración y las comorbilidades, electrolitos séricos, especialmente potasio y sodio. En tratamientos prolongados pueden requerirse hemograma, función renal, función hepática, perfil lipídico y evaluación de salud ósea. La evaluación del eje suprarrenal se realiza cuando está clínicamente indicada."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar identidad, prescripción, indicación, dosis, formulación, alergias y medicación concomitante. Valorar presión arterial, peso, edema, glucemia cuando corresponda, antecedentes de diabetes, hipertensión, osteoporosis, úlcera gastrointestinal, trastornos psiquiátricos e infecciones. Identificar tratamientos corticoides previos y su duración para evaluar el riesgo de supresión suprarrenal.",
+        "durante": "Administrar la dosis indicada y observar la respuesta clínica. Vigilar glucemia, presión arterial, peso, edema, estado mental y signos de infección según el riesgo del paciente. En tratamientos prolongados, controlar los efectos metabólicos, óseos, oculares y musculares conforme al plan de seguimiento.",
+        "despues": "Evaluar la eficacia y la aparición de reacciones adversas. Registrar la dosis, la hora, la respuesta y cualquier evento relevante. Si el tratamiento fue prolongado, comprobar que exista un plan de reducción gradual cuando corresponda. Educar sobre los signos de insuficiencia suprarrenal y la necesidad de consultar antes de modificar o suspender el tratamiento."
+      },
+      "presentaciones": "Comprimidos de distintas concentraciones, habitualmente de 5 mg, 10 mg, 20 mg o más según el fabricante y el país. También pueden existir soluciones orales u otras formulaciones según el mercado. Confirmar la presentación y la concentración disponibles en el establecimiento. La prednisona oral no debe confundirse con prednisolona ni con formulaciones inyectables de otros corticoides.",
+      "dosis": {
+        "adultos": "La dosis depende de la enfermedad, la gravedad, la respuesta clínica y la duración prevista. En adultos pueden utilizarse dosis aproximadas de 5 a 60 mg al día en distintas indicaciones, aunque algunas situaciones requieren pautas específicas diferentes. Administrar la menor dosis eficaz durante el menor tiempo necesario. En tratamientos prolongados, reducir gradualmente cuando corresponda. No utilizar este intervalo como prescripción individual.",
+        "pediatrico": "La dosis depende del diagnóstico, el peso o la superficie corporal, la gravedad y la duración. Debe calcularse con una pauta específica para la enfermedad y bajo supervisión médica, considerando el riesgo de retraso del crecimiento, alteraciones metabólicas e inmunosupresión. No extrapolar automáticamente las dosis adultas.",
+        "geriatrico": "No existe una reducción fija basada únicamente en la edad. Utilizar la menor dosis eficaz y vigilar especialmente hiperglucemia, hipertensión, retención de líquidos, osteoporosis, fragilidad cutánea, infecciones, alteraciones psiquiátricas y riesgo gastrointestinal."
+      },
+      "vias_administracion": "Principalmente vía oral en comprimidos o solución oral, según la presentación disponible. No administrar por vía intravenosa o intramuscular salvo que exista una formulación específicamente autorizada para esa vía; las presentaciones orales no son aptas para uso parenteral.",
+      "preparacion": {
+        "dilucion": "Los comprimidos se administran por vía oral con agua. Pueden tomarse con alimentos para reducir las molestias gastrointestinales. Si se utiliza una solución oral, medir la dosis con un dispositivo adecuado y seguir las instrucciones del fabricante. No triturar comprimidos de liberación modificada ni alterar una formulación sin comprobar que sea apropiado.",
+        "compatibilidad_iv": "No corresponde a la administración oral habitual de prednisona. No preparar para uso intravenoso ni mezclar con soluciones parenterales. Si se necesita tratamiento corticoide parenteral, el profesional debe seleccionar una formulación adecuada, como hidrocortisona o metilprednisolona, según la indicación."
+      },
+      "velocidad_infusion": "No corresponde a la prednisona oral. No administrar por infusión intravenosa una formulación destinada a uso oral.",
+      "estabilidad_soluciones": "Conservar los comprimidos y las soluciones orales según las instrucciones del fabricante, respetando temperatura, protección frente a la luz y fecha de vencimiento. La estabilidad después de abrir una solución oral depende del producto específico; no asignar un plazo general sin consultar la ficha técnica. Mantener fuera del alcance de los niños.",
+      "concentracion": "Variable según la presentación comercial. Los comprimidos pueden encontrarse en distintas concentraciones, como 5 mg, 10 mg o 20 mg. Las soluciones orales, cuando están disponibles, tienen concentraciones específicas indicadas en el envase. Confirmar siempre la cantidad de prednisona por comprimido o por mililitro antes de calcular la dosis.",
+      "alarma_riesgo": "El riesgo aumenta con dosis elevadas y tratamientos prolongados. Puede causar hiperglucemia, infecciones graves, alteraciones psiquiátricas, hemorragia gastrointestinal y supresión suprarrenal. No suspender bruscamente después de un tratamiento prolongado sin indicación médica. No utilizar como sustituto de la adrenalina en la anafilaxia ni como tratamiento único de una emergencia que requiera corticoides parenterales.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar prescripción, identidad del paciente, indicación, dosis, concentración y vía antes de administrar.",
+          "Confirmar la formulación y evitar confundir prednisona con prednisolona u otros corticoides.",
+          "Administrar por vía oral con alimentos si corresponde y según la tolerancia del paciente.",
+          "Controlar glucemia, presión arterial, peso, edema y electrolitos según la dosis, la duración y las comorbilidades.",
+          "Vigilar signos de infección, molestias gastrointestinales, alteraciones del estado mental y otros efectos adversos.",
+          "En tratamientos prolongados, colaborar con el seguimiento de salud ósea, función ocular y crecimiento en pacientes pediátricos.",
+          "Registrar la dosis administrada, la respuesta clínica, la duración del tratamiento y las reacciones adversas.",
+          "Verificar que exista una pauta de reducción gradual cuando esté indicada; no modificar ni suspender tratamientos prolongados de forma independiente.",
+          "Comunicar al equipo médico la aparición de fiebre persistente, signos de infección grave, hiperglucemia importante, alteraciones psiquiátricas o sospecha de hemorragia gastrointestinal."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento exactamente según la prescripción y, si corresponde, con alimentos.",
+          "No suspender bruscamente un tratamiento prolongado ni modificar la dosis por cuenta propia.",
+          "Informar al equipo de salud si presenta fiebre, signos de infección, heces negras, dolor abdominal intenso, cambios importantes del estado de ánimo, visión borrosa o síntomas de hiperglucemia.",
+          "Comunicar que utiliza prednisona antes de cirugías, procedimientos, vacunaciones o tratamientos nuevos.",
+          "Consultar antes de tomar antiinflamatorios no esteroideos, suplementos o medicamentos nuevos, debido al riesgo de interacciones.",
+          "Durante tratamientos prolongados, seguir las recomendaciones sobre alimentación, ejercicio seguro, prevención de osteoporosis y controles clínicos.",
+          "Consultar qué hacer ante vómitos persistentes o imposibilidad de tomar la medicación, especialmente si existe riesgo de supresión suprarrenal."
+        ]
+      }
     }
   ]
 }
