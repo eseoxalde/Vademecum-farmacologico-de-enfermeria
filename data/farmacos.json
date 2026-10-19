@@ -9773,6 +9773,81 @@
           "Informar si presenta vómitos persistentes, fiebre, infección, dificultad para alimentarse o síntomas de alteración hepática."
         ]
       }
+    },
+    {
+      "id": "123",
+      "nombre_generico": "Metformina + Vildagliptina",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Hidrocloruro de metformina y vildagliptina",
+        "clasificacion": "Antidiabético oral; biguanida e inhibidor de la dipeptidil peptidasa 4 (DPP-4); código ATC A10BD08",
+        "efecto_terapeutica": "Mejora el control glucémico en adultos con diabetes mellitus tipo 2",
+        "mecanismo_accion": "La metformina disminuye la producción hepática de glucosa y mejora la sensibilidad a la insulina; la vildagliptina inhibe la DPP-4, aumenta las incretinas GLP-1 y GIP y favorece la secreción de insulina dependiente de glucosa, reduciendo la secreción de glucagón"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Ambos principios activos se absorben por vía oral; la absorción de metformina puede disminuir y retrasarse con los alimentos",
+        "distribucion": "La metformina presenta una unión insignificante a proteínas plasmáticas; la vildagliptina también presenta una unión baja",
+        "metabolismo": "La metformina prácticamente no se metaboliza; la vildagliptina se metaboliza principalmente por hidrólisis y no depende de forma importante del sistema CYP450",
+        "eliminacion": "La metformina se elimina sin modificar por vía renal; la vildagliptina y sus metabolitos se eliminan principalmente por vía renal"
+      },
+      "indicaciones": "Tratamiento de adultos con diabetes mellitus tipo 2 como complemento de dieta y ejercicio cuando la metformina sola no proporciona un control adecuado; también puede utilizarse en pacientes que ya reciben ambos principios activos por separado o en combinación con otros antidiabéticos según la ficha técnica",
+      "contraindicaciones": "Hipersensibilidad a los principios activos o excipientes; cualquier tipo de acidosis metabólica aguda; cetoacidosis diabética; insuficiencia renal grave con TFGe inferior a 30 ml/min/1,73 m²; afecciones agudas que puedan alterar la función renal; insuficiencia hepática; intoxicación alcohólica aguda o alcoholismo según la ficha técnica",
+      "precauciones": "Riesgo de acidosis láctica con metformina; deterioro renal; deshidratación; infección grave; cirugía; administración de contrastes yodados; consumo de alcohol; pancreatitis; enfermedad hepática; deficiencia de vitamina B12; hipoglucemia cuando se combina con insulina o sulfonilureas",
+      "advertencias": "Suspender temporalmente la metformina en las situaciones indicadas por la ficha técnica, como determinados estudios con contraste yodado; investigar inmediatamente dolor abdominal intenso y persistente por posible pancreatitis; acudir a urgencias ante síntomas compatibles con acidosis láctica",
+      "embarazo_lactancia": "No se recomienda la combinación durante el embarazo; considerar insulina para el control glucémico durante la gestación; no se recomienda durante la lactancia por la falta de datos suficientes sobre la vildagliptina",
+      "ajustes": {
+        "renal": "La combinación fija requiere valorar por separado los límites de ambos principios activos; con TFGe de 30 a 44 ml/min/1,73 m², la dosis máxima de metformina es de 1.000 mg/día y debe limitarse la vildagliptina según ficha técnica; con TFGe inferior a 30, la metformina está contraindicada; no utilizar la combinación fija si no permite ajustar cada componente de forma segura",
+        "hepatico": "La combinación no debe utilizarse en pacientes con insuficiencia hepática; comprobar la función hepática antes de iniciar y durante el tratamiento según la ficha técnica"
+      },
+      "interacciones": "El alcohol aumenta el riesgo de acidosis láctica; los contrastes yodados pueden requerir suspensión temporal de metformina; los glucocorticoides, diuréticos y simpaticomiméticos pueden elevar la glucemia; los fármacos que alteran la función renal pueden modificar la seguridad de metformina; insulina y sulfonilureas aumentan el riesgo de hipoglucemia",
+      "reacciones_adversas": "Náuseas; vómitos; diarrea; dolor abdominal; disminución del apetito; sabor metálico; hipoglucemia en combinación con otros antidiabéticos; deficiencia de vitamina B12; pancreatitis; alteración de la función hepática; acidosis láctica, rara pero potencialmente mortal",
+      "toxicidad_sobredosis": "La sobredosis puede provocar síntomas gastrointestinales, hipoglucemia si se combina con otros antidiabéticos y acidosis láctica por metformina; requiere atención urgente y evaluación de la función renal, el equilibrio ácido-base y la glucemia",
+      "antidotos": "No existe antídoto específico; el tratamiento es de soporte; en acidosis láctica grave puede requerirse hemodiálisis",
+      "monitorizacion": {
+        "clinica": "Glucemia; síntomas de acidosis láctica; dolor abdominal persistente; tolerancia digestiva; hidratación; signos de pancreatitis; síntomas de hipoglucemia cuando se asocia a otros antidiabéticos",
+        "laboratorio": "Glucemia; HbA1c; creatinina y TFGe; función hepática; vitamina B12 en tratamientos prolongados o ante sospecha de déficit; lactato y equilibrio ácido-base si se sospecha acidosis láctica"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar glucemia, HbA1c, función renal y hepática; revisar consumo de alcohol, antecedentes de pancreatitis, medicación concomitante y riesgo de acidosis láctica",
+        "durante": "Controlar glucemia y tolerancia digestiva; vigilar función renal y hepática; identificar síntomas de pancreatitis y acidosis láctica; revisar periódicamente la necesidad de vitamina B12",
+        "despues": "Evaluar control glucémico, adherencia y efectos adversos; registrar alteraciones de laboratorio y comunicar síntomas de alarma"
+      },
+      "presentaciones": "Comprimidos recubiertos de 50 mg/850 mg y 50 mg/1.000 mg en las presentaciones consultadas; disponibilidad variable según fabricante y país",
+      "dosis": {
+        "adultos": "La pauta habitual es de 50 mg de vildagliptina dos veces al día junto con una dosis individualizada de metformina; la dosis diaria máxima habitual de vildagliptina es de 100 mg; respetar el límite de metformina según función renal y ficha técnica",
+        "pediatrico": "No se recomienda en menores de 18 años por falta de datos suficientes",
+        "geriatrico": "Individualizar según función renal, tolerancia digestiva, fragilidad y enfermedades concomitantes; vigilar regularmente la función renal"
+      },
+      "vias_administracion": "Oral; administrar con las comidas o inmediatamente después para reducir molestias gastrointestinales",
+      "preparacion": {
+        "dilucion": "No requiere dilución; administrar el comprimido según el prospecto",
+        "compatibilidad_iv": "No aplica; formulación oral"
+      },
+      "velocidad_infusion": "No aplica",
+      "estabilidad_soluciones": "No aplica; conservar según el prospecto específico",
+      "concentracion": "No aplica; medicamento oral sin concentración máxima de administración establecida",
+      "alarma_riesgo": "Dolor abdominal intenso y persistente; vómitos persistentes; respiración rápida o dificultosa; debilidad intensa; alteración de conciencia; sospecha de acidosis láctica o pancreatitis",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar glucemia y registrar la respuesta al tratamiento.",
+          "Comprobar función renal antes del inicio y durante el tratamiento.",
+          "Vigilar función hepática según la ficha técnica.",
+          "Observar dolor abdominal persistente o síntomas compatibles con pancreatitis.",
+          "Valorar náuseas, vómitos, diarrea y estado de hidratación.",
+          "Verificar la suspensión temporal de metformina cuando esté indicada por contraste yodado o enfermedad aguda.",
+          "Vigilar signos de acidosis láctica y activar atención urgente si se sospecha."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la prescripción y con las comidas.",
+          "No modificar ni duplicar la dosis por cuenta propia.",
+          "Evitar el consumo excesivo de alcohol.",
+          "Informar sobre dolor abdominal intenso o persistente.",
+          "Consultar antes de realizar estudios con contraste yodado o cirugías.",
+          "Informar sobre vómitos, diarrea intensa, deshidratación o enfermedades agudas.",
+          "No suspender otros antidiabéticos sin indicación profesional."
+        ]
+      }
     }
   ]
 }
