@@ -7870,6 +7870,85 @@
           "Informar al equipo de salud si está embarazada, planea un embarazo o está amamantando."
         ]
       }
+    },
+    {
+      "id": "98",
+      "nombre_generico": "Quetiapina",
+      "letra": "Q",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Quetiapina, habitualmente como fumarato de quetiapina.",
+        "clasificacion": "Antipsicótico atípico o de segunda generación.",
+        "efecto_terapeutica": "Disminuye los síntomas psicóticos y maníacos, contribuye a estabilizar el estado de ánimo y puede utilizarse en el tratamiento de episodios depresivos asociados al trastorno bipolar y como complemento en determinados casos de trastorno depresivo mayor, según la formulación y la autorización local.",
+        "mecanismo_accion": "Actúa principalmente como antagonista de los receptores serotoninérgicos 5-HT2A y dopaminérgicos D2. También presenta afinidad por receptores histamínicos H1 y adrenérgicos alfa-1, lo que contribuye a sus efectos sedantes y a la hipotensión ortostática. Su metabolito norquetiapina inhibe la recaptación de noradrenalina y presenta actividad sobre receptores serotoninérgicos."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral. La formulación de liberación inmediata alcanza concentraciones plasmáticas máximas aproximadamente en 1,5 horas; la de liberación prolongada las alcanza más tarde. Los alimentos pueden modificar la exposición de algunas formulaciones, por lo que deben seguirse las instrucciones específicas del producto.",
+        "distribucion": "Se distribuye ampliamente en el organismo y presenta una unión a proteínas plasmáticas aproximada del 83 %.",
+        "metabolismo": "Se metaboliza extensamente en el hígado, principalmente mediante CYP3A4. Forma metabolitos, entre ellos norquetiapina, que conserva actividad farmacológica.",
+        "eliminacion": "Se elimina principalmente como metabolitos por vía urinaria y fecal. La proporción excretada sin cambios es pequeña. La semivida de eliminación de la quetiapina es de aproximadamente 6 a 7 horas, aunque puede variar según el paciente."
+      },
+      "indicaciones": "Tratamiento de la esquizofrenia, los episodios maníacos y depresivos asociados al trastorno bipolar y, según la formulación y la autorización local, el mantenimiento del trastorno bipolar y el tratamiento complementario del trastorno depresivo mayor. La indicación depende de la presentación y de la ficha técnica vigente.",
+      "contraindicaciones": "Hipersensibilidad conocida a la quetiapina o a alguno de los componentes de la formulación. El uso concomitante con inhibidores potentes de CYP3A4 está contraindicado en determinadas fichas técnicas debido al aumento significativo de la exposición al fármaco. Verificar las contraindicaciones específicas del producto.",
+      "precauciones": "Utilizar con precaución en pacientes con enfermedad cardiovascular, hipotensión, antecedentes de síncope, prolongación del intervalo QT, diabetes, obesidad, dislipidemia, antecedentes de convulsiones, enfermedad hepática o riesgo de aspiración. Puede provocar somnolencia, mareos, hipotensión ortostática y caídas. Valorar el riesgo de discinesia tardía, síndrome neuroléptico maligno y alteraciones metabólicas. En personas mayores con psicosis asociada a demencia, los antipsicóticos se relacionan con un aumento de mortalidad y no están aprobados para esta indicación en muchas jurisdicciones.",
+      "advertencias": "Puede causar hiperglucemia, diabetes de nueva aparición o empeoramiento de la diabetes, aumento de peso, dislipidemia, hipotensión ortostática, prolongación del QT y, raramente, síndrome neuroléptico maligno o discinesia tardía. Vigilar la aparición de fiebre, rigidez muscular, alteración de conciencia e inestabilidad autonómica. En pacientes con trastornos del ánimo, vigilar el empeoramiento clínico y la aparición de ideación suicida. No suspender ni modificar la dosis sin indicación profesional.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar únicamente cuando el beneficio esperado justifique los riesgos potenciales. La exposición durante el tercer trimestre puede asociarse con síntomas extrapiramidales o de adaptación en el recién nacido. La quetiapina pasa a la leche materna; valorar individualmente los beneficios y riesgos, la necesidad del tratamiento y la vigilancia del lactante con el equipo de salud.",
+      "ajustes": {
+        "renal": "Generalmente no requiere ajuste rutinario en insuficiencia renal, pero se recomienda precaución en pacientes con enfermedad renal grave, fragilidad o múltiples comorbilidades. Individualizar según la respuesta clínica.",
+        "hepatico": "Se metaboliza extensamente en el hígado. En insuficiencia hepática suele recomendarse una dosis inicial reducida y aumentos graduales más lentos, de acuerdo con la ficha técnica y la respuesta clínica."
+      },
+      "interacciones": "Los inhibidores potentes de CYP3A4, como determinados antifúngicos azólicos, algunos macrólidos y ciertos antivirales, pueden aumentar considerablemente las concentraciones de quetiapina. Los inductores de CYP3A4, como carbamazepina, fenitoína y rifampicina, pueden disminuirlas. El alcohol y otros depresores del sistema nervioso central aumentan la sedación. Los antihipertensivos pueden potenciar la hipotensión, mientras que otros medicamentos que prolongan el QT pueden incrementar el riesgo de arritmias. El uso simultáneo con otros fármacos que producen alteraciones metabólicas requiere vigilancia adicional.",
+      "reacciones_adversas": "Somnolencia, mareos, cefalea, sequedad bucal, estreñimiento, taquicardia, hipotensión ortostática y aumento de peso. Puede elevar la glucemia y los lípidos, y provocar edema periférico, alteraciones tiroideas o síntomas extrapiramidales. Entre las reacciones graves se encuentran síndrome neuroléptico maligno, discinesia tardía, convulsiones, neutropenia grave, hiperglucemia grave, prolongación del QT y reacciones de hipersensibilidad.",
+      "toxicidad_sobredosis": "La sobredosis puede provocar somnolencia intensa, sedación, taquicardia, hipotensión, confusión, coma, convulsiones y alteraciones del ritmo cardíaco. Requiere evaluación médica urgente, monitorización cardiovascular y neurológica y tratamiento de soporte. No inducir el vómito ni administrar tratamientos caseros. No existe un antídoto específico.",
+      "antidotos": "No existe un antídoto específico. El tratamiento de la sobredosis es de soporte e incluye vigilancia de la vía aérea, respiración, circulación, estado neurológico y electrocardiograma. La hipotensión y otras complicaciones deben tratarse según protocolos de urgencias y toxicología.",
+      "monitorizacion": {
+        "clinica": "Controlar presión arterial, frecuencia cardíaca, nivel de conciencia, somnolencia, mareos, riesgo de caídas, síntomas extrapiramidales y evolución psiquiátrica. Vigilar signos de síndrome neuroléptico maligno, hiperglucemia y cambios conductuales. Evaluar peso y perímetro abdominal según el protocolo institucional.",
+        "laboratorio": "Controlar glucemia en ayunas o HbA1c y perfil lipídico al inicio y periódicamente. Considerar función hepática, hemograma y función tiroidea según los antecedentes, los síntomas y la ficha técnica. Solicitar electrolitos y electrocardiograma cuando existan factores de riesgo de prolongación del QT, alteraciones electrolíticas o síntomas cardíacos."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, formulación de liberación inmediata o prolongada, antecedentes de alergia, medicación concomitante y factores de riesgo cardiovascular y metabólico. Valorar presión arterial, estado de conciencia, riesgo de caídas, peso, glucemia y perfil lipídico. Revisar antecedentes de convulsiones, enfermedad hepática y prolongación del QT.",
+        "durante": "Vigilar sedación, hipotensión ortostática, mareos, caídas, frecuencia cardíaca y respuesta terapéutica. Controlar peso y parámetros metabólicos de acuerdo con el protocolo. Observar signos de hiperglucemia, discinesia tardía, síndrome neuroléptico maligno y empeoramiento de síntomas psiquiátricos.",
+        "despues": "Evaluar eficacia, tolerancia, adherencia y efectos adversos. Revisar la necesidad de continuar el tratamiento y comunicar cambios relevantes al equipo de salud. Si se decide suspenderla, seguir un plan profesional de reducción cuando corresponda y vigilar síntomas de discontinuación o recaída. Registrar la evolución clínica y los controles realizados."
+      },
+      "presentaciones": "Comprimidos de liberación inmediata y comprimidos de liberación prolongada, con concentraciones que varían según el fabricante y el país. Entre las concentraciones habituales se encuentran 25 mg, 50 mg, 100 mg, 200 mg, 300 mg y 400 mg, aunque no todas están disponibles en todas las formulaciones. Verificar el envase y la ficha técnica.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación y de la formulación. En esquizofrenia y trastorno bipolar, la dosis se aumenta gradualmente durante los primeros días hasta alcanzar el intervalo terapéutico indicado para cada diagnóstico. Las dosis habituales de mantenimiento pueden variar ampliamente, aproximadamente entre 150 y 800 mg al día según la indicación y el producto. No utilizar un intervalo general como pauta individual: seguir la prescripción y la ficha técnica.",
+        "pediatrico": "La utilización pediátrica está limitada a indicaciones y edades específicas según la autorización local. La dosis depende de la edad, el peso, el diagnóstico y la formulación. Requiere prescripción y seguimiento especializado; no extrapolar automáticamente las dosis de adultos.",
+        "geriatrico": "La eliminación puede ser más lenta y existe mayor sensibilidad a la hipotensión y la sedación. Iniciar con dosis menores y realizar aumentos graduales cuando esté indicado, bajo supervisión clínica. Valorar especialmente el riesgo de caídas, las interacciones y las comorbilidades."
+      },
+      "vias_administracion": "Oral. Los comprimidos de liberación inmediata y prolongada no deben considerarse intercambiables miligramo por miligramo sin verificar la pauta prescrita. Los comprimidos de liberación prolongada deben tragarse enteros; no triturarlos ni masticarlos. Administrar con o sin alimentos según la formulación y la ficha técnica.",
+      "preparacion": {
+        "dilucion": "No requiere dilución para la administración oral. Verificar si el producto es de liberación inmediata o prolongada antes de administrarlo. No triturar, partir ni modificar los comprimidos de liberación prolongada salvo que la ficha técnica específica lo autorice.",
+        "compatibilidad_iv": "No corresponde: la quetiapina se administra por vía oral y no dispone de una presentación intravenosa de uso habitual."
+      },
+      "velocidad_infusion": "No corresponde. Se administra por vía oral.",
+      "estabilidad_soluciones": "No corresponde a una solución intravenosa. Conservar los comprimidos en su envase original y respetar las condiciones de temperatura, humedad, protección de la luz y vencimiento indicadas por el fabricante.",
+      "concentracion": "Las concentraciones dependen de la presentación y del fabricante. Verificar los miligramos por comprimido y distinguir entre liberación inmediata y prolongada antes de administrar.",
+      "alarma_riesgo": "Vigilar somnolencia intensa, síncope, hipotensión marcada, palpitaciones, fiebre con rigidez muscular, confusión, convulsiones o signos de hiperglucemia grave. Estos síntomas requieren evaluación médica urgente. Revisar las interacciones con inhibidores de CYP3A4, otros sedantes y medicamentos que prolongan el QT.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la identidad del paciente, la dosis y si la formulación es de liberación inmediata o prolongada.",
+          "Controlar presión arterial y frecuencia cardíaca, especialmente al inicio y después de los aumentos de dosis.",
+          "Evaluar somnolencia, mareos, hipotensión ortostática y riesgo de caídas; implementar medidas de prevención cuando corresponda.",
+          "Vigilar el estado mental, la evolución de los síntomas psiquiátricos y la aparición de agitación o ideación suicida.",
+          "Controlar peso, glucemia y perfil lipídico según el protocolo y los factores de riesgo del paciente.",
+          "Observar signos de síndrome neuroléptico maligno, como fiebre, rigidez muscular, alteración de conciencia e inestabilidad autonómica, y comunicar inmediatamente la sospecha.",
+          "Vigilar movimientos involuntarios, temblores u otros síntomas extrapiramidales.",
+          "Revisar la medicación concomitante para detectar interacciones y aumento de la sedación o del riesgo de prolongación del QT.",
+          "Administrar la formulación según las instrucciones del fabricante; no triturar los comprimidos de liberación prolongada.",
+          "Registrar la administración, la respuesta terapéutica, los efectos adversos y los parámetros monitorizados."
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación exactamente como fue prescrita y no modificar ni suspender la dosis sin consultar al profesional de salud.",
+          "Explicar que puede producir somnolencia y mareos; evitar conducir o realizar actividades peligrosas hasta conocer sus efectos.",
+          "Levantarse lentamente de la cama o de una silla para reducir el riesgo de hipotensión y caídas.",
+          "Evitar el consumo de alcohol y consultar antes de utilizar medicamentos sedantes o nuevos tratamientos.",
+          "Mantener los controles de peso, glucemia y lípidos indicados por el equipo de salud.",
+          "Informar si aparecen sed excesiva, aumento de la frecuencia urinaria, debilidad marcada o cambios importantes de peso.",
+          "Buscar atención urgente ante fiebre con rigidez muscular, desmayo, palpitaciones importantes, convulsiones o alteración intensa de la conciencia.",
+          "No triturar ni masticar los comprimidos de liberación prolongada y consultar al farmacéutico o al equipo de salud si tiene dificultades para tragarlos."
+        ]
+      }
     }
   ]
 }
