@@ -10367,6 +10367,80 @@
           "Comunicar dificultad respiratoria, debilidad intensa o síntomas persistentes después de la recuperación."
         ]
       }
+    },
+    {
+      "id": "131",
+      "nombre_generico": "Naloxona",
+      "letra": "N",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de naloxona",
+        "clasificacion": "Antagonista de los receptores opioides; antídoto; código ATC V03AB15",
+        "efecto_terapeutica": "Revierte parcial o totalmente la depresión respiratoria y del sistema nervioso central causada por opioides",
+        "mecanismo_accion": "Antagoniza competitivamente los receptores opioides, especialmente los receptores mu, desplazando a los agonistas opioides"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La administración intravenosa produce un efecto rápido; también se absorbe por vía intramuscular y subcutánea; por vía oral presenta un importante metabolismo de primer paso",
+        "distribucion": "Se distribuye rápidamente por los tejidos y atraviesa la barrera hematoencefálica; presenta unión a proteínas plasmáticas de aproximadamente 32 a 45 %",
+        "metabolismo": "Se metaboliza rápidamente en el hígado, principalmente mediante conjugación con ácido glucurónico",
+        "eliminacion": "Se elimina principalmente por vía urinaria en forma de metabolitos; la semivida plasmática parenteral descrita en el prospecto es de aproximadamente 1 a 1,5 horas en adultos"
+      },
+      "indicaciones": "Reversión parcial o total de la depresión respiratoria y del sistema nervioso central inducida por opioides; diagnóstico y tratamiento de sospecha de sobredosis aguda por opioides; reversión de depresión respiratoria neonatal causada por exposición materna a opioides según indicación clínica",
+      "contraindicaciones": "Hipersensibilidad a la naloxona o a los excipientes; en una emergencia por sobredosis de opioides, la decisión debe basarse en la indicación clínica y el prospecto, sin retrasar la asistencia vital necesaria",
+      "precauciones": "Dependencia física a opioides; riesgo de síndrome de abstinencia agudo; cardiopatía; uso concomitante de sustancias no opioides; duración de acción más corta que la de muchos opioides; embarazo; pacientes posoperatorios con dolor",
+      "advertencias": "Puede desencadenar abstinencia aguda en personas con dependencia a opioides; su efecto puede durar menos que el del opioide causante, por lo que puede reaparecer la depresión respiratoria; requiere vigilancia continua y dosis repetidas cuando estén indicadas; no revierte la depresión causada exclusivamente por sustancias no opioides",
+      "embarazo_lactancia": "Durante el embarazo utilizar cuando esté indicada para tratar una emergencia y con supervisión clínica; consultar el prospecto específico para lactancia y valorar el contexto clínico",
+      "ajustes": {
+        "renal": "No existe un ajuste universal establecido para la emergencia; utilizar con vigilancia clínica y según el prospecto específico",
+        "hepatico": "El metabolismo hepático puede alterarse en enfermedad hepática; vigilar la respuesta clínica y la necesidad de observación prolongada"
+      },
+      "interacciones": "Antagoniza los efectos de los opioides; puede precipitar abstinencia en pacientes dependientes; no revierte la depresión respiratoria causada por hipnóticos, alcohol u otros no opioides; puede revertir la analgesia posoperatoria y provocar aumento de la presión arterial",
+      "reacciones_adversas": "Náuseas; vómitos; sudoración; temblores; agitación; taquicardia; hipertensión; dolor; síndrome de abstinencia; arritmias; edema pulmonar en casos raros; recurrencia de depresión respiratoria tras desaparecer el efecto de naloxona",
+      "toxicidad_sobredosis": "La administración excesiva puede provocar abstinencia intensa, agitación, vómitos, hipertensión, taquicardia y reversión brusca de la analgesia; se requiere vigilancia y tratamiento de soporte",
+      "antidotos": "No requiere un antídoto específico; es un antídoto para intoxicación por opioides; las reacciones adversas se tratan con medidas de soporte y vigilancia clínica",
+      "monitorizacion": {
+        "clinica": "Frecuencia respiratoria; saturación de oxígeno; nivel de conciencia; frecuencia cardíaca; presión arterial; respuesta a la naloxona; signos de abstinencia; recurrencia de sedación",
+        "laboratorio": "No existe un análisis específico obligatorio para todas las administraciones; realizar glucemia, gases y estudios toxicológicos según estado clínico e indicación"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar vía aérea, respiración, circulación, nivel de conciencia, sospecha de exposición a opioides y riesgo de dependencia; comprobar concentración y vía disponibles",
+        "durante": "Controlar ventilación, saturación, estado de conciencia y signos de abstinencia; repetir dosis según respuesta y protocolo; mantener medidas de soporte respiratorio",
+        "despues": "Mantener vigilancia por posible recurrencia de depresión respiratoria; documentar dosis, respuesta y reacciones adversas; determinar la necesidad de observación prolongada o atención hospitalaria"
+      },
+      "presentaciones": "Naloxona Denver Farma: solución inyectable de 0,02 mg/ml y 0,4 mg/ml; verificar disponibilidad, volumen y presentación del producto institucional",
+      "dosis": {
+        "adultos": "En sospecha de sobredosis por opioides, el prospecto argentino consultado indica una dosis inicial de 0,4 mg IV, IM o SC; si no se obtiene respuesta adecuada, puede repetirse cada 2 a 3 minutos según la situación clínica; en depresión respiratoria posoperatoria se utilizan dosis IV menores y tituladas según respuesta",
+        "pediatrico": "El prospecto argentino consultado describe una dosis inicial de 0,01 mg/kg IV, IM o SC, con posibilidad de una dosis adicional de 0,1 mg/kg si la respuesta es insuficiente; confirmar la pauta apropiada para edad, contexto y protocolo pediátrico",
+        "geriatrico": "Individualizar según comorbilidades, exposición a opioides, función respiratoria y cardiovascular; vigilar abstinencia y recurrencia de depresión respiratoria"
+      },
+      "vias_administracion": "Intravenosa; intramuscular; subcutánea; la vía intravenosa produce el efecto más rápido en emergencias",
+      "preparacion": {
+        "dilucion": "Puede administrarse según la presentación disponible; el prospecto permite diluir para determinadas dosis pediátricas utilizando agua estéril para inyectables; seguir el prospecto y protocolo institucional",
+        "compatibilidad_iv": "Confirmar diluyente y compatibilidad con el prospecto específico; no mezclar con otros medicamentos en la misma jeringa sin verificar compatibilidad"
+      },
+      "velocidad_infusion": "No existe una velocidad única para todas las indicaciones; administrar en bolos titulados según el protocolo o mediante infusión únicamente cuando esté indicada y protocolizada",
+      "estabilidad_soluciones": "Conservar entre 15 °C y 30 °C según el prospecto consultado y proteger de la luz; verificar el aspecto de la solución; desechar remanentes según las instrucciones del producto",
+      "concentracion": "No existe una concentración máxima universal de administración independiente de la vía y la indicación; el producto argentino está disponible a 0,4 mg/ml y 0,02 mg/ml; seleccionar la concentración adecuada para evitar errores de dosificación",
+      "alarma_riesgo": "Persistencia o recurrencia de depresión respiratoria; ausencia de respuesta; abstinencia aguda; agitación intensa; vómitos con riesgo de aspiración; arritmias; dolor torácico",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Evaluar y mantener la vía aérea y la ventilación; no retrasar el soporte respiratorio.",
+          "Verificar concentración, dosis, vía y respuesta antes de repetir la administración.",
+          "Monitorizar frecuencia respiratoria, saturación de oxígeno, conciencia, presión arterial y frecuencia cardíaca.",
+          "Vigilar recurrencia de depresión respiratoria por duración de acción más corta que la de algunos opioides.",
+          "Observar signos de abstinencia aguda, agitación, vómitos y alteraciones hemodinámicas.",
+          "Mantener vigilancia y solicitar evaluación médica ante sospecha de sobredosis.",
+          "Registrar las dosis administradas y la respuesta clínica."
+        ],
+        "educacion_paciente": [
+          "Explicar que la mejoría inicial no elimina el riesgo de que reaparezcan los efectos del opioide.",
+          "Aceptar la observación médica aunque la respiración y el nivel de conciencia mejoren.",
+          "Informar sobre opioides, medicamentos y otras sustancias consumidas.",
+          "Si se prescribe naloxona para uso comunitario, aprender la técnica específica del dispositivo y las indicaciones de emergencia.",
+          "Solicitar atención de emergencia ante sospecha de sobredosis incluso después de administrar naloxona.",
+          "Consultar sobre prevención de nuevas sobredosis y tratamiento de la dependencia cuando corresponda."
+        ]
+      }
     }
   ]
 }
