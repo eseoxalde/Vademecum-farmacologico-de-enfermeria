@@ -9538,6 +9538,78 @@
           "Informar al equipo de salud ante cirugía programada, ayuno prolongado o enfermedad aguda."
         ]
       }
+    },
+    {
+      "id": "120",
+      "nombre_generico": "Glimepirida",
+      "letra": "G",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Glimepirida",
+        "clasificacion": "Antidiabético oral; sulfonilurea de segunda generación.",
+        "efecto_terapeutica": "Reduce la glucemia en adultos con diabetes mellitus tipo 2 cuando las medidas alimentarias y de actividad física no son suficientes.",
+        "mecanismo_accion": "Estimula la liberación de insulina por las células beta pancreáticas al unirse al receptor de sulfonilureas y cerrar canales de potasio sensibles al ATP. Su efecto puede producir hipoglucemia y depende en parte de la función pancreática residual."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe casi completamente por vía oral. Los alimentos pueden modificar la velocidad de absorción.",
+        "distribucion": "Presenta unión elevada a proteínas plasmáticas.",
+        "metabolismo": "Se metaboliza en el hígado, principalmente mediante CYP2C9, a metabolitos con actividad limitada o inactivos.",
+        "eliminacion": "Se elimina por orina y heces principalmente como metabolitos. La insuficiencia renal puede favorecer la acumulación de metabolitos y prolongar el riesgo de hipoglucemia."
+      },
+      "indicaciones": "Diabetes mellitus tipo 2 en adultos, como complemento de alimentación y actividad física, cuando está indicada una sulfonilurea. Puede utilizarse sola o en combinación con otros antidiabéticos según prescripción.",
+      "contraindicaciones": "Hipersensibilidad a la glimepirida, otras sulfonilureas o sulfonamidas relacionadas, según la ficha técnica. No debe utilizarse en diabetes tipo 1, cetoacidosis diabética ni en insuficiencia renal o hepática grave sin que la ficha técnica lo permita; en estas situaciones suelen preferirse alternativas.",
+      "precauciones": "Alto riesgo de hipoglucemia, especialmente en personas mayores, con ingesta irregular, ayuno, ejercicio intenso, consumo de alcohol o insuficiencia renal o hepática. La hipoglucemia puede ser prolongada o recurrir después de una mejoría inicial.",
+      "advertencias": "La hipoglucemia grave puede causar convulsiones, pérdida de conciencia o coma. Puede disminuir la percepción de los síntomas en algunas personas. El tratamiento debe reevaluarse ante cambios en alimentación, peso, función renal o estado general.",
+      "embarazo_lactancia": "Generalmente se evita durante el embarazo y se prefiere insulina cuando se necesita tratamiento farmacológico. No se recomienda durante la lactancia sin valoración especializada, debido al riesgo potencial de hipoglucemia en el lactante y a la disponibilidad de alternativas.",
+      "ajustes": {
+        "renal": "Iniciar con especial precaución y utilizar una dosis baja si la ficha técnica lo permite. En insuficiencia renal significativa aumenta el riesgo de hipoglucemia prolongada; considerar alternativas y monitorizar estrechamente.",
+        "hepatico": "En insuficiencia hepática puede aumentar el riesgo de hipoglucemia y alterarse el metabolismo. En enfermedad grave, evitar o utilizar solo bajo evaluación especializada conforme a la ficha técnica."
+      },
+      "interacciones": "El alcohol puede aumentar o hacer impredecible el efecto hipoglucemiante. Algunos medicamentos pueden potenciar la hipoglucemia, incluidos ciertos antiinflamatorios, anticoagulantes, antimicrobianos y otros antidiabéticos. Corticoides, algunos diuréticos y otros fármacos pueden elevar la glucemia. Los betabloqueantes pueden enmascarar síntomas adrenérgicos de hipoglucemia.",
+      "reacciones_adversas": "Hipoglucemia, aumento de peso, náuseas, vómitos, dolor abdominal y reacciones cutáneas. Con menor frecuencia pueden aparecer alteraciones hepáticas, ictericia, trastornos hematológicos o reacciones alérgicas graves.",
+      "toxicidad_sobredosis": "Puede producir hipoglucemia grave y prolongada, con confusión, convulsiones o pérdida de conciencia. Requiere atención urgente y monitorización prolongada porque la hipoglucemia puede recurrir después del tratamiento inicial.",
+      "antidotos": "No existe un antídoto específico. La hipoglucemia se trata con glucosa oral si la persona está consciente y puede tragar, o glucosa intravenosa y otras medidas hospitalarias según el estado clínico. El octreótido puede utilizarse en determinados casos de hipoglucemia por sulfonilureas bajo supervisión médica o toxicológica.",
+      "monitorizacion": {
+        "clinica": "Glucemia, síntomas de hipoglucemia, alimentación, peso, adherencia, consumo de alcohol y cambios en actividad física o estado general.",
+        "laboratorio": "Glucemia y HbA1c; función renal y hepática según el estado clínico. Ante hipoglucemia grave, controlar la glucemia de forma seriada según el protocolo."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar dosis, horario, alimentación prevista, función renal y hepática, antecedentes de hipoglucemia y medicamentos concomitantes.",
+        "durante": "Vigilar signos de hipoglucemia, especialmente si se omiten comidas, se incrementa la actividad física o hay enfermedad aguda. Confirmar que la persona pueda alimentarse de manera regular.",
+        "despues": "Evaluar control glucémico, episodios de hipoglucemia y necesidad de ajustar el tratamiento. Tras una hipoglucemia importante, mantener controles según protocolo por riesgo de recurrencia."
+      },
+      "presentaciones": "Comprimidos orales de distintas concentraciones, habitualmente de 1 mg, 2 mg, 3 mg y 4 mg; confirmar las presentaciones disponibles localmente.",
+      "dosis": {
+        "adultos": "La dosis inicial habitual es de 1 mg una vez al día con el desayuno o la primera comida principal. Puede aumentarse gradualmente según respuesta y tolerancia, con intervalos suficientes entre ajustes. La dosis máxima depende de la ficha técnica local; utilizar la menor dosis eficaz.",
+        "pediatrico": "No se recomienda de forma rutinaria en niños por falta de evidencia suficiente y según la autorización del producto.",
+        "geriatrico": "Iniciar con la dosis más baja apropiada y ajustar con mucha cautela. Evaluar función renal, regularidad de las comidas, fragilidad y capacidad para reconocer y tratar una hipoglucemia."
+      },
+      "vias_administracion": "Oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución. Administrar con el desayuno o la primera comida principal, según la prescripción y el prospecto.",
+        "compatibilidad_iv": "No corresponde; no se administra por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde.",
+      "estabilidad_soluciones": "No corresponde para los comprimidos habituales. Conservar según las instrucciones del fabricante.",
+      "concentracion": "Comprimidos de varias concentraciones; comprobar los miligramos por comprimido antes de administrar.",
+      "alarma_riesgo": "Alto riesgo de hipoglucemia grave o prolongada. Ante sudoración, temblor, hambre intensa, confusión, convulsiones o pérdida de conciencia, actuar de inmediato según el protocolo de hipoglucemia.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar dosis, horario y relación con la comida.",
+          "Controlar glucemia y evaluar signos de hipoglucemia antes y después de la administración según el plan asistencial.",
+          "Confirmar que la persona tenga acceso a la comida prevista y no esté en ayuno no planificado.",
+          "Revisar función renal y hepática, cambios en el estado clínico e interacciones farmacológicas.",
+          "Ante hipoglucemia, seguir el protocolo institucional y mantener controles por riesgo de recurrencia.",
+          "Registrar episodios de hipoglucemia, tratamiento aplicado y respuesta."
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis prescrita junto con el desayuno o la primera comida principal, según las indicaciones recibidas.",
+          "No omitir comidas ni duplicar una dosis olvidada.",
+          "Aprender a reconocer y tratar la hipoglucemia y llevar una fuente de glucosa de acción rápida si así lo recomienda el equipo de salud.",
+          "Consultar antes de consumir alcohol o modificar de forma importante la alimentación o la actividad física.",
+          "Informar sobre enfermedad aguda, vómitos, disminución de la ingesta o episodios repetidos de hipoglucemia."
+        ]
+      }
     }
   ]
 }
