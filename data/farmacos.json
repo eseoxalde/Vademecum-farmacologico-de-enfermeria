@@ -345,66 +345,73 @@
       "id": "6",
       "nombre_generico": "N-acetilcisteína",
       "letra": "N",
-      "alto_riesgo": false,
+      "alto_riesgo": true,
       "farmacodinamia": {
         "principio_activo": "N-acetilcisteína",
-        "clasificacion": "Mucolítico / Antídoto",
-        "efecto_terapeutica": "Disminuye la viscosidad del moco; protege el hígado en intoxicación por paracetamol [59]",
-        "mecanismo_accion": "Rompe enlaces disulfuro de las micoproteínas facilitando su eliminación; aumenta niveles de glutatión [59, 60]"
+        "clasificacion": "Antídoto; mucolítico; precursor de glutatión",
+        "efecto_terapeutica": "Disminuye la viscosidad de las secreciones respiratorias y actúa como antídoto en la intoxicación por paracetamol.",
+        "mecanismo_accion": "Como mucolítico, sus grupos sulfhidrilo rompen los enlaces disulfuro de las mucoproteínas y reducen la viscosidad del moco. En la intoxicación por paracetamol, repone las reservas de glutatión y favorece la neutralización de metabolitos hepatotóxicos."
       },
       "farmacocinetica_adme": {
-        "absorcion": "Buena por vía oral",
-        "distribucion": "Vida media: aproximadamente 6 horas",
-        "metabolismo": "Hepático",
-        "eliminacion": "Renal [60]"
+        "absorcion": "La absorción depende de la vía de administración. Por vía intravenosa, la biodisponibilidad es completa.",
+        "distribucion": "Se distribuye ampliamente, principalmente en el espacio extracelular. Alcanza concentraciones relevantes en hígado, riñones, pulmones y secreciones bronquiales. Se une reversiblemente a proteínas plasmáticas.",
+        "metabolismo": "Se metaboliza a compuestos como cisteína y cistina, que participan en el metabolismo del glutatión.",
+        "eliminacion": "Aproximadamente el 30 % de la dosis parenteral se elimina directamente por vía renal, según el prospecto de ACEMUK. La insuficiencia hepática grave y la edad neonatal pueden prolongar la vida media."
       },
-      "indicaciones": "EPOC, bronquitis, fibrosis quística, intoxicación por paracetamol [60]",
-      "contraindicaciones": "Hipersensibilidad; precaución en asma y úlcera péptica activa [61]",
-      "precauciones": "Vigilar aparición de broncoespasmo en nebulización [61]",
-      "advertencias": "No se considera de alto riesgo [62]",
-      "embarazo_lactancia": "No especificado detalladamente",
+      "indicaciones": "Intoxicación por paracetamol, como antídoto; enfermedades respiratorias con secreciones espesas y difíciles de expectorar, cuando esté indicada como mucolítico.",
+      "contraindicaciones": "Hipersensibilidad a la N-acetilcisteína o a cualquiera de los componentes de la formulación.",
+      "precauciones": "Administrar bajo supervisión clínica cuando se utilice como antídoto; extremar la vigilancia ante antecedentes de asma o hiperreactividad bronquial; evaluar el volumen de dilución en pacientes con restricción hídrica; en niños pequeños, utilizar exclusivamente bajo indicación y supervisión médica; comprobar la formulación específica, ya que las presentaciones orales e inyectables no son intercambiables automáticamente.",
+      "advertencias": "La administración intravenosa puede provocar reacciones anafilactoides, broncoespasmo e hipotensión. Ante una reacción grave, interrumpir la infusión y aplicar el tratamiento de emergencia correspondiente. En la intoxicación por paracetamol, iniciar la evaluación y el tratamiento con rapidez; la demora no debe ser motivo para descartar el antídoto cuando persiste la indicación.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar cuando esté clínicamente indicado y bajo evaluación profesional. Los datos específicos sobre excreción en leche materna son limitados en el prospecto consultado; valorar individualmente el beneficio y el riesgo.",
       "ajustes": {
-        "renal": "Eliminación renal",
-        "hepatico": "Metabolismo hepático"
+        "renal": "No se establece una reducción universal de dosis en el prospecto consultado. Valorar la función renal, el estado clínico y el volumen de dilución; individualizar según protocolo.",
+        "hepatico": "La insuficiencia hepática grave puede prolongar la eliminación. En la intoxicación por paracetamol, la disfunción hepática es una razón para una evaluación toxicológica urgente y puede requerir prolongar el tratamiento según evolución y protocolo."
       },
-      "interacciones": "Incompatible con ciertos metales (hierro, cobre) y algunos antibióticos [63]",
-      "reacciones_adversas": "Broncoespasmo (nebulizado), irritación gástrica [61]",
-      "toxicidad_sobredosis": "No especificado",
-      "antidotos": "No aplica (ella misma es un antídoto)",
+      "interacciones": "No mezclar en la misma solución ni administrar por el mismo sistema de infusión con otros medicamentos sin confirmar compatibilidad; el prospecto consultado advierte incompatibilidades con varios antibióticos y con sustancias oxidantes; la administración simultánea con nitroglicerina puede potenciar la vasodilatación y la inhibición de la agregación plaquetaria; considerar posibles interacciones específicas de la formulación y del tratamiento concomitante.",
+      "reacciones_adversas": "Náuseas y vómitos; reacciones cutáneas; urticaria; angioedema; broncoespasmo; taquicardia; hipotensión; reacciones anafilactoides, que pueden ser graves; la frecuencia y el perfil de reacciones dependen de la vía y de la dosis.",
+      "toxicidad_sobredosis": "La administración intravenosa excesiva puede aumentar el riesgo de reacciones adversas sistémicas. Vigilar especialmente broncoespasmo, hipotensión y reacciones de hipersensibilidad. La conducta depende de la dosis administrada, los síntomas y la formulación utilizada.",
+      "antidotos": "No existe un antídoto específico para la sobredosis de N-acetilcisteína. Suspender o ajustar la administración y proporcionar tratamiento de soporte según la manifestación clínica.",
       "monitorizacion": {
-        "clinica": "Frecuencia respiratoria, saturación de oxígeno, características del esputo [62]",
-        "laboratorio": "Pruebas de función hepática (en intoxicaciones)"
+        "clinica": "Estado respiratorio; presencia de sibilancias o broncoespasmo; presión arterial; frecuencia cardíaca; signos de hipersensibilidad; tolerancia gastrointestinal; balance hídrico; evolución clínica de la intoxicación.",
+        "laboratorio": "En intoxicación por paracetamol: concentración plasmática de paracetamol según el tiempo desde la ingesta; transaminasas; INR o tiempo de protrombina; bilirrubina; glucemia; creatinina; electrolitos y equilibrio ácido-base según gravedad. Repetir controles según evolución y protocolo toxicológico."
       },
       "parametros_valoracion": {
-        "antes": "Evaluar estado respiratorio basal [62]",
-        "durante": "Observar eficacia en expulsión de secreciones [61]",
-        "despues": "Mejora de respiración y oxigenación [62]"
+        "antes": "Confirmar indicación, peso, vía y presentación disponible; ante sospecha de intoxicación por paracetamol, determinar hora y cantidad estimada de la ingesta, evaluar coingestas y obtener estudios sin retrasar el tratamiento cuando esté indicado; valorar función hepática, estado respiratorio y riesgo de sobrecarga de volumen.",
+        "durante": "Vigilar presión arterial, frecuencia cardíaca, respiración, saturación de oxígeno y signos de reacción anafilactoide; comprobar la velocidad de infusión y el volumen administrado; controlar resultados de laboratorio y respuesta clínica según protocolo.",
+        "despues": "Reevaluar la evolución clínica y los parámetros hepáticos y de coagulación; verificar con el equipo tratante si corresponde finalizar o prolongar el tratamiento antídoto; documentar dosis total, duración, tolerancia y reacciones adversas."
       },
-      "presentaciones": "Comprimidos efervescentes 600mg, sobres 200/600mg, solución nebulizable, ampollas IV [64]",
+      "presentaciones": "El prospecto argentino consultado de ACEMUK describe solución inyectable de 100 mg/mL, en ampollas de 3 mL que contienen 300 mg de N-acetilcisteína. También existen formulaciones orales en otras concentraciones; verificar la presentación efectivamente disponible y su prospecto vigente.",
       "dosis": {
-        "adultos": "VO: 600mg/día o 200mg c/8h [61]",
-        "pediatrico": "Según indicación médica",
-        "geriatrico": "Según indicación médica"
+        "adultos": "Intoxicación por paracetamol, esquema intravenoso de referencia descrito en el prospecto consultado: 150 mg/kg durante 1 hora; luego 50 mg/kg durante 4 horas; luego 100 mg/kg durante 16 horas, para una dosis total de 300 mg/kg en 21 horas. El esquema, los volúmenes de dilución y la necesidad de prolongar el tratamiento deben validarse con toxicología y el protocolo institucional vigente. Como mucolítico intravenoso, la posología depende de la indicación y de la ficha técnica específica.",
+        "pediatrico": "En intoxicación por paracetamol, la dosis se calcula por peso y requiere un protocolo pediátrico específico; ajustar los volúmenes de dilución al peso y al riesgo de sobrecarga hídrica. En lactantes y niños pequeños, administrar bajo supervisión médica hospitalaria. No extrapolar automáticamente las pautas mucolíticas a las de antídoto.",
+        "geriatrico": "No se establece una reducción universal por edad. Individualizar según función hepática y renal, estado hemodinámico, comorbilidades y restricción de líquidos. En intoxicación por paracetamol, seguir el protocolo toxicológico sin demoras injustificadas."
       },
-      "vias_administracion": "Oral, Inhalatoria, Intravenosa [60]",
+      "vias_administracion": "Intravenosa para indicaciones que requieren tratamiento parenteral, incluida la intoxicación por paracetamol; oral para formulaciones autorizadas por esa vía. Utilizar exclusivamente la vía indicada para la presentación disponible.",
       "preparacion": {
-        "dilucion": "No especificado",
-        "compatibilidad_iv": "Incompatible con metales y antibióticos en la misma solución [63]"
+        "dilucion": "Para el esquema intravenoso de intoxicación por paracetamol, el prospecto de ACEMUK consultado describe dilución en solución de glucosa al 5 % o cloruro de sodio al 0,9 %. Los volúmenes deben individualizarse, especialmente en población pediátrica o con restricción hídrica. Preparar con técnica aséptica y según el protocolo institucional vigente.",
+        "compatibilidad_iv": "El prospecto consultado describe compatibilidad con glucosa al 5 % y cloruro de sodio al 0,9 %. No mezclar con otros medicamentos en la misma bolsa o línea sin comprobar compatibilidad; utilizar el sistema de infusión recomendado para la formulación."
       },
-      "velocidad_infusion": "Según protocolo en intoxicación",
-      "estabilidad_soluciones": "Altamente reactiva",
-      "concentracion": "Variable según presentación",
-      "alarma_riesgo": "Incompatibilidad química directa con otros componentes [63]",
+      "velocidad_infusion": "Para el esquema intravenoso de referencia en intoxicación por paracetamol: primera etapa durante 1 hora; segunda etapa durante 4 horas; tercera etapa durante 16 horas. La velocidad y el volumen final deben calcularse según peso, dosis prescrita y protocolo vigente. Vigilar reacciones durante toda la infusión.",
+      "estabilidad_soluciones": "El prospecto de ACEMUK consultado informa estabilidad física y química de hasta 24 horas a temperatura ambiente para la solución diluida. Por razones microbiológicas, recomienda utilizarla desde su preparación y descartar el remanente. Confirmar la estabilidad aplicable a la marca, diluyente y condiciones reales de preparación.",
+      "concentracion": "La presentación inyectable consultada contiene 100 mg/mL y debe considerarse una solución concentrada para preparación según indicación y protocolo; no administrar directamente sin comprobar que la forma de administración y la dilución sean las autorizadas para el producto. La concentración final de infusión depende del esquema, el volumen permitido y la presentación disponible.",
+      "alarma_riesgo": "Medicamento de alto riesgo cuando se utiliza como antídoto intravenoso por requerir cálculo por peso, preparación y administración controladas. Riesgo de reacción anafilactoide, broncoespasmo e hipotensión. La intoxicación por paracetamol es una urgencia toxicológica; no demorar la consulta por esperar síntomas o resultados de laboratorio.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Administrar con abundante agua",
-          "Favorecer hidratación del paciente",
-          "Realizar fisioterapia respiratoria si está indicada"
+          "Verificar la indicación, la presentación, la vía, el peso y el cálculo de la dosis con el protocolo institucional.",
+          "Distinguir claramente la dosis indicada como mucolítico de la utilizada como antídoto en intoxicación por paracetamol.",
+          "Comprobar diluyente, volumen final, velocidad de infusión y compatibilidad antes de iniciar la administración.",
+          "Vigilar presión arterial, frecuencia cardíaca, respiración y saturación de oxígeno durante la infusión.",
+          "Observar urticaria, eritema, angioedema, sibilancias, disnea o hipotensión; si se presenta una reacción grave, interrumpir la infusión y activar el protocolo de emergencia.",
+          "Controlar el acceso venoso y el balance hídrico, especialmente en pacientes pediátricos o con restricción de líquidos.",
+          "Coordinar la toma y el seguimiento de paracetamol plasmático, transaminasas, coagulación, glucemia, función renal y electrolitos según indicación.",
+          "Registrar dosis, dilución, velocidad, horarios, tolerancia y respuesta clínica.",
+          "No administrar otros medicamentos por la misma línea sin verificar compatibilidad; lavar la línea cuando corresponda según protocolo."
         ],
         "educacion_paciente": [
-          "Fomentar la tos efectiva",
-          "Asegurar la toma de abundantes líquidos",
-          "Explicar la importancia de la nebulización correcta"
+          "Explicar que el tratamiento para intoxicación por paracetamol requiere evaluación y seguimiento hospitalario, incluso si inicialmente no hay síntomas.",
+          "Indicar que informe inmediatamente dificultad respiratoria, opresión torácica, mareos, picazón, ronchas o hinchazón.",
+          "Aclarar que las formulaciones orales e inyectables no deben sustituirse entre sí por cuenta propia.",
+          "En uso mucolítico, seguir la dosis y la duración indicadas para la presentación específica y consultar si aparecen reacciones adversas."
         ]
       }
     },
