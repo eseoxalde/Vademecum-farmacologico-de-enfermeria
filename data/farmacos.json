@@ -2165,67 +2165,74 @@
     },
     {
       "id": "TP-04",
-      "nombre_generico": "Sulfato de Magnesio (MgSO₄)",
+      "nombre_generico": "Sulfato de magnesio (MgSO4)",
       "letra": "S",
       "alto_riesgo": true,
       "farmacodinamia": {
-        "principio_activo": "Magnesio (Mg²⁺)",
-        "clasificacion": "Anticonvulsivante / Bloqueador neuromuscular [59]",
-        "efecto_terapeutica": "Neuroprotección fetal y control de convulsiones [48, 59]",
-        "mecanismo_accion": "Bloqueador natural de canales de calcio; estabiliza tejido neuronal [59]"
+        "principio_activo": "Sulfato de magnesio; aporta magnesio (Mg2+)",
+        "clasificacion": "Electrolito; anticonvulsivante; antiarrítmico en indicaciones específicas; depresor de la transmisión neuromuscular a concentraciones elevadas",
+        "efecto_terapeutica": "Prevención y tratamiento de convulsiones asociadas a preeclampsia y eclampsia; prevención de determinadas complicaciones neurológicas fetales en partos prematuros cuando está indicado; tratamiento de hipomagnesemia; tratamiento de torsades de pointes en situaciones seleccionadas; coadyuvante en crisis asmáticas graves seleccionadas",
+        "mecanismo_accion": "El magnesio modula el transporte de calcio y la excitabilidad neuromuscular y neuronal; reduce la liberación presináptica de acetilcolina y disminuye la transmisión neuromuscular cuando alcanza concentraciones elevadas; sus efectos antiarrítmicos y anticonvulsivantes dependen de la indicación y del contexto fisiopatológico"
       },
       "farmacocinetica_adme": {
-        "absorcion": "Inmediata vía IV [59]",
-        "distribucion": "Cruza la barrera placentaria de forma libre [59]",
-        "metabolismo": "No especificado [59]",
-        "eliminacion": "Exclusivamente renal [59]"
+        "absorcion": "Por vía intravenosa, la disponibilidad sistémica es inmediata; por vía intramuscular, la absorción depende de la formulación y del sitio de administración",
+        "distribucion": "Se distribuye principalmente en el líquido extracelular y atraviesa la placenta; la distribución depende de la concentración sérica y del estado fisiológico",
+        "metabolismo": "No experimenta metabolismo significativo; el magnesio es un electrolito endógeno",
+        "eliminacion": "Se elimina principalmente por vía renal; la disminución de la función renal o la oliguria aumenta el riesgo de acumulación y toxicidad"
       },
-      "indicaciones": "Preeclampsia/Eclampsia, Torsión de puntas y crisis asmática severa [60]",
-      "contraindicaciones": "Bloqueo cardíaco avanzado y miastenia gravis [45]",
-      "precauciones": "Límite de toxicidad: abolición del reflejo patelar [60]",
-      "advertencias": "Depresión respiratoria por bloqueo de placa neuromuscular diafragmática [47]",
-      "embarazo_lactancia": "Fármaco de elección en eclampsia; infusión prolongada puede causar 'síndrome de bebé flácido' [47, 48]",
+      "indicaciones": "Prevención y tratamiento de convulsiones en preeclampsia grave y eclampsia; neuroprotección fetal cuando está indicada en embarazos con riesgo de parto prematuro; tratamiento de hipomagnesemia; torsades de pointes en indicaciones específicas; tratamiento coadyuvante de crisis asmáticas graves seleccionadas conforme al protocolo clínico",
+      "contraindicaciones": "Hipersensibilidad al producto o a sus excipientes; hipermagnesemia; bloqueo cardíaco significativo; miastenia gravis, salvo evaluación especializada en una situación excepcional; insuficiencia renal grave u oliguria importante requieren evitar o modificar la administración según la indicación y el protocolo",
+      "precauciones": "Extremar precauciones en insuficiencia renal, oliguria, alteraciones de la conducción cardíaca, enfermedad respiratoria y miastenia gravis; verificar concentración y cantidad total de magnesio antes de administrar; monitorizar frecuencia respiratoria, reflejos osteotendinosos, estado de conciencia, presión arterial y diuresis; tener disponible gluconato de calcio para tratar toxicidad; no utilizar la pérdida del reflejo patelar como único criterio de seguridad",
+      "advertencias": "La acumulación puede causar hiporreflexia, debilidad muscular, hipotensión, depresión respiratoria, bloqueo cardíaco y paro cardíaco; suspender la administración y solicitar evaluación inmediata ante signos de toxicidad; el riesgo aumenta con oliguria e insuficiencia renal; la administración intravenosa rápida puede provocar hipotensión y otros efectos cardiovasculares; las concentraciones de las ampollas pueden variar y un error de conversión entre porcentaje, mg/mL y gramos puede ser grave",
+      "embarazo_lactancia": "Se utiliza durante el embarazo para indicaciones obstétricas específicas, incluida la prevención y el tratamiento de convulsiones por preeclampsia/eclampsia y la neuroprotección fetal en determinadas situaciones de prematuridad; las pautas y la duración dependen del protocolo obstétrico; la administración prolongada o repetida durante varios días puede asociarse a alteraciones óseas y metabólicas neonatales; durante la lactancia, valorar la indicación y consultar la información del producto",
       "ajustes": {
-        "renal": "Oliguria impide depuración; riesgo de toxicidad letal [45]",
-        "hepatico": "Velocidad reducida a la mitad [49]"
+        "renal": "La insuficiencia renal y la oliguria aumentan el riesgo de acumulación; reducir, espaciar o suspender dosis según función renal, diuresis, indicación y protocolo; en pacientes con deterioro renal puede requerirse monitorización de magnesemia",
+        "hepatico": "No suele requerir ajuste específico por insuficiencia hepática, porque la eliminación es principalmente renal; individualizar según el estado clínico y las alteraciones concomitantes"
       },
-      "interacciones": "Prolonga masivamente la parálisis por vecuronio o rocuronio [51]",
-      "reacciones_adversas": "Hipotensión por infusión rápida y rubor facial difuso [48]",
-      "toxicidad_sobredosis": "Bradipnea (< 12 rpm), somnolencia y pérdida de reflejo rotuliano [50, 52]",
-      "antidotos": "Antídoto específico: Gluconato de Calcio al 10% (10 mL IV lento en 5-10 min) [50]",
+      "interacciones": "Puede potenciar el bloqueo neuromuscular producido por rocuronio, vecuronio y otros bloqueantes neuromusculares; puede aumentar el riesgo de hipotensión o alteraciones de conducción con otros fármacos cardiovasculares; administrar con precaución junto con medicamentos que deprimen la función neuromuscular o respiratoria; la asociación con nifedipina y otros antagonistas del calcio requiere vigilancia clínica",
+      "reacciones_adversas": "Rubor facial; sensación de calor; sudoración; náuseas; vómitos; hipotensión, especialmente con administración rápida; debilidad muscular; hiporreflexia; bradicardia; alteraciones de la conducción cardíaca; depresión respiratoria; hipermagnesemia; paro cardíaco en intoxicaciones graves",
+      "toxicidad_sobredosis": "La toxicidad puede manifestarse con disminución o ausencia de reflejos osteotendinosos, debilidad muscular, somnolencia, hipotensión, bradicardia, depresión respiratoria, alteraciones de la conducción cardíaca y paro cardíaco; suspender inmediatamente la administración, solicitar asistencia médica urgente, asegurar soporte ventilatorio y cardiovascular y valorar gluconato de calcio intravenoso conforme al protocolo",
+      "antidotos": "Gluconato de calcio intravenoso como antagonista fisiológico de los efectos tóxicos del magnesio; una pauta utilizada en adultos es 1 g de gluconato de calcio, equivalente habitualmente a 10 mL de una solución al 10 %, administrado lentamente durante aproximadamente 10 minutos, bajo monitorización y siguiendo el protocolo institucional; la dosis debe confirmarse según la presentación y el cuadro clínico",
       "monitorizacion": {
-        "clinica": "Reflejo patelar, frecuencia respiratoria y signos vitales [53, 54]",
-        "laboratorio": "Niveles séricos de magnesio [53]"
+        "clinica": "Frecuencia respiratoria; saturación de oxígeno; presión arterial; frecuencia y ritmo cardíacos; nivel de conciencia; reflejos osteotendinosos, especialmente patelar; diuresis horaria; balance hídrico; signos de debilidad muscular o depresión respiratoria; vigilancia fetal cuando corresponda",
+        "laboratorio": "Magnesemia cuando esté indicada por insuficiencia renal, oliguria, sospecha de toxicidad o tratamiento prolongado; función renal; potasio y calcio según contexto clínico; otros estudios según la indicación y el protocolo institucional"
       },
       "parametros_valoracion": {
-        "antes": "Evaluar presencia activa del reflejo patelar [54]",
-        "durante": "Control estricto de frecuencia respiratoria [53]",
-        "despues": "Evaluación del cese de sintomatología (ej. convulsiones) [53]"
+        "antes": "Confirmar indicación, dosis, concentración de la ampolla y pauta prescrita; evaluar función renal y diuresis; registrar frecuencia respiratoria, saturación de oxígeno, presión arterial, frecuencia cardíaca, estado de conciencia y reflejos osteotendinosos; revisar medicación concomitante; verificar disponibilidad de gluconato de calcio y equipo de soporte respiratorio",
+        "durante": "Administrar con bomba de infusión cuando corresponda y respetar la velocidad prescrita; controlar frecuencia respiratoria, saturación de oxígeno, presión arterial, frecuencia cardíaca, estado de conciencia y reflejos osteotendinosos; controlar diuresis y balance hídrico; vigilar rubor intenso, debilidad, hiporreflexia, hipotensión o dificultad respiratoria; suspender y evaluar ante signos de toxicidad",
+        "despues": "Evaluar respuesta clínica según la indicación; mantener vigilancia de la función respiratoria, reflejos, diuresis y signos vitales; controlar magnesemia y función renal cuando corresponda; documentar dosis total, duración, respuesta y posibles reacciones adversas"
       },
-      "presentaciones": "Ampollas al 25% y 50% [59]",
+      "presentaciones": "Solución inyectable; existen presentaciones al 25 % (250 mg/mL) y otras concentraciones según fabricante y producto. En Argentina, ANMAT ha documentado una presentación de sulfato de magnesio al 25 % en ampollas de 5 mL; verificar el producto, el registro vigente y la concentración exacta antes de utilizarlo",
       "dosis": {
-        "adultos": "Eclampsia ataque: 4 g IV en 15-20 min; Mantenimiento: 1-2 g/hora [60]",
-        "pediatrico": "Cálculo estricto por peso [49]",
-        "geriatrico": "Tasa de infusión a la mitad [49]"
+        "adultos": "La dosis depende de la indicación y del protocolo. En preeclampsia grave o eclampsia se utilizan pautas de carga intravenosa seguidas de mantenimiento; una pauta frecuente es 4 g IV durante 15–20 minutos, seguida de 1–2 g/h, con ajustes según protocolo y evolución. Para torsades de pointes, hipomagnesemia y crisis asmática grave se emplean pautas diferentes. No extrapolar la pauta obstétrica a otras indicaciones",
+        "pediatrico": "La dosis depende de la indicación, el peso, la función renal y la concentración de la preparación; debe calcularse con un protocolo pediátrico específico. En crisis asmática grave y otras indicaciones se utilizan dosis basadas en peso con límites máximos definidos por el protocolo. No administrar sin verificar la pauta pediátrica correspondiente",
+        "geriatrico": "No se recomienda reducir automáticamente la dosis a la mitad por edad; individualizar según función renal, diuresis, comorbilidades, indicación y respuesta clínica; utilizar especial precaución ante deterioro renal"
       },
-      "vias_administracion": "Intravenosa controlada [60]",
+      "vias_administracion": "Intravenosa mediante administración controlada; la vía intramuscular se utiliza en determinados esquemas obstétricos cuando el protocolo lo contempla y la formulación lo permite",
       "preparacion": {
-        "dilucion": "Diluir dosis de ataque para pasar en 15-20 min [60]",
-        "compatibilidad_iv": "No especificada"
+        "dilucion": "La dilución depende de la concentración disponible, la dosis, la vía y la indicación; verificar el cálculo en gramos y mililitros antes de preparar; utilizar el diluyente y el volumen establecidos por el protocolo institucional; rotular la solución con concentración final y velocidad de administración",
+        "compatibilidad_iv": "No mezclar con otros medicamentos en la misma jeringa o solución sin datos de compatibilidad confirmados; verificar compatibilidad con el diluyente y con la línea intravenosa según Farmacia hospitalaria y protocolo institucional"
       },
-      "velocidad_infusion": "Administrar estrictamente mediante bomba de infusión continua [60]",
-      "estabilidad_soluciones": "No especificada",
-      "concentracion": "25% y 50% [59]",
-      "alarma_riesgo": "Abolición del reflejo patelar indica toxicidad inminente [60]",
+      "velocidad_infusion": "Depende de la indicación. En pautas obstétricas se administra una dosis de carga intravenosa durante un período definido por el protocolo, seguida de infusión de mantenimiento cuando corresponda; otras indicaciones requieren velocidades diferentes. Utilizar bomba de infusión cuando esté indicada y no administrar rápidamente fuera de situaciones protocolizadas",
+      "estabilidad_soluciones": "La estabilidad depende de la presentación, el diluyente, la concentración final y las condiciones de preparación; inspeccionar la solución y desecharla si presenta partículas o cambios de aspecto; seguir el prospecto específico y las normas institucionales para conservación y tiempo de uso después de la dilución",
+      "concentracion": "No existe una concentración máxima universal aplicable a todas las indicaciones y vías. Las ampollas al 25 % contienen 250 mg/mL y las de otras concentraciones deben verificarse por separado; la concentración final para infusión debe ajustarse al protocolo de la indicación y a las condiciones del paciente",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Verificar de forma independiente la dosis en gramos, la concentración en mg/mL, el volumen y la velocidad. Vigilar respiración, reflejos osteotendinosos y diuresis. Ante ausencia de reflejos, depresión respiratoria, hipotensión importante o alteraciones cardíacas, suspender la infusión y activar el protocolo de toxicidad por magnesio",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Doble verificación independiente del cálculo [56]",
-          "Detener infusión de inmediato ante signos de toxicidad [50]",
-          "Evaluar reflejo rotuliano antes de iniciar la infusión [54]"
+          "Realizar doble verificación independiente de la dosis, la concentración, el volumen y la velocidad de administración",
+          "Evaluar y registrar los reflejos osteotendinosos, la frecuencia respiratoria, la saturación de oxígeno y los signos vitales antes de iniciar",
+          "Controlar diuresis y balance hídrico, especialmente durante tratamientos obstétricos continuos",
+          "Utilizar bomba de infusión cuando corresponda y rotular claramente la solución preparada",
+          "Verificar la disponibilidad de gluconato de calcio y equipo para soporte ventilatorio",
+          "Vigilar signos de toxicidad como hiporreflexia, debilidad muscular, somnolencia, hipotensión o depresión respiratoria",
+          "Suspender la administración y avisar al equipo médico ante signos de toxicidad o deterioro clínico",
+          "Registrar dosis total, velocidad, duración, controles realizados y respuesta clínica"
         ],
         "educacion_paciente": [
-          "Informar si percibe debilidad muscular o sueño excesivo [58]",
-          "Explicar que el rubor facial es un efecto común [48]"
+          "Explicar que puede sentir calor, rubor o sudoración durante la administración",
+          "Indicar que avise inmediatamente si presenta dificultad para respirar, debilidad intensa, mareos, somnolencia inusual o sensación de desmayo",
+          "Explicar que se controlarán los reflejos, la respiración y la cantidad de orina para detectar posibles efectos tóxicos",
+          "Indicar que no debe levantarse sin asistencia si presenta mareos o debilidad durante la infusión"
         ]
       }
     },
