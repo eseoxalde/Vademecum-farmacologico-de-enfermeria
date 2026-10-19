@@ -8885,6 +8885,82 @@
           "Conservar la insulina según las instrucciones del fabricante."
         ]
       }
+    },
+    {
+      "id": "111",
+      "nombre_generico": "Insulina detemir",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Insulina detemir, análogo de insulina humana de acción prolongada.",
+        "clasificacion": "Insulina basal de acción prolongada; medicamento de alto riesgo.",
+        "efecto_terapeutica": "Proporciona cobertura basal para controlar la glucemia en personas con diabetes mellitus que requieren insulina.",
+        "mecanismo_accion": "Se une a los receptores de insulina y favorece la captación de glucosa mientras inhibe la producción hepática. Su unión reversible a la albúmina contribuye a prolongar su acción."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe de forma gradual desde el tejido subcutáneo. La duración depende de la dosis y de factores individuales; no siempre alcanza una cobertura de 24 horas.",
+        "distribucion": "Presenta una unión reversible importante a la albúmina plasmática y tisular, que contribuye a prolongar su perfil de acción.",
+        "metabolismo": "Se degrada mediante procesos proteolíticos similares a los de la insulina humana.",
+        "eliminacion": "Se elimina mediante degradación metabólica. La insuficiencia renal o hepática puede modificar los requerimientos de insulina."
+      },
+      "indicaciones": "Control basal de la glucemia en personas con diabetes mellitus tipo 1 o tipo 2, según las autorizaciones de la formulación. La disponibilidad comercial de Levemir varía por país y ha sido discontinuada en algunos mercados; confirmar disponibilidad y ficha técnica local antes de considerar su uso.",
+      "contraindicaciones": "Hipoglucemia activa e hipersensibilidad a la insulina detemir o a los componentes de la formulación.",
+      "precauciones": "Riesgo de hipoglucemia, especialmente ante cambios de dosis, ingesta, ejercicio o función renal. La duración puede no cubrir 24 horas en todos los pacientes. No administrar por vía intravenosa ni intramuscular. No sustituir por otra insulina basal sin un plan clínico de conversión.",
+      "advertencias": "Medicamento de alto riesgo. Confundir detemir con insulinas rápidas o modificar la dosis sin supervisión puede provocar hipoglucemia grave. No suspender la insulina basal en diabetes tipo 1 sin indicación médica. Verificar si el producto continúa disponible y autorizado localmente.",
+      "embarazo_lactancia": "La insulina se utiliza durante el embarazo y la lactancia cuando está indicada, con seguimiento profesional. Para detemir, la decisión debe considerar la ficha técnica disponible y las alternativas autorizadas localmente.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede reducir las necesidades de insulina. Ajustar según glucemia, ingesta y evolución clínica.",
+        "hepatico": "La insuficiencia hepática puede alterar los requerimientos y aumentar el riesgo de hipoglucemia. Individualizar la dosis y monitorizar."
+      },
+      "interacciones": "Otros antidiabéticos y alcohol pueden aumentar el riesgo de hipoglucemia. Corticoides, simpaticomiméticos y algunos antipsicóticos pueden elevar la glucemia. Los betabloqueantes pueden enmascarar síntomas de hipoglucemia. La actividad física y los cambios de alimentación modifican los requerimientos.",
+      "reacciones_adversas": "Hipoglucemia, reacciones en el sitio de inyección, lipodistrofia, aumento de peso, edema y reacciones alérgicas. Puede producir hipopotasemia en determinadas circunstancias.",
+      "toxicidad_sobredosis": "La sobredosis puede producir hipoglucemia prolongada o recurrente, con sudoración, temblor, confusión, convulsiones o pérdida de conciencia. Requiere tratamiento inmediato y vigilancia según la duración del efecto.",
+      "antidotos": "No existe antídoto específico. Tratar la hipoglucemia con glucosa oral si la persona está consciente y puede deglutir, o con glucosa intravenosa o glucagón según gravedad y protocolo. Vigilar recurrencia y potasio cuando corresponda.",
+      "monitorizacion": {
+        "clinica": "Controlar glucemia, episodios de hipoglucemia, ingesta, actividad física, sitios de inyección y duración de la cobertura basal. Vigilar cambios en la función renal o hepática.",
+        "laboratorio": "Controlar glucemia y HbA1c. Evaluar función renal, función hepática y potasio según la situación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar prescripción, producto, concentración, dosis, vía y horario. Confirmar disponibilidad del medicamento y revisar glucemias, dosis previas, ingesta y episodios de hipoglucemia.",
+        "durante": "Vigilar glucemia y duración del efecto basal. Evaluar hipoglucemia, reacciones locales y cambios en los requerimientos.",
+        "despues": "Registrar dosis, horario, sitio de inyección, glucemia y respuesta. Si se necesita sustituir por otra insulina basal, coordinar la conversión con el equipo tratante."
+      },
+      "presentaciones": "Históricamente, solución inyectable en cartuchos y plumas precargadas, habitualmente U-100. La disponibilidad comercial actual varía por país y puede estar discontinuada; confirmar el producto local.",
+      "dosis": {
+        "adultos": "La dosis depende del tipo de diabetes, tratamiento previo, glucemia y respuesta individual. Puede administrarse una o dos veces al día según la indicación y la duración del efecto. No existe una conversión universal segura desde o hacia otras insulinas basales.",
+        "pediatrico": "La dosis y el esquema dependen de la edad, el peso, el tipo de diabetes y la respuesta. El uso debe seguir la ficha técnica local y la indicación del equipo especializado.",
+        "geriatrico": "Individualizar según función renal, ingesta, fragilidad y riesgo de hipoglucemia. Vigilar especialmente la capacidad para reconocer y tratar episodios de hipoglucemia."
+      },
+      "vias_administracion": "Vía subcutánea. No administrar por vía intravenosa ni intramuscular. No utilizar en bombas de infusión convencionales.",
+      "preparacion": {
+        "dilucion": "La solución está lista para administrar. No diluir ni mezclar con otras insulinas. Utilizar únicamente el dispositivo compatible con la presentación.",
+        "compatibilidad_iv": "No corresponde. La insulina detemir se administra por vía subcutánea."
+      },
+      "velocidad_infusion": "No corresponde. Administración subcutánea.",
+      "estabilidad_soluciones": "Depende de la presentación y del fabricante. Respetar las condiciones de conservación, evitar congelación y calor excesivo y comprobar el período de uso tras apertura en la ficha técnica disponible.",
+      "concentracion": "La presentación histórica habitual de detemir es U-100, equivalente a 100 unidades/mL. Confirmar concentración, dispositivo y disponibilidad del producto antes de administrar.",
+      "alarma_riesgo": "Medicamento de alto riesgo. Vigilar hipoglucemia grave o recurrente. Ante convulsiones o pérdida de conciencia, activar el protocolo de emergencia y no administrar alimentos por boca.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar paciente, producto, concentración, dosis, vía y horario.",
+          "Confirmar que se trata de insulina basal y no de insulina prandial.",
+          "Aplicar el protocolo institucional para medicamentos de alto riesgo.",
+          "Controlar glucemia y revisar la duración de la cobertura basal.",
+          "Rotar sitios de inyección y vigilar reacciones locales.",
+          "No mezclar ni diluir detemir.",
+          "No cambiar a otra insulina basal sin una pauta de conversión prescrita.",
+          "Registrar dosis, horario, glucemia y respuesta.",
+          "Confirmar la disponibilidad y autorización local del producto antes de su incorporación a protocolos vigentes."
+        ],
+        "educacion_paciente": [
+          "Administrar la insulina según el horario prescrito y no modificar la dosis por cuenta propia.",
+          "No suspender la insulina basal en diabetes tipo 1 sin instrucciones médicas.",
+          "Reconocer y tratar la hipoglucemia según el plan individual.",
+          "No sustituir detemir por otra insulina basal sin supervisión profesional.",
+          "Consultar qué hacer ante enfermedad aguda o cambios en la ingesta.",
+          "Conservar el producto según las instrucciones del fabricante."
+        ]
+      }
     }
   ]
 }
