@@ -6717,6 +6717,84 @@
           "Mantener los medicamentos fuera del alcance de niños y utilizar dispositivos de medición adecuados para soluciones orales."
         ]
       }
+    },
+    {
+      "id": "83",
+      "nombre_generico": "Ibuprofeno",
+      "letra": "I",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Ibuprofeno",
+        "clasificacion": "Antiinflamatorio no esteroideo (AINE), analgésico, antipirético y antiinflamatorio.",
+        "efecto_terapeutica": "Alivia el dolor leve a moderado, disminuye la fiebre y reduce la inflamación.",
+        "mecanismo_accion": "Inhibe de forma reversible las enzimas ciclooxigenasa COX-1 y COX-2, reduciendo la síntesis de prostaglandinas implicadas en el dolor, la inflamación y la fiebre. La inhibición de prostaglandinas también puede afectar la protección de la mucosa gástrica, la función renal y la agregación plaquetaria."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe rápidamente por vía oral. La concentración plasmática máxima suele alcanzarse entre 1 y 2 horas, aunque puede variar según la formulación y la administración con alimentos.",
+        "distribucion": "Presenta una elevada unión a proteínas plasmáticas, aproximadamente del 99 %, y se distribuye en los tejidos y líquidos corporales.",
+        "metabolismo": "Se metaboliza principalmente en el hígado, en parte mediante CYP2C9, formando metabolitos inactivos.",
+        "eliminacion": "Se elimina principalmente por vía renal como metabolitos y conjugados, con una pequeña proporción sin cambios. La semivida plasmática suele ser de aproximadamente 2 horas."
+      },
+      "indicaciones": "Tratamiento sintomático del dolor leve a moderado, dismenorrea primaria, fiebre y procesos inflamatorios, como artritis y otras afecciones musculoesqueléticas, según la formulación y la indicación autorizada.",
+      "contraindicaciones": "Hipersensibilidad al ibuprofeno o a otros AINE; antecedentes de asma, urticaria, angioedema o reacciones alérgicas desencadenadas por ácido acetilsalicílico u otros AINE; úlcera péptica activa o hemorragia gastrointestinal; antecedentes de hemorragia o perforación gastrointestinal asociadas a AINE; insuficiencia renal, hepática o cardíaca grave; y tercer trimestre del embarazo. Algunas presentaciones tienen contraindicaciones adicionales que deben verificarse en el prospecto.",
+      "precauciones": "Utilizar la menor dosis eficaz durante el menor tiempo posible. Extremar precauciones en personas mayores, deshidratadas o con antecedentes de úlcera, hipertensión, enfermedad cardiovascular, insuficiencia renal, asma o enfermedad inflamatoria intestinal. Puede causar retención de líquidos, elevar la presión arterial, empeorar la función renal y aumentar el riesgo de eventos trombóticos. Evitar la combinación con otros AINE salvo indicación médica.",
+      "advertencias": "Puede provocar hemorragia, ulceración o perforación gastrointestinal, incluso sin síntomas previos. Los AINE pueden aumentar el riesgo de infarto de miocardio y accidente cerebrovascular, especialmente con dosis elevadas o tratamientos prolongados. Puede producir lesión renal aguda, sobre todo en pacientes deshidratados o tratados con diuréticos y fármacos que actúan sobre el sistema renina-angiotensina. Suspender y solicitar atención urgente ante dificultad respiratoria, reacción alérgica grave, vómitos con sangre, heces negras, dolor torácico o disminución marcada de la diuresis.",
+      "embarazo_lactancia": "Evitar durante el tercer trimestre del embarazo por riesgos fetales y obstétricos. Desde aproximadamente la semana 20, los AINE pueden causar disfunción renal fetal y oligohidramnios; si su uso se considera imprescindible, debe ser indicado por un profesional, con la menor dosis y duración posibles y seguimiento cuando corresponda. Durante el primer y segundo trimestre, utilizar solo si está clínicamente justificado. La transferencia a la leche materna es baja y el uso breve a dosis habituales generalmente se considera compatible con la lactancia, pero debe individualizarse según el caso.",
+      "ajustes": {
+        "renal": "Evitar en insuficiencia renal grave. En insuficiencia leve o moderada, utilizar con precaución, valorar la dosis y la duración, asegurar una hidratación adecuada y controlar la función renal cuando corresponda.",
+        "hepatico": "Utilizar con precaución en insuficiencia hepática. En enfermedad hepática grave, evitar o seguir las recomendaciones específicas de la ficha técnica. Vigilar signos de hepatotoxicidad durante tratamientos prolongados."
+      },
+      "interacciones": "Anticoagulantes y antiagregantes: mayor riesgo de hemorragia. Otros AINE y ácido acetilsalicílico: mayor riesgo gastrointestinal y renal. Corticoides y algunos antidepresivos ISRS/IRSN: mayor riesgo de hemorragia gastrointestinal. Diuréticos, IECA y ARA-II: posible deterioro de la función renal y menor control de la presión arterial. Litio, metotrexato, digoxina y ciclosporina: pueden aumentar sus concentraciones o toxicidad. Puede reducir el efecto de antihipertensivos y diuréticos. El consumo de alcohol puede aumentar el riesgo de irritación y sangrado gastrointestinal.",
+      "reacciones_adversas": "Dispepsia, dolor abdominal, náuseas, vómitos, diarrea o estreñimiento. También puede producir edema, hipertensión, mareos, cefalea y erupciones cutáneas. Menos frecuentemente, puede causar úlcera o hemorragia gastrointestinal, broncoespasmo, lesión renal aguda, alteraciones hepáticas, citopenias, reacciones cutáneas graves y eventos trombóticos cardiovasculares.",
+      "toxicidad_sobredosis": "Puede producir náuseas, vómitos, dolor epigástrico, somnolencia, mareos y tinnitus. En intoxicaciones graves puede ocasionar hemorragia gastrointestinal, hipotensión, acidosis metabólica, convulsiones, coma, lesión renal aguda y depresión respiratoria. No existe un antídoto específico. Solicitar evaluación médica o toxicológica urgente. El tratamiento es de soporte e incluye vigilancia de signos vitales, estado neurológico, función renal y equilibrio ácido-base según la gravedad. No inducir el vómito.",
+      "antidotos": "No existe antídoto específico. El tratamiento de la sobredosis es de soporte y debe ajustarse a la evaluación toxicológica.",
+      "monitorizacion": {
+        "clinica": "Valorar dolor, temperatura, inflamación, presión arterial, hidratación, diuresis, edema y tolerancia gastrointestinal. Vigilar signos de hemorragia, reacción alérgica, deterioro renal o eventos cardiovasculares. En tratamientos prolongados, evaluar periódicamente la necesidad de continuar.",
+        "laboratorio": "En tratamientos breves y pacientes sin factores de riesgo, generalmente no se requieren controles de laboratorio específicos. En tratamientos prolongados o pacientes de riesgo, considerar hemograma, creatinina, filtrado glomerular, urea y pruebas de función hepática. Controlar electrolitos cuando la situación clínica o las interacciones lo justifiquen."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, vía, edad y peso cuando corresponda. Valorar intensidad del dolor, temperatura, hidratación, presión arterial, antecedentes de úlcera o hemorragia digestiva, alergia a AINE, enfermedad renal o cardiovascular, embarazo y medicación concomitante.",
+        "durante": "Evaluar respuesta analgésica, antipirética o antiinflamatoria. Vigilar tolerancia gastrointestinal, presión arterial, edema, diuresis y aparición de erupciones, broncoespasmo o signos de hemorragia. En pacientes de riesgo, controlar la función renal y otros parámetros indicados.",
+        "despues": "Registrar dosis, vía, horario y respuesta clínica. Reevaluar la persistencia de dolor o fiebre y comunicar reacciones adversas. Si se requiere uso frecuente o prolongado, solicitar revisión clínica en lugar de aumentar la dosis por cuenta propia."
+      },
+      "presentaciones": "Comprimidos, cápsulas, suspensión oral, gotas, sobres y otras formulaciones, incluidas algunas de uso intravenoso, según el país y el fabricante. Las concentraciones varían entre productos. Verificar el envase y el prospecto antes de calcular la dosis.",
+      "dosis": {
+        "adultos": "Para dolor o fiebre, una pauta oral habitual es de 200 a 400 mg por toma cada 4 a 6 horas según necesidad, respetando el prospecto y la dosis máxima autorizada. En productos de venta libre, el máximo suele ser de 1200 mg/día sin supervisión médica; dosis superiores, utilizadas para determinadas enfermedades inflamatorias, requieren prescripción y seguimiento. La dosis depende de la indicación y de los factores de riesgo.",
+        "pediatrico": "La dosis se calcula según el peso, la edad, la indicación y la formulación. Una pauta oral habitual es de 5 a 10 mg/kg por toma cada 6 a 8 horas, con un máximo diario definido por el prospecto o protocolo pediátrico. No superar la dosis máxima por toma ni diaria. Evitar en menores de 6 meses salvo indicación médica y no administrar a niños deshidratados sin evaluación profesional.",
+        "geriatrico": "Utilizar la menor dosis eficaz durante el menor tiempo posible. Las personas mayores presentan mayor riesgo de hemorragia gastrointestinal, insuficiencia renal, retención de líquidos y eventos cardiovasculares. Revisar comorbilidades, hidratación e interacciones y considerar protección gastrointestinal cuando esté indicada."
+      },
+      "vias_administracion": "Principalmente oral; algunas formulaciones específicas permiten otras vías, como la intravenosa. Administrar únicamente por las vías autorizadas para la presentación concreta.",
+      "preparacion": {
+        "dilucion": "Las formulaciones orales listas para usar generalmente no requieren dilución. Para productos intravenosos, seguir estrictamente el prospecto del fabricante respecto de diluyente, concentración final y procedimiento de preparación. No aplicar instrucciones de una formulación a otra.",
+        "compatibilidad_iv": "Depende de la formulación, el diluyente y los medicamentos administrados. No mezclar con otros fármacos en la misma bolsa o jeringa sin información de compatibilidad documentada. Seguir las instrucciones del producto y el protocolo institucional."
+      },
+      "velocidad_infusion": "Solo aplicable a las formulaciones intravenosas autorizadas. La duración y velocidad dependen del producto y de la indicación; verificar la ficha técnica antes de administrar. No extrapolar la velocidad de una presentación a otra.",
+      "estabilidad_soluciones": "Depende de la formulación, el diluyente, la concentración y las condiciones de conservación. Respetar las instrucciones del fabricante y las normas institucionales de preparación aséptica. No utilizar soluciones con partículas, precipitados o cambios de aspecto no previstos, ni conservar preparaciones fuera del plazo autorizado.",
+      "concentracion": "Variable según la forma farmacéutica y el fabricante. Las presentaciones orales pueden expresarse en mg por comprimido o en mg/mL de suspensión o gotas. Verificar la concentración exacta antes de calcular y administrar, especialmente en pediatría.",
+      "alarma_riesgo": "ALERTA: riesgo de hemorragia gastrointestinal, lesión renal aguda, reacciones alérgicas graves y eventos cardiovasculares. Evitar en el tercer trimestre del embarazo. No combinar con otros AINE sin indicación. Extremar precauciones en pacientes deshidratados, adultos mayores y personas con enfermedad renal, cardíaca o antecedentes de úlcera.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la indicación, la dosis, la vía, el intervalo y la presentación.",
+          "En pediatría, calcular la dosis según el peso actual y comprobar el máximo por toma y por día.",
+          "Evaluar antecedentes de alergia a AINE, asma desencadenada por analgésicos, úlcera péptica, hemorragia digestiva, enfermedad renal, hepática o cardiovascular.",
+          "Revisar la medicación concomitante para identificar anticoagulantes, antiagregantes, corticoides, otros AINE, diuréticos y antihipertensivos.",
+          "Valorar la hidratación y la diuresis, especialmente en personas mayores, pacientes con vómitos o diarrea y quienes reciben diuréticos.",
+          "Controlar dolor, temperatura, presión arterial, edema y respuesta clínica.",
+          "Vigilar dolor abdominal intenso, vómitos con sangre, heces negras, disminución de la diuresis, disnea o reacciones cutáneas graves.",
+          "Administrar con alimentos si se indica para mejorar la tolerancia gastrointestinal, sin asumir que esto elimina el riesgo de úlcera o hemorragia.",
+          "Si se utiliza una formulación intravenosa, comprobar la preparación, compatibilidad y velocidad específicas del producto.",
+          "Registrar la administración y comunicar las reacciones adversas o la falta de respuesta."
+        ],
+        "educacion_paciente": [
+          "Explicar que debe utilizar la menor dosis eficaz durante el menor tiempo posible y respetar los intervalos indicados.",
+          "No combinar con otros AINE, como naproxeno o diclofenac, salvo indicación médica.",
+          "Consultar antes de utilizarlo si toma anticoagulantes, tiene enfermedad renal o cardíaca, hipertensión, antecedentes de úlcera o está embarazada.",
+          "Evitar la automedicación si presenta deshidratación importante, vómitos o diarrea persistentes.",
+          "Solicitar atención urgente ante heces negras, vómitos con sangre, dificultad respiratoria, hinchazón de la cara, dolor torácico o disminución marcada de la orina.",
+          "Consultar si el dolor o la fiebre persisten o empeoran, en lugar de aumentar la dosis por cuenta propia.",
+          "Mantener el medicamento fuera del alcance de los niños y utilizar un dispositivo de medición adecuado para las formulaciones líquidas."
+        ]
+      }
     }
   ]
 }
