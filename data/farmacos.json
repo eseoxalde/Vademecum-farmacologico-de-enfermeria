@@ -9248,6 +9248,77 @@
           "Mantener los controles de glucemia y función renal indicados."
         ]
       }
+    },
+    {
+      "id": "116",
+      "nombre_generico": "Linagliptina",
+      "letra": "L",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Linagliptina",
+        "clasificacion": "Antidiabético oral; inhibidor de la dipeptidil peptidasa 4 (DPP-4).",
+        "efecto_terapeutica": "Mejora el control glucémico en adultos con diabetes mellitus tipo 2, sola o combinada con otros antidiabéticos.",
+        "mecanismo_accion": "Inhibe la enzima DPP-4, prolongando la actividad de las incretinas GLP-1 y GIP. Favorece la secreción de insulina dependiente de glucosa y reduce la liberación de glucagón cuando la glucemia está elevada."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral y alcanza su concentración máxima en unas horas. Los alimentos no afectan de manera clínicamente importante su efecto.",
+        "distribucion": "Presenta unión a proteínas plasmáticas dependiente de la concentración.",
+        "metabolismo": "Una pequeña proporción se metaboliza; CYP3A4 participa en su metabolismo.",
+        "eliminacion": "Se elimina principalmente por vía biliar e intestinal, con escasa eliminación renal del fármaco sin cambios."
+      },
+      "indicaciones": "Tratamiento de la diabetes mellitus tipo 2 en adultos, junto con alimentación y actividad física, como monoterapia cuando corresponde o en combinación con otros antidiabéticos según la indicación autorizada.",
+      "contraindicaciones": "Hipersensibilidad a la linagliptina o a los excipientes. No está indicada para tratar la diabetes tipo 1 ni la cetoacidosis diabética.",
+      "precauciones": "Valorar antecedentes de pancreatitis, penfigoide ampolloso y reacciones de hipersensibilidad. La hipoglucemia puede aumentar al combinarla con insulina o sulfonilureas. Aunque habitualmente no requiere ajuste renal, deben considerarse las comorbilidades y la medicación concomitante.",
+      "advertencias": "Se han notificado pancreatitis aguda, reacciones de hipersensibilidad graves, penfigoide ampolloso y dolor articular intenso. Evaluar de inmediato el dolor abdominal persistente o las reacciones cutáneas graves.",
+      "embarazo_lactancia": "No se recomienda durante el embarazo si existen alternativas con mayor evidencia de seguridad. Los datos durante la lactancia son limitados; evaluar la relación entre beneficios y riesgos con el equipo tratante y consultar la ficha técnica local.",
+      "ajustes": {
+        "renal": "Generalmente no requiere ajuste de dosis en insuficiencia renal, pero se debe confirmar la ficha técnica local y evaluar el estado clínico.",
+        "hepatico": "En general no suele requerir ajuste en insuficiencia hepática, aunque la experiencia en enfermedad hepática grave puede ser limitada. Individualizar según la ficha técnica."
+      },
+      "interacciones": "Los inductores potentes de la P-glicoproteína o CYP3A4, como rifampicina, pueden reducir la exposición y la eficacia. Puede aumentar el riesgo de hipoglucemia al combinarse con insulina o sulfonilureas; valorar el ajuste de estos fármacos.",
+      "reacciones_adversas": "Nasofaringitis, tos y molestias gastrointestinales. Puede aparecer hipoglucemia en combinación con otros antidiabéticos. Se han comunicado pancreatitis, reacciones alérgicas graves, penfigoide ampolloso y artralgia intensa.",
+      "toxicidad_sobredosis": "La experiencia con sobredosis es limitada. Se recomienda valoración clínica, tratamiento de soporte y consulta a toxicología según la cantidad ingerida y los síntomas.",
+      "antidotos": "No existe un antídoto específico. Tratamiento de soporte según manifestaciones clínicas.",
+      "monitorizacion": {
+        "clinica": "Control glucémico, signos de hipoglucemia, dolor abdominal persistente, reacciones de hipersensibilidad y lesiones ampollosas en la piel.",
+        "laboratorio": "Glucemia y HbA1c. Función renal y hepática según comorbilidades, tratamientos concomitantes y criterio clínico."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, tratamiento concomitante y antecedentes de pancreatitis o reacciones de hipersensibilidad.",
+        "durante": "Controlar glucemia y tolerancia. Vigilar dolor abdominal persistente, reacciones cutáneas y síntomas de hipoglucemia si se combina con otros antidiabéticos.",
+        "despues": "Evaluar respuesta mediante glucemia y HbA1c, adherencia y efectos adversos. Comunicar de inmediato síntomas compatibles con pancreatitis o reacción alérgica grave."
+      },
+      "presentaciones": "Comprimidos orales, habitualmente de 5 mg, sola o en combinaciones con otros antidiabéticos según el mercado.",
+      "dosis": {
+        "adultos": "La dosis habitual es de 5 mg una vez al día, con o sin alimentos, según la indicación autorizada.",
+        "pediatrico": "No se recomienda de forma rutinaria en población pediátrica; consultar la autorización y la ficha técnica del producto.",
+        "geriatrico": "Generalmente no requiere ajuste exclusivamente por edad. Valorar fragilidad, comorbilidades y riesgo de hipoglucemia por tratamientos concomitantes."
+      },
+      "vias_administracion": "Oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución. Administrar el comprimido según prescripción.",
+        "compatibilidad_iv": "No corresponde; no se administra por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde.",
+      "estabilidad_soluciones": "No corresponde para los comprimidos habituales. Conservar según el prospecto del fabricante.",
+      "concentracion": "Presentación habitual de 5 mg por comprimido; verificar el envase y si es una combinación fija.",
+      "alarma_riesgo": "Consultar de inmediato ante dolor abdominal intenso y persistente, dificultad respiratoria, edema facial o lesiones ampollosas extensas. Vigilar hipoglucemia si se combina con insulina o sulfonilureas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar medicamento, dosis, frecuencia y combinación con otros antidiabéticos.",
+          "Controlar glucemia y HbA1c según el plan terapéutico.",
+          "Vigilar síntomas de hipoglucemia, especialmente si se administra junto con insulina o sulfonilureas.",
+          "Observar signos de pancreatitis, reacciones alérgicas y lesiones ampollosas.",
+          "Revisar la medicación concomitante para identificar posibles inductores que reduzcan su eficacia.",
+          "Registrar administración, respuesta clínica y efectos adversos."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la pauta indicada y no modificar la dosis por cuenta propia.",
+          "Reconocer los síntomas de hipoglucemia y seguir el plan de actuación indicado.",
+          "Consultar de inmediato ante dolor abdominal intenso y persistente o una reacción alérgica o cutánea grave.",
+          "Mantener los controles de glucemia y HbA1c indicados."
+        ]
+      }
     }
   ]
 }
