@@ -8263,6 +8263,81 @@
           "Mantener el medicamento fuera del alcance de niños y conservarlo según las instrucciones del envase."
         ]
       }
+    },
+    {
+      "id": "103",
+      "nombre_generico": "Memantina",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Memantina, habitualmente como clorhidrato de memantina.",
+        "clasificacion": "Antagonista no competitivo de los receptores NMDA; fármaco utilizado en el tratamiento sintomático de la enfermedad de Alzheimer.",
+        "efecto_terapeutica": "Puede contribuir a mantener temporalmente determinadas funciones cognitivas, la autonomía y el funcionamiento cotidiano en personas con enfermedad de Alzheimer moderada a grave. No cura la enfermedad ni detiene su progresión.",
+        "mecanismo_accion": "Bloquea de forma dependiente del voltaje y con afinidad moderada los receptores glutamatérgicos NMDA, limitando la activación excesiva asociada al glutamato y la sobrecarga neuronal de calcio."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe bien por vía oral. La concentración plasmática máxima suele alcanzarse entre 3 y 7 horas después de la administración. Los alimentos no afectan significativamente su absorción.",
+        "distribucion": "Se distribuye ampliamente en el organismo y atraviesa la barrera hematoencefálica. Su unión a proteínas plasmáticas es aproximadamente del 45 %.",
+        "metabolismo": "Se metaboliza parcialmente y presenta un metabolismo hepático limitado. Algunos metabolitos conocidos no tienen actividad antagonista NMDA clínicamente significativa.",
+        "eliminacion": "Se elimina principalmente por vía renal, en buena parte sin modificar. La eliminación depende del pH urinario y puede disminuir considerablemente en insuficiencia renal."
+      },
+      "indicaciones": "Tratamiento sintomático de la enfermedad de Alzheimer moderada a grave. Puede utilizarse sola o en combinación con un inhibidor de la acetilcolinesterasa, como donepezilo, cuando esté indicado. No está aprobada para todas las causas de demencia.",
+      "contraindicaciones": "Hipersensibilidad a la memantina o a cualquiera de los componentes de la formulación.",
+      "precauciones": "Utilizar con precaución en insuficiencia renal, antecedentes de convulsiones, insuficiencia cardíaca, hipertensión no controlada y situaciones que alcalinicen la orina, como ciertos trastornos tubulares renales o cambios importantes en la dieta. Puede provocar mareos, confusión, somnolencia y aumentar el riesgo de caídas.",
+      "advertencias": "La acumulación en insuficiencia renal puede incrementar los efectos adversos neurológicos. Vigilar cambios importantes del estado mental, alteraciones del equilibrio y convulsiones. No modificar ni suspender el tratamiento sin valoración profesional.",
+      "embarazo_lactancia": "La información sobre su seguridad durante el embarazo y la lactancia es limitada. Utilizar durante el embarazo únicamente si el beneficio esperado justifica el riesgo potencial. Se desconoce si pasa a la leche materna en cantidades clínicamente relevantes; evaluar individualmente la necesidad del tratamiento durante la lactancia.",
+      "ajustes": {
+        "renal": "En insuficiencia renal grave puede ser necesario reducir la dosis máxima. Para algunas formulaciones de liberación inmediata, la dosis máxima recomendada en insuficiencia renal grave es de 5 mg dos veces al día; verificar la ficha técnica local, el aclaramiento de creatinina y la formulación.",
+        "hepatico": "En insuficiencia hepática leve o moderada generalmente no se requiere ajuste. La experiencia en insuficiencia hepática grave es limitada; utilizar con precaución y consultar la ficha técnica."
+      },
+      "interacciones": "La amantadina, la ketamina y el dextrometorfano pueden aumentar los efectos adversos por acciones relacionadas con los receptores NMDA. Otros medicamentos que se eliminan mediante secreción tubular renal pueden alterar sus concentraciones. El bicarbonato y otros agentes alcalinizantes urinarios pueden reducir su eliminación. Revisar la medicación concomitante.",
+      "reacciones_adversas": "Mareos, cefalea, estreñimiento, somnolencia, hipertensión y alteraciones del equilibrio. También pueden aparecer confusión, alucinaciones, fatiga y, con menor frecuencia, convulsiones o reacciones de hipersensibilidad.",
+      "toxicidad_sobredosis": "La sobredosis puede provocar agitación, confusión, alucinaciones, somnolencia, vértigo, alteraciones de la marcha y, en casos graves, pérdida del conocimiento o convulsiones. Requiere evaluación urgente, tratamiento de soporte y vigilancia neurológica y cardiovascular.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es sintomático y de soporte, con monitorización clínica. La acidificación urinaria no debe intentarse sin indicación y supervisión médica.",
+      "monitorizacion": {
+        "clinica": "Evaluar cognición, conducta, funcionalidad, estado mental, presión arterial, mareos, equilibrio y riesgo de caídas. Vigilar cambios neurológicos, confusión y tolerancia al tratamiento.",
+        "laboratorio": "Evaluar función renal y estimar el aclaramiento de creatinina antes del tratamiento cuando corresponda y durante el seguimiento. Otros análisis se solicitan según las comorbilidades y la situación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar prescripción, dosis, formulación, vía, alergias, función renal, antecedentes de convulsiones y medicación concomitante. Registrar el estado cognitivo, la funcionalidad, la presión arterial y el riesgo de caídas.",
+        "durante": "Valorar la evolución cognitiva y funcional, la tolerancia, el estado mental, la marcha y la aparición de mareos, confusión, somnolencia o alucinaciones. Comprobar que la dosis sea adecuada para la función renal.",
+        "despues": "Registrar la respuesta clínica, los efectos adversos, la funcionalidad y las intervenciones realizadas. Comunicar deterioro neurológico o reacciones adversas importantes y coordinar cualquier cambio del tratamiento."
+      },
+      "presentaciones": "Comprimidos y solución oral; algunas formulaciones son de liberación prolongada. Las concentraciones y presentaciones disponibles dependen del fabricante y del mercado.",
+      "dosis": {
+        "adultos": "Para formulaciones orales de liberación inmediata, la dosis suele iniciarse en 5 mg una vez al día y aumentarse en incrementos de 5 mg, generalmente con intervalos de al menos una semana, hasta una dosis habitual de 10 mg dos veces al día si se tolera. Las formulaciones de liberación prolongada tienen pautas distintas. Ajustar según función renal y ficha técnica.",
+        "pediatrico": "No se recomienda de forma rutinaria para la enfermedad de Alzheimer en población pediátrica; la seguridad y eficacia no están establecidas para esta indicación.",
+        "geriatrico": "No suele requerir ajuste exclusivamente por edad, pero es frecuente la disminución de la función renal. Individualizar la dosis y vigilar confusión, mareos, equilibrio y riesgo de caídas."
+      },
+      "vias_administracion": "Vía oral en comprimidos, cápsulas de liberación prolongada o solución oral, según disponibilidad. Administrar siguiendo las instrucciones específicas de cada formulación.",
+      "preparacion": {
+        "dilucion": "Los comprimidos se administran por vía oral y no requieren dilución. Para la solución oral, medir con el dispositivo dosificador correspondiente y seguir las instrucciones del fabricante.",
+        "compatibilidad_iv": "No corresponde. La memantina de uso habitual no dispone de una presentación intravenosa estándar."
+      },
+      "velocidad_infusion": "No corresponde. Administración oral.",
+      "estabilidad_soluciones": "Para la solución oral, respetar las condiciones de conservación y el período de uso después de la apertura indicados por el fabricante.",
+      "concentracion": "Las concentraciones de comprimidos y solución oral varían según el producto. Confirmar la concentración del envase antes de calcular la dosis o el volumen.",
+      "alarma_riesgo": "Solicitar atención urgente ante convulsiones, pérdida del conocimiento, confusión intensa de aparición aguda, reacción alérgica grave o deterioro neurológico importante.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar identidad del paciente, prescripción, dosis, formulación, vía y horario.",
+          "Comprobar la función renal y confirmar que la dosis sea apropiada para el aclaramiento de creatinina.",
+          "Valorar el estado cognitivo, la conducta y la funcionalidad antes y durante el tratamiento.",
+          "Vigilar mareos, somnolencia, confusión, alteraciones de la marcha y riesgo de caídas.",
+          "Controlar la presión arterial cuando esté indicado y observar cambios clínicos relevantes.",
+          "Revisar la medicación concomitante para detectar interacciones, especialmente con fármacos que actúan sobre receptores NMDA o modifican el pH urinario.",
+          "Registrar la respuesta terapéutica, la tolerancia y las intervenciones realizadas.",
+          "Comunicar reacciones adversas importantes y coordinar los ajustes con el equipo tratante."
+        ],
+        "educacion_paciente": [
+          "Administrar el medicamento diariamente según la prescripción y no modificar la dosis por cuenta propia.",
+          "Explicar que el tratamiento puede ayudar a mantener algunas funciones, pero no cura la enfermedad de Alzheimer.",
+          "Consultar si aparecen mareos persistentes, confusión nueva, alucinaciones o dificultades para caminar.",
+          "No duplicar una dosis olvidada; seguir las instrucciones del prospecto o consultar al equipo de salud.",
+          "Informar sobre todos los medicamentos y suplementos que utiliza.",
+          "Mantener el medicamento fuera del alcance de niños y conservarlo según las indicaciones del envase."
+        ]
+      }
     }
   ]
 }
