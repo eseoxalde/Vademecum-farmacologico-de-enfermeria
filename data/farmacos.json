@@ -10294,6 +10294,79 @@
           "No utilizar ni repetir dosis por cuenta propia."
         ]
       }
+    },
+    {
+      "id": "130",
+      "nombre_generico": "Etomidato",
+      "letra": "E",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Etomidato",
+        "clasificacion": "Anestésico general intravenoso no barbitúrico; hipnótico de acción corta; código ATC N01AX07",
+        "efecto_terapeutica": "Produce hipnosis rápida para la inducción de la anestesia general; no proporciona analgesia suficiente por sí solo",
+        "mecanismo_accion": "Potencia la neurotransmisión inhibitoria mediada por receptores GABA-A en el sistema nervioso central"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La administración intravenosa produce un inicio de acción rápido; no corresponde la absorción digestiva",
+        "distribucion": "Se distribuye rápidamente hacia el sistema nervioso central y luego a otros tejidos; presenta elevada unión a proteínas plasmáticas",
+        "metabolismo": "Se metaboliza principalmente en el hígado por hidrólisis de ésteres",
+        "eliminacion": "Se elimina principalmente por vía renal como metabolitos y, en menor proporción, por vía biliar y fecal"
+      },
+      "indicaciones": "Inducción de la anestesia general; utilización para procedimientos anestésicos específicos bajo supervisión de personal experimentado en anestesia y manejo de la vía aérea",
+      "contraindicaciones": "Hipersensibilidad al etomidato o a los excipientes; las restricciones adicionales dependen del prospecto específico; no debe utilizarse como infusión prolongada debido al riesgo de supresión suprarrenal",
+      "precauciones": "Depresión respiratoria; apnea; hipotensión; enfermedad cardiovascular; insuficiencia suprarrenal; sepsis o enfermedad crítica; uso concomitante de opioides o sedantes; mioclonías; riesgo de náuseas y vómitos",
+      "advertencias": "Solo debe administrarlo personal capacitado en anestesia y manejo de la vía aérea; puede producir apnea y pérdida de reflejos protectores; inhibe la síntesis suprarrenal de cortisol y aldosterona; no utilizar en infusión prolongada; disponer de equipo de ventilación y reanimación",
+      "embarazo_lactancia": "Utilizar durante el embarazo solo cuando esté clínicamente indicado y bajo valoración especializada; consultar el prospecto específico sobre lactancia y el momento de reanudarla después de la anestesia",
+      "ajustes": {
+        "renal": "No existe una pauta única de ajuste aplicable a todas las situaciones; individualizar según condición clínica, edad, respuesta anestésica y ficha técnica",
+        "hepatico": "La alteración hepática puede modificar la farmacocinética; individualizar y vigilar la respuesta clínica"
+      },
+      "interacciones": "Los opioides, benzodiacepinas y otros depresores del sistema nervioso central pueden potenciar la sedación y la depresión respiratoria; los anestésicos y sedantes concomitantes pueden modificar la respuesta hemodinámica; los medicamentos que afectan la función suprarrenal pueden complicar la valoración clínica",
+      "reacciones_adversas": "Mioclonías; dolor en el sitio de inyección; apnea; hipoventilación; hipotensión o hipertensión; náuseas; vómitos; hipo; movimientos involuntarios; supresión de la síntesis de cortisol y aldosterona",
+      "toxicidad_sobredosis": "Puede causar hipnosis profunda, apnea, depresión respiratoria, hipotensión y supresión suprarrenal; requiere soporte de vía aérea, ventilación y circulación, además de monitorización continua",
+      "antidotos": "No existe antídoto específico; el tratamiento es de soporte, con mantenimiento de la vía aérea, ventilación y estabilidad hemodinámica",
+      "monitorizacion": {
+        "clinica": "Nivel de conciencia; frecuencia respiratoria; saturación de oxígeno; presión arterial; frecuencia cardíaca; electrocardiograma; respuesta anestésica; ventilación y recuperación",
+        "laboratorio": "No se requieren pruebas específicas de rutina para todas las administraciones; valorar cortisol y función suprarrenal cuando exista indicación clínica, especialmente en pacientes críticos"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar vía aérea, estado respiratorio y cardiovascular, antecedentes anestésicos, medicación concomitante y riesgo de insuficiencia suprarrenal; verificar dosis, concentración y equipo de reanimación disponible",
+        "durante": "Monitorizar continuamente oxigenación, ventilación, presión arterial, frecuencia cardíaca y nivel de hipnosis; vigilar apnea, mioclonías y alteraciones hemodinámicas",
+        "despues": "Vigilar recuperación de conciencia, ventilación espontánea, estabilidad hemodinámica y posibles náuseas o vómitos; evaluar supresión suprarrenal si la situación clínica lo requiere"
+      },
+      "presentaciones": "Midatus: solución inyectable intravenosa de 2 mg/ml; confirmar volumen del frasco ampolla y condiciones de conservación del producto disponible",
+      "dosis": {
+        "adultos": "Para inducción anestésica, el prospecto argentino consultado describe un intervalo de 0,2 a 0,6 mg/kg, con dosis habitual de 0,3 mg/kg administrada durante 30 a 60 segundos; individualizar según edad, condición clínica y respuesta",
+        "pediatrico": "La pauta pediátrica depende de la edad, el peso, la indicación y el prospecto autorizado; el documento argentino consultado describe el uso en pacientes mayores de 10 años; no extrapolar esa pauta a menores sin una referencia específica",
+        "geriatrico": "Puede requerirse una dosis menor según edad, fragilidad, comorbilidades y medicación concomitante; titular según respuesta y criterio anestésico"
+      },
+      "vias_administracion": "Intravenosa exclusivamente",
+      "preparacion": {
+        "dilucion": "La solución de 2 mg/ml está destinada a administración intravenosa; no diluir salvo indicación expresa del prospecto o protocolo institucional; desechar el remanente según las instrucciones del producto",
+        "compatibilidad_iv": "Verificar compatibilidad con medicamentos y soluciones intravenosas antes de mezclarlos; administrar por una vía adecuada según el protocolo anestésico"
+      },
+      "velocidad_infusion": "Para inducción, el prospecto argentino consultado indica administración durante 30 a 60 segundos; no administrar en infusión prolongada",
+      "estabilidad_soluciones": "Conservar según el prospecto de Midatus; el documento consultado indica temperatura ambiente inferior a 25 °C y conservación en el envase original; desechar la porción no utilizada",
+      "concentracion": "La concentración máxima de administración no está establecida como un límite universal independiente de la formulación; Midatus se presenta a 2 mg/ml y debe utilizarse según el prospecto y el protocolo anestésico",
+      "alarma_riesgo": "Apnea; hipoventilación; desaturación; hipotensión importante; pérdida de reflejos protectores; sospecha de insuficiencia suprarrenal en pacientes críticos",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar prescripción, peso, dosis, concentración y vía intravenosa.",
+          "Comprobar disponibilidad de oxígeno, aspiración, ventilación y equipo de reanimación.",
+          "Monitorizar continuamente saturación, ventilación, presión arterial y frecuencia cardíaca.",
+          "Observar apnea, mioclonías, hipotensión y recuperación del nivel de conciencia.",
+          "Confirmar que la administración sea realizada por personal capacitado en anestesia.",
+          "No administrar en infusión prolongada.",
+          "Registrar dosis, hora, respuesta y acontecimientos adversos."
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento produce sueño profundo para un procedimiento anestésico.",
+          "Informar al equipo sobre medicamentos sedantes, opioides, alergias y antecedentes anestésicos.",
+          "Seguir las instrucciones preoperatorias de ayuno indicadas por el equipo médico.",
+          "Después del procedimiento, no conducir ni realizar actividades de riesgo hasta recibir autorización.",
+          "Comunicar dificultad respiratoria, debilidad intensa o síntomas persistentes después de la recuperación."
+        ]
+      }
     }
   ]
 }
