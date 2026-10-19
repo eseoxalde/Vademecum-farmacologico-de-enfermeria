@@ -8806,6 +8806,85 @@
           "Consultar qué hacer ante enfermedad aguda, vómitos o disminución de la ingesta."
         ]
       }
+    },
+    {
+      "id": "110",
+      "nombre_generico": "Insulina lispro protamina / insulina lispro",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Mezcla de insulina lispro protamina, de acción intermedia, e insulina lispro, de acción rápida. La proporción depende del producto; una formulación conocida contiene 75 % de lispro protamina y 25 % de lispro.",
+        "clasificacion": "Insulina premezclada bifásica; combinación de acción rápida e intermedia; medicamento de alto riesgo.",
+        "efecto_terapeutica": "Proporciona un componente prandial para controlar la elevación de glucemia después de las comidas y un componente intermedio para cubrir parte de las necesidades de insulina entre comidas.",
+        "mecanismo_accion": "La insulina lispro actúa rápidamente al activar los receptores de insulina y favorecer la captación de glucosa. La fracción de lispro protamina se absorbe más lentamente y prolonga parte del efecto. La proporción fija limita la posibilidad de ajustar ambos componentes por separado."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "El componente lispro comienza a actuar rápidamente después de la inyección subcutánea, mientras que la fracción con protamina se absorbe más lentamente. El perfil total depende de la proporción y de la formulación exacta.",
+        "distribucion": "Los componentes actúan en tejidos sensibles a la insulina, favoreciendo la captación periférica de glucosa y reduciendo su producción hepática.",
+        "metabolismo": "Ambos componentes se degradan mediante procesos proteolíticos en hígado, riñones y otros tejidos.",
+        "eliminacion": "Se eliminan mediante degradación metabólica. La insuficiencia renal o hepática puede reducir los requerimientos de insulina."
+      },
+      "indicaciones": "Control glucémico en personas con diabetes mellitus que requieren una combinación fija de insulina prandial e intermedia. La indicación depende del producto autorizado, del patrón de comidas y de la pauta individual.",
+      "contraindicaciones": "Hipoglucemia activa e hipersensibilidad a la insulina lispro, la insulina lispro protamina o los componentes del producto.",
+      "precauciones": "Riesgo de hipoglucemia si se omiten o retrasan las comidas, si cambia la actividad física o si se administra una dosis incorrecta. La mezcla fija no permite ajustar por separado la fracción rápida y la intermedia. La suspensión debe resuspenderse según las instrucciones del fabricante. No administrar por vía intravenosa ni utilizar en bombas de infusión convencionales.",
+      "advertencias": "Medicamento de alto riesgo. Los errores de producto, dosis, horario o proporción pueden causar hipoglucemia grave. No sustituir por insulina lispro sola, NPH u otra premezcla sin un plan de conversión prescrito. No utilizar si la suspensión presenta aspecto anormal o no se resuspende correctamente.",
+      "embarazo_lactancia": "La insulina puede utilizarse durante el embarazo y la lactancia cuando está indicada, pero una mezcla fija puede no ser adecuada para todas las necesidades cambiantes. La elección del esquema y los ajustes deben ser individualizados por el equipo tratante.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede reducir las necesidades de insulina y aumentar el riesgo de hipoglucemia. Ajustar la dosis según glucemias, ingesta y función renal.",
+        "hepatico": "La insuficiencia hepática puede modificar los requerimientos de insulina y aumentar el riesgo de hipoglucemia. Individualizar y monitorizar."
+      },
+      "interacciones": "Otros antidiabéticos, alcohol y determinados medicamentos pueden aumentar la hipoglucemia. Corticoides, simpaticomiméticos y algunos antipsicóticos pueden elevar la glucemia. Los betabloqueantes pueden enmascarar síntomas de hipoglucemia. Los cambios en alimentación y actividad física modifican los requerimientos.",
+      "reacciones_adversas": "Hipoglucemia, reacciones en el sitio de inyección, lipodistrofia, aumento de peso, edema, reacciones alérgicas e hipopotasemia. Puede haber variabilidad glucémica si las comidas no coinciden con el perfil de acción.",
+      "toxicidad_sobredosis": "La sobredosis puede causar hipoglucemia inmediata o prolongada debido a los dos componentes de la mezcla. Puede producir sudoración, temblor, confusión, convulsiones y pérdida de conciencia. Requiere tratamiento inmediato y vigilancia por posible recurrencia.",
+      "antidotos": "No existe antídoto específico. Tratar la hipoglucemia con glucosa oral si la persona está consciente y puede deglutir, o glucosa intravenosa o glucagón según la gravedad y el protocolo. Vigilar potasio cuando corresponda.",
+      "monitorizacion": {
+        "clinica": "Controlar glucemia, relación con las comidas, signos de hipoglucemia, sitios de inyección y respuesta al componente prandial e intermedio. Vigilar cambios de ingesta, ejercicio y función renal.",
+        "laboratorio": "Controlar glucemia y HbA1c. Evaluar función renal, función hepática y potasio según la situación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar identidad, producto exacto, proporción de la mezcla, concentración, dosis, vía, horario y glucemia. Confirmar que la comida prevista esté disponible y que el paciente tenga la pauta adecuada.",
+        "durante": "Vigilar glucemia, ingesta y signos de hipoglucemia durante el período de acción de ambos componentes. Confirmar la correcta resuspensión antes de la administración.",
+        "despues": "Registrar dosis, horario, sitio de inyección, glucemia, ingesta y respuesta. Vigilar hipoglucemia y comunicar variaciones recurrentes o dificultades para coordinar la mezcla con las comidas."
+      },
+      "presentaciones": "Suspensiones inyectables en plumas precargadas o cartuchos, según fabricante y mercado. Existen mezclas con distintas proporciones de insulina lispro protamina e insulina lispro; verificar el producto exacto.",
+      "dosis": {
+        "adultos": "Individualizada según tipo de diabetes, glucemia, ingesta, actividad física y formulación. La dosis suele relacionarse con las comidas y puede administrarse una o dos veces al día según la prescripción y la ficha técnica. No existe una dosis universal segura.",
+        "pediatrico": "El uso y la dosis dependen del producto autorizado, la edad, el peso, la ingesta y el esquema terapéutico. Debe establecerlos el equipo especializado; una mezcla fija puede no ser adecuada para todos los pacientes pediátricos.",
+        "geriatrico": "Individualizar considerando ingesta irregular, fragilidad, función renal y riesgo de hipoglucemia. Evaluar si una mezcla fija permite ajustar con seguridad las necesidades del paciente."
+      },
+      "vias_administracion": "Vía subcutánea. No administrar por vía intravenosa ni intramuscular. No utilizar en bombas de infusión convencionales.",
+      "preparacion": {
+        "dilucion": "No requiere dilución rutinaria. Resuspender suavemente de acuerdo con las instrucciones del fabricante hasta obtener una suspensión homogénea. No mezclar con otras insulinas ni diluir salvo autorización expresa de la ficha técnica.",
+        "compatibilidad_iv": "No corresponde. Las mezclas de lispro protamina/lispro se administran por vía subcutánea y no deben administrarse por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde. Administración subcutánea.",
+      "estabilidad_soluciones": "Depende de la marca y del dispositivo. Respetar las condiciones de almacenamiento y el período de uso tras apertura indicado por el fabricante. Evitar congelación, calor excesivo y exposición directa a la luz.",
+      "concentracion": "Depende de la presentación comercial; comprobar la concentración y la proporción de insulina lispro protamina e insulina lispro en el envase. No asumir que todas las premezclas tienen la misma proporción.",
+      "alarma_riesgo": "Medicamento de alto riesgo. Vigilar hipoglucemia inmediata y durante el período de acción intermedia. Ante convulsiones o pérdida de conciencia, activar el protocolo de emergencia y no administrar alimentos por boca.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar paciente, producto, proporción de la mezcla, concentración, dosis, vía y horario.",
+          "Aplicar el protocolo institucional para insulinas de alto riesgo.",
+          "Confirmar la disponibilidad de la comida y coordinar la administración según la ficha técnica.",
+          "Resuspender suavemente según las instrucciones del fabricante antes de administrar.",
+          "No administrar por vía intravenosa ni utilizar en bombas de infusión convencionales.",
+          "Rotar sitios de inyección y revisar la piel.",
+          "Controlar glucemia y vigilar hipoglucemia durante el período de acción de ambos componentes.",
+          "Revisar función renal, alimentación, actividad física y medicación concomitante.",
+          "Registrar dosis, horario, sitio de inyección, glucemia, ingesta y respuesta.",
+          "No sustituir por otra insulina o premezcla sin una pauta de conversión prescrita."
+        ],
+        "educacion_paciente": [
+          "Explicar que la premezcla contiene componentes de acción rápida e intermedia en una proporción fija.",
+          "Administrar la dosis y coordinarla con las comidas según la pauta prescrita.",
+          "Resuspender suavemente siguiendo las instrucciones específicas del dispositivo.",
+          "Reconocer y tratar la hipoglucemia según el plan individual.",
+          "No cambiar de marca, proporción o tipo de insulina por cuenta propia.",
+          "No mezclar con otras insulinas ni utilizar en bombas de infusión convencionales.",
+          "Consultar qué hacer ante vómitos, falta de ingesta o enfermedad aguda.",
+          "Conservar la insulina según las instrucciones del fabricante."
+        ]
+      }
     }
   ]
 }
