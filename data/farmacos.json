@@ -6795,6 +6795,84 @@
           "Mantener el medicamento fuera del alcance de los niños y utilizar un dispositivo de medición adecuado para las formulaciones líquidas."
         ]
       }
+    },
+    {
+      "id": "84",
+      "nombre_generico": "Naproxeno",
+      "letra": "N",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Naproxeno",
+        "clasificacion": "Antiinflamatorio no esteroideo (AINE), analgésico, antipirético y antiinflamatorio.",
+        "efecto_terapeutica": "Alivia el dolor, disminuye la inflamación y reduce la fiebre. Se utiliza en afecciones musculoesqueléticas, enfermedades reumáticas y otros cuadros dolorosos.",
+        "mecanismo_accion": "Inhibe de forma reversible las enzimas ciclooxigenasa COX-1 y COX-2, reduciendo la síntesis de prostaglandinas involucradas en el dolor, la inflamación y la fiebre. La inhibición de prostaglandinas también puede afectar la protección gastrointestinal, la función renal y la agregación plaquetaria."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe bien por vía oral. La concentración plasmática máxima suele alcanzarse en aproximadamente 2 a 4 horas con naproxeno convencional, aunque varía según la sal y la formulación. El naproxeno sódico se absorbe más rápidamente.",
+        "distribucion": "Presenta una unión a proteínas plasmáticas superior al 99 % y se distribuye en los tejidos y líquidos corporales. Atraviesa la placenta y pequeñas cantidades pueden pasar a la leche materna.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante desmetilación y conjugación. No depende exclusivamente de una sola vía metabólica.",
+        "eliminacion": "Se elimina principalmente por vía renal, en su mayor parte como naproxeno y metabolitos conjugados. Su semivida plasmática es de aproximadamente 12 a 17 horas, lo que permite intervalos de administración más prolongados que los de algunos otros AINE."
+      },
+      "indicaciones": "Tratamiento del dolor leve a moderado, dismenorrea primaria, artritis reumatoidea, artrosis, espondilitis anquilosante, tendinitis, bursitis, ataques agudos de gota y otros procesos inflamatorios, según la formulación y la indicación autorizada.",
+      "contraindicaciones": "Hipersensibilidad al naproxeno o a otros AINE; antecedentes de asma, urticaria, angioedema u otras reacciones alérgicas provocadas por ácido acetilsalicílico u otros AINE; úlcera péptica activa o hemorragia gastrointestinal; antecedentes de hemorragia o perforación gastrointestinal asociadas a AINE; insuficiencia renal, hepática o cardíaca grave; y tercer trimestre del embarazo. Algunas formulaciones pueden presentar contraindicaciones adicionales que deben verificarse en su ficha técnica.",
+      "precauciones": "Utilizar la menor dosis eficaz durante el menor tiempo posible. Extremar precauciones en personas mayores, deshidratadas o con antecedentes de úlcera, hipertensión, enfermedad cardiovascular, insuficiencia renal, asma o enfermedad inflamatoria intestinal. Puede provocar retención de líquidos, aumento de la presión arterial, deterioro renal y hemorragia gastrointestinal. Aunque su efecto sobre las plaquetas es reversible, puede prolongar el tiempo de sangrado. Evitar combinarlo con otros AINE salvo indicación médica.",
+      "advertencias": "Puede causar ulceración, hemorragia o perforación gastrointestinal, incluso sin síntomas previos. Los AINE pueden aumentar el riesgo de infarto de miocardio y accidente cerebrovascular, especialmente con dosis elevadas o tratamientos prolongados. Puede causar lesión renal aguda, sobre todo en pacientes deshidratados o tratados con diuréticos, inhibidores de la enzima convertidora de angiotensina o antagonistas de los receptores de angiotensina. Suspender y solicitar atención urgente ante vómitos con sangre, heces negras, dificultad respiratoria, reacción alérgica grave, dolor torácico o disminución marcada de la diuresis.",
+      "embarazo_lactancia": "Evitar durante el tercer trimestre del embarazo. Desde aproximadamente la semana 20, los AINE pueden causar disfunción renal fetal y oligohidramnios; si el uso se considera imprescindible, debe indicarlo un profesional, con la menor dosis y duración posibles y seguimiento cuando corresponda. Durante el primer y segundo trimestre, utilizar solo si está clínicamente justificado. El naproxeno pasa a la leche materna y, debido a su semivida relativamente prolongada, generalmente se prefieren alternativas con menor permanencia en el organismo durante la lactancia, especialmente en recién nacidos o prematuros.",
+      "ajustes": {
+        "renal": "Evitar en insuficiencia renal grave. En insuficiencia renal leve o moderada, utilizar con precaución y valorar la necesidad de tratamiento, la dosis y la duración. Controlar la función renal en pacientes de riesgo.",
+        "hepatico": "Utilizar con precaución en insuficiencia hepática. Puede ser necesario reducir la dosis en determinadas situaciones. En enfermedad hepática grave, evitar o seguir estrictamente las recomendaciones de la ficha técnica."
+      },
+      "interacciones": "Anticoagulantes, antiagregantes y otros AINE: aumento del riesgo de hemorragia. Corticoides y antidepresivos ISRS/IRSN: mayor riesgo de hemorragia gastrointestinal. Diuréticos, IECA y ARA-II: posible deterioro renal y menor control de la presión arterial. Litio, metotrexato, digoxina y ciclosporina: posible aumento de concentraciones o toxicidad. Puede reducir el efecto de antihipertensivos y diuréticos. La combinación con ácido acetilsalicílico puede aumentar los efectos adversos gastrointestinales. El alcohol puede aumentar el riesgo de irritación y sangrado gastrointestinal.",
+      "reacciones_adversas": "Dispepsia, dolor abdominal, náuseas, vómitos, diarrea, estreñimiento y cefalea. Puede provocar edema, hipertensión, mareos, erupciones cutáneas y tinnitus. Entre las reacciones graves se incluyen úlcera o hemorragia gastrointestinal, lesión renal aguda, hepatotoxicidad, broncoespasmo, reacciones cutáneas graves, alteraciones hematológicas y eventos trombóticos cardiovasculares.",
+      "toxicidad_sobredosis": "Puede provocar náuseas, vómitos, dolor epigástrico, somnolencia, mareos y tinnitus. En intoxicaciones graves pueden aparecer hemorragia gastrointestinal, alteraciones del equilibrio ácido-base, convulsiones, coma, hipotensión y lesión renal aguda. No existe un antídoto específico. Solicitar evaluación médica o toxicológica urgente. El tratamiento es de soporte y depende de la gravedad; no inducir el vómito.",
+      "antidotos": "No existe antídoto específico. El tratamiento de la sobredosis es de soporte y debe ajustarse a la evaluación toxicológica.",
+      "monitorizacion": {
+        "clinica": "Valorar dolor, inflamación, temperatura, presión arterial, hidratación, diuresis, edema y tolerancia gastrointestinal. Vigilar signos de hemorragia, reacción alérgica, deterioro renal o eventos cardiovasculares. Reevaluar periódicamente la necesidad de continuar el tratamiento.",
+        "laboratorio": "En tratamientos breves y pacientes sin factores de riesgo, generalmente no se requieren controles específicos. En tratamientos prolongados o pacientes de riesgo, considerar hemograma, creatinina, filtrado glomerular, urea y pruebas de función hepática. Controlar electrolitos cuando la situación clínica lo justifique."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, vía, edad y peso cuando corresponda. Valorar intensidad del dolor, inflamación, presión arterial, hidratación, antecedentes de úlcera o hemorragia digestiva, alergias a AINE, enfermedad renal, hepática o cardiovascular, embarazo y medicación concomitante.",
+        "durante": "Evaluar la respuesta analgésica y antiinflamatoria. Vigilar tolerancia gastrointestinal, presión arterial, edema, diuresis y aparición de erupciones, broncoespasmo o signos de hemorragia. En pacientes de riesgo, controlar la función renal y otros parámetros indicados.",
+        "despues": "Registrar dosis, vía, horario y respuesta clínica. Reevaluar la persistencia de los síntomas y comunicar reacciones adversas. Si se requiere uso frecuente o prolongado, solicitar una revisión clínica en lugar de aumentar la dosis por cuenta propia."
+      },
+      "presentaciones": "Comprimidos, comprimidos recubiertos, suspensión oral y otras formulaciones según el país y el fabricante. Existen presentaciones de naproxeno y naproxeno sódico, que no deben considerarse automáticamente equivalentes miligramo por miligramo. Verificar la sal, la concentración y el prospecto antes de calcular la dosis.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación y de la formulación. En dolor agudo, algunas pautas habituales de naproxeno convencional son de 250 a 500 mg cada 12 horas. Para naproxeno sódico, las dosis equivalentes se expresan de forma diferente. En enfermedades inflamatorias pueden utilizarse dosis diarias mayores bajo prescripción y seguimiento médico. No superar la dosis máxima establecida en la ficha técnica del producto.",
+        "pediatrico": "La utilización depende de la edad, el peso, la indicación y la formulación. En artritis idiopática juvenil se emplean pautas calculadas por peso, bajo supervisión especializada. No extrapolar dosis de adultos ni administrar a niños sin verificar la ficha técnica pediátrica correspondiente.",
+        "geriatrico": "Utilizar la menor dosis eficaz durante el menor tiempo posible. Las personas mayores tienen mayor riesgo de hemorragia gastrointestinal, insuficiencia renal, retención de líquidos y eventos cardiovasculares. Revisar comorbilidades, hidratación e interacciones y valorar protección gastrointestinal cuando esté indicada."
+      },
+      "vias_administracion": "Principalmente oral. Administrar exclusivamente por las vías autorizadas para la formulación específica.",
+      "preparacion": {
+        "dilucion": "Las formulaciones orales generalmente no requieren dilución. Si se dispone de una formulación especial, seguir exactamente las instrucciones del fabricante. No triturar ni partir comprimidos de liberación modificada sin comprobar que la formulación lo permite.",
+        "compatibilidad_iv": "No corresponde a las presentaciones orales habituales. No asumir que existe una formulación intravenosa autorizada ni aplicar instrucciones de preparación intravenosa de otros AINE. Verificar el producto específico y el protocolo institucional."
+      },
+      "velocidad_infusion": "No corresponde a las presentaciones orales habituales. Si se utiliza una formulación parenteral específica autorizada, seguir estrictamente su ficha técnica y el protocolo institucional.",
+      "estabilidad_soluciones": "Para suspensiones orales, respetar las condiciones de conservación, la fecha de vencimiento y las instrucciones de agitación indicadas por el fabricante. No establecer un plazo universal para soluciones preparadas o diluidas; verificar el prospecto del producto.",
+      "concentracion": "Variable según la sal, la forma farmacéutica y el fabricante. Las presentaciones pueden expresar la cantidad como naproxeno o naproxeno sódico. Confirmar la concentración exacta en el envase antes de calcular y administrar.",
+      "alarma_riesgo": "ALERTA: riesgo de hemorragia gastrointestinal, lesión renal aguda, retención de líquidos y eventos cardiovasculares. Evitar en el tercer trimestre del embarazo. No combinar con otros AINE sin indicación médica. Extremar precauciones en pacientes deshidratados, adultos mayores y personas con enfermedad renal, cardíaca o antecedentes de úlcera.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la indicación, la dosis, la vía, el intervalo y la formulación exacta, incluida la sal utilizada.",
+          "Evaluar antecedentes de alergia a AINE, asma desencadenada por analgésicos, úlcera péptica, hemorragia digestiva y enfermedad renal, hepática o cardiovascular.",
+          "Revisar la medicación concomitante para identificar anticoagulantes, antiagregantes, corticoides, otros AINE, diuréticos y antihipertensivos.",
+          "Valorar hidratación, presión arterial, edema y diuresis, especialmente en personas mayores o pacientes con vómitos, diarrea o tratamiento diurético.",
+          "Evaluar el dolor y la inflamación antes y después de la administración.",
+          "Vigilar dolor abdominal intenso, vómitos con sangre, heces negras, disminución de la diuresis, disnea o reacciones cutáneas graves.",
+          "Administrar con alimentos si se indica para mejorar la tolerancia gastrointestinal, recordando que esto no elimina el riesgo de úlcera o hemorragia.",
+          "No triturar comprimidos de liberación modificada ni modificar la forma farmacéutica sin verificar las instrucciones del producto.",
+          "Registrar la administración, la respuesta clínica y cualquier reacción adversa.",
+          "Comunicar la necesidad de uso prolongado para reevaluar el tratamiento y los controles necesarios."
+        ],
+        "educacion_paciente": [
+          "Explicar que debe utilizar la menor dosis eficaz durante el menor tiempo posible y respetar los intervalos indicados.",
+          "No combinar con ibuprofeno, diclofenac, ketorolac u otros AINE salvo indicación médica.",
+          "Consultar antes de utilizarlo si toma anticoagulantes, tiene enfermedad renal o cardíaca, hipertensión, antecedentes de úlcera o está embarazada.",
+          "Evitar la automedicación durante episodios de deshidratación importante o vómitos y diarrea persistentes.",
+          "Solicitar atención urgente ante heces negras, vómitos con sangre, dificultad respiratoria, hinchazón de la cara, dolor torácico o disminución marcada de la orina.",
+          "Consultar si el dolor persiste o empeora, en lugar de aumentar la dosis por cuenta propia.",
+          "Informar al equipo de salud sobre todos los medicamentos y suplementos que utiliza."
+        ]
+      }
     }
   ]
 }
