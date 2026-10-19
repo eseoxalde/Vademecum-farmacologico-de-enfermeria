@@ -9177,6 +9177,77 @@
           "Mantener los controles de glucemia y de laboratorio indicados."
         ]
       }
+    },
+    {
+      "id": "115",
+      "nombre_generico": "Sitagliptina",
+      "letra": "S",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Sitagliptina, habitualmente como fosfato de sitagliptina.",
+        "clasificacion": "Antidiabético oral; inhibidor de la dipeptidil peptidasa 4 (DPP-4).",
+        "efecto_terapeutica": "Mejora el control glucémico en adultos con diabetes mellitus tipo 2, como monoterapia o combinada con otros antidiabéticos según la indicación autorizada.",
+        "mecanismo_accion": "Inhibe la enzima DPP-4, prolongando la actividad de las incretinas GLP-1 y GIP. Aumenta la secreción de insulina dependiente de glucosa y reduce la liberación de glucagón cuando la glucemia está elevada."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe rápidamente por vía oral. Los alimentos no modifican de manera clínicamente significativa su absorción.",
+        "distribucion": "Presenta unión limitada a proteínas plasmáticas.",
+        "metabolismo": "Se metaboliza en una proporción pequeña; participan principalmente enzimas CYP3A4 y CYP2C8.",
+        "eliminacion": "Se elimina principalmente por vía renal, en gran parte sin cambios. La insuficiencia renal aumenta la exposición al medicamento."
+      },
+      "indicaciones": "Tratamiento de la diabetes mellitus tipo 2 en adultos, junto con alimentación y actividad física, sola o en combinación con otros antidiabéticos, incluida insulina, según la indicación y la autorización local.",
+      "contraindicaciones": "Hipersensibilidad a la sitagliptina o a los excipientes. No está indicada para tratar la diabetes tipo 1 ni la cetoacidosis diabética.",
+      "precauciones": "Evaluar la función renal antes de iniciar el tratamiento y periódicamente, porque la dosis debe ajustarse en insuficiencia renal. Valorar antecedentes de pancreatitis, insuficiencia cardíaca, enfermedad renal y reacciones de hipersensibilidad. El riesgo de hipoglucemia aumenta en combinación con insulina o sulfonilureas.",
+      "advertencias": "Se han notificado pancreatitis aguda, reacciones de hipersensibilidad graves, penfigoide ampolloso y dolor articular intenso. Se han comunicado casos de empeoramiento de insuficiencia cardíaca con algunos inhibidores DPP-4; valorar los factores de riesgo y los síntomas clínicos.",
+      "embarazo_lactancia": "No se recomienda durante el embarazo por la insuficiencia de datos de seguridad y la disponibilidad de alternativas mejor estudiadas. Se desconoce si pasa a la leche humana en cantidades clínicamente relevantes; consultar la ficha técnica y valorar alternativas durante la lactancia.",
+      "ajustes": {
+        "renal": "La dosis depende del filtrado glomerular estimado: generalmente 100 mg una vez al día si es de 45 ml/min/1,73 m² o superior; 50 mg una vez al día si es de 30 a menos de 45; y 25 mg una vez al día si es inferior a 30 o en enfermedad renal terminal, incluida diálisis. Confirmar los umbrales y las instrucciones en la ficha técnica local.",
+        "hepatico": "En insuficiencia hepática leve o moderada generalmente no se requiere ajuste. La experiencia en insuficiencia hepática grave es limitada; valorar clínicamente y consultar la ficha técnica."
+      },
+      "interacciones": "Tiene un potencial relativamente bajo de interacciones farmacocinéticas clínicamente relevantes. Puede aumentar el riesgo de hipoglucemia si se combina con insulina o sulfonilureas; el equipo tratante puede necesitar ajustar esos medicamentos. Revisar siempre el tratamiento completo.",
+      "reacciones_adversas": "Cefalea, molestias gastrointestinales, nasofaringitis y, en algunos casos, hipoglucemia, especialmente en combinación con insulina o sulfonilureas. Se han comunicado pancreatitis, reacciones alérgicas graves, penfigoide ampolloso y artralgia intensa.",
+      "toxicidad_sobredosis": "La experiencia con sobredosis es limitada. Puede requerirse control clínico, tratamiento de soporte y consulta a toxicología. Una parte del medicamento puede eliminarse mediante hemodiálisis, aunque su utilidad depende del tiempo transcurrido y de la situación clínica.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte; consultar toxicología ante una sobredosis.",
+      "monitorizacion": {
+        "clinica": "Control glucémico, síntomas de hipoglucemia, dolor abdominal persistente, signos de hipersensibilidad, dolor articular intenso y signos o síntomas de insuficiencia cardíaca.",
+        "laboratorio": "Glucemia y HbA1c; creatinina y filtrado glomerular estimado antes de iniciar y periódicamente. Otros controles según comorbilidades y evolución clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, función renal, antecedentes de pancreatitis o insuficiencia cardíaca y medicamentos concomitantes.",
+        "durante": "Controlar glucemia, tolerancia y aparición de dolor abdominal intenso y persistente, reacciones cutáneas o alérgicas, dolor articular o disnea y edema nuevos.",
+        "despues": "Evaluar la respuesta glucémica, la adherencia y los efectos adversos. Revisar periódicamente la función renal para mantener la dosis adecuada."
+      },
+      "presentaciones": "Comprimidos orales de distintas concentraciones, habitualmente de 25 mg, 50 mg y 100 mg; también existen combinaciones con otros antidiabéticos según el mercado.",
+      "dosis": {
+        "adultos": "La dosis habitual es de 100 mg una vez al día cuando la función renal lo permite. Reducir a 50 mg o 25 mg una vez al día según el filtrado glomerular estimado y la ficha técnica. No administrar una dosis estándar sin comprobar la función renal.",
+        "pediatrico": "No se recomienda de forma rutinaria en niños y adolescentes por falta de evidencia suficiente y según la autorización del producto.",
+        "geriatrico": "No suele requerir ajuste exclusivamente por edad. Valorar función renal, fragilidad, comorbilidades y medicamentos concomitantes."
+      },
+      "vias_administracion": "Oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución. Administrar el comprimido por vía oral según prescripción.",
+        "compatibilidad_iv": "No corresponde; no se administra por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde.",
+      "estabilidad_soluciones": "No corresponde para las presentaciones sólidas habituales. Conservar según las instrucciones del fabricante.",
+      "concentracion": "Presentaciones habituales de 25 mg, 50 mg y 100 mg por comprimido. Verificar el envase y si se trata de una combinación fija.",
+      "alarma_riesgo": "Alertar ante dolor abdominal intenso y persistente, dificultad respiratoria, edema facial, reacción cutánea grave, dolor articular intenso o signos de hipoglucemia, especialmente en combinación con otros antidiabéticos.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar dosis, frecuencia y presentación antes de administrar.",
+          "Revisar el filtrado glomerular estimado para confirmar que la dosis sea adecuada.",
+          "Controlar glucemia y resultados de HbA1c.",
+          "Vigilar hipoglucemia cuando se combina con insulina o sulfonilureas.",
+          "Observar signos de pancreatitis, hipersensibilidad, alteraciones cutáneas graves o empeoramiento de insuficiencia cardíaca.",
+          "Registrar administración, tolerancia, respuesta terapéutica y resultados relevantes."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la pauta prescrita y no modificar la dosis por cuenta propia.",
+          "Explicar los síntomas de hipoglucemia y el plan de actuación indicado, especialmente si utiliza otros antidiabéticos.",
+          "Consultar de inmediato ante dolor abdominal intenso y persistente, dificultad respiratoria, edema facial o reacción cutánea grave.",
+          "Mantener los controles de glucemia y función renal indicados."
+        ]
+      }
     }
   ]
 }
