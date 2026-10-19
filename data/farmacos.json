@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-18",
+  "actualizado": "2026-10-19",
   "farmacos": [
     {
       "id": "1",
@@ -8103,6 +8103,85 @@
           "Informar cambios importantes de peso, sed excesiva, aumento de la frecuencia urinaria, movimientos involuntarios o alteraciones menstruales.",
           "Buscar atención urgente ante fiebre con rigidez muscular, confusión, desmayo, palpitaciones intensas o signos de accidente cerebrovascular.",
           "No compartir el medicamento y mantenerlo fuera del alcance de niños."
+        ]
+      }
+    },
+    {
+      "id": "101",
+      "nombre_generico": "Amantadina",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Amantadina, habitualmente como clorhidrato de amantadina.",
+        "clasificacion": "Antiviral adamantano y fármaco antiparkinsoniano; antagonista no competitivo de receptores NMDA.",
+        "efecto_terapeutica": "Puede reducir determinados síntomas motores de la enfermedad de Parkinson y las discinesias inducidas por levodopa. También posee actividad antiviral frente al virus de la influenza A, aunque su uso para esta indicación está limitado por la resistencia viral generalizada.",
+        "mecanismo_accion": "El mecanismo antiparkinsoniano no está completamente establecido; incluye el antagonismo de receptores glutamatérgicos NMDA y la modulación de la neurotransmisión dopaminérgica. Como antiviral, inhibe la función de la proteína M2 del virus de la influenza A, interfiriendo con la descapsidación viral."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral. El tiempo hasta alcanzar la concentración plasmática máxima depende de la formulación.",
+        "distribucion": "Se distribuye ampliamente por el organismo y atraviesa la barrera hematoencefálica. Su unión a proteínas plasmáticas es relativamente baja.",
+        "metabolismo": "Se metaboliza de forma limitada; una proporción importante se elimina sin modificar.",
+        "eliminacion": "Se elimina principalmente por vía renal, en gran medida sin modificar. Su eliminación disminuye con la insuficiencia renal y con la edad avanzada, lo que aumenta el riesgo de acumulación y toxicidad."
+      },
+      "indicaciones": "Tratamiento de determinados síntomas de la enfermedad de Parkinson y de reacciones extrapiramidales inducidas por medicamentos, según la formulación y la autorización local. Algunas formulaciones se utilizan para el tratamiento de discinesias asociadas a levodopa en pacientes con enfermedad de Parkinson. Aunque posee actividad frente a influenza A, no se recomienda de forma rutinaria para tratar ni prevenir la influenza debido a la resistencia viral generalizada. Las indicaciones autorizadas varían según el país y el producto.",
+      "contraindicaciones": "Hipersensibilidad a la amantadina o a los componentes de la formulación. Verificar las contraindicaciones específicas del producto y las restricciones relacionadas con insuficiencia renal grave u otras enfermedades concomitantes.",
+      "precauciones": "Utilizar con precaución en pacientes con insuficiencia renal, edad avanzada, hipotensión ortostática, insuficiencia cardíaca, edema periférico, antecedentes de convulsiones, trastornos psiquiátricos, glaucoma de ángulo estrecho o retención urinaria. Puede causar confusión, alucinaciones, insomnio, mareos y caídas. La retirada brusca en pacientes con enfermedad de Parkinson puede provocar un empeoramiento motor y, en casos poco frecuentes, un cuadro grave semejante al síndrome neuroléptico maligno.",
+      "advertencias": "La acumulación por insuficiencia renal puede causar toxicidad neurológica y cardiovascular. Vigilar alteraciones del estado mental, alucinaciones, agitación, convulsiones, síncope y arritmias. Puede aparecer ideación suicida o cambios importantes de conducta. No suspender abruptamente sin indicación profesional, especialmente en pacientes con enfermedad de Parkinson. Las recomendaciones sobre dosis y retirada dependen de la formulación y de la indicación.",
+      "embarazo_lactancia": "Los datos en embarazo son limitados y no permiten descartar riesgos. Utilizar solamente cuando el beneficio esperado justifique el riesgo potencial y tras evaluación médica. La amantadina pasa a la leche materna; debe evaluarse la necesidad del tratamiento y el riesgo para el lactante antes de utilizarla durante la lactancia.",
+      "ajustes": {
+        "renal": "Es fundamental ajustar la dosis o ampliar el intervalo entre administraciones según la función renal, la indicación y la formulación. En insuficiencia renal puede producirse acumulación significativa. Confirmar la pauta en la ficha técnica y considerar la edad y el aclaramiento de creatinina.",
+        "hepatico": "Por lo general, el ajuste depende menos de la función hepática que de la renal. Se han descrito alteraciones de enzimas hepáticas; utilizar con precaución en pacientes con enfermedad hepática y controlar según la situación clínica."
+      },
+      "interacciones": "Los anticolinérgicos y otros medicamentos con efectos sobre el sistema nervioso central pueden aumentar la confusión, la sequedad de boca y la retención urinaria. Otros fármacos antiparkinsonianos pueden potenciar efectos motores o neuropsiquiátricos. Los medicamentos que alteran la función renal o reducen la eliminación de amantadina pueden aumentar el riesgo de acumulación. La combinación con otros fármacos que prolongan el QT requiere evaluación individual. Algunos antihistamínicos sedantes y psicofármacos pueden incrementar los efectos adversos neurológicos. Revisar siempre la medicación concomitante.",
+      "reacciones_adversas": "Mareos, insomnio, náuseas, estreñimiento, sequedad de boca, edema periférico, hipotensión ortostática y livedo reticularis, una coloración moteada violácea de la piel. También pueden aparecer confusión, alucinaciones, ansiedad, agitación y dificultad para concentrarse. Las reacciones graves incluyen convulsiones, arritmias, toxicidad neurológica y alteraciones psiquiátricas importantes, especialmente cuando existe acumulación.",
+      "toxicidad_sobredosis": "La sobredosis puede producir agitación, confusión, alucinaciones, delirium, convulsiones, alteraciones del ritmo cardíaco, hipotensión o hipertensión y deterioro del nivel de conciencia. El riesgo aumenta con insuficiencia renal. Requiere atención urgente, soporte de las funciones vitales y monitorización neurológica y cardiovascular. No inducir el vómito ni administrar tratamientos por cuenta propia.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte y sintomático, con vigilancia de las funciones vitales, estado neurológico, función renal y electrocardiograma según la gravedad. La eliminación mediante diálisis es limitada y no debe considerarse una solución fiable para la sobredosis.",
+      "monitorizacion": {
+        "clinica": "Controlar estado mental, conducta, alucinaciones, sueño, síntomas motores, presión arterial, frecuencia cardíaca, equilibrio, riesgo de caídas, edema periférico y retención urinaria. Vigilar signos de toxicidad, especialmente en pacientes mayores o con insuficiencia renal.",
+        "laboratorio": "Evaluar función renal y estimar el aclaramiento de creatinina antes del tratamiento cuando corresponda y durante el seguimiento. Considerar función hepática y electrolitos según antecedentes y situación clínica. Realizar ECG si existen factores de riesgo de arritmias, síntomas cardiovasculares o uso concomitante de medicamentos que prolongan el QT."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar prescripción, indicación, formulación, dosis, vía, alergias, función renal, edad, antecedentes de convulsiones, trastornos psiquiátricos, cardiopatía y medicación concomitante. Valorar el estado mental, los síntomas motores y el riesgo de caídas.",
+        "durante": "Evaluar la respuesta motora o la mejoría del síntoma tratado. Vigilar confusión, alucinaciones, insomnio, mareos, hipotensión ortostática, edema, retención urinaria y signos de acumulación. Controlar la función renal y otros parámetros según los riesgos individuales.",
+        "despues": "Registrar la respuesta terapéutica, los efectos adversos, la administración y los parámetros monitorizados. Comunicar cambios neurológicos o cardiovasculares importantes. Si se decide retirar el medicamento, coordinar la reducción o suspensión según la indicación y la formulación."
+      },
+      "presentaciones": "Las presentaciones dependen del país y del fabricante. Pueden incluir cápsulas o comprimidos, solución oral y formulaciones intravenosas disponibles para indicaciones específicas en algunos mercados. También existen formulaciones de liberación prolongada destinadas a usos determinados. Verificar siempre el producto disponible y su ficha técnica.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación, la formulación y la función renal. Para determinadas presentaciones orales de liberación inmediata utilizadas en Parkinson, se emplean pautas iniciales de 100 mg al día, con ajustes según respuesta y tolerancia. No todas las indicaciones ni formulaciones comparten esta pauta; la dosis máxima y el intervalo deben verificarse en la ficha técnica del producto.",
+        "pediatrico": "No establecer una pauta pediátrica universal. El uso, las dosis y las indicaciones dependen de la formulación, la edad, el peso y las autorizaciones locales. Para usos antivirales, la resistencia generalizada de influenza A limita la utilidad clínica. Administrar solamente bajo prescripción y supervisión especializada.",
+        "geriatrico": "Suele requerir dosis menores o intervalos más amplios debido al descenso de la función renal asociado a la edad. Vigilar estrechamente confusión, alucinaciones, hipotensión ortostática, caídas y toxicidad. Ajustar según función renal y ficha técnica."
+      },
+      "vias_administracion": "Principalmente vía oral en las presentaciones antiparkinsonianas. Algunas formulaciones específicas pueden administrarse por vía intravenosa para indicaciones concretas, según disponibilidad y autorización local. No intercambiar pautas ni vías entre formulaciones.",
+      "preparacion": {
+        "dilucion": "Las formas orales se administran según las instrucciones del fabricante. Las formulaciones intravenosas, cuando estén disponibles, requieren seguir la ficha técnica específica para preparación, dilución y administración. No extrapolar diluyentes ni volúmenes entre productos.",
+        "compatibilidad_iv": "No establecer compatibilidades intravenosas generales sin identificar la formulación concreta. Consultar la ficha técnica y una referencia institucional de compatibilidad antes de mezclar o administrar en una misma línea con otros medicamentos."
+      },
+      "velocidad_infusion": "No corresponde a las presentaciones orales. Para formulaciones intravenosas específicas, respetar la velocidad y duración de administración indicadas por el fabricante y el protocolo institucional.",
+      "estabilidad_soluciones": "Depende de la formulación y del fabricante. Para soluciones orales o intravenosas, respetar las condiciones de almacenamiento, el período de uso tras apertura o preparación y las instrucciones específicas del producto. No utilizar soluciones cuya estabilidad no haya sido confirmada.",
+      "concentracion": "Variable según presentación y fabricante. Verificar la concentración exacta en el envase antes de calcular dosis o volúmenes. No convertir entre formulaciones de liberación inmediata y prolongada sin indicación profesional.",
+      "alarma_riesgo": "Solicitar atención urgente ante confusión intensa, alucinaciones graves, convulsiones, desmayo, palpitaciones importantes, dificultad respiratoria o deterioro marcado del estado de conciencia. La aparición de toxicidad es especialmente preocupante en pacientes con insuficiencia renal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar identidad del paciente, prescripción, indicación, dosis, formulación, vía y horario antes de administrar.",
+          "Comprobar la función renal y confirmar que la pauta sea adecuada para el aclaramiento de creatinina y la edad del paciente.",
+          "Valorar el estado mental, la orientación, el sueño y la presencia de alucinaciones antes y durante el tratamiento.",
+          "Controlar presión arterial y observar hipotensión ortostática, mareos, alteraciones del equilibrio y riesgo de caídas.",
+          "Evaluar la respuesta de los síntomas motores cuando se utilice para enfermedad de Parkinson.",
+          "Vigilar edema periférico, cambios cutáneos compatibles con livedo reticularis y signos de retención urinaria.",
+          "Revisar la medicación concomitante para identificar posibles interacciones y riesgo de toxicidad neurológica o cardíaca.",
+          "Registrar administración, respuesta terapéutica, efectos adversos y parámetros monitorizados.",
+          "No suspender abruptamente sin indicación profesional, especialmente en pacientes con enfermedad de Parkinson.",
+          "Si se administra una formulación intravenosa específica, verificar las instrucciones de preparación, compatibilidad y velocidad antes de iniciar la administración."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la prescripción y no modificar ni suspender la dosis por cuenta propia.",
+          "Informar si presenta confusión, alucinaciones, mareos, cambios del comportamiento, hinchazón de piernas o dificultad para orinar.",
+          "Levantarse lentamente desde la posición acostada o sentada para reducir los mareos y el riesgo de caídas.",
+          "Evitar conducir o realizar actividades riesgosas si presenta somnolencia, mareos o alteraciones de la atención.",
+          "Consultar antes de utilizar medicamentos de venta libre, antihistamínicos u otros productos que puedan aumentar los efectos adversos.",
+          "Mantener una hidratación adecuada, salvo que tenga restricciones de líquidos indicadas por el equipo de salud.",
+          "No duplicar una dosis olvidada; consultar las instrucciones específicas del producto y continuar según la pauta indicada.",
+          "Mantener el medicamento fuera del alcance de niños y conservarlo de acuerdo con las instrucciones del envase."
         ]
       }
     }
