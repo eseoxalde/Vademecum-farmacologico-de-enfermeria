@@ -6064,6 +6064,87 @@
           "Informar al equipo tratante si aparecen cambios importantes del estado de ánimo o pensamientos de autolesión."
         ]
       }
+    },
+    {
+      "id": "75",
+      "nombre_generico": "Fenobarbital",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fenobarbital. En formulaciones inyectables puede presentarse como fenobarbital sódico.",
+        "clasificacion": "Antiepiléptico; barbitúrico de acción prolongada; depresor del sistema nervioso central; sedante e hipnótico.",
+        "efecto_terapeutica": "Disminuye la excitabilidad neuronal y ayuda a prevenir o controlar las crisis convulsivas. También produce sedación e hipnosis, según la dosis y la vía de administración.",
+        "mecanismo_accion": "Potencia la acción inhibitoria del ácido gamma-aminobutírico (GABA) sobre los receptores GABA-A, prolongando la apertura de los canales de cloruro y reduciendo la excitabilidad neuronal. A dosis altas puede ejercer efectos depresores adicionales sobre el sistema nervioso central."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Por vía oral se absorbe aproximadamente el 80 % de la dosis. La concentración plasmática máxima suele alcanzarse alrededor de las 8 horas en adultos y de las 4 horas en niños.",
+        "distribucion": "Se distribuye ampliamente por el organismo y alcanza el sistema nervioso central. Atraviesa la barrera placentaria y pasa a la leche materna. La unión a proteínas plasmáticas es aproximadamente del 50 % en adultos y del 60 % en niños.",
+        "metabolismo": "Principalmente hepático. Induce enzimas metabolizadoras, lo que puede acelerar el metabolismo de numerosos medicamentos y reducir su eficacia.",
+        "eliminacion": "Renal, tanto en forma de metabolitos como de fármaco sin modificar. Aproximadamente el 25 % puede eliminarse sin cambios por la orina. La vida media prolongada favorece la acumulación, especialmente en personas mayores y en pacientes con insuficiencia renal o hepática."
+      },
+      "indicaciones": "Tratamiento de determinados tipos de epilepsia, incluidas las crisis tónico-clónicas generalizadas y algunas crisis focales; control de convulsiones en situaciones específicas según la formulación y el protocolo clínico; tratamiento de urgencia de determinadas crisis convulsivas cuando está indicado; otras indicaciones específicas según la presentación y la normativa local.",
+      "contraindicaciones": "Hipersensibilidad al fenobarbital o a otros barbitúricos; porfiria; insuficiencia respiratoria grave; intoxicación aguda por alcohol; determinadas intoxicaciones por fármacos sedantes; insuficiencia hepática grave, según la formulación; combinación con medicamentos expresamente contraindicados en la ficha técnica correspondiente.",
+      "precauciones": "Insuficiencia renal o hepática; enfermedad respiratoria; antecedentes de dependencia de sustancias; personas mayores; niños; depresión del nivel de conciencia; riesgo de caídas; antecedentes de alteraciones del estado de ánimo o conducta suicida; tratamiento prolongado por riesgo de tolerancia y dependencia.",
+      "advertencias": "Puede producir depresión respiratoria, hipotensión y sedación profunda, especialmente por vía intravenosa o en asociación con otros depresores del sistema nervioso central. La administración intravenosa requiere monitorización y disponibilidad de asistencia respiratoria. No suspender bruscamente un tratamiento prolongado por riesgo de abstinencia y convulsiones. Las erupciones cutáneas, lesiones de mucosas, fiebre o signos de hipersensibilidad requieren valoración médica urgente.",
+      "embarazo_lactancia": "Embarazo\nAtraviesa la placenta y se asocia con un mayor riesgo de malformaciones congénitas y posibles alteraciones del neurodesarrollo. Debe evitarse cuando existan alternativas apropiadas; si resulta imprescindible, requiere evaluación especializada, uso de la menor dosis eficaz y seguimiento médico. No suspender de forma abrupta un tratamiento antiepiléptico.\nLactancia\nPasa a la leche materna y puede causar sedación en el lactante, dificultad para succionar y escasa ganancia de peso. Requiere valoración individual del riesgo y seguimiento del recién nacido.",
+      "ajustes": {
+        "renal": "Puede requerir reducción de dosis según la función renal y la respuesta clínica. Valorar acumulación, sedación y concentraciones plasmáticas cuando corresponda. El ajuste debe realizarlo el equipo médico.",
+        "hepatico": "Usar con precaución en insuficiencia hepática y evitar cuando esté contraindicado por la gravedad del cuadro o por la ficha técnica específica. Puede requerir reducción de dosis y monitorización clínica y analítica."
+      },
+      "interacciones": "Alcohol; opioides; benzodiacepinas; hipnóticos y otros depresores del sistema nervioso central; valproato; fenitoína; carbamazepina; lamotrigina; anticoagulantes; anticonceptivos hormonales; corticoides; inmunosupresores; determinados antirretrovirales; algunos antibióticos; hormonas tiroideas. Puede aumentar la sedación y la depresión respiratoria, o disminuir la eficacia de medicamentos por inducción enzimática.",
+      "reacciones_adversas": "Somnolencia; sedación; mareos; ataxia; alteraciones de la coordinación; confusión; disminución del estado de alerta; excitación paradójica, especialmente en niños y personas mayores; náuseas; reacciones cutáneas; alteraciones hepáticas; alteraciones hematológicas; dependencia y tolerancia. En casos graves puede producir síndrome de Stevens-Johnson, necrólisis epidérmica tóxica, DRESS, depresión respiratoria, hipotensión o coma.",
+      "toxicidad_sobredosis": "Puede causar somnolencia intensa, nistagmo, ataxia, hipotermia, hipotensión, disminución de los reflejos, depresión respiratoria, coma y muerte. Requiere atención médica urgente, soporte de vía aérea y respiración, monitorización hemodinámica y tratamiento de soporte. La eliminación del fármaco puede requerir medidas especializadas en intoxicaciones graves.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte, con protección de la vía aérea, asistencia respiratoria y manejo de la hipotensión según indicación médica.",
+      "monitorizacion": {
+        "clinica": "Nivel de conciencia; frecuencia y patrón respiratorio; saturación de oxígeno; presión arterial; frecuencia cardíaca; temperatura; respuesta anticonvulsivante; sedación; coordinación; aparición de erupciones cutáneas; signos de dependencia o abstinencia.",
+        "laboratorio": "Concentración plasmática de fenobarbital cuando esté indicada; hemograma; función hepática; función renal; electrolitos según estado clínico; pruebas de coagulación cuando corresponda. En tratamientos prolongados, valorar vitamina D y salud ósea según los factores de riesgo."
+      },
+      "parametros_valoracion": {
+        "antes": "Indicación y tipo de crisis; antecedentes de alergia a barbitúricos; nivel de conciencia; frecuencia respiratoria; saturación de oxígeno; presión arterial; frecuencia cardíaca; función renal y hepática; medicación concomitante; consumo de alcohol u otros depresores; embarazo potencial cuando corresponda; concentración plasmática basal si está indicada.",
+        "durante": "Respuesta clínica y control de las convulsiones; nivel de sedación; frecuencia respiratoria y saturación de oxígeno; presión arterial; frecuencia cardíaca; signos de acumulación; reacciones cutáneas; tolerancia; resultados analíticos y niveles plasmáticos cuando corresponda.",
+        "despues": "Grado de control de las crisis; recuperación del nivel de conciencia; estabilidad respiratoria y hemodinámica; aparición de efectos adversos; necesidad de ajustes prescritos; respuesta al tratamiento; signos de abstinencia si se reduce o suspende."
+      },
+      "presentaciones": "Comprimidos de distintas concentraciones, según el país y el fabricante; solución inyectable de 200 mg/ml de fenobarbital, equivalente a 219 mg/ml de fenobarbital sódico en la presentación de referencia consultada. Las presentaciones disponibles varían según el mercado.",
+      "dosis": {
+        "adultos": "Vía oral: como referencia para determinadas presentaciones, 50–400 mg/día, divididos en 2 o 3 tomas, con individualización según indicación y respuesta.\nVía parenteral: para la presentación inyectable consultada, dosis inicial habitual de 50–100 mg/día y mantenimiento de 50–250 mg/día, ajustados individualmente. En urgencias, las pautas de carga son diferentes y deben seguir el protocolo específico de la indicación.",
+        "pediatrico": "Como referencia para determinadas presentaciones, dosis de mantenimiento oral según peso: menos de 20 kg, 5 mg/kg/día; entre 20 y 30 kg, 3–4 mg/kg/día; más de 30 kg, 2–3 mg/kg/día. Para la presentación inyectable consultada se describen 3–5 mg/kg/día. La dosis debe individualizarse por edad, peso, indicación, respuesta y concentraciones plasmáticas. En neonatos y en convulsiones agudas se utilizan protocolos específicos.",
+        "geriatrico": "Individualizar y, con frecuencia, reducir la dosis debido a la disminución del aclaramiento y al mayor riesgo de sedación, confusión, hipotermia y depresión respiratoria. Considerar monitorización de concentraciones plasmáticas."
+      },
+      "vias_administracion": "Oral; intramuscular; intravenosa lenta, una vez diluido y según la ficha técnica de la presentación disponible. La vía intravenosa debe utilizarse bajo supervisión clínica y con monitorización adecuada.",
+      "preparacion": {
+        "dilucion": "Para la presentación Luminal 200 mg/ml consultada, diluir de 0,25 a 1 ml en 10 ml de agua para preparaciones inyectables. No utilizar otro diluyente para esta presentación. Administrar la preparación dentro de los 30 minutos posteriores a la dilución. Confirmar siempre la ficha técnica del producto disponible.",
+        "compatibilidad_iv": "Para la presentación consultada, la dilución indicada se realiza con agua para preparaciones inyectables. No asumir compatibilidad con otros diluyentes, medicamentos o soluciones de infusión. Administrar por una línea exclusiva cuando sea necesario y verificar la compatibilidad con farmacia."
+      },
+      "velocidad_infusion": "Para la presentación inyectable consultada, no superar 60 mg/min en adultos ni 50 mg/min en niños. La administración debe ser lenta y ajustarse al protocolo clínico; vigilar continuamente la respiración y la presión arterial.",
+      "estabilidad_soluciones": "La preparación diluida de la presentación consultada debe administrarse dentro de los 30 minutos siguientes a su preparación. No conservar sobrantes para administraciones posteriores. Verificar las indicaciones del fabricante para cada producto.",
+      "concentracion": "La presentación inyectable consultada contiene 200 mg/ml de fenobarbital. Esta es la concentración del producto, no una concentración máxima universal de administración. No existe un límite máximo único aplicable a todas las presentaciones y protocolos; seguir la ficha técnica específica y las indicaciones institucionales.",
+      "alarma_riesgo": "Riesgo de depresión respiratoria, apnea, hipotensión, coma y muerte, especialmente con administración intravenosa rápida o combinación con alcohol, opioides, benzodiacepinas u otros depresores del sistema nervioso central. Riesgo de dependencia y convulsiones por retirada brusca. Las erupciones cutáneas graves constituyen una señal de alarma.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la indicación, la dosis, la vía y la presentación antes de administrar.",
+          "Valorar el nivel de conciencia, la frecuencia respiratoria, la saturación de oxígeno y la presión arterial antes de la administración.",
+          "Comprobar la medicación concomitante y alertar sobre posibles interacciones con depresores del sistema nervioso central.",
+          "Administrar la formulación intravenosa diluida y a la velocidad indicada en la ficha técnica.",
+          "Mantener disponible el equipo de oxigenoterapia y asistencia respiratoria durante la administración intravenosa.",
+          "Monitorizar estrechamente la respiración, la presión arterial y el nivel de conciencia durante y después de la administración parenteral.",
+          "Observar la respuesta anticonvulsivante y registrar la frecuencia, duración y características de las crisis.",
+          "Vigilar somnolencia excesiva, ataxia, confusión, hipotensión, hipotermia y signos de depresión respiratoria.",
+          "Inspeccionar la piel y las mucosas ante la aparición de erupción, ampollas, fiebre o lesiones mucosas.",
+          "Controlar los análisis y las concentraciones plasmáticas cuando estén prescritos.",
+          "No suspender ni modificar bruscamente el tratamiento sin indicación médica."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento exactamente como fue prescrito y no modificar la dosis por cuenta propia.",
+          "No suspender el tratamiento bruscamente, ya que pueden aparecer convulsiones de abstinencia.",
+          "Evitar el consumo de alcohol y no asociar sedantes u otros medicamentos sin consultar al equipo de salud.",
+          "No conducir ni manejar maquinaria si presenta somnolencia, mareos o disminución del estado de alerta.",
+          "Consultar de inmediato si aparecen dificultad respiratoria, sedación intensa, erupción cutánea, ampollas, lesiones en la boca o fiebre acompañada de lesiones cutáneas.",
+          "Informar al equipo de salud sobre todos los medicamentos, suplementos y anticonceptivos que utiliza.",
+          "Consultar antes de planificar un embarazo o ante la sospecha de embarazo; no suspender el tratamiento por cuenta propia.",
+          "Durante tratamientos prolongados, asistir a los controles clínicos y de laboratorio indicados.",
+          "Mantener el medicamento fuera del alcance de niños y no compartirlo con otras personas."
+        ]
+      }
     }
   ]
 }
