@@ -10697,6 +10697,80 @@
           "Aclarar que la reversión puede requerir controles posteriores porque el sangrado puede reaparecer."
         ]
       }
+    },
+    {
+      "id": "136",
+      "nombre_generico": "Idarucizumab",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Idarucizumab",
+        "clasificacion": "Antídoto anticoagulante; agente reversor específico de dabigatrán; fragmento Fab de anticuerpo monoclonal humanizado",
+        "efecto_terapeutica": "Reversión rápida del efecto anticoagulante de dabigatrán en situaciones de hemorragia no controlada o potencialmente mortal y ante procedimientos quirúrgicos de emergencia.",
+        "mecanismo_accion": "Se une con elevada afinidad a dabigatrán y sus metabolitos, formando complejos que neutralizan su actividad anticoagulante."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa; biodisponibilidad completa.",
+        "distribucion": "Se distribuye principalmente en el espacio intravascular y se une a dabigatrán circulante.",
+        "metabolismo": "Se degrada mediante procesos proteolíticos propios de las proteínas.",
+        "eliminacion": "Se elimina principalmente por vía renal como idarucizumab libre y como complejos con dabigatrán. La insuficiencia renal puede aumentar la exposición a idarucizumab."
+      },
+      "indicaciones": "Reversión específica del efecto anticoagulante de dabigatrán en pacientes tratados con este fármaco cuando se necesita una reversión rápida por hemorragia potencialmente mortal o no controlada, o ante cirugía de emergencia o procedimiento urgente.",
+      "contraindicaciones": "El prospecto de Praxbind no establece contraindicaciones absolutas específicas; considerar hipersensibilidad al producto o sus componentes.",
+      "precauciones": "La reversión expone nuevamente al paciente al riesgo tromboembólico de su enfermedad de base; controlar la posible reaparición del efecto anticoagulante, especialmente ante insuficiencia renal o concentraciones elevadas de dabigatrán; la reversión de dabigatrán no sustituye las medidas habituales de soporte y control de la hemorragia.",
+      "advertencias": "Pueden reaparecer parámetros de anticoagulación alterados o persistir concentraciones de dabigatrán clínicamente relevantes después de la reversión inicial. Si reaparece una hemorragia relevante o se requiere una nueva intervención urgente, evaluar nuevamente la coagulación y consultar con hematología o toxicología. Una segunda dosis de 5 g solo debe considerarse en circunstancias seleccionadas, ya que la evidencia es limitada.",
+      "embarazo_lactancia": "Los datos clínicos durante el embarazo y la lactancia son limitados. Utilizar únicamente cuando la situación clínica lo justifique y tras valoración médica especializada.",
+      "ajustes": {
+        "renal": "No se recomienda una reducción inicial universal de la dosis de reversión. La insuficiencia renal puede prolongar la exposición a dabigatrán y favorecer la reaparición de anticoagulación; intensificar la vigilancia clínica y de laboratorio.",
+        "hepatico": "No se establece un ajuste específico de dosis por insuficiencia hepática en la ficha técnica consultada. Individualizar según situación clínica."
+      },
+      "interacciones": "Su acción específica es neutralizar dabigatrán. No neutraliza apixabán, rivaroxabán, warfarina ni heparinas. No mezclar con otros medicamentos en la misma solución o línea de administración.",
+      "reacciones_adversas": "Reacciones de hipersensibilidad; cefalea; náuseas; fiebre; estreñimiento; alteraciones transitorias de parámetros de coagulación; eventos tromboembólicos posteriores relacionados con la reversión de la anticoagulación y la enfermedad de base.",
+      "toxicidad_sobredosis": "La experiencia con dosis superiores a las recomendadas es limitada. No se conoce un síndrome específico de sobredosis bien establecido. Vigilar coagulación, hipersensibilidad y complicaciones trombóticas; consultar al equipo especializado.",
+      "antidotos": "No requiere un antídoto específico conocido. Ante una reacción adversa, suspender la administración si corresponde y proporcionar tratamiento de soporte.",
+      "monitorizacion": {
+        "clinica": "Sangrado activo; estabilidad hemodinámica; signos de trombosis arterial o venosa; reacción de hipersensibilidad; necesidad de cirugía o procedimientos urgentes; función renal.",
+        "laboratorio": "Tiempo de trombina diluido (dTT) o tiempo de coagulación con ecarina (ECT), si están disponibles; TTPa como prueba complementaria, teniendo en cuenta sus limitaciones; hemoglobina; hematocrito; plaquetas; creatinina y función renal. Los resultados deben interpretarse según el momento de la toma y el método utilizado."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar tratamiento con dabigatrán, dosis y hora de la última toma; determinar la indicación de reversión; valorar hemorragia, estabilidad hemodinámica, función renal y pruebas de coagulación cuando estén disponibles, sin retrasar una intervención urgente indicada.",
+        "durante": "Vigilar signos vitales, reacciones de hipersensibilidad y evolución del sangrado; comprobar que se administre la dosis completa; coordinar el control de coagulación según la urgencia clínica.",
+        "despues": "Evaluar la hemostasia, repetir pruebas de coagulación según evolución y vigilar una posible reaparición del efecto de dabigatrán; controlar signos de trombosis; valorar con el equipo tratante cuándo reiniciar la anticoagulación."
+      },
+      "presentaciones": "Praxbind: solución inyectable de 2,5 g/50 mL por vial; la dosis completa recomendada requiere dos viales, para un total de 5 g en 100 mL.",
+      "dosis": {
+        "adultos": "5 g por vía intravenosa, administrados como dos infusiones consecutivas de 2,5 g cada una o mediante dos inyecciones intravenosas consecutivas, según la ficha técnica. Una dosis adicional de 5 g puede considerarse únicamente en situaciones seleccionadas de reaparición de anticoagulación clínicamente relevante con sangrado o necesidad de nueva intervención urgente.",
+        "pediatrico": "No establecer una dosis pediátrica rutinaria con esta ficha. La evidencia y la autorización para población pediátrica deben comprobarse en la ficha técnica vigente y el protocolo institucional; consultar a hematología o toxicología.",
+        "geriatrico": "No requiere ajuste inicial rutinario exclusivamente por edad. Individualizar según función renal, gravedad del sangrado y riesgo tromboembólico."
+      },
+      "vias_administracion": "Intravenosa exclusivamente.",
+      "preparacion": {
+        "dilucion": "La dosis recomendada se administra utilizando el contenido de dos viales de 2,5 g/50 mL. Puede administrarse en dos infusiones consecutivas o mediante inyecciones consecutivas, de acuerdo con el prospecto. No requiere dilución rutinaria adicional.",
+        "compatibilidad_iv": "No mezclar con otros medicamentos. Si se utiliza una vía intravenosa preexistente, lavarla con solución de cloruro de sodio al 0,9 % antes de la administración y evitar la administración simultánea de otros medicamentos por el mismo acceso."
+      },
+      "velocidad_infusion": "Administrar los dos viales de forma consecutiva según la ficha técnica, mediante infusión o inyección intravenosa. Respetar las instrucciones específicas del prospecto de la presentación disponible.",
+      "estabilidad_soluciones": "El prospecto estadounidense consultado indica que, una vez extraída de los viales, la solución debe administrarse prontamente y utilizarse dentro de las 6 horas si se conserva a temperatura ambiente. Confirmar las condiciones exactas en el prospecto vigente de la presentación utilizada.",
+      "concentracion": "50 mg/mL (2,5 g en 50 mL). La solución se administra según las instrucciones de la ficha técnica; no mezclar con otros medicamentos.",
+      "alarma_riesgo": "Medicamento de alto riesgo. La reversión puede aumentar el riesgo de trombosis y no garantiza la ausencia de sangrado recurrente. Requiere uso hospitalario, vigilancia clínica y evaluación de la anticoagulación residual.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar que el anticoagulante que recibe el paciente es dabigatrán y verificar la indicación urgente de reversión.",
+          "Realizar doble comprobación de la dosis total de 5 g y de la cantidad de viales.",
+          "Inspeccionar la solución y comprobar la integridad de los viales antes de administrar.",
+          "Verificar el acceso intravenoso y lavarlo con solución de cloruro de sodio al 0,9 % cuando corresponda.",
+          "No mezclar con otros medicamentos ni administrar simultáneamente otros fármacos por el mismo acceso.",
+          "Controlar presión arterial, frecuencia cardíaca, estado neurológico y evolución del sangrado.",
+          "Vigilar signos de hipersensibilidad y disponer de medidas de respuesta ante emergencias.",
+          "Coordinar controles de coagulación y función renal según indicación médica.",
+          "Observar signos de trombosis y de reaparición del efecto anticoagulante.",
+          "Registrar dosis, horario, respuesta clínica, resultados de laboratorio y eventos adversos."
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento revierte específicamente el efecto de dabigatrán y se utiliza en situaciones urgentes.",
+          "Indicar que comunique dolor torácico, dificultad respiratoria, debilidad repentina, alteraciones del habla, dolor o hinchazón de una extremidad y cualquier nuevo sangrado.",
+          "Explicar que la necesidad de reiniciar la anticoagulación será evaluada por el equipo tratante según el control del sangrado y el riesgo de trombosis."
+        ]
+      }
     }
   ]
 }
