@@ -7256,6 +7256,82 @@
           "Solicitar asistencia urgente ante dificultad respiratoria, imposibilidad de despertar, labios azulados o pérdida de conciencia."
         ]
       }
+    },
+    {
+      "id": "90",
+      "nombre_generico": "Tramadol",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Tramadol, generalmente como clorhidrato de tramadol.",
+        "clasificacion": "Analgésico opioide de acción central, con actividad sobre los receptores opioides mu e inhibición de la recaptación de noradrenalina y serotonina. Medicamento con riesgo de dependencia, depresión respiratoria y convulsiones.",
+        "efecto_terapeutica": "Alivia el dolor moderado a intenso cuando su uso está clínicamente indicado.",
+        "mecanismo_accion": "Actúa como agonista débil de los receptores opioides mu. Además, inhibe la recaptación neuronal de noradrenalina y serotonina, modulando las vías descendentes de control del dolor. Uno de sus metabolitos, O-desmetiltramadol, posee mayor afinidad por los receptores mu. Su efecto varía según el metabolismo individual, incluida la actividad de CYP2D6."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral y presenta metabolismo de primer paso. También existen formulaciones parenterales y otras presentaciones según el país. El inicio y la duración del efecto dependen de la vía y de si la formulación es de liberación inmediata o prolongada.",
+        "distribucion": "Se distribuye ampliamente por el organismo y atraviesa la barrera hematoencefálica y la placenta. Su unión a proteínas plasmáticas es relativamente baja.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante CYP2D6 y CYP3A4. CYP2D6 participa en la formación de O-desmetiltramadol, metabolito con actividad opioide. Las variaciones genéticas y las interacciones pueden modificar su eficacia y toxicidad.",
+        "eliminacion": "Se elimina principalmente por vía renal como tramadol y metabolitos. La insuficiencia renal puede prolongar su eliminación."
+      },
+      "indicaciones": "Tratamiento del dolor moderado a intenso cuando el profesional considera apropiado un analgésico de acción central. La indicación depende de la formulación, la ficha técnica local y las características del paciente.",
+      "contraindicaciones": "Hipersensibilidad al tramadol o a componentes de la formulación; intoxicación aguda por alcohol, hipnóticos, analgésicos opioides u otros depresores centrales; uso concomitante con inhibidores de la monoaminooxidasa o durante el período de separación contraindicado en la ficha técnica; epilepsia no controlada; depresión respiratoria grave. Las restricciones específicas pueden variar según la presentación y la normativa local.",
+      "precauciones": "Usar con precaución en pacientes con antecedentes de convulsiones, traumatismo craneoencefálico, alteraciones de la conciencia, enfermedad respiratoria, apnea del sueño, insuficiencia renal o hepática, antecedentes de dependencia o riesgo de caídas. Puede producir dependencia física, tolerancia y síndrome de abstinencia. Existe riesgo de síndrome serotoninérgico, especialmente cuando se combina con medicamentos serotoninérgicos. La respuesta puede variar por diferencias en CYP2D6.",
+      "advertencias": "Puede causar depresión respiratoria, convulsiones y síndrome serotoninérgico. El riesgo de depresión respiratoria aumenta al combinarlo con alcohol, benzodiacepinas, otros opioides y sedantes. El uso junto con antidepresivos serotoninérgicos puede desencadenar síndrome serotoninérgico. No triturar ni masticar las formulaciones de liberación prolongada. Evitar la suspensión brusca tras tratamientos prolongados sin supervisión profesional.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar únicamente tras una valoración individual de riesgos y beneficios. El uso prolongado puede producir dependencia y síndrome de abstinencia neonatal, y la administración próxima al parto puede causar depresión respiratoria neonatal. No se recomienda la utilización durante la lactancia en diversas fichas técnicas, debido al paso del tramadol y su metabolito a la leche materna y al riesgo de efectos opioides en el lactante. Consultar la ficha técnica local y la valoración profesional.",
+      "ajustes": {
+        "renal": "Puede requerir reducción de la dosis o ampliación del intervalo en insuficiencia renal, según el grado de deterioro y la formulación. Las formulaciones de liberación prolongada pueden tener restricciones específicas en insuficiencia renal grave.",
+        "hepatico": "Puede requerir reducción de la dosis o ampliación del intervalo en insuficiencia hepática. Algunas formulaciones de liberación prolongada no son adecuadas en insuficiencia hepática grave. Seguir la ficha técnica específica."
+      },
+      "interacciones": "Los inhibidores de la monoaminooxidasa pueden causar interacciones graves. Los antidepresivos serotoninérgicos, como ISRS, IRSN y ciertos antidepresivos tricíclicos, aumentan el riesgo de síndrome serotoninérgico y convulsiones. Benzodiacepinas, alcohol, otros opioides y sedantes aumentan el riesgo de depresión respiratoria. Los inhibidores de CYP2D6 pueden alterar la formación del metabolito activo; los inhibidores o inductores de CYP3A4 también pueden modificar la exposición. Algunos medicamentos que reducen el umbral convulsivo aumentan el riesgo de convulsiones.",
+      "reacciones_adversas": "Náuseas, vómitos, mareos, somnolencia, estreñimiento, sudoración, cefalea y sequedad de boca. También puede producir hipotensión, confusión, prurito, retención urinaria y dependencia. Las reacciones graves incluyen depresión respiratoria, convulsiones, anafilaxia y síndrome serotoninérgico.",
+      "toxicidad_sobredosis": "Puede provocar vómitos, disminución del nivel de conciencia, miosis, depresión respiratoria, hipotensión, taquicardia o bradicardia y convulsiones. También puede aparecer síndrome serotoninérgico, especialmente en presencia de otros medicamentos serotoninérgicos. Activar la respuesta de emergencia, asegurar la vía aérea y proporcionar soporte respiratorio y circulatorio según necesidad. La naloxona puede revertir la depresión respiratoria de origen opioide, pero no revierte todos los efectos tóxicos y puede aumentar el riesgo de convulsiones; su uso debe seguir el protocolo clínico. Requiere evaluación médica urgente.",
+      "antidotos": "No existe un antídoto único que revierta todas las manifestaciones de la sobredosis. La naloxona puede utilizarse para la depresión respiratoria de origen opioide conforme al protocolo, teniendo en cuenta el posible riesgo de convulsiones. El tratamiento incluye soporte de la vía aérea, ventilación, control de convulsiones y manejo de otras complicaciones.",
+      "monitorizacion": {
+        "clinica": "Controlar respuesta analgésica, frecuencia y patrón respiratorio, saturación de oxígeno, nivel de conciencia, sedación, presión arterial y frecuencia cardíaca. Vigilar convulsiones y signos de síndrome serotoninérgico, como agitación, fiebre, sudoración, temblor, clonus, hiperreflexia o rigidez. Valorar riesgo de caídas y signos de dependencia.",
+        "laboratorio": "No requiere pruebas de laboratorio rutinarias en todos los pacientes. Valorar función renal y hepática según los antecedentes y la duración del tratamiento. Si se sospecha sobredosis o síndrome serotoninérgico, solicitar estudios según la situación clínica y el protocolo institucional."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar identidad, indicación, prescripción, formulación, dosis, vía, alergias y medicación concomitante. Valorar intensidad y características del dolor, frecuencia y patrón respiratorio, saturación de oxígeno, nivel de conciencia, función renal y hepática, antecedentes de convulsiones y uso de antidepresivos, sedantes u otros opioides.",
+        "durante": "Evaluar la respuesta analgésica y vigilar sedación, respiración, oxigenación y estabilidad hemodinámica. Observar convulsiones, agitación, temblor, fiebre, hiperreflexia, clonus y otros signos compatibles con síndrome serotoninérgico. En pacientes de riesgo, aumentar la vigilancia según el protocolo.",
+        "despues": "Reevaluar el dolor, el nivel de conciencia, la respiración y los signos vitales. Vigilar efectos adversos y documentar la respuesta terapéutica. Tras una sobredosis o una intervención con naloxona, mantener observación clínica por posible recurrencia de la toxicidad."
+      },
+      "presentaciones": "Comprimidos, cápsulas, gotas o solución oral, solución inyectable y formulaciones de liberación prolongada, según el país y el fabricante. Las concentraciones, las vías autorizadas y las indicaciones varían entre productos.",
+      "dosis": {
+        "adultos": "Individualizar según intensidad del dolor, vía, formulación, edad, función renal y hepática, respuesta y medicación concomitante. Las formulaciones de liberación inmediata y prolongada tienen pautas diferentes y no deben intercambiarse sin una conversión clínica específica. Respetar la dosis máxima de la ficha técnica local y no aplicar una pauta genérica a todas las presentaciones.",
+        "pediatrico": "El uso está restringido por edad y situación clínica, y puede estar contraindicado en determinados grupos pediátricos. No utilizar una pauta universal por peso. Verificar la autorización local, la edad, la indicación y la formulación, y seguir la prescripción de un profesional con experiencia pediátrica.",
+        "geriatrico": "Puede requerir dosis menores o intervalos más amplios, especialmente en mayores de 75 años o en presencia de insuficiencia renal o hepática. Vigilar sedación, confusión, depresión respiratoria, convulsiones y riesgo de caídas."
+      },
+      "vias_administracion": "Oral, intravenosa, intramuscular o subcutánea, según la presentación autorizada y la ficha técnica local. No triturar ni masticar las formulaciones de liberación prolongada.",
+      "preparacion": {
+        "dilucion": "Para la presentación inyectable, verificar la concentración de la ampolla y las instrucciones del fabricante. Diluir únicamente cuando esté indicado, con el diluyente autorizado y siguiendo el protocolo institucional. Utilizar técnica aséptica, rotular la concentración final y aplicar la doble verificación establecida para medicamentos de alto riesgo.",
+        "compatibilidad_iv": "La compatibilidad depende de la concentración, el diluyente, el recipiente y los medicamentos administrados simultáneamente. Consultar una fuente institucional de compatibilidad intravenosa antes de mezclarlo con otros fármacos o administrarlo en la misma línea. No asumir compatibilidad sin datos específicos."
+      },
+      "velocidad_infusion": "Depende de la indicación, la dosis y la formulación. Administrar conforme a la ficha técnica y al protocolo institucional, respetando la velocidad prescrita y vigilando la respuesta respiratoria y hemodinámica. Si se utiliza una infusión, emplear el dispositivo indicado y la monitorización correspondiente.",
+      "estabilidad_soluciones": "Depende de la presentación, la concentración, el diluyente, el recipiente y las condiciones de conservación. Preparar y conservar según la ficha técnica del fabricante y las normas institucionales. No establecer un tiempo de estabilidad después de la dilución sin datos específicos. Desechar la solución si presenta alteraciones visibles o no se puede garantizar su integridad.",
+      "concentracion": "Variable según el fabricante y la presentación. Verificar si la etiqueta expresa la cantidad como tramadol clorhidrato y comprobar los miligramos por unidad o los miligramos por mililitro antes de calcular y administrar la dosis.",
+      "alarma_riesgo": "Riesgo de depresión respiratoria, convulsiones, síndrome serotoninérgico y dependencia. El riesgo aumenta con otros depresores del sistema nervioso central, medicamentos serotoninérgicos y determinados fármacos que alteran CYP2D6 o CYP3A4. Verificar formulación, dosis, unidades y medicación concomitante antes de administrar.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la identidad del paciente, la indicación, la prescripción, la dosis, las unidades, la vía y la formulación.",
+          "Valorar el dolor y controlar el nivel de conciencia, la frecuencia respiratoria, la saturación de oxígeno y los signos vitales según el riesgo clínico.",
+          "Revisar la medicación concomitante, especialmente antidepresivos, benzodiacepinas, otros opioides, sedantes y fármacos que reduzcan el umbral convulsivo.",
+          "No triturar ni masticar comprimidos de liberación prolongada y no intercambiar formulaciones sin una conversión clínica específica.",
+          "Vigilar signos de depresión respiratoria, convulsiones y síndrome serotoninérgico; ante sospecha de reacción grave, suspender nuevas administraciones y activar el protocolo institucional.",
+          "Aplicar las medidas de prevención de caídas si el paciente presenta mareos, somnolencia o hipotensión.",
+          "Comprobar la función renal y hepática cuando corresponda y comunicar cambios clínicos que puedan requerir ajuste de la pauta.",
+          "Registrar dosis, vía, hora, respuesta analgésica y reacciones adversas."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento exactamente como fue prescrito y no aumentar la dosis por falta de alivio sin consultar al equipo sanitario.",
+          "Evitar el alcohol y no combinarlo con sedantes u otros opioides sin indicación profesional.",
+          "No conducir ni manejar maquinaria si presenta somnolencia, mareos o disminución del estado de alerta.",
+          "Consultar de urgencia ante respiración lenta, dificultad para despertar, convulsiones, fiebre acompañada de agitación o temblores intensos.",
+          "Informar al profesional sanitario sobre todos los medicamentos que utiliza, especialmente antidepresivos y otros analgésicos.",
+          "No triturar ni masticar las formulaciones de liberación prolongada y no suspender bruscamente un tratamiento prolongado sin orientación profesional.",
+          "Conservar el medicamento fuera del alcance de niños y otras personas, no compartirlo y desechar los sobrantes de forma segura."
+        ]
+      }
     }
   ]
 }
