@@ -10148,6 +10148,79 @@
           "No suspender ni modificar otros antidiabéticos sin indicación profesional."
         ]
       }
+    },
+    {
+      "id": "128",
+      "nombre_generico": "Adrenalina (epinefrina)",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Adrenalina",
+        "clasificacion": "Agonista adrenérgico alfa y beta; catecolamina endógena; vasopresor y broncodilatador; código ATC C01CA24",
+        "efecto_terapeutica": "Aumenta la presión arterial y el gasto cardíaco; produce broncodilatación; reduce el edema de la mucosa y mejora la perfusión durante determinadas emergencias",
+        "mecanismo_accion": "Estimula receptores alfa-1, alfa-2, beta-1 y beta-2; produce vasoconstricción, aumento de la contractilidad y frecuencia cardíaca, y relajación del músculo liso bronquial"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La absorción intramuscular es rápida; la administración intravenosa produce efecto inmediato; la absorción subcutánea puede ser más lenta por vasoconstricción local",
+        "distribucion": "Se distribuye ampliamente; atraviesa la placenta y presenta penetración limitada en el sistema nervioso central",
+        "metabolismo": "Se metaboliza rápidamente mediante catecol-O-metiltransferasa (COMT) y monoaminooxidasa (MAO), principalmente en hígado y otros tejidos",
+        "eliminacion": "Se elimina por orina principalmente en forma de metabolitos; la duración del efecto es breve"
+      },
+      "indicaciones": "Anafilaxia; paro cardíaco; hipotensión grave y shock en contextos específicos; broncoespasmo grave en determinadas situaciones; otras indicaciones según el protocolo de urgencias y la ficha técnica del producto",
+      "contraindicaciones": "En situaciones de emergencia vital, como anafilaxia o paro cardíaco, no existen contraindicaciones absolutas que justifiquen omitir el tratamiento indicado; fuera de estas situaciones, valorar hipersensibilidad a excipientes, arritmias, hipertensión grave, cardiopatía isquémica e hipertiroidismo según la indicación",
+      "precauciones": "Cardiopatía isquémica; arritmias; hipertensión; hipertiroidismo; diabetes; enfermedad vascular periférica; hipovolemia; edad avanzada; uso concomitante de anestésicos halogenados o medicamentos que potencian la respuesta adrenérgica",
+      "advertencias": "Medicamento de alto riesgo; comprobar cuidadosamente la concentración y la vía antes de administrar; las soluciones de 1 mg/ml y las diluciones para infusión no son intercambiables en todos los contextos; la administración intravenosa debe reservarse para indicaciones y personal capacitado; la extravasación puede producir isquemia y necrosis",
+      "embarazo_lactancia": "En emergencias vitales debe utilizarse cuando esté indicada, ponderando riesgos y beneficios; durante la anafilaxia en el embarazo no debe retrasarse el tratamiento indicado; consultar el prospecto específico para la lactancia",
+      "ajustes": {
+        "renal": "No existe un ajuste renal universal establecido para las emergencias; individualizar según la indicación y el estado hemodinámico",
+        "hepatico": "No existe un ajuste hepático universal establecido para las emergencias; individualizar según la indicación y la respuesta clínica"
+      },
+      "interacciones": "Los betabloqueantes pueden modificar o antagonizar determinados efectos; los antidepresivos tricíclicos y los inhibidores de la MAO pueden potenciar la respuesta presora; otros simpaticomiméticos aumentan el riesgo de efectos cardiovasculares; los anestésicos halogenados pueden aumentar el riesgo de arritmias; los glucósidos cardíacos pueden aumentar el riesgo arrítmico",
+      "reacciones_adversas": "Taquicardia; palpitaciones; hipertensión; arritmias; angina; temblor; ansiedad; cefalea; sudoración; hiperglucemia; hipopotasemia; edema pulmonar; isquemia y necrosis por extravasación",
+      "toxicidad_sobredosis": "Puede provocar hipertensión grave, arritmias, isquemia miocárdica, edema pulmonar y hemorragia cerebral; requiere atención urgente, monitorización cardiovascular y tratamiento de soporte especializado",
+      "antidotos": "No existe un antídoto específico; el tratamiento de las complicaciones cardiovasculares debe ser dirigido por personal médico especializado",
+      "monitorizacion": {
+        "clinica": "Presión arterial; frecuencia cardíaca; electrocardiograma; saturación de oxígeno; perfusión periférica; estado respiratorio; respuesta clínica; sitio de administración",
+        "laboratorio": "Glucemia; potasio; equilibrio ácido-base y lactato cuando la gravedad clínica lo justifique"
+      },
+      "parametros_valoracion": {
+        "antes": "Identificar la indicación urgente; evaluar vía aérea, respiración, circulación, presión arterial, frecuencia cardíaca y peso cuando corresponda; verificar concentración, vía y dosis prescritas",
+        "durante": "Monitorizar continuamente el ritmo cardíaco y la presión arterial cuando la situación y la vía lo requieran; vigilar perfusión, oxigenación, extravasación y respuesta terapéutica",
+        "despues": "Reevaluar la respuesta hemodinámica y respiratoria; documentar dosis, concentración, vía, hora y respuesta; vigilar arritmias, isquemia y complicaciones locales"
+      },
+      "presentaciones": "Solución inyectable; el vademécum argentino de formulaciones para urgencias incluye ampollas de 1 mg/ml; confirmar presentación y excipientes del producto institucional",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación: en anafilaxia se utiliza habitualmente 0,3 a 0,5 mg por vía intramuscular en la cara anterolateral del muslo, con repetición según respuesta y protocolo; en paro cardíaco adulto, el protocolo de reanimación utiliza 1 mg IV/IO cada 3 a 5 minutos; la infusión para shock requiere titulación y monitorización especializada",
+        "pediatrico": "La dosis depende de la indicación y del peso; en anafilaxia suele utilizarse 0,01 mg/kg IM de la solución de 1 mg/ml, con máximo por dosis según protocolo; en paro cardíaco, 0,01 mg/kg IV/IO de la concentración apropiada, con dosis máxima según protocolo de reanimación pediátrica",
+        "geriatrico": "No existe una pauta única; individualizar según indicación, estado cardiovascular, peso, fragilidad y respuesta hemodinámica"
+      },
+      "vias_administracion": "Intramuscular; intravenosa; intraósea en reanimación según protocolo; subcutánea en indicaciones específicas; la vía depende de la urgencia y de la formulación",
+      "preparacion": {
+        "dilucion": "Para anafilaxia, utilizar la presentación y vía IM indicadas por el protocolo; para infusión intravenosa, diluir según el prospecto del producto y el protocolo institucional; no improvisar diluciones ni confundir concentraciones",
+        "compatibilidad_iv": "Verificar diluyente, concentración final y compatibilidad en el prospecto de la presentación y en la guía institucional; utilizar una vía exclusiva cuando lo indique el protocolo"
+      },
+      "velocidad_infusion": "No existe una velocidad única; en infusión IV continua, titular según indicación, respuesta hemodinámica y protocolo institucional, con monitorización continua",
+      "estabilidad_soluciones": "Proteger de la luz según el prospecto; no utilizar soluciones con cambios de coloración o partículas; respetar el plazo de uso de la dilución establecido por el fabricante o el protocolo institucional",
+      "concentracion": "No existe una concentración máxima de administración universal aplicable a todas las vías e indicaciones; 1 mg/ml es una concentración comercial habitual, no un límite universal para infusión intravenosa",
+      "alarma_riesgo": "Error de concentración o vía; hipertensión grave; arritmia; dolor torácico; deterioro respiratorio; extravasación con palidez, dolor o isquemia local",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar indicación, concentración, dosis, vía y paciente antes de administrar.",
+          "Realizar doble control independiente cuando lo establezca el protocolo de medicamentos de alto riesgo.",
+          "Monitorizar presión arterial, frecuencia cardíaca, electrocardiograma y saturación según la indicación.",
+          "Comprobar la permeabilidad de la vía intravenosa y vigilar la extravasación.",
+          "Utilizar bomba de infusión para administración intravenosa continua.",
+          "Registrar la respuesta clínica y las dosis repetidas.",
+          "Revisar la solución antes de usarla y descartar ampollas con alteraciones visibles."
+        ],
+        "educacion_paciente": [
+          "Explicar que se trata de un medicamento de emergencia administrado por personal capacitado, salvo dispositivos de autoinyección prescritos.",
+          "Si tiene autoinyector prescrito, aprender a utilizarlo y llevarlo consigo según las indicaciones.",
+          "Después de usar un autoinyector por anafilaxia, solicitar atención de emergencia aunque los síntomas mejoren.",
+          "Informar sobre cardiopatías, hipertensión y medicamentos concomitantes cuando sea posible sin retrasar una emergencia.",
+          "No intentar preparar ni administrar infusiones intravenosas por cuenta propia."
+        ]
+      }
     }
   ]
 }
