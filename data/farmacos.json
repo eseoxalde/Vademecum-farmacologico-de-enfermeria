@@ -7101,6 +7101,84 @@
           "No reutilizar tratamientos sobrantes ni compartir el medicamento con otras personas."
         ]
       }
+    },
+    {
+      "id": "88",
+      "nombre_generico": "Fentanilo",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fentanilo, generalmente como citrato de fentanilo en formulaciones inyectables.",
+        "clasificacion": "Analgésico opioide sintético potente, agonista de los receptores opioides mu. Medicamento de alto riesgo y sujeto a controles especiales según la normativa local.",
+        "efecto_terapeutica": "Produce analgesia intensa y puede utilizarse como coadyuvante anestésico. También puede causar sedación y depresión respiratoria.",
+        "mecanismo_accion": "Activa principalmente los receptores opioides mu del sistema nervioso central, inhibiendo la transmisión de señales nociceptivas y modificando la percepción y respuesta emocional al dolor. También deprime los centros respiratorios y puede producir rigidez muscular, especialmente con dosis elevadas o administración rápida."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Por vía intravenosa, el efecto aparece rápidamente. La absorción por vía transdérmica es gradual y depende de la formulación, la temperatura y las características de la piel. Las formulaciones transmucosas tienen perfiles de absorción específicos y no son intercambiables entre sí.",
+        "distribucion": "Es altamente liposoluble, atraviesa la barrera hematoencefálica y se distribuye rápidamente a tejidos muy perfundidos, con posterior redistribución. Se une ampliamente a proteínas plasmáticas.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante CYP3A4 a metabolitos mayoritariamente inactivos.",
+        "eliminacion": "Se elimina principalmente por vía renal en forma de metabolitos; una pequeña proporción se excreta sin cambios. La duración del efecto depende de la dosis, la vía, la duración de la administración y las características del paciente."
+      },
+      "indicaciones": "Analgesia durante procedimientos quirúrgicos y anestesia, manejo del dolor agudo intenso en entornos monitorizados y determinadas situaciones de dolor intenso bajo supervisión especializada. Las formulaciones transdérmicas se reservan para el dolor crónico intenso que requiere tratamiento opioide continuo en pacientes con tolerancia a opioides. Las formulaciones transmucosas tienen indicaciones específicas y restringidas, como ciertos episodios de dolor irruptivo en pacientes con cáncer que ya reciben opioides de forma regular.",
+      "contraindicaciones": "Hipersensibilidad al fentanilo o a componentes de la formulación. Depresión respiratoria significativa sin soporte ventilatorio, asma bronquial aguda o grave en un entorno no monitorizado y obstrucción gastrointestinal, incluido íleo paralítico, según la formulación. Los parches transdérmicos están contraindicados para el dolor agudo, posoperatorio o intermitente y en pacientes sin tolerancia previa a opioides. Verificar las contraindicaciones específicas de la presentación.",
+      "precauciones": "Extremar las precauciones en personas mayores, pacientes debilitados, con enfermedad respiratoria, apnea del sueño, traumatismo craneoencefálico, alteración del nivel de conciencia, hipotensión, bradicardia, enfermedad hepática o antecedentes de trastornos por consumo de sustancias. Puede producir dependencia, tolerancia y síndrome de abstinencia. La exposición al calor externo puede aumentar la absorción de los parches transdérmicos.",
+      "advertencias": "Puede provocar depresión respiratoria grave o mortal, sedación profunda, hipotensión y paro cardiorrespiratorio. El riesgo aumenta al combinarlo con alcohol, benzodiacepinas u otros depresores del sistema nervioso central. La administración intravenosa rápida o de dosis elevadas puede causar rigidez de la pared torácica y dificultar la ventilación. Requiere disponibilidad de oxígeno, equipos de ventilación, monitorización y naloxona. No sustituir una formulación por otra microgramo por microgramo sin una conversión clínica específica.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar solo cuando exista una indicación clínica clara y tras evaluar riesgos y beneficios. La administración prolongada puede causar dependencia y síndrome de abstinencia neonatal; la exposición próxima al parto puede producir depresión respiratoria neonatal. Durante la lactancia, consultar la ficha técnica y valorar alternativas y riesgos, ya que puede causar sedación y depresión respiratoria en el lactante. La recomendación depende de la formulación, la duración del tratamiento y la situación clínica.",
+      "ajustes": {
+        "renal": "No existe una pauta única para todas las situaciones. En insuficiencia renal, utilizar con precaución, valorar la respuesta y vigilar sedación y depresión respiratoria, especialmente con dosis repetidas o infusiones prolongadas.",
+        "hepatico": "Puede disminuir el metabolismo y prolongarse la exposición en pacientes con insuficiencia hepática. Considerar una reducción de dosis o una titulación más lenta y aumentar la vigilancia clínica."
+      },
+      "interacciones": "La combinación con benzodiacepinas, alcohol, anestésicos generales, sedantes, hipnóticos, otros opioides y otros depresores del sistema nervioso central aumenta el riesgo de sedación profunda, depresión respiratoria, coma y muerte. Los inhibidores de CYP3A4, como algunos macrólidos, antifúngicos azólicos y ritonavir, pueden aumentar las concentraciones y prolongar los efectos. Los inductores de CYP3A4 pueden disminuir la exposición y, al suspenderlos, aumentar el riesgo de toxicidad. Los fármacos serotoninérgicos pueden aumentar el riesgo de síndrome serotoninérgico. Los antagonistas opioides pueden revertir la analgesia y precipitar abstinencia en pacientes dependientes.",
+      "reacciones_adversas": "Depresión respiratoria, sedación, mareos, náuseas, vómitos, estreñimiento, prurito, sudoración, miosis, bradicardia e hipotensión. También puede causar retención urinaria, rigidez muscular, tolerancia, dependencia y síndrome de abstinencia. Las reacciones graves incluyen apnea, paro cardiorrespiratorio, anafilaxia y síndrome serotoninérgico.",
+      "toxicidad_sobredosis": "Puede producir somnolencia profunda, dificultad para despertar, respiración lenta o ausente, cianosis, pupilas puntiformes, hipotensión, bradicardia y coma. Retirar la fuente de exposición cuando sea posible y seguro, activar la respuesta de emergencia, asegurar la vía aérea y proporcionar ventilación y oxígeno según necesidad. Administrar naloxona conforme al protocolo de emergencia. Puede requerirse repetir la naloxona porque su efecto puede durar menos que el del fentanilo; mantener vigilancia por posible recurrencia de la depresión respiratoria.",
+      "antidotos": "Naloxona, antagonista de los receptores opioides. Administrar según el protocolo de emergencia y la presentación disponible, repitiendo las dosis si es necesario. La ventilación y el soporte de la vía aérea son prioritarios y no deben demorarse mientras se administra el antídoto.",
+      "monitorizacion": {
+        "clinica": "Controlar frecuencia y patrón respiratorio, saturación de oxígeno, nivel de conciencia, sedación, presión arterial, frecuencia cardíaca y respuesta analgésica. Durante sedación profunda, anestesia o infusión intravenosa, utilizar monitorización acorde con el entorno y el protocolo, que puede incluir capnografía. Vigilar rigidez muscular y signos de toxicidad. Tras administrar naloxona, observar la posible reaparición de la depresión respiratoria.",
+        "laboratorio": "No requiere pruebas de laboratorio rutinarias para todas las administraciones. Según el contexto clínico, valorar función renal y hepática, gases en sangre y otros estudios si existe compromiso respiratorio o hemodinámico. La monitorización clínica y respiratoria es prioritaria en la detección de toxicidad."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar la indicación, la formulación, la vía, la dosis y los antecedentes de exposición a opioides. Valorar dolor, frecuencia y patrón respiratorio, saturación de oxígeno, presión arterial, frecuencia cardíaca, nivel de conciencia, función respiratoria y medicación concomitante. Comprobar disponibilidad de equipos de reanimación y naloxona cuando corresponda.",
+        "durante": "Vigilar continuamente o con la frecuencia establecida por el protocolo el estado respiratorio, la oxigenación, el nivel de sedación y la estabilidad hemodinámica. Evaluar la analgesia y observar apnea, hipoventilación, hipotensión, bradicardia, rigidez muscular y reacciones de hipersensibilidad. En parches, verificar su ubicación, adherencia y fecha y hora de colocación.",
+        "despues": "Reevaluar el dolor, la sedación, la ventilación y los signos vitales. Mantener la vigilancia durante el período indicado según la vía, la dosis y la respuesta clínica. Documentar la administración, el efecto terapéutico y los eventos adversos. Después de una reversión con naloxona, mantener observación por riesgo de recurrencia de la toxicidad."
+      },
+      "presentaciones": "Solución inyectable, parches transdérmicos y formulaciones transmucosas o intranasales en determinados países y para indicaciones específicas. Las concentraciones, los dispositivos y las autorizaciones varían según el fabricante y la jurisdicción.",
+      "dosis": {
+        "adultos": "Individualizar según la indicación, la vía, la edad, el estado clínico, la tolerancia a opioides y la respuesta. En anestesia y analgesia intravenosa, administrar mediante titulación por personal capacitado y bajo monitorización. Los parches y las formulaciones transmucosas tienen esquemas específicos y no deben utilizarse como sustitutos directos de la formulación inyectable. Verificar la ficha técnica local y la prescripción.",
+        "pediatrico": "La dosis depende del peso, la edad, la indicación, la vía y el contexto anestésico o analgésico. Debe establecerla personal con experiencia en analgesia pediátrica y monitorización apropiada. No extrapolar dosis de adultos ni utilizar formulaciones transdérmicas o transmucosas sin comprobar las restricciones específicas de edad e indicación.",
+        "geriatrico": "Iniciar con una dosis menor cuando corresponda, titular lentamente y vigilar estrechamente la sedación, la ventilación y la presión arterial. Considerar fragilidad, función hepática y renal, comorbilidades y uso concomitante de sedantes."
+      },
+      "vias_administracion": "Intravenosa o intramuscular para determinadas presentaciones inyectables; transdérmica mediante parches; y transmucosa o intranasal para formulaciones específicas autorizadas. La vía depende de la presentación y de la indicación. No triturar, cortar ni modificar parches o dispositivos salvo autorización expresa de la ficha técnica.",
+      "preparacion": {
+        "dilucion": "Para la formulación inyectable, verificar la concentración de la ampolla y las instrucciones del fabricante. Diluir solo si la presentación y el protocolo institucional lo indican, utilizando técnica aséptica y una etiqueta que identifique el fármaco, la concentración y la preparación. Realizar una doble verificación independiente según la política institucional para medicamentos de alto riesgo.",
+        "compatibilidad_iv": "La compatibilidad depende de la concentración, el diluyente, el recipiente y los medicamentos administrados simultáneamente. Consultar una fuente institucional de compatibilidad intravenosa antes de mezclarlo o administrarlo en una misma línea. No asumir compatibilidad por pertenecer al mismo grupo terapéutico."
+      },
+      "velocidad_infusion": "Depende de la indicación, la dosis y la presentación. Administrar lentamente y de forma titulada conforme a la ficha técnica y al protocolo institucional. Evitar la administración intravenosa rápida, que puede causar depresión respiratoria, hipotensión y rigidez muscular. Utilizar bomba de infusión cuando corresponda y mantener monitorización apropiada.",
+      "estabilidad_soluciones": "Depende de la presentación, la concentración, el diluyente, el recipiente y las condiciones de conservación. Preparar y conservar según la ficha técnica del fabricante y la política institucional. No establecer un período de estabilidad después de la dilución sin datos específicos. Desechar la solución si presenta alteraciones visibles o no se puede garantizar su integridad.",
+      "concentracion": "Variable según la presentación y el fabricante. Verificar la concentración exacta en microgramos por mililitro (mcg/mL), la cantidad total por ampolla o dispositivo y las unidades de la prescripción. No confundir microgramos con miligramos: 1 mg equivale a 1000 mcg.",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Puede causar depresión respiratoria mortal. Requiere control estricto de la dosis, la vía y la formulación, vigilancia respiratoria, acceso a soporte ventilatorio y disponibilidad de naloxona. El calor externo puede aumentar la liberación de fentanilo desde los parches. Evitar errores de conversión entre microgramos y miligramos y entre formulaciones.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar identidad del paciente, indicación, prescripción, dosis, unidades, vía, concentración y formulación antes de administrar.",
+          "Aplicar la doble verificación independiente prevista por el protocolo institucional para medicamentos opioides de alto riesgo.",
+          "Valorar dolor, frecuencia y patrón respiratorio, saturación de oxígeno, presión arterial, frecuencia cardíaca y nivel de conciencia antes y después de la administración.",
+          "Mantener monitorización respiratoria y hemodinámica según la vía, la dosis y el nivel de sedación; disponer de oxígeno, equipos de ventilación y naloxona cuando corresponda.",
+          "No administrar dosis adicionales si aparecen sedación excesiva, respiración lenta o deterioro del nivel de conciencia; activar la respuesta clínica de emergencia según el protocolo.",
+          "Administrar por vía intravenosa lentamente y mediante titulación conforme a la prescripción y al protocolo. Vigilar hipotensión, bradicardia y rigidez muscular.",
+          "En parches transdérmicos, comprobar la integridad de la piel, la fecha y hora de colocación y la retirada del parche anterior. Evitar fuentes de calor y seguir el procedimiento institucional para su eliminación segura.",
+          "No cortar los parches ni alterar dispositivos de liberación modificada. No intercambiar formulaciones sin una conversión específica realizada por un profesional habilitado.",
+          "Registrar la dosis administrada, el efecto analgésico, los controles realizados, las reacciones adversas y la eliminación segura de los residuos.",
+          "Respetar las normas institucionales de almacenamiento, custodia, registro y control de estupefacientes."
+        ],
+        "educacion_paciente": [
+          "Utilizar el fentanilo exclusivamente según la prescripción. No compartirlo ni modificar la dosis o la formulación por cuenta propia.",
+          "Evitar el consumo de alcohol y no combinarlo con sedantes u otros opioides sin indicación y supervisión profesional.",
+          "Solicitar ayuda urgente si aparece respiración lenta o superficial, dificultad para despertar, labios azulados o pérdida de conciencia.",
+          "Si utiliza parches, evitar almohadillas térmicas, mantas eléctricas, saunas y otras fuentes de calor sobre el parche o cerca de él; mantenerlos fuera del alcance de niños y otras personas.",
+          "No retirar un parche y exponerlo a otra persona, ni desecharlo de forma que pueda quedar accesible. Seguir las instrucciones de eliminación segura.",
+          "No suspender bruscamente un tratamiento prolongado sin orientación profesional, debido al riesgo de abstinencia.",
+          "Conservar el medicamento bajo llave y devolver los sobrantes según las indicaciones locales de eliminación segura."
+        ]
+      }
     }
   ]
 }
