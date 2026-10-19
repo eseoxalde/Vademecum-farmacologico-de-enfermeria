@@ -6873,6 +6873,83 @@
           "Informar al equipo de salud sobre todos los medicamentos y suplementos que utiliza."
         ]
       }
+    },
+    {
+      "id": "85",
+      "nombre_generico": "Ácido acetilsalicílico",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Ácido acetilsalicílico (AAS)",
+        "clasificacion": "Antiinflamatorio no esteroideo (AINE), analgésico, antipirético y antiagregante plaquetario.",
+        "efecto_terapeutica": "Alivia el dolor leve a moderado, reduce la fiebre y la inflamación. A dosis bajas inhibe la agregación plaquetaria y se utiliza para prevenir determinados eventos trombóticos cardiovasculares.",
+        "mecanismo_accion": "Acetila e inhibe irreversiblemente las enzimas ciclooxigenasa COX-1 y COX-2. Reduce la síntesis de prostaglandinas y, en las plaquetas, de tromboxano A2, disminuyendo la agregación plaquetaria durante la vida de la plaqueta."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral en el estómago y el intestino delgado. La absorción depende de la formulación; los comprimidos gastrorresistentes pueden presentar un inicio de absorción más tardío.",
+        "distribucion": "El ácido acetilsalicílico se distribuye en los tejidos y se hidroliza rápidamente a salicilato. Tanto el fármaco como sus metabolitos se unen a proteínas plasmáticas en proporción variable según la concentración.",
+        "metabolismo": "Se hidroliza rápidamente a salicilato en el plasma, la pared intestinal y el hígado. El salicilato se metaboliza principalmente en el hígado mediante conjugación.",
+        "eliminacion": "Se elimina por vía renal como salicilato y metabolitos. La eliminación depende de la dosis y del pH urinario; a dosis elevadas puede saturarse el metabolismo y prolongarse considerablemente la semivida."
+      },
+      "indicaciones": "A dosis analgésicas y antipiréticas, tratamiento sintomático de dolor leve a moderado y fiebre en pacientes seleccionados. A dosis antiagregantes, prevención secundaria de eventos cardiovasculares y cerebrovasculares en pacientes con indicación médica, como determinados casos de infarto de miocardio, accidente cerebrovascular isquémico o enfermedad arterial establecida. En situaciones agudas, como sospecha de síndrome coronario agudo, se utiliza según protocolos de emergencia. No iniciar por cuenta propia como prevención primaria.",
+      "contraindicaciones": "Hipersensibilidad al ácido acetilsalicílico, salicilatos o AINE; antecedentes de asma, broncoespasmo, urticaria o angioedema desencadenados por estos medicamentos; úlcera péptica activa o hemorragia; trastornos hemorrágicos importantes; insuficiencia renal o hepática grave según la ficha técnica; y tercer trimestre del embarazo, especialmente en dosis analgésicas o antiinflamatorias. Está contraindicado en niños y adolescentes con infecciones virales por el riesgo de síndrome de Reye, salvo indicaciones especializadas específicas.",
+      "precauciones": "Utilizar con precaución en personas mayores, pacientes con antecedentes de enfermedad gastrointestinal, asma, enfermedad renal o hepática, hipertensión, gota o deshidratación. Aumenta el riesgo de sangrado y puede producir broncoespasmo en personas sensibles. Antes de una intervención quirúrgica o procedimiento invasivo, evaluar la indicación y el riesgo hemorrágico; no suspender un tratamiento antiagregante prescrito sin indicación médica.",
+      "advertencias": "Puede producir hemorragia gastrointestinal, úlcera y, raramente, hemorragia intracraneal. La inhibición plaquetaria persiste varios días después de suspenderlo. No combinar con otros AINE o anticoagulantes sin valoración médica. La administración a menores con cuadros virales se asocia al síndrome de Reye. En el embarazo, los riesgos dependen de la dosis y la edad gestacional: la aspirina a dosis bajas puede estar indicada por un profesional para determinadas condiciones obstétricas, por lo que no debe confundirse con las dosis analgésicas o antiinflamatorias.",
+      "embarazo_lactancia": "Durante el embarazo, las dosis analgésicas y antiinflamatorias deben evitarse salvo indicación médica; los AINE pueden causar alteraciones renales fetales y oligohidramnios desde aproximadamente la semana 20, y están contraindicados en el tercer trimestre según la ficha técnica. La aspirina a dosis bajas puede indicarse para prevención de preeclampsia u otras situaciones específicas bajo supervisión obstétrica. Durante la lactancia, el uso repetido o en dosis altas requiere valoración profesional; pueden preferirse alternativas según la indicación.",
+      "ajustes": {
+        "renal": "Evitar en insuficiencia renal grave. En insuficiencia leve o moderada, utilizar con precaución y valorar la dosis, la duración y la función renal. La intoxicación por salicilatos puede requerir tratamiento hospitalario especializado.",
+        "hepatico": "Evitar en insuficiencia hepática grave según la ficha técnica. Utilizar con precaución en enfermedad hepática, especialmente si existe riesgo de hemorragia o alteraciones de la coagulación."
+      },
+      "interacciones": "Anticoagulantes, heparinas, antiagregantes y trombolíticos: aumento del riesgo de sangrado. Otros AINE y corticoides: mayor riesgo gastrointestinal. Metotrexato: posible aumento de toxicidad. Ibuprofeno puede interferir con el efecto antiagregante del ácido acetilsalicílico si se administra en determinados intervalos. Alcohol: mayor riesgo de hemorragia gastrointestinal. Puede aumentar el efecto de algunos hipoglucemiantes y reducir la excreción de ácido úrico de determinados medicamentos uricosúricos, según dosis e interacción. Revisar la medicación concomitante antes de administrarlo.",
+      "reacciones_adversas": "Dispepsia, náuseas, dolor abdominal, irritación gástrica y mayor tendencia a hematomas o sangrado. Puede provocar úlcera y hemorragia gastrointestinal, broncoespasmo, reacciones alérgicas, alteraciones renales y, raramente, alteraciones hepáticas o hematológicas. A dosis elevadas puede causar tinnitus, pérdida auditiva, sudoración, náuseas, vómitos y alteraciones del equilibrio ácido-base.",
+      "toxicidad_sobredosis": "La intoxicación por salicilatos puede causar tinnitus, vómitos, sudoración, taquipnea, fiebre, deshidratación, alteraciones del estado mental, alcalosis respiratoria, acidosis metabólica, convulsiones y edema pulmonar. Requiere evaluación urgente y determinación de salicilatos, electrolitos, función renal, glucemia y equilibrio ácido-base. El tratamiento puede incluir carbón activado en casos seleccionados, alcalinización urinaria con bicarbonato y hemodiálisis en intoxicaciones graves, bajo manejo especializado. No inducir el vómito.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte y puede incluir bicarbonato de sodio para alcalinización sérica y urinaria y hemodiálisis en casos graves, según indicación toxicológica.",
+      "monitorizacion": {
+        "clinica": "Vigilar dolor, temperatura y respuesta terapéutica cuando se utiliza como analgésico o antipirético. En uso antiagregante, observar hematomas, epistaxis, hematuria, melena, hematemesis y otros signos de hemorragia. Valorar función renal, tolerancia gastrointestinal y signos de hipersensibilidad. En intoxicación, vigilar estado neurológico, frecuencia respiratoria, temperatura y equilibrio hídrico.",
+        "laboratorio": "Según indicación y duración, considerar hemograma, función renal y hepática. En pacientes con riesgo hemorrágico, valorar estudios de coagulación según la situación clínica, aunque estos no miden directamente el efecto antiagregante. En sospecha de intoxicación, solicitar concentración de salicilatos, gasometría, electrolitos, glucemia y función renal de acuerdo con el protocolo."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, vía y formulación. Valorar antecedentes de úlcera, hemorragia, asma por AINE, enfermedad renal o hepática, embarazo, alergias y medicación concomitante. Si se utiliza como antiagregante, verificar la indicación cardiovascular y el riesgo de sangrado.",
+        "durante": "Evaluar respuesta clínica y vigilar signos de hemorragia, molestias gastrointestinales, broncoespasmo, reacciones alérgicas y cambios en la función renal cuando corresponda. Comprobar que no se administren otros productos con ácido acetilsalicílico sin contabilizar la dosis total.",
+        "despues": "Registrar dosis, vía, horario y respuesta. En pacientes tratados como antiagregantes, documentar signos de sangrado y comunicar cualquier procedimiento invasivo planificado al equipo tratante. Ante sospecha de sobredosis, activar inmediatamente el protocolo de urgencia."
+      },
+      "presentaciones": "Comprimidos convencionales, masticables, efervescentes y gastrorresistentes en distintas concentraciones, según el fabricante. Existen presentaciones de dosis bajas para uso antiagregante y dosis mayores para analgesia o inflamación. Confirmar la concentración y el tipo de formulación antes de administrar.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación. Para antiagregación, son habituales dosis de 75 a 100 mg una vez al día, según indicación y presentación. En síndrome coronario agudo, la dosis inicial y la formulación se rigen por el protocolo de emergencia. Para dolor o fiebre, las dosis son mayores y dependen de la ficha técnica; no utilizar la pauta antiagregante como dosis analgésica ni viceversa. No iniciar ni modificar el tratamiento sin indicación profesional.",
+        "pediatrico": "No se recomienda para dolor o fiebre en niños y adolescentes con infecciones virales por el riesgo de síndrome de Reye. Su uso pediátrico se reserva a indicaciones específicas, como determinadas enfermedades inflamatorias o cardiológicas, bajo supervisión especializada y con dosis calculada por peso.",
+        "geriatrico": "Utilizar con precaución por el mayor riesgo de hemorragia gastrointestinal, alteración renal e interacciones farmacológicas. En prevención cardiovascular, mantener únicamente si existe indicación clínica. La dosis debe individualizarse y revisarse periódicamente."
+      },
+      "vias_administracion": "Principalmente oral. Algunas presentaciones pueden ser masticables o dispersables según las instrucciones del fabricante. No administrar por una vía distinta de la autorizada para la formulación.",
+      "preparacion": {
+        "dilucion": "Los comprimidos convencionales se administran según el prospecto; los efervescentes deben disolverse completamente en el volumen de agua indicado por el fabricante. No triturar comprimidos gastrorresistentes ni modificar la formulación sin confirmar que está permitido.",
+        "compatibilidad_iv": "No corresponde a las presentaciones orales habituales. No asumir que existe una formulación intravenosa disponible o autorizada localmente. Verificar el producto específico y el protocolo institucional antes de considerar cualquier preparación parenteral."
+      },
+      "velocidad_infusion": "No corresponde a las presentaciones orales habituales.",
+      "estabilidad_soluciones": "Para comprimidos efervescentes o soluciones preparadas, respetar las instrucciones del fabricante y administrar dentro del período indicado. Conservar las demás presentaciones en su envase original, protegidas de la humedad y según las condiciones especificadas en el prospecto.",
+      "concentracion": "Variable según la presentación. Existen comprimidos de dosis bajas, habitualmente de 75 a 100 mg para antiagregación, y comprimidos de dosis mayores para analgesia o inflamación. Verificar la concentración exacta en el envase.",
+      "alarma_riesgo": "ALERTA: aumenta el riesgo de sangrado y puede causar hemorragia gastrointestinal. No administrar sin verificar antecedentes de alergia a AINE, úlcera activa, tratamiento anticoagulante y edad del paciente. No utilizar para fiebre o dolor en niños con infecciones virales. No suspender un tratamiento antiagregante prescrito sin indicación médica.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar la indicación, la dosis, la vía y la formulación, diferenciando las dosis antiagregantes de las analgésicas.",
+          "Evaluar antecedentes de alergia a AINE, asma, úlcera péptica, hemorragia digestiva, enfermedad renal y hepática.",
+          "Revisar la medicación concomitante, especialmente anticoagulantes, antiagregantes, corticoides y otros AINE.",
+          "Vigilar hematomas, sangrado gingival, epistaxis, hematuria, melena y hematemesis.",
+          "Valorar la tolerancia gastrointestinal y la función renal en pacientes de riesgo.",
+          "No triturar comprimidos gastrorresistentes ni alterar la formulación sin autorización del prospecto.",
+          "En tratamientos antiagregantes, comunicar al equipo tratante cualquier procedimiento invasivo previsto; no suspender el medicamento de manera autónoma.",
+          "Ante signos de hemorragia importante, reacción alérgica o intoxicación, activar el protocolo de atención urgente.",
+          "Registrar la administración, la respuesta clínica y los efectos adversos."
+        ],
+        "educacion_paciente": [
+          "Explicar la finalidad del tratamiento y la diferencia entre las dosis bajas antiagregantes y las dosis analgésicas.",
+          "No combinar con ibuprofeno, naproxeno u otros AINE sin consultar, debido al mayor riesgo de sangrado y a posibles interacciones.",
+          "Consultar antes de utilizarlo si toma anticoagulantes, tiene antecedentes de úlcera o sangrado, padece enfermedad renal o está embarazada.",
+          "Informar al profesional de salud antes de una cirugía, extracción dental u otro procedimiento invasivo.",
+          "Buscar atención urgente ante vómitos con sangre, heces negras, sangrado persistente, dificultad respiratoria o hinchazón de la cara.",
+          "No administrar a niños o adolescentes con cuadros virales salvo indicación especializada.",
+          "No suspender el tratamiento antiagregante por cuenta propia y consultar antes de iniciar otros medicamentos."
+        ]
+      }
     }
   ]
 }
