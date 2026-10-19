@@ -6224,6 +6224,85 @@
           "Consultar al equipo médico si está embarazada, planea un embarazo o está amamantando."
         ]
       }
+    },
+    {
+      "id": "77",
+      "nombre_generico": "Haloperidol",
+      "letra": "H",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Haloperidol.",
+        "clasificacion": "Antipsicótico típico de primera generación; derivado de las butirofenonas; antagonista dopaminérgico.",
+        "efecto_terapeutica": "Reduce los síntomas psicóticos y la agitación psicomotriz. Puede utilizarse para tratar determinados tics graves y otras indicaciones específicas según la ficha técnica.",
+        "mecanismo_accion": "Bloquea principalmente los receptores dopaminérgicos D2 del sistema nervioso central. Este efecto contribuye a la acción antipsicótica, pero también puede producir síntomas extrapiramidales e hiperprolactinemia."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Por vía oral se absorbe con rapidez, con biodisponibilidad variable debido al metabolismo de primer paso. La concentración plasmática máxima suele alcanzarse entre 2 y 6 horas después de la administración oral.",
+        "distribucion": "Se distribuye ampliamente por los tejidos, atraviesa la barrera hematoencefálica y la placenta, y presenta elevada unión a proteínas plasmáticas.",
+        "metabolismo": "Metabolismo principalmente hepático mediante glucuronidación, reducción y vías enzimáticas que incluyen CYP3A4 y CYP2D6.",
+        "eliminacion": "Se elimina principalmente como metabolitos por las heces y la orina. Una pequeña proporción se excreta sin modificar. La vida media terminal oral es aproximadamente de 24 horas, con variabilidad individual."
+      },
+      "indicaciones": "Tratamiento de la esquizofrenia y otros trastornos psicóticos; control de agitación psicomotriz aguda grave en situaciones específicas; tratamiento de determinados episodios maníacos, tics graves y síndrome de Tourette en pacientes seleccionados, según la presentación y las autorizaciones locales.",
+      "contraindicaciones": "Hipersensibilidad al haloperidol o a sus excipientes; enfermedad de Parkinson; demencia con cuerpos de Lewy; parálisis supranuclear progresiva; coma o depresión grave del sistema nervioso central; prolongación conocida del intervalo QTc; síndrome de QT largo congénito; antecedentes de arritmias ventriculares; hipopotasemia no corregida; determinadas combinaciones con medicamentos que prolongan el QT cuando estén contraindicadas. Verificar la ficha técnica local.",
+      "precauciones": "Enfermedad cardiovascular; antecedentes de síncope o arritmias; bradicardia; alteraciones del potasio o magnesio; insuficiencia hepática; insuficiencia renal; epilepsia; hipertiroidismo; diabetes; antecedentes de síntomas extrapiramidales; riesgo de discinesia tardía; deshidratación; hipotensión; personas mayores; riesgo de tromboembolismo; uso concomitante de medicamentos que prolongan el QT.",
+      "advertencias": "Puede prolongar el intervalo QT y causar arritmias ventriculares, especialmente con dosis altas, alteraciones electrolíticas o medicamentos concomitantes. Puede producir síntomas extrapiramidales, discinesia tardía, hiperprolactinemia y síndrome neuroléptico maligno. En personas mayores con psicosis asociada a demencia, los antipsicóticos se asocian con mayor mortalidad. La vía intravenosa no está autorizada para todas las presentaciones. Fiebre con rigidez muscular, alteración de conciencia, palpitaciones, síncope o movimientos anormales graves requieren valoración urgente.",
+      "embarazo_lactancia": "Embarazo: utilizar solamente cuando una evaluación médica determine que los beneficios justifican los riesgos. La exposición durante el tercer trimestre puede producir síntomas extrapiramidales o de abstinencia en el recién nacido. Lactancia: el haloperidol pasa a la leche materna; valorar individualmente riesgos y beneficios y vigilar al lactante por somnolencia, dificultades de alimentación o alteraciones motoras. No modificar el tratamiento sin supervisión médica.",
+      "ajustes": {
+        "renal": "No existe un ajuste inicial universal basado exclusivamente en la función renal. Usar con precaución en insuficiencia renal grave y ajustar según respuesta y tolerancia.",
+        "hepatico": "El metabolismo es principalmente hepático. En insuficiencia hepática puede aumentar la exposición al medicamento; considerar una dosis inicial menor y ajustes graduales bajo supervisión médica."
+      },
+      "interacciones": "Medicamentos que prolongan el intervalo QT; fármacos que producen hipopotasemia o hipomagnesemia; alcohol; opioides; benzodiacepinas; otros depresores del sistema nervioso central; litio; levodopa y agonistas dopaminérgicos; inductores enzimáticos como carbamazepina, fenitoína y rifampicina; inhibidores de CYP3A4 o CYP2D6, incluidos algunos macrólidos, antifúngicos azólicos y antidepresivos. Las interacciones pueden aumentar la sedación, el riesgo de arritmias o las concentraciones plasmáticas.",
+      "reacciones_adversas": "Síntomas extrapiramidales; acatisia; distonía; parkinsonismo; discinesia tardía; somnolencia; insomnio; agitación; mareos; hipotensión ortostática; hiperprolactinemia; alteraciones menstruales; galactorrea; disfunción sexual; estreñimiento; sequedad de boca; visión borrosa; retención urinaria; prolongación del QT; arritmias; síndrome neuroléptico maligno; convulsiones; alteraciones hepáticas; reacciones cutáneas; alteraciones hematológicas infrecuentes.",
+      "toxicidad_sobredosis": "Puede causar sedación intensa, disminución del nivel de conciencia, hipotensión, temblor, rigidez, distonía, síntomas extrapiramidales graves, prolongación del QT, arritmias ventriculares, convulsiones y depresión respiratoria. Requiere atención médica urgente, evaluación de la vía aérea, soporte respiratorio y hemodinámico, electrocardiograma y monitorización según la gravedad. No inducir el vómito.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte, con monitorización cardíaca, respiratoria y neurológica. Las complicaciones se tratan según el cuadro clínico y los protocolos médicos.",
+      "monitorizacion": {
+        "clinica": "Estado mental; respuesta terapéutica; nivel de conciencia; presión arterial; frecuencia cardíaca; temperatura; síntomas extrapiramidales; acatisia; movimientos involuntarios; rigidez muscular; signos de síndrome neuroléptico maligno; mareos; riesgo de caídas; tránsito intestinal; retención urinaria; peso; signos de alteraciones endocrinas o metabólicas.",
+        "laboratorio": "Potasio y magnesio cuando exista riesgo de prolongación del QT; función hepática; función renal según comorbilidades; hemograma cuando esté indicado; glucemia o HbA1c; perfil lipídico; prolactina si aparecen síntomas compatibles con hiperprolactinemia. ECG basal y de seguimiento según factores de riesgo, dosis, vía y medicamentos concomitantes."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar prescripción, indicación, dosis, vía y formulación; revisar alergias, medicación concomitante y antecedentes de Parkinson, demencia con cuerpos de Lewy, arritmias, síncope, epilepsia y alteraciones electrolíticas; valorar estado mental, nivel de conciencia, presión arterial, frecuencia cardíaca y riesgo de caídas; realizar ECG y análisis basales según indicación clínica.",
+        "durante": "Evaluar respuesta clínica; vigilar nivel de conciencia, presión arterial, frecuencia cardíaca y temperatura; observar síntomas extrapiramidales, acatisia, rigidez, movimientos involuntarios, hipotensión y signos de síndrome neuroléptico maligno; controlar ECG y electrolitos cuando estén indicados.",
+        "despues": "Valorar respuesta terapéutica, estado de conciencia y estabilidad hemodinámica; comprobar aparición de efectos adversos y síntomas extrapiramidales; continuar la monitorización cardíaca cuando esté indicada; registrar dosis, vía, hora y respuesta; comunicar signos de alarma."
+      },
+      "presentaciones": "Según el país y el fabricante: comprimidos de distintas concentraciones; solución oral o gotas; solución inyectable de acción inmediata, frecuentemente de 5 mg/ml; formulaciones intramusculares de acción prolongada, como decanoato de haloperidol, en concentraciones específicas. Confirmar las presentaciones comercializadas localmente.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación, la gravedad, la vía y la respuesta. Para trastornos psicóticos, la dosis oral se inicia y ajusta gradualmente según la ficha técnica. Para agitación aguda, la dosis parenteral depende de la presentación y del protocolo institucional. No extrapolar dosis entre formulaciones orales, inyectables de acción inmediata y decanoato.",
+        "pediatrico": "El uso depende de la edad, el peso, la indicación y la autorización del producto. Para indicaciones específicas, como tics graves o trastornos psicóticos seleccionados, la dosis debe calcularse por peso e iniciarse en niveles bajos, con ajuste gradual bajo supervisión especializada. No utilizar una pauta pediátrica genérica para agitación aguda.",
+        "geriatrico": "Iniciar con dosis menores que las utilizadas en adultos jóvenes y aumentar lentamente según respuesta y tolerancia. Existe mayor riesgo de hipotensión ortostática, sedación, síntomas extrapiramidales, prolongación del QT y caídas. En personas mayores con demencia, evaluar cuidadosamente riesgos y beneficios."
+      },
+      "vias_administracion": "Oral; intramuscular para formulaciones de acción inmediata; intramuscular profunda para decanoato de haloperidol de acción prolongada. La vía intravenosa solo debe considerarse si la ficha técnica y el protocolo aplicable la permiten, con monitorización cardíaca adecuada.",
+      "preparacion": {
+        "dilucion": "Depende de la presentación inyectable y de la vía autorizada. No diluir ni administrar por vía intravenosa sin comprobar la ficha técnica del producto específico. Las formulaciones de decanoato son de depósito y no deben administrarse por vía intravenosa.",
+        "compatibilidad_iv": "No asumir compatibilidad con otras soluciones o medicamentos. Confirmar diluyente, concentración final, compatibilidad y estabilidad con la ficha técnica o farmacia. No mezclar en la misma jeringa o bolsa sin datos de compatibilidad."
+      },
+      "velocidad_infusion": "No existe una velocidad universal aplicable a todas las formulaciones. La administración intravenosa, cuando esté expresamente permitida, requiere administración controlada y monitorización electrocardiográfica. No administrar en bolo rápido.",
+      "estabilidad_soluciones": "Depende de la formulación, el diluyente, el envase y las condiciones de preparación. Seguir la ficha técnica del producto y las normas institucionales. No establecer un tiempo universal de estabilidad.",
+      "concentracion": "La solución inyectable de acción inmediata suele comercializarse a 5 mg/ml en determinados mercados. Las formulaciones orales y de decanoato tienen concentraciones distintas. La concentración comercial no equivale a una concentración máxima universal de administración.",
+      "alarma_riesgo": "Alto riesgo de prolongación del QT y arritmias ventriculares, especialmente con dosis elevadas, vía parenteral, alteraciones electrolíticas o interacciones. Fiebre con rigidez muscular y alteración de conciencia puede indicar síndrome neuroléptico maligno. Palpitaciones, síncope, convulsiones, dificultad respiratoria o movimientos anormales graves requieren atención urgente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la dosis, la vía, la formulación y los antecedentes de alergia antes de administrar.",
+          "Revisar medicamentos concomitantes que prolongan el QT o aumentan la sedación.",
+          "Valorar estado mental, presión arterial, frecuencia cardíaca y riesgo de caídas antes de la administración.",
+          "Comprobar ECG y electrolitos cuando estén indicados por la vía, la dosis o los factores de riesgo.",
+          "Administrar únicamente por las vías autorizadas para la presentación disponible.",
+          "Vigilar hipotensión, sedación excesiva, síntomas extrapiramidales, acatisia y movimientos involuntarios.",
+          "Observar fiebre, rigidez muscular, confusión o inestabilidad autonómica como posibles signos de síndrome neuroléptico maligno.",
+          "Monitorizar el ritmo cardíaco cuando esté indicado, especialmente en pacientes con riesgo de prolongación del QT.",
+          "Registrar dosis, vía, hora, respuesta clínica y efectos adversos.",
+          "Comunicar inmediatamente síncope, palpitaciones, alteración importante de conciencia o síntomas extrapiramidales graves."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento exactamente según la prescripción y no modificar ni suspender el tratamiento por cuenta propia.",
+          "Evitar el alcohol y consultar antes de utilizar sedantes u otros medicamentos.",
+          "No conducir ni manejar maquinaria si presenta somnolencia, mareos o alteración del estado de alerta.",
+          "Levantarse lentamente para disminuir el riesgo de hipotensión ortostática y caídas.",
+          "Informar al equipo de salud si aparecen palpitaciones, desmayos, fiebre con rigidez muscular, movimientos involuntarios o dificultad para tragar.",
+          "Asistir a los controles clínicos, electrocardiográficos y de laboratorio indicados.",
+          "Consultar antes de planificar un embarazo o si está amamantando.",
+          "No compartir el medicamento con otras personas y mantenerlo fuera del alcance de niños."
+        ]
+      }
     }
   ]
 }
