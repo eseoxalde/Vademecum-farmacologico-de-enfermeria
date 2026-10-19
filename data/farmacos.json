@@ -7791,6 +7791,85 @@
           "Consultar antes de usar antiinflamatorios, anticoagulantes, otros antidepresivos o suplementos que puedan interactuar."
         ]
       }
+    },
+    {
+      "id": "97",
+      "nombre_generico": "Fluoxetina",
+      "letra": "F",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Fluoxetina, habitualmente como clorhidrato de fluoxetina.",
+        "clasificacion": "Antidepresivo inhibidor selectivo de la recaptación de serotonina (ISRS).",
+        "efecto_terapeutica": "Disminuye los síntomas depresivos y puede reducir los síntomas de determinados trastornos de ansiedad y de la conducta alimentaria. La mejoría puede tardar varias semanas en manifestarse.",
+        "mecanismo_accion": "Inhibe selectivamente el transportador de serotonina, aumentando su disponibilidad en el espacio sináptico y potenciando la neurotransmisión serotoninérgica en el sistema nervioso central."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral. Los alimentos pueden retrasar ligeramente la absorción sin modificar significativamente la cantidad total absorbida. La concentración plasmática máxima suele alcanzarse entre 6 y 8 horas después de la administración.",
+        "distribucion": "Se distribuye ampliamente en el organismo y presenta una elevada unión a proteínas plasmáticas, aproximadamente del 94,5 %.",
+        "metabolismo": "Se metaboliza principalmente en el hígado, con participación de CYP2D6, formando norfluoxetina, un metabolito activo.",
+        "eliminacion": "Se elimina principalmente por vía renal en forma de metabolitos. La fluoxetina tiene una semivida prolongada, que aumenta con el uso continuado; la norfluoxetina también presenta una semivida larga. Los efectos y las interacciones pueden persistir durante semanas después de suspenderla."
+      },
+      "indicaciones": "Tratamiento del trastorno depresivo mayor, trastorno obsesivo-compulsivo y bulimia nerviosa. También puede indicarse para el trastorno de pánico y otras condiciones según la autorización local y la evaluación clínica. En determinados casos se utiliza en población pediátrica para indicaciones específicas bajo supervisión especializada.",
+      "contraindicaciones": "Hipersensibilidad a la fluoxetina o a alguno de los componentes de la formulación. Uso concomitante con inhibidores de la monoaminooxidasa (IMAO) o dentro de los períodos de separación establecidos en la ficha técnica. Está contraindicada con determinados medicamentos cuyo uso conjunto puede provocar interacciones graves, como algunos IMAO y la tioridazina o el pimozida, según la ficha técnica aplicable.",
+      "precauciones": "Utilizar con precaución en pacientes con antecedentes de convulsiones, trastorno bipolar o manía, diabetes, enfermedad hepática, hiponatremia, riesgo de sangrado o glaucoma de ángulo estrecho. Vigilar el empeoramiento clínico, la agitación y la aparición de ideación suicida, especialmente al inicio del tratamiento y después de modificar la dosis. Puede causar pérdida de peso, alteraciones del sueño y disfunción sexual.",
+      "advertencias": "Puede producir síndrome serotoninérgico, hiponatremia, hemorragias, convulsiones y activación de manía o hipomanía. En niños, adolescentes y adultos jóvenes, vigilar la aparición o el empeoramiento de ideación o conducta suicida. Debido a su semivida prolongada, las interacciones y el riesgo serotoninérgico pueden persistir después de suspenderla. Los cambios de tratamiento requieren planificación profesional y períodos de lavado cuando corresponda.",
+      "embarazo_lactancia": "Durante el embarazo, evaluar individualmente los beneficios y riesgos, considerando la situación clínica y las alternativas. La exposición durante etapas avanzadas puede asociarse con síntomas de adaptación neonatal y otros riesgos perinatales. La fluoxetina pasa a la leche materna y, debido a su semivida prolongada, puede acumularse en el lactante; valorar alternativas, beneficios y riesgos con el equipo de salud. No suspenderla por cuenta propia.",
+      "ajustes": {
+        "renal": "Generalmente no requiere ajuste rutinario en insuficiencia renal, pero debe utilizarse con precaución en enfermedad renal grave o en pacientes con múltiples comorbilidades. Individualizar según la respuesta clínica.",
+        "hepatico": "El metabolismo puede disminuir en insuficiencia hepática. Puede ser necesario utilizar dosis menores o administrarlas con menor frecuencia, de acuerdo con la gravedad y la ficha técnica."
+      },
+      "interacciones": "No combinar con IMAO ni con otros medicamentos serotoninérgicos sin una evaluación clínica específica, debido al riesgo de síndrome serotoninérgico. Tramadol, fentanilo, litio, triptanos, linezolid y hierba de San Juan pueden aumentar este riesgo. La fluoxetina inhibe CYP2D6 y puede elevar las concentraciones de determinados antidepresivos, antipsicóticos, antiarrítmicos y otros medicamentos. Puede aumentar el riesgo de sangrado junto con anticoagulantes, antiagregantes y AINE. Revisar especialmente las interacciones con tamoxifeno, tioridazina y pimozida. Por su semivida prolongada, algunas interacciones persisten después de suspenderla.",
+      "reacciones_adversas": "Náuseas, diarrea, cefalea, ansiedad, nerviosismo, insomnio, somnolencia, temblor, sudoración aumentada, disminución del apetito, pérdida de peso y disfunción sexual. También pueden presentarse mareos, sequedad bucal y fatiga. Reacciones graves menos frecuentes incluyen síndrome serotoninérgico, hiponatremia, hemorragia, convulsiones, manía, ideación suicida y reacciones alérgicas graves.",
+      "toxicidad_sobredosis": "La sobredosis puede producir náuseas, vómitos, agitación, somnolencia, temblor, taquicardia y, en casos graves, convulsiones, alteraciones del ritmo cardíaco o síndrome serotoninérgico. Requiere valoración médica urgente, control de signos vitales y tratamiento de soporte. No inducir el vómito ni administrar tratamientos caseros. Considerar que la toxicidad puede prolongarse por la semivida larga del fármaco y de su metabolito activo.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte, con vigilancia clínica y electrocardiográfica según la gravedad. Ante sospecha de síndrome serotoninérgico, suspender los medicamentos causales y solicitar atención urgente; en determinados casos puede utilizarse ciproheptadina bajo supervisión médica.",
+      "monitorizacion": {
+        "clinica": "Evaluar la evolución de los síntomas depresivos o de la indicación tratada, la adherencia, el sueño, el apetito, el peso y los efectos adversos. Vigilar ideación suicida, agitación, síntomas de manía, signos de síndrome serotoninérgico y sangrado anormal.",
+        "laboratorio": "No requiere análisis específicos de rutina en todos los pacientes. Considerar sodio sérico en personas mayores o con factores de riesgo de hiponatremia. Controlar glucemia en pacientes con diabetes y evaluar función hepática u otros parámetros según los antecedentes y la situación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, antecedentes de alergias, episodios de manía, convulsiones, riesgo suicida y medicación concomitante. Revisar interacciones serotoninérgicas, medicamentos metabolizados por CYP2D6, anticoagulantes y antecedentes de sangrado. Valorar embarazo, lactancia, función hepática y riesgo de hiponatremia cuando corresponda.",
+        "durante": "Evaluar periódicamente la respuesta terapéutica, la adherencia, el peso, el apetito, el sueño y los efectos adversos. Vigilar cambios del estado de ánimo, ideación suicida, agitación, signos de síndrome serotoninérgico, sangrado y síntomas compatibles con hiponatremia.",
+        "despues": "Reevaluar la eficacia, la tolerancia y la necesidad de continuar el tratamiento. Si se modifica o suspende, seguir un plan indicado por el profesional y considerar que las interacciones pueden persistir durante semanas. Vigilar recaídas y síntomas de discontinuación. Registrar la evolución y comunicar los signos de alarma."
+      },
+      "presentaciones": "Cápsulas o comprimidos, habitualmente de 10 mg y 20 mg, y solución oral en determinadas presentaciones. La disponibilidad, las concentraciones y las formulaciones varían según el fabricante y el país; verificar el envase y la ficha técnica.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación y la respuesta clínica. Para depresión y trastorno obsesivo-compulsivo suele iniciarse con 20 mg por vía oral al día, con ajustes posteriores según la respuesta y la tolerancia. En bulimia nerviosa, la dosis utilizada habitualmente en adultos es de 60 mg al día. Para trastorno de pánico puede comenzarse con una dosis menor y aumentarse gradualmente. No superar las dosis máximas autorizadas para cada indicación y producto.",
+        "pediatrico": "La indicación y la dosis dependen de la edad, el diagnóstico y la autorización local. Para depresión o trastorno obsesivo-compulsivo puede utilizarse en determinados pacientes pediátricos bajo supervisión especializada. Iniciar y ajustar según referencias pediátricas y ficha técnica; vigilar especialmente cambios conductuales e ideación suicida.",
+        "geriatrico": "Individualizar la dosis según la tolerancia, las comorbilidades, las interacciones y la función hepática. Puede ser necesario iniciar con dosis menores en pacientes frágiles o con mayor riesgo de hiponatremia y caídas."
+      },
+      "vias_administracion": "Oral, en cápsulas, comprimidos o solución oral según la presentación. Puede administrarse con o sin alimentos. La frecuencia depende de la indicación y de la formulación prescrita.",
+      "preparacion": {
+        "dilucion": "Las cápsulas y los comprimidos se administran por vía oral y no requieren dilución. La solución oral debe medirse con el dispositivo dosificador correspondiente. No triturar ni modificar la forma farmacéutica sin comprobar las instrucciones del producto.",
+        "compatibilidad_iv": "No corresponde: la fluoxetina se administra por vía oral y no dispone de una presentación intravenosa de uso habitual."
+      },
+      "velocidad_infusion": "No corresponde. Se administra por vía oral.",
+      "estabilidad_soluciones": "Conservar las presentaciones orales en su envase original y respetar las condiciones de temperatura, protección de la luz y período de uso indicados por el fabricante. Para la solución oral, comprobar las instrucciones específicas después de la apertura.",
+      "concentracion": "Las concentraciones habituales de las formas sólidas incluyen 10 mg y 20 mg; existen otras concentraciones y soluciones orales según el fabricante. Verificar la concentración exacta antes de calcular la dosis.",
+      "alarma_riesgo": "Solicitar evaluación médica urgente ante fiebre con agitación, temblor o rigidez, convulsiones, confusión intensa, desmayo, sangrado importante o aparición de ideas suicidas. No combinar con IMAO ni iniciar otros medicamentos serotoninérgicos sin revisión profesional. Recordar que la fluoxetina y sus interacciones pueden persistir varias semanas después de suspenderla.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la identidad del paciente, la dosis, la vía oral y la formulación.",
+          "Revisar los medicamentos concomitantes para identificar IMAO, otros fármacos serotoninérgicos, medicamentos metabolizados por CYP2D6, anticoagulantes y antiinflamatorios.",
+          "Valorar el estado de ánimo, los síntomas de la indicación tratada y el riesgo de autolesión según el contexto clínico.",
+          "Controlar periódicamente el peso, el apetito, el sueño y la tolerancia al tratamiento.",
+          "Vigilar ansiedad inicial, agitación, insomnio, cambios conductuales y aparición o empeoramiento de ideación suicida.",
+          "Observar signos de síndrome serotoninérgico, como fiebre, sudoración, temblor, hiperreflexia, agitación o rigidez, y comunicar inmediatamente la sospecha.",
+          "Vigilar sangrados inusuales y signos compatibles con hiponatremia, como confusión, debilidad marcada o convulsiones.",
+          "Considerar la semivida prolongada al coordinar cambios de tratamiento, suspensiones e inicio de medicamentos que puedan interactuar.",
+          "Reforzar la adherencia y explicar que la mejoría puede tardar varias semanas.",
+          "Registrar la respuesta terapéutica, los efectos adversos, la adherencia y las intervenciones realizadas."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento según la prescripción, sin modificar la dosis por cuenta propia.",
+          "Comprender que el efecto terapéutico puede tardar varias semanas y mantener los controles programados.",
+          "No suspender ni cambiar el tratamiento sin consultar al profesional que lo indicó.",
+          "Informar sobre todos los medicamentos, suplementos y productos herbales que utiliza antes de iniciar un nuevo tratamiento.",
+          "Solicitar ayuda urgente ante ideas suicidas, fiebre con temblor o rigidez, confusión intensa, convulsiones o sangrado importante.",
+          "Consultar si presenta pérdida de peso significativa, insomnio persistente, agitación, efectos sexuales u otros efectos adversos que dificulten la adherencia.",
+          "Evitar la automedicación con tramadol, otros antidepresivos o productos serotoninérgicos sin evaluación profesional.",
+          "Informar al equipo de salud si está embarazada, planea un embarazo o está amamantando."
+        ]
+      }
     }
   ]
 }
