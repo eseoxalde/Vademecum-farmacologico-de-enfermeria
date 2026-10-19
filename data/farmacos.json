@@ -7028,6 +7028,79 @@
           "Consultar si el dolor persiste o empeora, en lugar de aumentar la dosis por cuenta propia."
         ]
       }
+    },
+    {
+      "id": "87",
+      "nombre_generico": "Dipirona (metamizol)",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Metamizol sódico (dipirona).",
+        "clasificacion": "Analgésico y antipirético del grupo de las pirazolonas, con efecto espasmolítico.",
+        "efecto_terapeutica": "Alivia el dolor moderado a intenso, reduce la fiebre y puede aliviar dolores de tipo cólico.",
+        "mecanismo_accion": "Es un profármaco que se transforma en metabolitos activos con efectos analgésicos y antipiréticos. Su mecanismo no está completamente esclarecido e incluye la modulación de la síntesis de prostaglandinas y de vías centrales del dolor y la temperatura."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe rápidamente por vía oral. La administración parenteral permite una disponibilidad sistémica rápida.",
+        "distribucion": "Sus metabolitos activos se distribuyen ampliamente por el organismo.",
+        "metabolismo": "Se hidroliza a metabolitos activos y se metaboliza principalmente en el hígado.",
+        "eliminacion": "Se elimina principalmente por vía renal en forma de metabolitos."
+      },
+      "indicaciones": "Tratamiento del dolor agudo moderado a intenso y de la fiebre elevada que no responde adecuadamente a otras medidas, según la autorización local del producto. Puede utilizarse en ciertos dolores de tipo cólico.",
+      "contraindicaciones": "Hipersensibilidad al metamizol, a otras pirazolonas o pirazolidinas; antecedentes de agranulocitosis inducida por metamizol u otros medicamentos relacionados; alteraciones de la función de la médula ósea o enfermedades hematopoyéticas; antecedentes de reacciones graves de hipersensibilidad a analgésicos, según la ficha técnica. Las contraindicaciones específicas varían según la formulación y la normativa local.",
+      "precauciones": "Utilizar con precaución en pacientes con antecedentes de alergias, asma inducida por analgésicos, hipotensión, deshidratación, enfermedad renal o hepática y en personas de edad avanzada. La administración parenteral requiere especial vigilancia. Puede producir agranulocitosis, una reacción grave que puede aparecer en cualquier momento del tratamiento, incluso después de usos previos sin complicaciones.",
+      "advertencias": "Suspender el medicamento y solicitar evaluación médica urgente ante fiebre nueva o persistente, escalofríos, dolor de garganta o lesiones dolorosas en mucosas, ya que pueden indicar agranulocitosis. Buscar atención inmediata ante dificultad respiratoria, hinchazón de cara o lengua, desmayo o signos de hipotensión. La vía intravenosa debe administrarse lentamente y con monitorización por riesgo de hipotensión y reacciones anafilácticas.",
+      "embarazo_lactancia": "El uso durante el embarazo requiere valoración médica y debe evitarse durante el tercer trimestre. En el primer y segundo trimestre solo debe considerarse si el profesional evalúa que es necesario y no existen alternativas más adecuadas. Durante la lactancia, se recomienda evitar su uso; si se administra una dosis aislada, consultar la ficha técnica local y las recomendaciones profesionales sobre la interrupción temporal de la lactancia y la extracción y descarte de leche.",
+      "ajustes": {
+        "renal": "En insuficiencia renal, especialmente grave, evitar dosis altas repetidas y valorar la necesidad de reducir la exposición. La pauta debe individualizarse según la función renal y la ficha técnica.",
+        "hepatico": "En insuficiencia hepática, evitar tratamientos prolongados o dosis altas sin supervisión y valorar ajustes según la gravedad y la ficha técnica."
+      },
+      "interacciones": "Puede aumentar el riesgo de toxicidad hematológica cuando se combina con metotrexato, especialmente en personas mayores. Puede reducir las concentraciones de ciclosporina y tacrolimus. Puede disminuir el efecto antiagregante del ácido acetilsalicílico a dosis bajas. También puede modificar los efectos de otros medicamentos; revisar la medicación concomitante y la ficha técnica.",
+      "reacciones_adversas": "Hipotensión, especialmente con administración parenteral; náuseas, vómitos y otras molestias gastrointestinales; erupción cutánea y otras reacciones de hipersensibilidad. Entre las reacciones graves se encuentran agranulocitosis, pancitopenia, anemia aplásica, anafilaxia, reacciones cutáneas graves y lesión hepática inducida por medicamentos.",
+      "toxicidad_sobredosis": "La sobredosis puede causar náuseas, vómitos, dolor abdominal, hipotensión, taquicardia, alteración de la función renal, convulsiones y disminución del nivel de conciencia. Ante una sospecha de sobredosis, solicitar asistencia médica urgente y proporcionar tratamiento de soporte según la evaluación clínica.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte y depende de los síntomas y de la gravedad de la intoxicación.",
+      "monitorizacion": {
+        "clinica": "Controlar respuesta analgésica y antipirética, presión arterial y signos de hipersensibilidad, especialmente durante la administración parenteral. Vigilar síntomas compatibles con alteraciones hematológicas o lesión hepática.",
+        "laboratorio": "No se requiere un hemograma rutinario en todos los pacientes por el solo hecho de recibir metamizol. Ante síntomas sugestivos de agranulocitosis, suspenderlo y solicitar hemograma con fórmula leucocitaria de forma urgente. En tratamientos prolongados o pacientes de riesgo, valorar controles hematológicos, función renal y hepática según criterio clínico y normativa local."
+      },
+      "parametros_valoracion": {
+        "antes": "Valorar intensidad y causa del dolor o la fiebre, antecedentes de alergias y reacciones a analgésicos, enfermedades hematológicas, medicación concomitante, presión arterial y estado de hidratación. Comprobar la indicación, la dosis, la vía y la formulación prescritas.",
+        "durante": "Evaluar la respuesta clínica y vigilar presión arterial, estado general y signos de reacción alérgica. Durante la administración intravenosa, mantener la vigilancia indicada por el protocolo institucional. Observar la aparición de fiebre inexplicable, odinofagia, lesiones mucosas, ictericia u orina oscura.",
+        "despues": "Reevaluar el dolor o la temperatura, registrar la respuesta y las reacciones adversas. Informar al paciente sobre los signos de alarma hematológicos, alérgicos y hepáticos y documentar la administración."
+      },
+      "presentaciones": "Comprimidos, gotas o solución oral, supositorios y soluciones inyectables, según el país y el fabricante. Las concentraciones y presentaciones disponibles varían.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación, la vía, la intensidad de los síntomas y la presentación. En adultos, las pautas orales habituales pueden oscilar entre 500 y 1000 mg por toma, respetando el intervalo y el máximo diario establecidos en la ficha técnica local. La administración parenteral requiere una pauta específica y supervisión clínica.",
+        "pediatrico": "La dosis se calcula según el peso, la edad, la indicación y la presentación. No utilizar una pauta fija en mg sin verificar la ficha técnica pediátrica local. La vía parenteral requiere especial precaución.",
+        "geriatrico": "Usar la menor dosis eficaz y valorar una reducción de la dosis o una mayor separación entre tomas, especialmente en pacientes frágiles o con alteración renal o hepática."
+      },
+      "vias_administracion": "Oral, rectal o parenteral, según la presentación autorizada. La vía intravenosa debe utilizarse únicamente conforme a la ficha técnica y al protocolo institucional.",
+      "preparacion": {
+        "dilucion": "Para administración intravenosa, comprobar si la presentación requiere dilución y utilizar únicamente el diluyente y las condiciones indicadas por el fabricante o el protocolo institucional. Verificar la concentración final antes de administrar.",
+        "compatibilidad_iv": "No mezclar con otros medicamentos en la misma jeringa o solución de infusión sin datos específicos de compatibilidad. Consultar la ficha técnica de la presentación y las fuentes institucionales de compatibilidad intravenosa."
+      },
+      "velocidad_infusion": "Administrar por vía intravenosa lentamente, respetando la velocidad indicada en la ficha técnica de la presentación y el protocolo institucional. La administración rápida aumenta el riesgo de hipotensión y reacciones graves. Controlar la presión arterial y el estado clínico durante la administración.",
+      "estabilidad_soluciones": "La estabilidad depende de la presentación, la concentración, el diluyente, el envase y las condiciones de conservación. No establecer un tiempo de uso después de la dilución sin consultar la ficha técnica específica. Desechar la solución si presenta partículas, cambios de aspecto o si no se puede garantizar su integridad.",
+      "concentracion": "Variable según el fabricante y la forma farmacéutica. Verificar la concentración expresada en mg por comprimido, mg/mL o mg por unidad antes de calcular y administrar la dosis.",
+      "alarma_riesgo": "Riesgo de agranulocitosis potencialmente mortal, anafilaxia e hipotensión grave, especialmente con administración parenteral. Suspender y solicitar evaluación urgente ante síntomas compatibles con estas reacciones.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la identidad del paciente, las alergias, la dosis, la vía y la concentración del producto.",
+          "Valorar dolor, temperatura y estado general antes de administrar y reevaluar la respuesta.",
+          "En la administración parenteral, controlar la presión arterial y vigilar signos de hipotensión o hipersensibilidad.",
+          "No administrar si existen antecedentes de agranulocitosis inducida por metamizol u otra contraindicación relevante.",
+          "Educar al paciente para que suspenda el medicamento y solicite atención médica urgente ante fiebre, escalofríos, dolor de garganta o lesiones en mucosas durante el tratamiento.",
+          "Observar signos de lesión hepática, como ictericia, orina oscura, cansancio inusual o dolor abdominal persistente, e informar al equipo médico.",
+          "Documentar dosis, vía, hora, respuesta terapéutica y cualquier reacción adversa."
+        ],
+        "educacion_paciente": [
+          "Utilizar el medicamento únicamente según la indicación y no superar la dosis prescrita o la indicada en la ficha técnica.",
+          "No combinarlo con otros analgésicos sin consultar a un profesional sanitario.",
+          "Buscar atención médica urgente ante dificultad respiratoria, hinchazón de la cara, desmayo, fiebre persistente, dolor de garganta o lesiones en la boca.",
+          "Informar al profesional sanitario sobre otros medicamentos, enfermedades previas, embarazo o lactancia.",
+          "No reutilizar tratamientos sobrantes ni compartir el medicamento con otras personas."
+        ]
+      }
     }
   ]
 }
