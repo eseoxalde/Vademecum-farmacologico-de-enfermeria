@@ -9518,7 +9518,7 @@
       },
       "velocidad_infusion": "No aplica",
       "estabilidad_soluciones": "No aplica; conservar los comprimidos según el prospecto del producto específico",
-      "concentracion": "Comprimidos de 100 mg y 300 mg",
+      "concentracion": "No aplica. Administración oral; el prospecto no establece una concentración máxima de administración.",
       "alarma_riesgo": "Sospecha de cetoacidosis, aunque la glucemia no sea muy elevada; deshidratación intensa; hipotensión o síncope; dolor, enrojecimiento o inflamación genital o perineal; lesión o infección del pie",
       "cuidados_enfermeria": {
         "cuidados": [
