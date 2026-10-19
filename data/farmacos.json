@@ -6564,6 +6564,83 @@
           "No utilizar una presentación inyectable o tópica de una manera diferente a la indicada por el profesional."
         ]
       }
+    },
+    {
+      "id": "81",
+      "nombre_generico": "Tocilizumab",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Tocilizumab",
+        "clasificacion": "Anticuerpo monoclonal humanizado recombinante IgG1; inmunomodulador biológico e inhibidor del receptor de interleucina 6 (IL-6).",
+        "efecto_terapeutica": "Disminuye la inflamación y la actividad de enfermedades inflamatorias autoinmunes. También se utiliza en indicaciones específicas, como el síndrome de liberación de citocinas y determinados casos de COVID-19 grave, según las autorizaciones y protocolos vigentes.",
+        "mecanismo_accion": "Se une a los receptores solubles y de membrana de la interleucina 6, bloqueando su señalización. Esto reduce la respuesta inflamatoria mediada por IL-6 y puede disminuir la proteína C reactiva y otros marcadores de inflamación."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Por vía subcutánea, la absorción es lenta y la biodisponibilidad depende de la formulación y del régimen de administración. Por vía intravenosa, la biodisponibilidad es completa.",
+        "distribucion": "Se distribuye principalmente en el espacio vascular y extracelular. El volumen de distribución es relativamente bajo y varía según la dosis y la vía.",
+        "metabolismo": "Como anticuerpo monoclonal, se degrada mediante procesos catabólicos proteicos; no depende principalmente de las enzimas del citocromo P450 para su eliminación.",
+        "eliminacion": "Presenta eliminación dependiente de la concentración, con componentes lineales y no lineales. La semivida varía con la dosis, la vía y la situación clínica."
+      },
+      "indicaciones": "Artritis reumatoidea moderada a grave en pacientes seleccionados; arteritis de células gigantes; artritis idiopática juvenil poliarticular y sistémica; enfermedad pulmonar intersticial asociada a esclerosis sistémica en las jurisdicciones donde esté aprobada; síndrome de liberación de citocinas; y determinados pacientes hospitalizados con COVID-19 grave o crítico, según indicación autorizada y protocolo clínico. Las indicaciones aprobadas pueden variar según el producto y el país.",
+      "contraindicaciones": "Hipersensibilidad conocida al tocilizumab o a alguno de los componentes de la formulación. No iniciar ni administrar durante una infección activa grave. Revisar la ficha técnica específica ante otras infecciones activas, alteraciones hematológicas o hepáticas importantes.",
+      "precauciones": "Evaluar tuberculosis latente y otras infecciones antes de iniciar el tratamiento, según las recomendaciones locales. Investigar antecedentes de infecciones recurrentes, diverticulitis, enfermedad gastrointestinal, hepatopatía, citopenias y tratamientos inmunosupresores concomitantes. Controlar hemograma, transaminasas y perfil lipídico. La inhibición de IL-6 puede atenuar la fiebre y la elevación de proteína C reactiva, por lo que una infección grave puede manifestarse con signos menos evidentes.",
+      "advertencias": "Riesgo de infecciones graves, incluida tuberculosis, infecciones oportunistas y sepsis. Puede producir hepatotoxicidad, neutropenia, trombocitopenia, reacciones de hipersensibilidad y anafilaxia. Se han notificado perforaciones gastrointestinales, especialmente en pacientes con diverticulitis u otros factores predisponentes. Evitar vacunas vivas durante el tratamiento. Suspender o interrumpir la administración ante infecciones graves y seguir las indicaciones médicas y la ficha técnica para reiniciar el tratamiento.",
+      "embarazo_lactancia": "Los datos en embarazo son limitados y existe posibilidad de daño fetal o alteraciones de la respuesta inmunitaria del recién nacido. Utilizar durante el embarazo únicamente tras una evaluación individualizada del beneficio y el riesgo. Consultar la ficha técnica para las recomendaciones de anticoncepción y el intervalo posterior a la última dosis. En lactancia, evaluar el beneficio de amamantar y la necesidad del tratamiento; la decisión debe individualizarse con el equipo tratante.",
+      "ajustes": {
+        "renal": "No se ha estudiado suficientemente en insuficiencia renal grave. La insuficiencia renal leve o moderada generalmente no requiere ajuste, pero debe verificarse la ficha técnica específica y la situación clínica.",
+        "hepatico": "No se recomienda iniciar el tratamiento en pacientes con enfermedad hepática activa o insuficiencia hepática grave sin evaluación especializada. Puede ser necesario interrumpir, reducir o no administrar nuevas dosis ante elevaciones relevantes de transaminasas, de acuerdo con la indicación y la ficha técnica."
+      },
+      "interacciones": "Puede modificar la actividad de algunas enzimas CYP450 al reducir la inflamación mediada por IL-6; las concentraciones de ciertos medicamentos metabolizados por estas enzimas pueden disminuir al iniciar tocilizumab y aumentar al suspenderlo. Revisar especialmente medicamentos de margen terapéutico estrecho, como warfarina, ciclosporina, teofilina y determinados anticonvulsivantes. Evitar la combinación con otros biológicos inmunosupresores sin indicación especializada. Evitar vacunas vivas durante el tratamiento.",
+      "reacciones_adversas": "Infecciones de vías respiratorias superiores, cefalea, hipertensión, reacciones en el sitio de inyección, reacciones relacionadas con la infusión, elevación de transaminasas, neutropenia, trombocitopenia e hipercolesterolemia. También pueden presentarse infecciones graves, anafilaxia, lesión hepática grave y perforación gastrointestinal.",
+      "toxicidad_sobredosis": "La experiencia con sobredosis es limitada. Puede aumentar el riesgo de infecciones, citopenias, alteraciones hepáticas y reacciones relacionadas con la administración. No existe un antídoto específico. Suspender nuevas dosis, valorar al paciente y realizar tratamiento de soporte según los hallazgos clínicos. Notificar al equipo médico y consultar toxicología si corresponde.",
+      "antidotos": "No existe antídoto específico.",
+      "monitorizacion": {
+        "clinica": "Vigilar signos de infección, temperatura, presión arterial, reacciones de hipersensibilidad durante y después de la administración intravenosa, dolor abdominal persistente, cambios del hábito intestinal y signos de lesión hepática. Evaluar la respuesta terapéutica y recordar que la fiebre y la proteína C reactiva pueden estar atenuadas durante el tratamiento.",
+        "laboratorio": "Antes del tratamiento: hemograma con recuento absoluto de neutrófilos y plaquetas, ALT, AST, evaluación de tuberculosis y perfil lipídico; considerar hepatitis y otras infecciones según antecedentes y protocolo. Durante el tratamiento: controlar hemograma, transaminasas y lípidos en los intervalos establecidos por la ficha técnica, la indicación y el estado clínico."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar prescripción, indicación, peso cuando la dosis sea por kilogramo, formulación y vía. Revisar antecedentes de infección, tuberculosis, diverticulitis, hepatopatía, citopenias, alergias y medicación concomitante. Verificar resultados de laboratorio y evaluación de tuberculosis antes de iniciar, cuando corresponda. Comprobar que no haya infección activa grave.",
+        "durante": "En infusión intravenosa, controlar signos vitales y observar reacciones de hipersensibilidad o relacionadas con la infusión. Vigilar el estado general, los signos de infección y cualquier manifestación abdominal nueva. En administración subcutánea, inspeccionar el sitio de inyección y observar posibles reacciones.",
+        "despues": "Registrar dosis, vía, hora, lote cuando corresponda, tolerancia y cualquier reacción. Continuar la vigilancia de infecciones y reacciones adversas, asegurar el seguimiento de laboratorio y comunicar de inmediato signos de infección grave, dolor abdominal intenso o síntomas de hipersensibilidad."
+      },
+      "presentaciones": "La presentación depende del producto comercial. Existen concentrados para infusión intravenosa de 20 mg/mL, en viales como 80 mg/4 mL, 200 mg/10 mL y 400 mg/20 mL, y formulaciones subcutáneas de 162 mg/0,9 mL en jeringa prellenada o dispositivo autoinyector, según disponibilidad local. Verificar siempre la presentación autorizada y el prospecto del producto utilizado.",
+      "dosis": {
+        "adultos": "Depende de la indicación, la vía y la ficha técnica. En artritis reumatoidea, un régimen intravenoso utilizado es 4 mg/kg cada 4 semanas, con posible aumento a 8 mg/kg según respuesta y tolerancia; algunas fichas técnicas establecen directamente un régimen de 8 mg/kg cada 4 semanas. Por vía subcutánea, se utiliza en determinados pacientes 162 mg cada semana o cada dos semanas, según peso, indicación y respuesta. En arteritis de células gigantes y otras indicaciones, los esquemas son diferentes. En COVID-19 grave o síndrome de liberación de citocinas, las dosis se calculan según el protocolo específico. No intercambiar esquemas entre indicaciones ni vías.",
+        "pediatrico": "La dosis depende de la indicación, el peso, la edad y la vía. Para artritis idiopática juvenil poliarticular o sistémica y síndrome de liberación de citocinas existen esquemas específicos, algunos calculados en mg/kg. Debe prescribirla un especialista y verificarse en la ficha técnica pediátrica correspondiente. No extrapolar la dosis de adultos.",
+        "geriatrico": "Generalmente no se requiere ajuste únicamente por edad, pero se debe valorar individualmente la función hepática, las infecciones, las comorbilidades, las citopenias y los tratamientos concomitantes."
+      },
+      "vias_administracion": "Intravenosa mediante infusión o subcutánea, según la formulación y la indicación autorizada. Nunca administrar por vía intravenosa una formulación destinada exclusivamente a uso subcutáneo.",
+      "preparacion": {
+        "dilucion": "Para la formulación intravenosa, preparar con técnica aséptica y diluir en solución de cloruro de sodio al 0,9 %, siguiendo el volumen, la concentración final y las instrucciones específicas del prospecto del producto. En muchas indicaciones de adultos se prepara en una bolsa de 100 mL; algunos pacientes pediátricos requieren un volumen diferente. Inspeccionar visualmente la solución y no utilizarla si presenta partículas o alteraciones. No agitar vigorosamente. La formulación subcutánea prellenada no debe diluirse.",
+        "compatibilidad_iv": "Utilizar únicamente los diluyentes y materiales autorizados en la ficha técnica de la presentación concreta. No mezclar con otros medicamentos en la misma bolsa ni administrar simultáneamente por la misma línea sin compatibilidad documentada. Seguir el protocolo institucional para la línea de infusión."
+      },
+      "velocidad_infusion": "La infusión intravenosa suele administrarse durante 60 minutos, de acuerdo con la indicación y la ficha técnica específica. No administrar en bolo intravenoso. Vigilar al paciente durante la infusión y actuar según el protocolo ante una reacción.",
+      "estabilidad_soluciones": "La estabilidad depende del producto, el diluyente, la concentración, las condiciones de preparación y la temperatura. Preparar y conservar según el prospecto vigente y las normas institucionales de preparación aséptica. No establecer un tiempo de conservación universal; identificar la preparación y respetar el plazo autorizado.",
+      "concentracion": "Concentrado intravenoso habitual: 20 mg/mL. Presentación subcutánea habitual: 162 mg/0,9 mL. Confirmar la concentración en el envase antes de calcular y preparar la dosis.",
+      "alarma_riesgo": "ALERTA: inmunosupresor biológico. Riesgo de infección grave o sepsis, tuberculosis, anafilaxia, lesión hepática, neutropenia, trombocitopenia y perforación gastrointestinal. No administrar durante una infección activa grave. La ausencia de fiebre o de elevación de proteína C reactiva no descarta una infección. Confirmar vía, dosis, peso, presentación y dilución antes de administrar.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la indicación, el peso cuando corresponda, la dosis calculada, la vía, la presentación y la frecuencia.",
+          "Comprobar los estudios previos y los controles de laboratorio indicados, incluidos hemograma, transaminasas, lípidos y evaluación de tuberculosis.",
+          "Evaluar signos y síntomas de infección antes de cada administración y comunicar cualquier sospecha al equipo médico.",
+          "Preparar la formulación intravenosa con técnica aséptica y exclusivamente con el diluyente y el procedimiento indicados para el producto.",
+          "No administrar por vía intravenosa la formulación subcutánea ni mezclar el medicamento con otros productos sin compatibilidad documentada.",
+          "Controlar signos vitales y observar reacciones durante la infusión. Ante disnea, edema, hipotensión, urticaria generalizada u otros signos de anafilaxia, interrumpir la administración y activar el protocolo de emergencia.",
+          "Vigilar dolor abdominal persistente, especialmente si hay antecedentes de diverticulitis, y comunicarlo de inmediato por el riesgo de perforación gastrointestinal.",
+          "Registrar la administración, la tolerancia, las reacciones adversas y los controles pendientes.",
+          "Verificar las recomendaciones institucionales sobre vacunas; evitar vacunas vivas durante el tratamiento salvo evaluación especializada y conforme a la ficha técnica."
+        ],
+        "educacion_paciente": [
+          "Explicar que debe informar de inmediato fiebre, escalofríos, tos persistente, dificultad respiratoria, lesiones cutáneas infectadas o cualquier otro signo de infección, aunque sean leves.",
+          "Indicar que consulte urgentemente si presenta dolor abdominal intenso o persistente, cambios importantes del tránsito intestinal o signos de reacción alérgica.",
+          "Recomendar que informe al equipo de salud sobre todos los medicamentos, suplementos y vacunas que recibe.",
+          "Explicar la importancia de cumplir los controles de laboratorio y las consultas programadas.",
+          "No iniciar, suspender ni modificar la dosis por cuenta propia.",
+          "Si utiliza la formulación subcutánea en domicilio, enseñar la técnica correcta, la rotación de sitios de inyección, la conservación y la eliminación segura del dispositivo según las instrucciones del fabricante.",
+          "Consultar con el equipo tratante antes de recibir vacunas y comunicar si existe embarazo, planificación de embarazo o lactancia."
+        ]
+      }
     }
   ]
 }
