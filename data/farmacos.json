@@ -10454,6 +10454,79 @@
           "Recomendar informar sobre el uso habitual de benzodiazepinas, alcohol, opioides y otros medicamentos o sustancias"
         ]
       }
+    },
+    {
+      "id": "133",
+      "nombre_generico": "Fragmentos de anticuerpos específicos antidigoxina (Digoxin Immune Fab)",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fragmentos Fab de anticuerpos específicos contra digoxina, de origen ovino en las formulaciones clásicas",
+        "clasificacion": "Antídoto específico para intoxicación grave por digoxina y otros glucósidos cardíacos susceptibles",
+        "efecto_terapeutica": "Neutraliza la digoxina libre circulante y permite reducir sus efectos tóxicos cardiovasculares y extracardíacos",
+        "mecanismo_accion": "Los fragmentos Fab se unen con alta afinidad a la digoxina libre, formando complejos que reducen la fracción disponible para unirse a la Na+/K+-ATPasa. Los complejos se eliminan principalmente por vía renal"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa; la biodisponibilidad es completa por esta vía",
+        "distribucion": "Los fragmentos Fab se distribuyen en el compartimento extracelular y se unen a la digoxina libre; la distribución y eliminación pueden modificarse en pacientes con insuficiencia renal",
+        "metabolismo": "Los complejos Fab-digoxina se degradan mediante procesos proteolíticos y metabólicos",
+        "eliminacion": "Los fragmentos y sus complejos se eliminan principalmente por vía renal; la insuficiencia renal puede prolongar su permanencia y favorecer la redistribución de digoxina libre"
+      },
+      "indicaciones": "Tratamiento de intoxicación por digoxina con riesgo vital o potencialmente mortal, por ejemplo arritmias ventriculares graves, bradicardia o bloqueo AV con compromiso hemodinámico, hiperpotasemia significativa atribuible a intoxicación aguda o ingesta potencialmente letal. La indicación debe definirse mediante evaluación médica urgente y consulta toxicológica",
+      "contraindicaciones": "Hipersensibilidad conocida al producto o a sus componentes; valorar especialmente antecedentes de alergia a proteínas ovinas o a excipientes según la formulación. En intoxicaciones potencialmente mortales, las decisiones sobre su administración corresponden al equipo de emergencias y Toxicología",
+      "precauciones": "Administrar en un ámbito con monitorización cardíaca continua y capacidad de reanimación; vigilar potasio y otros electrolitos; tener presente que la neutralización de digoxina puede producir hipopotasemia; considerar el riesgo de reacciones de hipersensibilidad; en insuficiencia renal puede ser necesaria una vigilancia más prolongada; informar al laboratorio clínico sobre su administración porque interfiere con los inmunoensayos habituales de digoxina",
+      "advertencias": "La administración puede revertir rápidamente los efectos farmacológicos de la digoxina y agravar la insuficiencia cardíaca o la respuesta ventricular en algunos pacientes; pueden presentarse hipopotasemia, empeoramiento de la insuficiencia cardíaca, reacciones alérgicas o recurrencia de toxicidad. Los niveles séricos de digoxina medidos por inmunoensayos convencionales después de administrar Fab pueden resultar engañosos y no deben interpretarse como concentración de digoxina libre",
+      "embarazo_lactancia": "En el embarazo, utilizar cuando exista una intoxicación grave que justifique el tratamiento, con evaluación urgente del balance riesgo-beneficio. En lactancia, consultar la información específica del producto y al equipo médico; la urgencia de una intoxicación potencialmente mortal prima sobre la demora del tratamiento",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede prolongar la eliminación de los complejos Fab-digoxina y aumentar el riesgo de recurrencia; no ajustar la dosis inicial de neutralización únicamente por función renal sin indicación especializada, pero prolongar la monitorización clínica y bioquímica",
+        "hepatico": "No se establece un ajuste inicial específico por insuficiencia hepática; individualizar según el estado clínico y la información del producto"
+      },
+      "interacciones": "La unión a digoxina neutraliza su actividad; puede revertir efectos terapéuticos de la digoxina y precipitar o agravar insuficiencia cardíaca o respuesta ventricular rápida; después de la administración, los inmunoensayos convencionales de digoxina pueden medir tanto digoxina libre como ligada a Fab y producir resultados no interpretables para evaluar toxicidad residual",
+      "reacciones_adversas": "Hipopotasemia; empeoramiento de insuficiencia cardíaca; respuesta ventricular rápida o fibrilación auricular en pacientes susceptibles; reacciones de hipersensibilidad, fiebre o reacciones relacionadas con la infusión; recurrencia de manifestaciones tóxicas en pacientes con insuficiencia renal o gran carga corporal de digoxina",
+      "toxicidad_sobredosis": "No existe una pauta de sobredosis independiente establecida para uso habitual; una dosis excesiva puede neutralizar una mayor proporción del efecto terapéutico de la digoxina y aumentar el riesgo de hipopotasemia o descompensación cardíaca. Solicitar evaluación urgente de Toxicología y monitorizar la respuesta clínica y bioquímica",
+      "antidotos": "Es un antídoto específico de la digoxina. No existe un antídoto específico para una reacción adversa causada por los propios fragmentos Fab; tratar la hipersensibilidad, las alteraciones electrolíticas y las complicaciones cardíacas según el protocolo de emergencias",
+      "monitorizacion": {
+        "clinica": "ECG continuo; frecuencia y ritmo cardíacos; presión arterial; perfusión periférica; estado neurológico; signos de insuficiencia cardíaca; respuesta a la neutralización; reacciones de hipersensibilidad y recurrencia de arritmias",
+        "laboratorio": "Potasio sérico frecuente durante la fase inicial; magnesio; función renal; estado ácido-base según el cuadro clínico. Los niveles séricos de digoxina medidos mediante inmunoensayos convencionales dejan de ser fiables para estimar la digoxina libre después de administrar Fab; coordinar con el laboratorio y Toxicología"
+      },
+      "parametros_valoracion": {
+        "antes": "Obtener ECG, signos vitales, potasio, magnesio, función renal y datos disponibles sobre la dosis, la hora de ingesta y los niveles de digoxina; identificar criterios de intoxicación grave; consultar urgentemente con Toxicología y verificar la disponibilidad, la formulación y las instrucciones del producto",
+        "durante": "Administrar por vía intravenosa según la pauta calculada por el equipo médico y el prospecto del producto; monitorizar ECG, presión arterial, perfusión, potasio y signos de hipersensibilidad; observar la respuesta de las arritmias y la evolución hemodinámica",
+        "despues": "Mantener monitorización cardíaca y controles seriados de potasio y función renal; vigilar recurrencia de toxicidad, arritmias, hipopotasemia y descompensación cardíaca; informar al laboratorio de que se administraron fragmentos Fab antes de interpretar nuevos niveles de digoxina"
+      },
+      "presentaciones": "Los productos internacionales incluyen viales de polvo liofilizado para solución intravenosa, por ejemplo presentaciones de 40 mg por vial. No se confirmó en las fuentes consultadas una presentación comercial argentina vigente; verificar con ANMAT, Farmacia hospitalaria y el proveedor autorizado",
+      "dosis": {
+        "adultos": "La dosis se calcula según la gravedad, la cantidad ingerida o la carga corporal estimada de digoxina y, cuando corresponde, la concentración sérica previa a la administración. En formulaciones de 40 mg, un vial neutraliza aproximadamente 0,5 mg de digoxina. Las fórmulas de cálculo y las pautas empíricas difieren entre intoxicación aguda y crónica; la dosis debe ser indicada por Toxicología o el equipo tratante según el prospecto específico. No utilizar una cantidad fija universal",
+        "pediatrico": "La dosis depende del peso, la cantidad ingerida o la carga corporal estimada y de la gravedad clínica. Debe calcularla urgentemente un equipo pediátrico y toxicológico con la fórmula correspondiente al producto disponible; no extrapolar una dosis adulta fija",
+        "geriatrico": "La dosis de neutralización se calcula con los mismos principios que en adultos, considerando función renal, comorbilidades cardíacas, carga corporal estimada y riesgo de descompensación tras revertir el efecto de digoxina"
+      },
+      "vias_administracion": "Intravenosa, una vez reconstituido el producto conforme a sus instrucciones específicas",
+      "preparacion": {
+        "dilucion": "Reconstituir y, si corresponde, diluir únicamente según las instrucciones del producto específico. Verificar el diluyente, el volumen, la concentración final, la compatibilidad y el tiempo de utilización en el prospecto disponible; no extrapolar instrucciones entre marcas",
+        "compatibilidad_iv": "No mezclar con otros medicamentos en la misma solución o línea sin datos de compatibilidad confirmados; coordinar con Farmacia hospitalaria y utilizar una vía adecuada según el protocolo institucional"
+      },
+      "velocidad_infusion": "La velocidad y duración de la administración dependen del producto, la dosis y el estado clínico. Seguir el prospecto específico y las indicaciones de Toxicología; no establecer una velocidad universal sin verificar la formulación disponible",
+      "estabilidad_soluciones": "Depende del producto, del diluyente y de las condiciones de reconstitución. Verificar el prospecto específico para conservación, estabilidad y tiempo máximo de utilización; desechar remanentes conforme a las instrucciones del fabricante y la normativa institucional",
+      "concentracion": "No se establece una concentración máxima universal de administración. La concentración final depende del producto, el volumen de reconstitución y la dilución indicados por el fabricante; verificar la preparación con Farmacia hospitalaria",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO Y ANTÍDOTO PARA EMERGENCIAS. Requiere indicación urgente especializada, monitorización cardíaca continua y control de potasio. Los inmunoensayos convencionales de digoxina pueden resultar engañosos después de la administración",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar la indicación urgente y la dosis calculada con el equipo médico y Toxicología",
+          "Verificar la identidad del producto, la cantidad de principio activo por vial, el diluyente y las instrucciones de reconstitución",
+          "Mantener monitorización electrocardiográfica continua y control de signos vitales",
+          "Obtener y controlar potasio, magnesio y función renal según las indicaciones médicas",
+          "Vigilar hipopotasemia, recurrencia de arritmias, empeoramiento de insuficiencia cardíaca y reacciones de hipersensibilidad",
+          "Registrar la dosis total administrada, la hora de administración y la respuesta clínica",
+          "Informar al laboratorio clínico que se administraron fragmentos Fab antes de solicitar o interpretar concentraciones de digoxina",
+          "Mantener observación prolongada cuando la función renal esté deteriorada o exista riesgo de recurrencia"
+        ],
+        "educacion_paciente": [
+          "Explicar, cuando el estado clínico lo permita, que el medicamento neutraliza la digoxina en una intoxicación grave",
+          "Indicar que comunique palpitaciones, mareos, debilidad intensa, dificultad respiratoria o dolor torácico",
+          "Explicar que será necesario continuar con controles cardíacos y análisis después de la administración",
+          "Recomendar no reiniciar ni modificar la digoxina sin una indicación médica explícita"
+        ]
+      }
     }
   ]
 }
