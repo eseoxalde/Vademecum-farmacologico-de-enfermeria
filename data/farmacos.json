@@ -8729,6 +8729,83 @@
           "Consultar qué hacer ante enfermedad aguda, vómitos o disminución de la ingesta."
         ]
       }
+    },
+    {
+      "id": "109",
+      "nombre_generico": "Insulina glargina",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Insulina glargina, análogo de insulina humana de acción prolongada.",
+        "clasificacion": "Insulina basal de acción prolongada; medicamento de alto riesgo.",
+        "efecto_terapeutica": "Proporciona cobertura basal para controlar la glucemia entre comidas y durante la noche. En diabetes tipo 1 debe acompañarse de insulina prandial según el esquema prescrito.",
+        "mecanismo_accion": "Se une a los receptores de insulina y favorece la captación periférica de glucosa mientras inhibe la producción hepática. Tras la inyección subcutánea forma microprecipitados desde los que se libera lentamente."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe lentamente y de forma sostenida desde el tejido subcutáneo. La formulación U-100 de Lantus suele tener un perfil de acción cercano a 24 horas, con variabilidad individual.",
+        "distribucion": "Actúa principalmente en músculo, tejido adiposo e hígado mediante los receptores de insulina.",
+        "metabolismo": "Se metaboliza mediante procesos proteolíticos, formando metabolitos activos relacionados con su efecto farmacológico.",
+        "eliminacion": "Se elimina mediante degradación metabólica. La insuficiencia renal o hepática puede reducir los requerimientos de insulina."
+      },
+      "indicaciones": "Control basal de la glucemia en diabetes mellitus tipo 1 y tipo 2 cuando está indicada la insulina de acción prolongada. La edad autorizada y las indicaciones específicas dependen de la presentación y la ficha técnica local.",
+      "contraindicaciones": "Hipoglucemia activa e hipersensibilidad a la insulina glargina o a los componentes del producto.",
+      "precauciones": "Riesgo de hipoglucemia por dosis excesiva, cambios en la ingesta, ejercicio, enfermedad o alteraciones de función renal y hepática. La glargina no está diseñada para cubrir de forma aislada las necesidades prandiales. No administrar por vía intravenosa ni mezclar o diluir la formulación habitual.",
+      "advertencias": "Medicamento de alto riesgo. Confundir insulina basal con insulina rápida puede provocar hipoglucemia grave. Las distintas concentraciones de glargina no son automáticamente intercambiables unidad por unidad sin valoración clínica. No suspender la insulina basal en diabetes tipo 1 sin indicación médica.",
+      "embarazo_lactancia": "Puede utilizarse durante el embarazo y la lactancia cuando está indicada para el control de la diabetes, con seguimiento profesional y ajuste de los requerimientos según glucemia y evolución clínica.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede disminuir los requerimientos de insulina. Individualizar la dosis y aumentar la vigilancia de glucemia.",
+        "hepatico": "La insuficiencia hepática puede reducir las necesidades de insulina y aumentar el riesgo de hipoglucemia. Ajustar individualmente."
+      },
+      "interacciones": "Otros antidiabéticos, alcohol y determinados medicamentos pueden aumentar la hipoglucemia. Corticoides, simpaticomiméticos y algunos antipsicóticos pueden elevar la glucemia. Los betabloqueantes pueden enmascarar síntomas de hipoglucemia. Los cambios de actividad física y alimentación también alteran los requerimientos.",
+      "reacciones_adversas": "Hipoglucemia, reacciones en el sitio de inyección, lipodistrofia, aumento de peso, edema y reacciones alérgicas. Puede causar hipopotasemia en determinadas situaciones.",
+      "toxicidad_sobredosis": "La sobredosis puede provocar hipoglucemia prolongada o recurrente por la duración de acción del producto. Puede causar confusión, convulsiones y pérdida de conciencia. Requiere tratamiento inmediato y monitorización posterior.",
+      "antidotos": "No existe antídoto específico. Tratar la hipoglucemia con glucosa oral si la persona puede deglutir, o glucosa intravenosa o glucagón según el estado clínico y el protocolo. Vigilar la recurrencia y el potasio cuando corresponda.",
+      "monitorizacion": {
+        "clinica": "Controlar glucemia, episodios de hipoglucemia, ingesta, actividad física, sitios de inyección y respuesta basal. Vigilar cambios de dosis, enfermedad aguda y signos de hipoglucemia nocturna.",
+        "laboratorio": "Controlar glucemia y HbA1c. Evaluar función renal, función hepática y potasio según la situación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar identidad, prescripción, producto exacto, concentración, dosis, vía y horario. Controlar glucemia, revisar dosis previas, ingesta, actividad física y episodios recientes de hipoglucemia.",
+        "durante": "Vigilar la tendencia glucémica y los episodios de hipoglucemia. Comprobar la correcta técnica subcutánea y la rotación de sitios. Evaluar cambios de requerimientos durante enfermedad o alteraciones de función renal.",
+        "despues": "Registrar dosis, horario, sitio de inyección, glucemia y respuesta. Continuar la vigilancia según el perfil basal y comunicar hipoglucemias recurrentes."
+      },
+      "presentaciones": "Lantus U-100 en solución inyectable, disponible en presentaciones como viales y plumas precargadas según el mercado. Existen otras marcas y concentraciones de insulina glargina que tienen instrucciones específicas y no deben considerarse equivalentes automáticamente.",
+      "dosis": {
+        "adultos": "Individualizada según tipo de diabetes, glucemia, tratamiento previo, ingesta y respuesta. En diabetes tipo 2 puede iniciarse con una dosis basal baja conforme a la ficha técnica y ajustarse gradualmente mediante un plan prescrito. En diabetes tipo 1 forma parte de un esquema basal-prandial. No existe una dosis universal segura.",
+        "pediatrico": "La dosis depende de edad, peso, tipo de diabetes, esquema de tratamiento y respuesta glucémica. Debe ser indicada y ajustada por el equipo especializado.",
+        "geriatrico": "Individualizar considerando función renal, ingesta irregular, fragilidad, riesgo de caídas y capacidad para reconocer hipoglucemia. Puede requerirse una pauta conservadora y monitorización más frecuente."
+      },
+      "vias_administracion": "Vía subcutánea. No administrar por vía intravenosa ni intramuscular. La formulación habitual de Lantus no debe utilizarse en bombas de infusión.",
+      "preparacion": {
+        "dilucion": "La solución está lista para administrar y no requiere dilución. No mezclar con otras insulinas ni diluir la formulación habitual, ya que puede modificar su perfil de acción.",
+        "compatibilidad_iv": "No corresponde. La insulina glargina de uso habitual no debe administrarse por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde. Administración subcutánea.",
+      "estabilidad_soluciones": "Conservar de acuerdo con la ficha técnica de Lantus y las instrucciones de la presentación concreta. Evitar congelación, calor excesivo y luz directa. El período de uso tras apertura depende del dispositivo y del mercado.",
+      "concentracion": "Lantus se comercializa habitualmente como U-100, equivalente a 100 unidades/mL. Verificar la concentración y el dispositivo antes de administrar. Otras formulaciones de glargina pueden tener concentraciones distintas.",
+      "alarma_riesgo": "Medicamento de alto riesgo. Vigilar hipoglucemia grave o recurrente. Ante convulsiones o pérdida de conciencia, activar el protocolo de emergencia y no administrar alimentos por boca.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar paciente, producto, concentración, dosis, vía y horario.",
+          "Confirmar que se trate de insulina basal y no de una insulina prandial.",
+          "Aplicar el protocolo institucional de prevención de errores con insulinas de alto riesgo.",
+          "Controlar glucemia y revisar tendencias antes de cambios de dosis.",
+          "Rotar los sitios de inyección y vigilar reacciones locales.",
+          "No mezclar ni diluir la formulación habitual de glargina.",
+          "No administrar por vía intravenosa ni utilizar en bombas de infusión convencionales.",
+          "Registrar dosis, horario, sitio de inyección, glucemia y respuesta.",
+          "Vigilar hipoglucemia cuando cambien la ingesta, la actividad física o la función renal."
+        ],
+        "educacion_paciente": [
+          "Administrar la insulina basal a la hora indicada y no cambiar el horario sin consultar.",
+          "No suspender la insulina basal en diabetes tipo 1 sin instrucciones médicas.",
+          "Reconocer y tratar la hipoglucemia según el plan individual.",
+          "No mezclar glargina con otras insulinas en la misma jeringa.",
+          "No cambiar de marca o concentración sin supervisión profesional.",
+          "Rotar los sitios de inyección y conservar el producto según el fabricante.",
+          "Consultar qué hacer ante enfermedad aguda, vómitos o disminución de la ingesta."
+        ]
+      }
     }
   ]
 }
