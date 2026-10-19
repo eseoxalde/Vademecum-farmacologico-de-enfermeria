@@ -9541,6 +9541,83 @@
           "No suspender ni modificar otros antidiabéticos sin indicación profesional."
         ]
       }
+    },
+    {
+      "id": "120",
+      "nombre_generico": "Glimepirida",
+      "letra": "G",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Glimepirida",
+        "clasificacion": "Antidiabético oral; sulfonilurea de segunda generación; código ATC A10BB12",
+        "efecto_terapeutica": "Disminuye la glucemia en pacientes con diabetes mellitus tipo 2 mediante el aumento de la secreción de insulina",
+        "mecanismo_accion": "Se une a receptores específicos de las células beta pancreáticas y bloquea los canales de potasio sensibles al ATP; produce despolarización de la membrana, entrada de calcio y liberación de insulina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Presenta absorción oral prácticamente completa; la concentración plasmática máxima se alcanza aproximadamente entre 2 y 3 horas después de la administración",
+        "distribucion": "Presenta una unión a proteínas plasmáticas superior al 99 %",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante CYP2C9, formando metabolitos hidroxilados y carboxilados",
+        "eliminacion": "Se elimina por orina y heces, principalmente como metabolitos; la eliminación del fármaco sin modificar es escasa"
+      },
+      "indicaciones": "Tratamiento de la diabetes mellitus tipo 2 cuando la dieta, el ejercicio físico y la reducción de peso no son suficientes para controlar la glucemia; puede utilizarse sola o asociada a otros antidiabéticos, incluida insulina, bajo supervisión médica",
+      "contraindicaciones": "Hipersensibilidad a la glimepirida, otras sulfonilureas, sulfonamidas relacionadas o excipientes; diabetes mellitus tipo 1; cetoacidosis diabética; precoma o coma diabético; insuficiencia renal o hepática grave, en las que suele requerirse tratamiento alternativo con insulina; embarazo y lactancia según las recomendaciones del prospecto",
+      "precauciones": "Riesgo de hipoglucemia; comidas irregulares; ayuno; desnutrición; ejercicio físico intenso; consumo de alcohol; insuficiencia renal o hepática; edad avanzada; deficiencia de G6PD; situaciones de estrés fisiológico como infecciones, traumatismos o cirugía",
+      "advertencias": "Puede producir hipoglucemia grave o prolongada; el riesgo aumenta con dosis excesivas, comidas omitidas, ejercicio intenso, alcohol, insuficiencia renal o hepática e interacciones medicamentosas; algunos medicamentos pueden enmascarar los síntomas de hipoglucemia; puede perder eficacia con el tiempo por progresión de la diabetes",
+      "embarazo_lactancia": "No se recomienda durante el embarazo; se prefiere insulina para el control de la diabetes durante la gestación; no se recomienda durante la lactancia debido al posible riesgo de hipoglucemia en el lactante",
+      "ajustes": {
+        "renal": "En insuficiencia renal puede aumentar el riesgo de hipoglucemia; iniciar con dosis mínima y ajustar con extrema precaución cuando corresponda; no se recomienda en insuficiencia renal grave según la ficha técnica",
+        "hepatico": "En insuficiencia hepática puede aumentar el riesgo de hipoglucemia; no se recomienda en insuficiencia hepática grave; considerar una alternativa terapéutica en enfermedad hepática avanzada"
+      },
+      "interacciones": "Pueden aumentar el efecto hipoglucemiante los antidiabéticos, insulina, algunos antiinflamatorios, salicilatos, anticoagulantes cumarínicos, fibratos, determinados antibióticos, antifúngicos, fluoxetina e inhibidores de la monoaminooxidasa; pueden elevar la glucemia los glucocorticoides, diuréticos, estrógenos, progestágenos, simpaticomiméticos y hormonas tiroideas; los inductores o inhibidores de CYP2C9 pueden modificar la exposición a glimepirida; el alcohol puede producir efectos imprevisibles",
+      "reacciones_adversas": "Hipoglucemia; cefalea; mareos; náuseas; vómitos; dolor abdominal; diarrea; alteraciones transitorias de la visión; aumento de enzimas hepáticas; hepatitis, ictericia o insuficiencia hepática en casos infrecuentes; reacciones alérgicas; trombocitopenia, leucopenia, agranulocitosis, anemia hemolítica o pancitopenia en casos raros",
+      "toxicidad_sobredosis": "La sobredosis puede causar hipoglucemia grave y prolongada; requiere atención médica urgente, determinación seriada de glucemia y tratamiento con glucosa según gravedad; puede necesitarse observación prolongada por recurrencia de la hipoglucemia",
+      "antidotos": "No existe un antídoto específico; la glucosa es el tratamiento inmediato de la hipoglucemia, con administración oral si el paciente está consciente y puede deglutir, o tratamiento intravenoso por personal sanitario cuando esté indicado",
+      "monitorizacion": {
+        "clinica": "Glucemia; síntomas de hipoglucemia; estado de conciencia; patrón alimentario; peso corporal; tolerancia al tratamiento; signos de alergia y posibles manifestaciones de lesión hepática",
+        "laboratorio": "Glucemia; hemoglobina glucosilada; función renal; función hepática; hemograma cuando exista sospecha clínica o esté indicado"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar glucemia y HbA1c; función renal y hepática; alimentación habitual; antecedentes de hipoglucemia; consumo de alcohol; medicamentos concomitantes; capacidad del paciente para reconocer y tratar una hipoglucemia",
+        "durante": "Controlar glucemia según pauta; vigilar sudoración, temblores, hambre, palpitaciones, confusión o somnolencia; valorar ingesta de alimentos y ejercicio; revisar función renal y hepática cuando corresponda",
+        "despues": "Evaluar control glucémico y aparición de hipoglucemias; revisar tolerancia y adherencia; documentar efectos adversos; comunicar la necesidad de reevaluar la dosis si cambian la alimentación, el peso, la función renal o el estado clínico"
+      },
+      "presentaciones": "Comprimidos orales; existen presentaciones de 1 mg, 2 mg, 3 mg y 4 mg según el producto y el mercado",
+      "dosis": {
+        "adultos": "Dosis inicial habitual de 1 mg una vez al día; ajustar gradualmente según respuesta glucémica y tolerancia; la dosis máxima habitual de las fichas técnicas consultadas es de 6 mg/día, aunque algunas autorizaciones contemplan hasta 8 mg/día; verificar el prospecto de la marca concreta",
+        "pediatrico": "No se recomienda en niños por falta de datos suficientes de seguridad y eficacia",
+        "geriatrico": "Iniciar con la dosis mínima, generalmente 1 mg/día, y ajustar cuidadosamente; aumenta la susceptibilidad a hipoglucemia y pueden existir alteraciones de la función renal"
+      },
+      "vias_administracion": "Oral",
+      "preparacion": {
+        "dilucion": "No requiere dilución; administrar el comprimido por vía oral",
+        "compatibilidad_iv": "No aplica; no es una formulación intravenosa"
+      },
+      "velocidad_infusion": "No aplica",
+      "estabilidad_soluciones": "No aplica; conservar los comprimidos según el prospecto específico",
+      "concentracion": "Comprimidos de distintas concentraciones, habitualmente de 1 mg a 4 mg según el producto",
+      "alarma_riesgo": "Hipoglucemia grave o recurrente; alteración de conciencia; convulsiones; incapacidad para deglutir; ictericia; reacción alérgica grave",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar la glucemia según la pauta prescrita y registrar los resultados.",
+          "Valorar signos de hipoglucemia antes y después de la administración cuando esté indicado.",
+          "Comprobar que el paciente pueda mantener una alimentación regular y adecuada.",
+          "Vigilar el estado de conciencia y la capacidad de deglución ante sospecha de hipoglucemia.",
+          "Si el paciente está inconsciente o no puede deglutir, no administrar alimentos ni líquidos por vía oral y activar la atención de urgencia.",
+          "Controlar función renal y hepática según indicación clínica.",
+          "Revisar interacciones con otros antidiabéticos, anticoagulantes y medicamentos que alteren la glucemia.",
+          "Registrar los episodios de hipoglucemia y comunicar los casos graves o recurrentes."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento una vez al día según la prescripción, generalmente con el desayuno o la primera comida principal.",
+          "No omitir comidas ni modificar la dosis por cuenta propia.",
+          "Reconocer síntomas de hipoglucemia como sudoración, temblores, hambre, palpitaciones, mareos o confusión.",
+          "Si está consciente y puede deglutir, tratar la hipoglucemia con glucosa de acción rápida según el plan indicado por el equipo sanitario.",
+          "Evitar el consumo de alcohol o consultar previamente sobre su consumo, debido al riesgo de hipoglucemia.",
+          "Informar sobre todos los medicamentos, suplementos y productos de venta libre que utiliza.",
+          "Consultar antes de realizar cambios importantes en la dieta, el ejercicio o el tratamiento.",
+          "Informar al equipo sanitario si presenta vómitos persistentes, fiebre, infección, cirugía programada o dificultades para alimentarse."
+        ]
+      }
     }
   ]
 }
