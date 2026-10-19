@@ -7487,6 +7487,81 @@
           "Recordar que la recuperación y el alta dependen de la evaluación clínica y de la recuperación adecuada de la función respiratoria y muscular."
         ]
       }
+    },
+    {
+      "id": "93",
+      "nombre_generico": "Atracurio",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Besilato de atracurio",
+        "clasificacion": "Bloqueante neuromuscular no despolarizante, relajante muscular de acción intermedia.",
+        "efecto_terapeutica": "Produce relajación de la musculatura esquelética para facilitar la intubación endotraqueal y permitir la relajación muscular durante procedimientos quirúrgicos o la ventilación mecánica.",
+        "mecanismo_accion": "Compite con la acetilcolina por los receptores nicotínicos de la placa motora, impidiendo la despolarización y la contracción muscular. No produce analgesia, sedación ni pérdida de conciencia."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La administración clínica es principalmente intravenosa, por lo que la biodisponibilidad sistémica es completa. No se utiliza por vía oral para producir bloqueo neuromuscular.",
+        "distribucion": "Se distribuye principalmente en el compartimento extracelular. No atraviesa significativamente la barrera hematoencefálica.",
+        "metabolismo": "Se inactiva principalmente mediante eliminación de Hofmann, un proceso químico dependiente del pH y la temperatura, y por hidrólisis de ésteres mediada por esterasas inespecíficas.",
+        "eliminacion": "Sus productos de degradación se eliminan por vías renal y biliar. La duración de acción depende relativamente poco de la función renal o hepática debido a sus mecanismos de degradación."
+      },
+      "indicaciones": "Como complemento de la anestesia general para facilitar la intubación endotraqueal y proporcionar relajación muscular durante intervenciones quirúrgicas. Puede utilizarse para facilitar la ventilación mecánica en pacientes seleccionados de cuidados intensivos, bajo monitorización especializada.",
+      "contraindicaciones": "Hipersensibilidad conocida al atracurio, al besilato de atracurio o a alguno de los componentes de la formulación. Debe evitarse en pacientes con antecedentes de anafilaxia al fármaco. Las demás contraindicaciones y restricciones dependen de la ficha técnica del producto y del contexto clínico.",
+      "precauciones": "Utilizar únicamente en entornos con personal capacitado para el manejo de la vía aérea y la ventilación asistida. Extremar precauciones en pacientes con miastenia gravis u otras enfermedades neuromusculares, alteraciones electrolíticas, trastornos ácido-base, hipotermia, quemaduras extensas o antecedentes de reacciones alérgicas graves. Puede liberar histamina, especialmente con determinadas dosis o velocidades de administración.",
+      "advertencias": "Medicamento de alto riesgo. Produce parálisis de los músculos respiratorios y puede causar apnea. Debe garantizarse la disponibilidad inmediata de ventilación asistida, oxígeno y equipo de intubación. No produce sedación, amnesia ni analgesia: administrar anestesia y sedación adecuadas según el contexto. La recuperación clínica aparente no siempre garantiza la recuperación completa de la función neuromuscular; utilizar monitorización objetiva cuando esté disponible.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar únicamente cuando esté clínicamente indicado y bajo supervisión anestésica. La información disponible sobre lactancia es limitada; debido a sus características farmacológicas y a su administración parenteral, es poco probable que cantidades clínicamente relevantes lleguen a la leche, pero la decisión debe individualizarse según la ficha técnica y el contexto clínico.",
+      "ajustes": {
+        "renal": "Generalmente no requiere ajuste rutinario por insuficiencia renal, debido a su degradación principalmente independiente de la función renal. Considerar el estado clínico, la monitorización neuromuscular y la ficha técnica.",
+        "hepatico": "Generalmente no requiere ajuste rutinario por insuficiencia hepática. La respuesta puede variar en pacientes críticos o con alteraciones fisiológicas importantes; individualizar según monitorización."
+      },
+      "interacciones": "Los anestésicos inhalatorios, aminoglucósidos, polimixinas, litio, algunos antiarrítmicos y otros fármacos con efecto bloqueante neuromuscular pueden potenciar o prolongar el bloqueo. El magnesio puede aumentar el efecto. Algunos anticonvulsivantes administrados crónicamente pueden reducir la respuesta. Los fármacos que liberan histamina o producen hipotensión pueden aumentar determinados efectos adversos. Verificar las interacciones según el tratamiento concomitante.",
+      "reacciones_adversas": "Hipotensión, rubefacción, taquicardia o bradicardia, broncoespasmo y reacciones de hipersensibilidad, incluida anafilaxia. Puede producir bloqueo neuromuscular prolongado o recuperación incompleta, con debilidad muscular y compromiso respiratorio. La frecuencia y gravedad dependen de la dosis, la velocidad de administración y el estado clínico.",
+      "toxicidad_sobredosis": "Puede producir bloqueo neuromuscular excesivo o prolongado, apnea y parálisis respiratoria. El tratamiento consiste en mantener una vía aérea permeable, asegurar oxigenación y ventilación asistida hasta la recuperación, y utilizar monitorización neuromuscular. Evaluar el uso de reversores específicos del bloqueo no despolarizante, como neostigmina con un antimuscarínico, según el grado de recuperación y el protocolo anestésico.",
+      "antidotos": "No existe un antídoto específico que neutralice directamente el atracurio. La neostigmina asociada a un antimuscarínico puede revertir el bloqueo no despolarizante cuando la recuperación espontánea es suficiente. La prioridad ante apnea o bloqueo prolongado es mantener ventilación y oxigenación hasta la recuperación.",
+      "monitorizacion": {
+        "clinica": "Vigilar ventilación, oxigenación, presión arterial, frecuencia y ritmo cardíacos, signos de broncoespasmo, rubefacción, hipotensión y reacciones de hipersensibilidad. Valorar la recuperación de la función muscular antes de retirar el soporte ventilatorio.",
+        "laboratorio": "No requiere controles de laboratorio específicos de rutina. Según el contexto, controlar electrolitos, equilibrio ácido-base y otros parámetros pertinentes. Utilizar monitorización objetiva del bloqueo neuromuscular, preferentemente mediante estimulación de nervios periféricos."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, prescripción, dosis, vía, antecedentes de alergia y enfermedades neuromusculares. Verificar disponibilidad de oxígeno, ventilación asistida, equipo de intubación y monitorización. Comprobar que se administrarán sedación, anestesia y analgesia adecuadas según el contexto.",
+        "durante": "Monitorizar continuamente oxigenación, ventilación y parámetros hemodinámicos. Evaluar el grado de bloqueo mediante monitorización neuromuscular cuando esté disponible. Observar signos de liberación de histamina, broncoespasmo, hipotensión o anafilaxia.",
+        "despues": "Confirmar recuperación neuromuscular adecuada mediante evaluación clínica y monitorización objetiva antes de retirar el soporte ventilatorio. Vigilar debilidad residual, ventilación insuficiente y complicaciones respiratorias. Registrar dosis, respuesta, eventos adversos y reversión si se realizó."
+      },
+      "presentaciones": "Solución inyectable de besilato de atracurio en ampollas o viales. Las concentraciones, los volúmenes y las condiciones de conservación varían según el fabricante y el país; verificar el envase y la ficha técnica.",
+      "dosis": {
+        "adultos": "La dosis intravenosa depende de si se utiliza para intubación, mantenimiento de la relajación muscular o infusión continua. Como referencia general, la dosis inicial para intubación suele situarse alrededor de 0,4–0,5 mg/kg IV; las dosis de mantenimiento y las infusiones deben ajustarse a la respuesta clínica y a la monitorización neuromuscular. Seguir la ficha técnica y el protocolo anestésico institucional.",
+        "pediatrico": "La dosis depende de la edad, el peso, la indicación y la formulación. No extrapolar automáticamente la dosis adulta; utilizar referencias pediátricas específicas y protocolos institucionales bajo supervisión especializada.",
+        "geriatrico": "Puede utilizarse la dosis inicial habitual con administración cuidadosa y ajuste según respuesta. Considerar la fragilidad, las comorbilidades, la medicación concomitante y la recuperación neuromuscular."
+      },
+      "vias_administracion": "Intravenosa, mediante inyección o infusión según indicación, presentación y protocolo. No administrar por vía intramuscular salvo que una ficha técnica específica lo autorice, lo cual no es habitual.",
+      "preparacion": {
+        "dilucion": "Puede administrarse sin diluir o diluido, según la presentación, la dosis y el protocolo institucional. Si se requiere dilución, utilizar únicamente los diluyentes y las concentraciones admitidos por la ficha técnica del producto. Preparar con técnica aséptica y rotular claramente la jeringa o solución.",
+        "compatibilidad_iv": "Verificar la compatibilidad con el diluyente y con cada medicamento administrado por la misma línea en la ficha técnica específica. No mezclar con soluciones alcalinas, como tiopental, en la misma jeringa o línea sin una compatibilidad expresamente documentada. Si la compatibilidad es desconocida, administrar por una línea separada o lavar la línea según el protocolo."
+      },
+      "velocidad_infusion": "Administrar la dosis inicial y las dosis de mantenimiento conforme a la ficha técnica y al protocolo anestésico. Para infusión continua, ajustar la velocidad según la respuesta y la monitorización neuromuscular; no utilizar una velocidad universal sin considerar la indicación y el paciente.",
+      "estabilidad_soluciones": "La conservación y el período de uso después de la apertura o dilución dependen de la formulación, el fabricante, el diluyente y las condiciones de almacenamiento. Mantener la cadena de frío cuando lo indique el producto, proteger de condiciones no autorizadas y respetar el tiempo de uso establecido en la ficha técnica. No utilizar soluciones con cambios de aspecto ni fuera de su período de estabilidad validado.",
+      "concentracion": "Variable según fabricante y presentación. Confirmar la concentración expresada en mg/mL en el envase antes de calcular la dosis y preparar la administración.",
+      "alarma_riesgo": "ALTO RIESGO: provoca parálisis respiratoria. No administrar sin capacidad inmediata de ventilación asistida, manejo avanzado de la vía aérea y monitorización adecuada. No confundir con sedantes o analgésicos. Verificar cuidadosamente el medicamento, la dosis, la vía y la concentración.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la identidad del paciente, el medicamento, la dosis calculada según el peso, la vía y la concentración.",
+          "Comprobar antecedentes de alergia, enfermedades neuromusculares, quemaduras extensas, alteraciones electrolíticas y medicación concomitante.",
+          "Confirmar antes de la administración que estén disponibles oxígeno, ventilación asistida, equipo de intubación y personal capacitado.",
+          "Asegurar que se administren anestesia, sedación y analgesia apropiadas; el atracurio no produce pérdida de conciencia ni alivio del dolor.",
+          "Monitorizar continuamente oxigenación, ventilación, presión arterial y frecuencia cardíaca durante su utilización.",
+          "Utilizar monitorización neuromuscular objetiva cuando esté disponible y ajustar la administración conforme a la respuesta.",
+          "Vigilar hipotensión, rubefacción, broncoespasmo y signos de hipersensibilidad o anafilaxia.",
+          "Comprobar la recuperación neuromuscular antes de retirar el soporte ventilatorio y vigilar la posibilidad de bloqueo residual.",
+          "No mezclar con otros medicamentos sin verificar previamente la compatibilidad. Rotular las jeringas y soluciones preparadas.",
+          "Registrar la dosis, la hora, la respuesta, los parámetros monitorizados, los eventos adversos y las medidas de reversión."
+        ],
+        "educacion_paciente": [
+          "Antes del procedimiento, explicar que el medicamento relaja temporalmente los músculos y que se utilizará bajo supervisión especializada.",
+          "Aclarar que el atracurio no es un anestésico ni un analgésico y que se requiere anestesia o sedación adecuada según el procedimiento.",
+          "Después de la administración, explicar que la vigilancia respiratoria continuará hasta confirmar una recuperación muscular suficiente.",
+          "Indicar que debe comunicar antecedentes de reacciones alérgicas, enfermedades neuromusculares y todos los medicamentos que utiliza."
+        ]
+      }
     }
   ]
 }
