@@ -6950,6 +6950,84 @@
           "No suspender el tratamiento antiagregante por cuenta propia y consultar antes de iniciar otros medicamentos."
         ]
       }
+    },
+    {
+      "id": "86",
+      "nombre_generico": "Diclofenaco",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Diclofenaco",
+        "clasificacion": "Antiinflamatorio no esteroideo (AINE), analgésico y antiinflamatorio; también posee efecto antipirético.",
+        "efecto_terapeutica": "Disminuye el dolor y la inflamación en afecciones musculoesqueléticas, articulares y otros procesos dolorosos. Puede reducir la fiebre, aunque no es necesariamente la primera opción para esta finalidad.",
+        "mecanismo_accion": "Inhibe las enzimas ciclooxigenasa COX-1 y COX-2, reduciendo la síntesis de prostaglandinas implicadas en el dolor, la inflamación y la fiebre. Esta acción también puede afectar la protección gastrointestinal, la función renal y otros procesos fisiológicos."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe por vía oral, aunque el efecto de los alimentos y el tiempo hasta alcanzar concentraciones máximas dependen de la formulación. Las presentaciones gastrorresistentes y de liberación prolongada tienen perfiles de absorción diferentes. La absorción también varía según se utilicen formulaciones tópicas, rectales o parenterales.",
+        "distribucion": "Presenta una elevada unión a proteínas plasmáticas, superior al 99 %, y se distribuye en los tejidos. Puede alcanzar concentraciones terapéuticas en el líquido sinovial.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante hidroxilación y conjugación. Participan enzimas como CYP2C9.",
+        "eliminacion": "Se elimina por vía renal y biliar, principalmente como metabolitos. La semivida plasmática suele ser de aproximadamente 1 a 2 horas, aunque la duración del efecto depende de la formulación."
+      },
+      "indicaciones": "Tratamiento sintomático del dolor y la inflamación en afecciones musculoesqueléticas, artrosis, artritis reumatoidea, espondilitis anquilosante, tendinitis, bursitis, dismenorrea primaria, dolor agudo y determinadas situaciones posoperatorias, según la formulación y la indicación autorizada. Las formulaciones tópicas se utilizan para determinados dolores musculares y articulares localizados.",
+      "contraindicaciones": "Hipersensibilidad al diclofenaco o a otros AINE; antecedentes de asma, urticaria, angioedema u otras reacciones alérgicas desencadenadas por ácido acetilsalicílico u otros AINE; úlcera péptica activa o hemorragia gastrointestinal; antecedentes de hemorragia o perforación gastrointestinal asociadas a AINE; insuficiencia renal, hepática o cardíaca grave; enfermedad cardiovascular isquémica, enfermedad arterial periférica o enfermedad cerebrovascular establecida cuando así lo contraindique la ficha técnica; y tercer trimestre del embarazo. Las formulaciones inyectables y tópicas pueden tener contraindicaciones adicionales específicas.",
+      "precauciones": "Utilizar la menor dosis eficaz durante el menor tiempo posible. Puede aumentar el riesgo de eventos trombóticos cardiovasculares, hemorragia gastrointestinal, hipertensión, retención de líquidos y lesión renal. Extremar precauciones en personas mayores, deshidratadas o con antecedentes de úlcera, hipertensión, enfermedad cardiovascular, renal o hepática, asma o enfermedad inflamatoria intestinal. No combinar con otros AINE salvo indicación médica. Las formulaciones tópicas también pueden causar reacciones cutáneas y no deben aplicarse sobre heridas o piel lesionada.",
+      "advertencias": "El diclofenaco sistémico se asocia a riesgo de infarto de miocardio y accidente cerebrovascular, especialmente con dosis elevadas y tratamientos prolongados. Puede provocar úlcera, hemorragia o perforación gastrointestinal, incluso sin síntomas previos. También puede causar lesión renal aguda, hepatotoxicidad y reacciones cutáneas graves. Desde aproximadamente la semana 20 del embarazo, los AINE pueden provocar alteraciones renales fetales y oligohidramnios; su uso debe evitarse salvo indicación médica y está contraindicado en el tercer trimestre según la ficha técnica. Suspender y solicitar atención urgente ante hemorragia digestiva, dolor torácico, dificultad respiratoria, reacción alérgica grave o disminución marcada de la diuresis.",
+      "embarazo_lactancia": "Evitar durante el embarazo salvo indicación profesional expresa. Desde aproximadamente la semana 20, puede causar disfunción renal fetal y oligohidramnios; si se considera imprescindible, debe utilizarse con la menor dosis y duración posibles y con seguimiento cuando corresponda. Está contraindicado durante el tercer trimestre. Durante la lactancia, la decisión depende de la formulación, la dosis y la duración; debido a la limitada información para algunas presentaciones, consultar la ficha técnica y valorar una alternativa apropiada.",
+      "ajustes": {
+        "renal": "Evitar en insuficiencia renal grave. En insuficiencia leve o moderada, utilizar con precaución, valorar la necesidad del tratamiento y controlar la función renal en pacientes de riesgo. Evitar especialmente en situaciones de deshidratación o deterioro renal agudo.",
+        "hepatico": "Está contraindicado o debe evitarse en enfermedad hepática grave según la ficha técnica. En enfermedad hepática leve o moderada, utilizar con precaución y considerar controles de transaminasas, especialmente durante tratamientos prolongados."
+      },
+      "interacciones": "Anticoagulantes, antiagregantes y trombolíticos: mayor riesgo de sangrado. Otros AINE y ácido acetilsalicílico: mayor riesgo gastrointestinal y renal. Corticoides y antidepresivos ISRS/IRSN: aumento del riesgo de hemorragia gastrointestinal. Diuréticos, IECA y ARA-II: posible deterioro renal y menor control de la presión arterial. Litio, metotrexato, digoxina y ciclosporina: posible aumento de concentraciones o toxicidad. Puede reducir el efecto de antihipertensivos y diuréticos. El uso concomitante con anticoagulantes requiere seguimiento. El consumo de alcohol puede aumentar el riesgo gastrointestinal.",
+      "reacciones_adversas": "Náuseas, dispepsia, dolor abdominal, diarrea, vómitos y cefalea. También puede producir mareos, erupciones cutáneas, hipertensión y edema. Entre las reacciones graves se incluyen úlcera o hemorragia gastrointestinal, lesión renal aguda, elevación de transaminasas, hepatitis medicamentosa, broncoespasmo, reacciones cutáneas graves y eventos trombóticos cardiovasculares. Las formulaciones tópicas pueden causar irritación, prurito, eritema o dermatitis en el sitio de aplicación.",
+      "toxicidad_sobredosis": "Puede causar vómitos, dolor abdominal, hemorragia gastrointestinal, somnolencia, mareos, convulsiones, hipotensión, acidosis metabólica y lesión renal o hepática. No existe un antídoto específico. Solicitar evaluación médica o toxicológica urgente. El tratamiento es de soporte y depende de la gravedad. No inducir el vómito ni administrar remedios caseros.",
+      "antidotos": "No existe antídoto específico. El tratamiento de la intoxicación es de soporte y debe ajustarse a la evaluación toxicológica.",
+      "monitorizacion": {
+        "clinica": "Valorar dolor, inflamación, presión arterial, edema, hidratación, diuresis y tolerancia gastrointestinal. Vigilar signos de hemorragia, reacciones alérgicas, deterioro renal, hepatotoxicidad y eventos cardiovasculares. En formulaciones tópicas, inspeccionar la piel y detectar irritación o reacciones locales.",
+        "laboratorio": "En tratamientos breves y pacientes sin factores de riesgo, generalmente no se requieren controles específicos. En tratamientos prolongados o pacientes de riesgo, considerar hemograma, creatinina, filtrado glomerular y pruebas de función hepática. Controlar la presión arterial y otros parámetros clínicos según la situación."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, dosis, vía y formulación. Valorar intensidad del dolor, inflamación, presión arterial, hidratación, antecedentes de úlcera o hemorragia digestiva, alergias a AINE, enfermedad renal, hepática o cardiovascular, embarazo y medicación concomitante.",
+        "durante": "Evaluar la respuesta analgésica y antiinflamatoria. Vigilar tolerancia gastrointestinal, presión arterial, edema, diuresis y aparición de erupciones, broncoespasmo o signos de hemorragia. En tratamientos prolongados, comprobar los controles de laboratorio indicados.",
+        "despues": "Registrar dosis, vía, horario y respuesta clínica. Reevaluar la persistencia de los síntomas y comunicar reacciones adversas. Si se necesita uso frecuente o prolongado, solicitar revisión clínica en lugar de aumentar la dosis por cuenta propia."
+      },
+      "presentaciones": "Comprimidos convencionales, gastrorresistentes o de liberación prolongada; cápsulas; supositorios; solución inyectable; gel, crema o parche tópico; y gotas oftálmicas, según el país y el fabricante. Las sales, concentraciones y vías autorizadas varían. Verificar el envase y el prospecto antes de administrar.",
+      "dosis": {
+        "adultos": "Por vía oral, las pautas habituales para afecciones inflamatorias suelen encontrarse entre 75 y 150 mg al día, divididos según la formulación y la indicación. Algunas presentaciones de liberación prolongada se administran una vez al día. No superar el máximo autorizado en la ficha técnica; para muchas formulaciones sistémicas, el máximo habitual es de 150 mg/día. La dosis inyectable y la tópica dependen del producto y de la indicación. No intercambiar dosis entre formulaciones.",
+        "pediatrico": "La dosis depende de la edad, el peso, la indicación y la formulación. El uso pediátrico está autorizado solo para determinadas indicaciones y productos. Debe calcularse según la ficha técnica pediátrica y la prescripción. No extrapolar dosis de adultos ni utilizar presentaciones de liberación prolongada sin confirmar su idoneidad.",
+        "geriatrico": "Utilizar la menor dosis eficaz durante el menor tiempo posible. Las personas mayores tienen mayor riesgo de hemorragia gastrointestinal, deterioro renal, retención de líquidos y eventos cardiovasculares. Revisar comorbilidades, presión arterial, función renal, función hepática e interacciones."
+      },
+      "vias_administracion": "Oral, rectal, intramuscular, tópica u oftálmica, según la formulación y la autorización del producto. No administrar una formulación por una vía diferente de la indicada en su envase. La solución inyectable no debe administrarse por vía intravenosa salvo que el producto específico lo autorice expresamente.",
+      "preparacion": {
+        "dilucion": "Las formulaciones orales y tópicas generalmente no requieren dilución. La solución inyectable debe prepararse y administrarse siguiendo las instrucciones específicas del fabricante; no asumir que puede diluirse o administrarse por vía intravenosa. Verificar el diluyente, el volumen, la vía y las condiciones de preparación antes de utilizarla.",
+        "compatibilidad_iv": "No asumir compatibilidad intravenosa para las presentaciones inyectables. La compatibilidad depende del producto específico y de la vía autorizada. No mezclar con otros medicamentos en una jeringa o bolsa sin información documentada y sin verificar la ficha técnica."
+      },
+      "velocidad_infusion": "No establecer una velocidad de infusión universal. Muchas formulaciones inyectables están destinadas a administración intramuscular profunda o a otros métodos específicos autorizados, no a infusión intravenosa. Verificar el prospecto de la presentación exacta y el protocolo institucional.",
+      "estabilidad_soluciones": "La estabilidad depende de la formulación, el envase, la exposición a la luz y las condiciones de conservación. Respetar las instrucciones del fabricante. No utilizar soluciones con partículas, precipitados o cambios de aspecto no previstos ni conservar preparaciones diluidas fuera del plazo autorizado.",
+      "concentracion": "Variable según la formulación, la sal y el fabricante. Las presentaciones orales se expresan en mg por unidad; las inyectables y tópicas tienen concentraciones específicas. Verificar siempre la concentración y la cantidad de principio activo antes de calcular la dosis.",
+      "alarma_riesgo": "ALERTA: el diclofenaco sistémico puede aumentar el riesgo de infarto, accidente cerebrovascular, hemorragia gastrointestinal y lesión renal. Evitar en enfermedad cardiovascular establecida cuando esté contraindicado, en insuficiencia renal grave y durante el tercer trimestre del embarazo. No combinar con otros AINE sin indicación médica. Confirmar la vía autorizada antes de administrar una formulación inyectable.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción, la indicación, la dosis, la vía, la formulación y el intervalo de administración.",
+          "Evaluar antecedentes de alergia a AINE, asma desencadenada por analgésicos, úlcera péptica, hemorragia digestiva y enfermedad renal, hepática o cardiovascular.",
+          "Revisar la medicación concomitante para identificar anticoagulantes, antiagregantes, corticoides, otros AINE, diuréticos y antihipertensivos.",
+          "Valorar hidratación, presión arterial, edema y diuresis, especialmente en personas mayores o pacientes con riesgo renal.",
+          "Evaluar dolor e inflamación antes y después de la administración y registrar la respuesta.",
+          "Vigilar dolor abdominal intenso, vómitos con sangre, heces negras, disminución de la diuresis, disnea, dolor torácico o reacciones cutáneas graves.",
+          "En tratamientos prolongados, comprobar que se realicen los controles de función renal, hepática y hemograma indicados.",
+          "Para formulaciones tópicas, aplicar según las instrucciones del producto y evitar piel lesionada, ojos y mucosas cuando corresponda.",
+          "Para formulaciones inyectables, verificar la vía autorizada, la técnica de administración y las instrucciones específicas del fabricante.",
+          "Registrar la administración y comunicar las reacciones adversas o la falta de respuesta."
+        ],
+        "educacion_paciente": [
+          "Explicar que debe utilizar la menor dosis eficaz durante el menor tiempo posible y respetar los intervalos indicados.",
+          "No combinar con ibuprofeno, naproxeno u otros AINE salvo indicación médica.",
+          "Consultar antes de utilizarlo si toma anticoagulantes, tiene enfermedad renal o cardíaca, hipertensión, antecedentes de úlcera o está embarazada.",
+          "Evitar la automedicación durante episodios de deshidratación importante o vómitos y diarrea persistentes.",
+          "Solicitar atención urgente ante heces negras, vómitos con sangre, dificultad respiratoria, hinchazón de la cara, dolor torácico o disminución marcada de la orina.",
+          "Si utiliza gel o crema, seguir las instrucciones del producto y lavarse las manos después de aplicarlo, salvo que las manos sean la zona tratada.",
+          "Consultar si el dolor persiste o empeora, en lugar de aumentar la dosis por cuenta propia."
+        ]
+      }
     }
   ]
 }
