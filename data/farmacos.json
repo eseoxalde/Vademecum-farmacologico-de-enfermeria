@@ -8184,6 +8184,85 @@
           "Mantener el medicamento fuera del alcance de niños y conservarlo de acuerdo con las instrucciones del envase."
         ]
       }
+    },
+    {
+      "id": "102",
+      "nombre_generico": "Donepezilo",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Donepezilo, habitualmente como clorhidrato de donepezilo.",
+        "clasificacion": "Inhibidor reversible de la acetilcolinesterasa; fármaco utilizado en el tratamiento sintomático de la enfermedad de Alzheimer.",
+        "efecto_terapeutica": "Puede mejorar o estabilizar temporalmente algunos síntomas cognitivos y funcionales de la enfermedad de Alzheimer. No cura la enfermedad ni detiene de forma definitiva su progresión.",
+        "mecanismo_accion": "Inhibe de manera reversible y relativamente selectiva la acetilcolinesterasa, enzima responsable de degradar la acetilcolina. Esto aumenta la disponibilidad de acetilcolina en las sinapsis colinérgicas del sistema nervioso central."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe bien por vía oral. La concentración plasmática máxima se alcanza aproximadamente entre 3 y 4 horas después de la administración. Los alimentos no afectan significativamente su absorción.",
+        "distribucion": "Se distribuye ampliamente por el organismo y atraviesa la barrera hematoencefálica. Presenta una unión a proteínas plasmáticas aproximada del 96 %.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante las enzimas CYP2D6 y CYP3A4, con formación de varios metabolitos.",
+        "eliminacion": "Se elimina por orina tanto sin modificar como en forma de metabolitos. Su semivida de eliminación es prolongada, de aproximadamente 70 horas, por lo que el estado estacionario se alcanza tras varias semanas de administración diaria."
+      },
+      "indicaciones": "Tratamiento sintomático de la demencia asociada a la enfermedad de Alzheimer, en sus formas leves, moderadas y, según la autorización local, graves. No está indicado para todas las causas de demencia y su beneficio debe reevaluarse periódicamente.",
+      "contraindicaciones": "Hipersensibilidad al donepezilo, a derivados de la piperidina o a cualquiera de los componentes de la formulación.",
+      "precauciones": "Utilizar con precaución en pacientes con bradicardia, trastornos de conducción cardíaca, síncope, enfermedad del nodo sinusal, antecedentes de úlcera péptica, hemorragia digestiva, asma, enfermedad pulmonar obstructiva crónica, convulsiones o dificultad para orinar. Puede aumentar la secreción gástrica y favorecer efectos colinérgicos. La pérdida de peso y la disminución del apetito son relevantes, especialmente en personas mayores y frágiles.",
+      "advertencias": "Puede producir bradicardia, bloqueo auriculoventricular y síncope, incluso en pacientes sin antecedentes conocidos de enfermedad cardíaca. Se han descrito hemorragia gastrointestinal, convulsiones y síndrome neuroléptico maligno en circunstancias poco frecuentes. Puede prolongar el efecto de los relajantes musculares tipo succinilcolina durante la anestesia. La continuidad del tratamiento debe evaluarse según el beneficio clínico, la tolerancia y los objetivos asistenciales.",
+      "embarazo_lactancia": "Los datos disponibles durante el embarazo son insuficientes para establecer la seguridad; utilizar únicamente si el beneficio esperado justifica el riesgo potencial. Se desconoce si pasa a la leche materna en cantidades clínicamente relevantes. La decisión durante el embarazo o la lactancia requiere evaluación médica individualizada.",
+      "ajustes": {
+        "renal": "En general, no suele requerir ajuste de dosis en insuficiencia renal leve o moderada. En insuficiencia renal grave, valorar individualmente la tolerancia y consultar la ficha técnica del producto.",
+        "hepatico": "En insuficiencia hepática leve o moderada puede aumentar la exposición al fármaco; se recomienda iniciar con la dosis baja y titular con precaución. La experiencia en insuficiencia hepática grave es limitada y requiere evaluación especializada."
+      },
+      "interacciones": "Los anticolinérgicos pueden antagonizar sus efectos. Otros inhibidores de la colinesterasa pueden aumentar los efectos colinérgicos. Los antiinflamatorios no esteroideos pueden incrementar el riesgo de úlcera y hemorragia gastrointestinal. Los betabloqueantes y otros fármacos que reducen la frecuencia cardíaca pueden aumentar el riesgo de bradicardia o síncope. Los inhibidores de CYP2D6 o CYP3A4, como fluoxetina, paroxetina, quinidina o determinados antifúngicos azólicos, pueden elevar sus concentraciones; los inductores enzimáticos pueden reducirlas. Informar al equipo de anestesia antes de una intervención quirúrgica.",
+      "reacciones_adversas": "Náuseas, diarrea, vómitos, pérdida de apetito, pérdida de peso, calambres musculares, fatiga, insomnio, cefalea y mareos. Puede provocar bradicardia, síncope, trastornos de conducción, aumento de secreciones, incontinencia urinaria y alteraciones gastrointestinales. Las reacciones graves incluyen hemorragia digestiva, convulsiones y complicaciones cardíacas.",
+      "toxicidad_sobredosis": "La sobredosis puede producir una crisis colinérgica con náuseas y vómitos intensos, sudoración, salivación, lagrimeo, bradicardia, hipotensión, dificultad respiratoria, debilidad muscular y convulsiones. Requiere atención urgente, soporte de las funciones vitales y monitorización cardíaca. No inducir el vómito.",
+      "antidotos": "La atropina, un anticolinérgico, puede utilizarse como antídoto en la toxicidad colinérgica grave bajo supervisión médica. La dosis y la vía dependen de la situación clínica. El tratamiento incluye soporte respiratorio y cardiovascular según necesidad.",
+      "monitorizacion": {
+        "clinica": "Controlar frecuencia cardíaca, presión arterial, síncope, mareos y caídas. Evaluar cognición, funcionalidad, conducta, apetito, peso, tolerancia gastrointestinal, sueño y adherencia. Vigilar signos de hemorragia digestiva y debilidad muscular. Considerar ECG en pacientes con antecedentes cardíacos, bradicardia o medicamentos que afecten la conducción cardíaca.",
+        "laboratorio": "No requiere análisis rutinarios específicos en todos los pacientes. Solicitar hemograma, función renal, función hepática u otros estudios según síntomas, comorbilidades y criterio clínico. Si existe pérdida de peso significativa, valorar causas asociadas y el estado nutricional."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar prescripción, dosis, formulación, alergias, antecedentes de bradicardia, síncope, trastornos de conducción, úlcera péptica, hemorragia digestiva, asma y convulsiones. Registrar frecuencia cardíaca, peso, estado nutricional, situación cognitiva y funcional, y medicación concomitante.",
+        "durante": "Valorar tolerancia digestiva, apetito, peso, frecuencia cardíaca, presión arterial, mareos, síncope y cambios cognitivos o funcionales. Vigilar signos de sangrado gastrointestinal, deshidratación y debilidad muscular. Evaluar periódicamente si persiste un beneficio clínico relevante.",
+        "despues": "Registrar respuesta clínica, efectos adversos, cambios funcionales y parámetros controlados. Comunicar síncope, bradicardia sintomática, sangrado digestivo o deterioro importante. Cualquier decisión de suspender o modificar el tratamiento debe coordinarse con el equipo tratante."
+      },
+      "presentaciones": "Comprimidos recubiertos y comprimidos bucodispersables, habitualmente de 5 mg y 10 mg. Algunas presentaciones y mercados pueden disponer de otras concentraciones. Verificar las formulaciones autorizadas y disponibles localmente.",
+      "dosis": {
+        "adultos": "La dosis inicial habitual es de 5 mg por vía oral una vez al día, generalmente por la noche. Si se tolera, puede aumentarse a 10 mg al día después de al menos 4 a 6 semanas. Las dosis superiores, cuando existen formulaciones autorizadas para indicaciones específicas, requieren seguir estrictamente la ficha técnica. La titulación debe ser indicada por un profesional.",
+        "pediatrico": "No se recomienda de forma rutinaria en población pediátrica, ya que la seguridad y eficacia no están establecidas para las indicaciones habituales.",
+        "geriatrico": "No suele requerir ajuste exclusivamente por edad, pero las personas mayores pueden presentar mayor susceptibilidad a bradicardia, síncope, pérdida de peso, deshidratación y caídas. Iniciar con la dosis recomendada y aumentar gradualmente según tolerancia y respuesta."
+      },
+      "vias_administracion": "Vía oral. Administrar una vez al día, por la noche o según la indicación clínica. Puede tomarse con o sin alimentos. Los comprimidos bucodispersables deben utilizarse según las instrucciones del fabricante.",
+      "preparacion": {
+        "dilucion": "Los comprimidos se administran por vía oral y no requieren dilución. Para los comprimidos bucodispersables, seguir las instrucciones específicas del fabricante.",
+        "compatibilidad_iv": "No corresponde. El donepezilo de uso habitual se administra por vía oral y no dispone de una presentación intravenosa estándar."
+      },
+      "velocidad_infusion": "No corresponde. Administración oral.",
+      "estabilidad_soluciones": "No corresponde a las presentaciones sólidas habituales. Si se dispone de una formulación líquida específica, respetar las condiciones de conservación y el período de uso indicados por el fabricante.",
+      "concentracion": "Comprimidos habitualmente de 5 mg y 10 mg; las concentraciones disponibles dependen del fabricante y del mercado. Verificar la dosis por unidad antes de administrar.",
+      "alarma_riesgo": "Solicitar atención urgente ante desmayo, pulso muy lento con síntomas, dificultad respiratoria, convulsiones, vómitos persistentes, debilidad muscular intensa o signos de hemorragia digestiva, como vómitos con sangre o heces negras.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar identidad del paciente, prescripción, dosis, formulación, vía y horario antes de administrar.",
+          "Controlar la frecuencia cardíaca y valorar antecedentes de bradicardia, síncope o trastornos de conducción.",
+          "Observar mareos, hipotensión, síncope y riesgo de caídas, especialmente al iniciar el tratamiento o aumentar la dosis.",
+          "Registrar el peso y vigilar apetito, ingesta, hidratación y posibles pérdidas de peso.",
+          "Evaluar náuseas, vómitos, diarrea, dolor abdominal y signos de hemorragia gastrointestinal.",
+          "Valorar periódicamente el estado cognitivo, la funcionalidad, la conducta y la respuesta clínica.",
+          "Revisar medicamentos concomitantes que puedan producir bradicardia, aumentar el riesgo de sangrado o interactuar con el metabolismo del donepezilo.",
+          "Informar al equipo de anestesia antes de procedimientos quirúrgicos, debido a posibles interacciones con relajantes musculares.",
+          "Registrar la administración, la tolerancia, los cambios clínicos y las intervenciones realizadas.",
+          "Comunicar oportunamente bradicardia sintomática, síncope, sangrado digestivo o deterioro clínico significativo."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento diariamente según la prescripción y no aumentar ni modificar la dosis por cuenta propia.",
+          "Explicar que el donepezilo puede mejorar o estabilizar algunos síntomas, pero no cura la enfermedad de Alzheimer.",
+          "No duplicar una dosis olvidada. Si se interrumpe el tratamiento durante varios días, consultar al profesional antes de reiniciarlo, ya que puede ser necesario volver a una dosis menor.",
+          "Informar si aparecen mareos, desmayos, pulso lento, vómitos persistentes, pérdida de apetito o pérdida de peso.",
+          "Consultar de inmediato ante heces negras, vómitos con sangre, dificultad respiratoria o pérdida de conciencia.",
+          "Mantener una alimentación e hidratación adecuadas y comunicar cambios relevantes en la ingesta.",
+          "Informar al equipo de salud sobre todos los medicamentos utilizados y antes de cualquier cirugía o anestesia.",
+          "Mantener el medicamento fuera del alcance de niños y conservarlo según las instrucciones del envase."
+        ]
+      }
     }
   ]
 }
