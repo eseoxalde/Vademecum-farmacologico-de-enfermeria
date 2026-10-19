@@ -8026,6 +8026,85 @@
           "Mantener el medicamento fuera del alcance de niños y no compartirlo con otras personas."
         ]
       }
+    },
+    {
+      "id": "100",
+      "nombre_generico": "Risperidona",
+      "letra": "R",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Risperidona.",
+        "clasificacion": "Antipsicótico atípico o de segunda generación.",
+        "efecto_terapeutica": "Disminuye síntomas psicóticos, como alucinaciones y delirios. También puede reducir síntomas maníacos y determinados síntomas conductuales en indicaciones específicas.",
+        "mecanismo_accion": "Antagoniza principalmente los receptores dopaminérgicos D2 y serotoninérgicos 5-HT2A. También presenta afinidad por receptores alfa-adrenérgicos e histaminérgicos H1, lo que contribuye a algunos efectos adversos. Su acción sobre receptores muscarínicos es escasa."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe adecuadamente por vía oral y alcanza concentraciones plasmáticas máximas aproximadamente en una hora. Los alimentos no afectan significativamente su absorción.",
+        "distribucion": "Se distribuye ampliamente y presenta una unión a proteínas plasmáticas aproximada del 90 % para la risperidona y del 77 % para su metabolito activo, la 9-hidroxirisperidona.",
+        "metabolismo": "Se metaboliza principalmente en el hígado mediante CYP2D6 a 9-hidroxirisperidona, que posee actividad farmacológica. CYP3A4 también puede participar en su metabolismo.",
+        "eliminacion": "La risperidona y su metabolito activo se eliminan principalmente por vía renal. La insuficiencia renal puede aumentar la exposición al fármaco y requerir ajustes."
+      },
+      "indicaciones": "Tratamiento de la esquizofrenia y de episodios maníacos asociados al trastorno bipolar, según la autorización correspondiente. También puede indicarse para irritabilidad asociada al trastorno del espectro autista y para determinados cuadros de agresividad o alteraciones conductuales en poblaciones específicas. Las indicaciones autorizadas, edades y duración del tratamiento dependen de la ficha técnica y del país.",
+      "contraindicaciones": "Hipersensibilidad a la risperidona o a cualquiera de los componentes de la formulación.",
+      "precauciones": "Utilizar con precaución en personas con enfermedad cardiovascular, hipotensión, antecedentes de convulsiones, enfermedad de Parkinson, demencia con cuerpos de Lewy, diabetes o factores de riesgo metabólico, obesidad, dislipidemia, hiperprolactinemia o antecedentes de discinesia tardía. Puede causar somnolencia, hipotensión ortostática y alteraciones motoras. En pacientes con insuficiencia renal o hepática puede ser necesario iniciar con dosis menores y realizar ajustes graduales.",
+      "advertencias": "En personas mayores con psicosis relacionada con demencia, los antipsicóticos como la risperidona se asocian con mayor mortalidad y eventos cerebrovasculares; su uso no está aprobado para esta indicación en muchas jurisdicciones y debe respetar las restricciones locales. Puede producir síndrome neuroléptico maligno, discinesia tardía, síntomas extrapiramidales, hiperglucemia, dislipidemia, aumento de peso, hipotensión y prolongación del QT. Puede elevar la prolactina y aumentar el riesgo de alteraciones hormonales. No suspender ni modificar el tratamiento sin indicación profesional.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar solamente tras una evaluación individualizada de beneficios y riesgos. La exposición a antipsicóticos durante el tercer trimestre puede asociarse con síntomas extrapiramidales o de abstinencia en el recién nacido. La risperidona y su metabolito pueden pasar a la leche materna; valorar alternativas, beneficios de la lactancia y necesidad del tratamiento con el equipo de salud, vigilando al lactante si se mantiene la exposición.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede reducir la eliminación de la fracción activa. Puede ser necesario iniciar con dosis menores, aumentar lentamente y ajustar la dosis de mantenimiento según respuesta, tolerancia y ficha técnica.",
+        "hepatico": "La insuficiencia hepática puede aumentar la fracción libre del fármaco. Considerar dosis iniciales menores y titulación gradual, con vigilancia clínica."
+      },
+      "interacciones": "Los depresores del sistema nervioso central, incluidos opioides, benzodiazepinas y alcohol, pueden aumentar la sedación. Los antihipertensivos pueden potenciar la hipotensión. Los medicamentos que prolongan el QT pueden aumentar el riesgo de arritmias. Los inductores enzimáticos, como carbamazepina, pueden reducir las concentraciones de risperidona y su metabolito activo; los inhibidores de CYP2D6, como fluoxetina y paroxetina, pueden aumentarlas. Otros antagonistas dopaminérgicos pueden incrementar los efectos extrapiramidales. La levodopa y otros agonistas dopaminérgicos pueden ver reducidos sus efectos. Revisar siempre la medicación concomitante.",
+      "reacciones_adversas": "Somnolencia, mareos, cefalea, insomnio, ansiedad, aumento del apetito y del peso, náuseas, estreñimiento, hipotensión ortostática y síntomas extrapiramidales, como temblor, rigidez, acatisia y parkinsonismo. También puede causar hiperprolactinemia, alteraciones menstruales, galactorrea, disfunción sexual, hiperglucemia y dislipidemia. Las reacciones graves incluyen síndrome neuroléptico maligno, discinesia tardía, convulsiones, arritmias y eventos cerebrovasculares en personas predispuestas.",
+      "toxicidad_sobredosis": "Puede producir somnolencia intensa, sedación, taquicardia, hipotensión, alteración del nivel de conciencia, síntomas extrapiramidales y prolongación del QT. En casos graves puede haber convulsiones, arritmias o depresión respiratoria, especialmente con otros depresores del sistema nervioso central. Requiere evaluación urgente, soporte de funciones vitales y monitorización cardiovascular. No inducir el vómito.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es de soporte y sintomático, con vigilancia de la vía aérea, la respiración, la circulación, el estado neurológico y el electrocardiograma según la gravedad.",
+      "monitorizacion": {
+        "clinica": "Controlar estado mental, respuesta terapéutica, nivel de sedación, presión arterial, frecuencia cardíaca, síntomas extrapiramidales, discinesia tardía, signos de síndrome neuroléptico maligno y cambios conductuales. Vigilar peso, apetito, síntomas de hiperglucemia y manifestaciones de hiperprolactinemia.",
+        "laboratorio": "Considerar peso e índice de masa corporal, glucemia o HbA1c y perfil lipídico al inicio y durante el seguimiento. Solicitar prolactina si aparecen síntomas compatibles. Evaluar función renal y hepática según antecedentes y situación clínica. Realizar ECG y controlar electrolitos cuando existan factores de riesgo de prolongación del QT o arritmias."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar prescripción, indicación, dosis, formulación, vía, alergias, medicación concomitante y antecedentes cardiovasculares, metabólicos, renales, hepáticos, neurológicos y endocrinos. Registrar estado mental, presión arterial, peso y parámetros metabólicos basales cuando corresponda.",
+        "durante": "Evaluar respuesta clínica y tolerancia. Vigilar sedación, hipotensión ortostática, caídas, síntomas extrapiramidales, cambios del peso, glucemia, alteraciones menstruales y otros signos de hiperprolactinemia. Observar fiebre, rigidez, alteración de conciencia e inestabilidad autonómica, que pueden indicar síndrome neuroléptico maligno.",
+        "despues": "Registrar respuesta terapéutica, efectos adversos, parámetros controlados y educación brindada. Mantener el seguimiento clínico y metabólico. Si se decide retirar el tratamiento, coordinar una reducción gradual según indicación profesional."
+      },
+      "presentaciones": "Comprimidos de distintas concentraciones, solución oral y formulaciones inyectables de acción prolongada. Las concentraciones, dispositivos y disponibilidad varían según el fabricante y el país. Las formulaciones inyectables de depósito tienen indicaciones y procedimientos de administración específicos y no son intercambiables automáticamente con la formulación oral.",
+      "dosis": {
+        "adultos": "La dosis depende de la indicación y la formulación. En esquizofrenia, la dosis oral inicial habitual en adultos suele ser de 2 mg al día, con ajustes graduales según respuesta y tolerancia. En episodios maníacos puede iniciarse con 2 a 3 mg al día. Las dosis posteriores deben individualizarse y respetar la ficha técnica. No extrapolar estas pautas a formulaciones inyectables de acción prolongada.",
+        "pediatrico": "La dosis depende de la edad, el peso y la indicación. Para determinadas indicaciones autorizadas, como irritabilidad asociada al trastorno del espectro autista, se emplean dosis bajas ajustadas al peso y aumentadas gradualmente bajo supervisión especializada. La seguridad y eficacia no están establecidas para todas las indicaciones y edades. No utilizar una pauta pediátrica genérica sin confirmar la indicación y la ficha técnica.",
+        "geriatrico": "Iniciar generalmente con dosis menores y aumentar lentamente según respuesta y tolerancia. Vigilar hipotensión ortostática, sedación, caídas, síntomas extrapiramidales, función renal y posibles interacciones. En personas mayores con demencia, considerar especialmente las advertencias sobre mortalidad y eventos cerebrovasculares."
+      },
+      "vias_administracion": "Vía oral en comprimidos o solución oral. Algunas presentaciones son inyectables de acción prolongada y requieren administración por personal capacitado conforme a las instrucciones específicas del producto. No asumir que todas las formulaciones son intercambiables ni que tienen la misma pauta de inicio.",
+      "preparacion": {
+        "dilucion": "Los comprimidos se administran por vía oral y no requieren dilución. Medir la solución oral con el dispositivo dosificador correspondiente. Las formulaciones inyectables de acción prolongada requieren preparación específica según el producto, incluidos los diluyentes y dispositivos provistos por el fabricante; no aplicar instrucciones de una formulación a otra.",
+        "compatibilidad_iv": "No corresponde a las presentaciones habituales: la risperidona no se administra por vía intravenosa. Las formulaciones inyectables disponibles son productos específicos de acción prolongada y deben administrarse por la vía indicada en su ficha técnica."
+      },
+      "velocidad_infusion": "No corresponde. La risperidona oral no se administra por infusión. Las formulaciones inyectables de acción prolongada siguen instrucciones específicas del fabricante.",
+      "estabilidad_soluciones": "Para la solución oral, respetar las condiciones de almacenamiento y el período de uso indicado por el fabricante. Para las formulaciones inyectables, utilizar los diluyentes y tiempos de uso especificados en la ficha técnica del producto exacto. No extrapolar estabilidad entre formulaciones.",
+      "concentracion": "Los comprimidos y las soluciones orales están disponibles en concentraciones que varían según el fabricante. Verificar la concentración del envase antes de calcular la dosis o el volumen. Las presentaciones inyectables de acción prolongada poseen concentraciones y sistemas de administración propios.",
+      "alarma_riesgo": "Requieren atención urgente fiebre alta con rigidez muscular, confusión o inestabilidad autonómica; dificultad respiratoria; desmayo o palpitaciones intensas; convulsiones; movimientos involuntarios graves; signos de accidente cerebrovascular; o sedación profunda con dificultad para despertar.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar identidad del paciente, prescripción, indicación, dosis, formulación, vía y horario antes de administrar.",
+          "Confirmar si se trata de una formulación oral o inyectable de acción prolongada y seguir exclusivamente las instrucciones específicas del producto.",
+          "Valorar el estado mental, la conducta, la respuesta terapéutica y el nivel de sedación.",
+          "Controlar presión arterial y observar hipotensión ortostática, mareos y riesgo de caídas, especialmente al inicio o después de aumentar la dosis.",
+          "Vigilar síntomas extrapiramidales, acatisia, rigidez y movimientos involuntarios persistentes.",
+          "Observar fiebre, rigidez muscular, alteración de conciencia e inestabilidad autonómica como posibles signos de síndrome neuroléptico maligno.",
+          "Registrar el peso y controlar glucemia o HbA1c y perfil lipídico según indicación y protocolo.",
+          "Observar signos de hiperprolactinemia, como galactorrea, alteraciones menstruales o disfunción sexual, y comunicarlos al equipo tratante.",
+          "Revisar la medicación concomitante para detectar interacciones y aumento de sedación, hipotensión o riesgo de arritmias.",
+          "Documentar la administración, la respuesta, los efectos adversos y las intervenciones realizadas."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento exactamente según la prescripción y no modificar ni suspender la dosis por cuenta propia.",
+          "Explicar que la mejoría puede ser gradual y que es importante mantener los controles programados.",
+          "Evitar conducir o realizar actividades riesgosas si presenta somnolencia o mareos.",
+          "Evitar el consumo de alcohol y consultar antes de utilizar medicamentos sedantes u otros productos.",
+          "Levantarse lentamente desde la posición acostada o sentada para reducir el riesgo de mareos y caídas.",
+          "Informar cambios importantes de peso, sed excesiva, aumento de la frecuencia urinaria, movimientos involuntarios o alteraciones menstruales.",
+          "Buscar atención urgente ante fiebre con rigidez muscular, confusión, desmayo, palpitaciones intensas o signos de accidente cerebrovascular.",
+          "No compartir el medicamento y mantenerlo fuera del alcance de niños."
+        ]
+      }
     }
   ]
 }
