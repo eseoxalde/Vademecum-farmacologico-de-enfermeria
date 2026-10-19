@@ -9594,7 +9594,7 @@
       },
       "velocidad_infusion": "No aplica",
       "estabilidad_soluciones": "No aplica; conservar los comprimidos según el prospecto específico",
-      "concentracion": "Comprimidos de distintas concentraciones, habitualmente de 1 mg a 4 mg según el producto",
+      "concentracion": "No aplica. Administración oral; el prospecto no establece una concentración máxima de administración",
       "alarma_riesgo": "Hipoglucemia grave o recurrente; alteración de conciencia; convulsiones; incapacidad para deglutir; ictericia; reacción alérgica grave",
       "cuidados_enfermeria": {
         "cuidados": [
