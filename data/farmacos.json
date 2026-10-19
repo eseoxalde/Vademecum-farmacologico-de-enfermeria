@@ -9923,6 +9923,81 @@
           "Comunicar vómitos persistentes, deshidratación o enfermedad aguda."
         ]
       }
+    },
+    {
+      "id": "125",
+      "nombre_generico": "Metformina + Glimepirida",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Hidrocloruro de metformina y glimepirida",
+        "clasificacion": "Antidiabético oral; biguanida y sulfonilurea de segunda generación; código ATC A10BD02",
+        "efecto_terapeutica": "Mejora el control glucémico en adultos con diabetes mellitus tipo 2 mediante la reducción de la producción hepática de glucosa y el aumento de la secreción de insulina",
+        "mecanismo_accion": "La metformina disminuye la producción hepática de glucosa y mejora la sensibilidad a la insulina; la glimepirida estimula la secreción pancreática de insulina mediante el bloqueo de los canales de potasio sensibles al ATP en las células beta"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Ambos principios activos se absorben por vía oral; la absorción de metformina puede retrasarse con los alimentos",
+        "distribucion": "La metformina presenta unión insignificante a proteínas plasmáticas; la glimepirida presenta unión superior al 99 %",
+        "metabolismo": "La metformina prácticamente no se metaboliza; la glimepirida se metaboliza principalmente en el hígado, en parte mediante CYP2C9",
+        "eliminacion": "La metformina se elimina sin modificar por vía renal; los metabolitos de glimepirida se eliminan por orina y heces"
+      },
+      "indicaciones": "Tratamiento de adultos con diabetes mellitus tipo 2 cuando la dieta, el ejercicio y el tratamiento con metformina o glimepirida por separado no proporcionan un control glucémico adecuado; la asociación debe individualizarse y supervisarse estrechamente",
+      "contraindicaciones": "Hipersensibilidad a los principios activos, otras sulfonilureas o excipientes; diabetes mellitus tipo 1; cetoacidosis diabética; coma o precoma diabético; acidosis metabólica aguda; insuficiencia renal grave; insuficiencia hepática grave; deshidratación grave o enfermedades agudas que comprometan la función renal; embarazo y lactancia según la ficha técnica",
+      "precauciones": "Riesgo elevado de hipoglucemia por glimepirida; acidosis láctica por metformina; ayuno; comidas omitidas; consumo de alcohol; ejercicio intenso; edad avanzada; insuficiencia renal o hepática; infección grave; cirugía; contraste yodado; deficiencia de vitamina B12",
+      "advertencias": "Puede causar hipoglucemia grave o prolongada; la metformina puede producir acidosis láctica en situaciones predisponentes; si se presentan síntomas compatibles con acidosis láctica, suspender el tratamiento y solicitar atención médica urgente; revisar la necesidad de suspender temporalmente metformina ante determinadas cirugías, enfermedades agudas o estudios con contraste yodado",
+      "embarazo_lactancia": "No se recomienda esta combinación durante el embarazo; se prefiere insulina para el control de la diabetes gestacional; no se recomienda durante la lactancia por el riesgo asociado a glimepirida y la posible exposición del lactante",
+      "ajustes": {
+        "renal": "La metformina está contraindicada con TFGe inferior a 30 ml/min/1,73 m²; con TFGe de 30 a 44, su dosis debe limitarse y valorarse individualmente; la insuficiencia renal aumenta el riesgo de hipoglucemia por glimepirida; evitar la combinación fija si no permite ajustar ambos componentes de forma segura",
+        "hepatico": "La insuficiencia hepática aumenta el riesgo de hipoglucemia y acidosis láctica; no se recomienda la combinación en insuficiencia hepática grave; valorar alternativas terapéuticas"
+      },
+      "interacciones": "El alcohol aumenta el riesgo de acidosis láctica e hipoglucemia; los contrastes yodados pueden requerir suspensión temporal de metformina; los antiinflamatorios, salicilatos, determinados antibióticos y antifúngicos pueden aumentar el efecto hipoglucemiante de glimepirida; los glucocorticoides, diuréticos y simpaticomiméticos pueden elevar la glucemia; los inductores e inhibidores de CYP2C9 pueden modificar el efecto de glimepirida",
+      "reacciones_adversas": "Hipoglucemia; náuseas; vómitos; diarrea; dolor abdominal; disminución del apetito; sabor metálico; aumento de peso; deficiencia de vitamina B12; reacciones alérgicas; alteraciones hematológicas; alteración hepática; acidosis láctica, rara pero potencialmente mortal",
+      "toxicidad_sobredosis": "Puede provocar hipoglucemia grave y prolongada por glimepirida y acidosis láctica por metformina; requiere atención médica urgente, control repetido de glucemia, evaluación renal y equilibrio ácido-base; puede requerir hospitalización y vigilancia prolongada",
+      "antidotos": "No existe antídoto específico para la combinación; administrar glucosa ante hipoglucemia según el estado clínico; en acidosis láctica grave puede requerirse hemodiálisis",
+      "monitorizacion": {
+        "clinica": "Glucemia; estado de conciencia; síntomas de hipoglucemia; tolerancia gastrointestinal; hidratación; alimentación; signos de acidosis láctica; reacciones alérgicas",
+        "laboratorio": "Glucemia; HbA1c; creatinina y TFGe; función hepática; hemograma cuando esté indicado; vitamina B12 en tratamientos prolongados o ante sospecha de déficit; lactato y equilibrio ácido-base ante sospecha de acidosis láctica"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar glucemia, HbA1c, función renal y hepática; patrón alimentario; antecedentes de hipoglucemia; consumo de alcohol; medicamentos concomitantes y riesgo de acidosis láctica",
+        "durante": "Controlar glucemia; vigilar signos de hipoglucemia y alteración de conciencia; valorar alimentación e hidratación; comprobar función renal y revisar interacciones",
+        "despues": "Evaluar control glucémico, adherencia y tolerancia; registrar hipoglucemias; revisar función renal y documentar efectos adversos"
+      },
+      "presentaciones": "Asociación en comprimidos separados o combinaciones fijas cuando estén autorizadas; las concentraciones disponibles dependen del fabricante y del país",
+      "dosis": {
+        "adultos": "Individualizar ambos componentes; la glimepirida suele iniciarse con 1 mg una vez al día y ajustarse gradualmente; la dosis máxima habitual indicada en la ficha técnica de Glimepirida MABO es de 6 mg/día; ajustar metformina según tolerancia y función renal; iniciar y ajustar la asociación bajo supervisión médica",
+        "pediatrico": "No se recomienda en niños por falta de datos suficientes y por el riesgo de hipoglucemia",
+        "geriatrico": "Iniciar con dosis bajas; valorar función renal, alimentación, fragilidad y riesgo de hipoglucemia prolongada"
+      },
+      "vias_administracion": "Oral; administrar glimepirida poco antes o durante el desayuno abundante o la primera comida principal; administrar metformina con las comidas según la prescripción",
+      "preparacion": {
+        "dilucion": "No requiere dilución; administrar los comprimidos por vía oral",
+        "compatibilidad_iv": "No aplica; formulación oral"
+      },
+      "velocidad_infusion": "No aplica",
+      "estabilidad_soluciones": "No aplica; conservar según el prospecto del producto",
+      "concentracion": "No aplica; medicamento oral sin concentración máxima de administración establecida",
+      "alarma_riesgo": "Hipoglucemia grave o recurrente; convulsiones; alteración de conciencia; respiración dificultosa; vómitos persistentes; debilidad intensa; sospecha de acidosis láctica",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar glucemia y registrar sus variaciones.",
+          "Vigilar signos de hipoglucemia y evaluar el estado de conciencia.",
+          "Comprobar que el paciente pueda mantener una alimentación regular.",
+          "Valorar función renal antes del tratamiento y periódicamente.",
+          "Observar tolerancia gastrointestinal e hidratación.",
+          "Revisar medicamentos concomitantes que puedan aumentar el efecto hipoglucemiante.",
+          "Activar atención urgente ante sospecha de hipoglucemia grave o acidosis láctica."
+        ],
+        "educacion_paciente": [
+          "Tomar los medicamentos según la prescripción y no modificar las dosis por cuenta propia.",
+          "No omitir comidas después de tomar glimepirida.",
+          "Reconocer síntomas de hipoglucemia y seguir el plan de tratamiento indicado.",
+          "Evitar el consumo excesivo de alcohol.",
+          "Consultar antes de estudios con contraste yodado o cirugías.",
+          "Informar sobre vómitos, diarrea intensa, deshidratación o enfermedad aguda.",
+          "No duplicar una dosis olvidada."
+        ]
+      }
     }
   ]
 }
