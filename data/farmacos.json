@@ -9848,6 +9848,81 @@
           "No suspender otros antidiabéticos sin indicación profesional."
         ]
       }
+    },
+    {
+      "id": "124",
+      "nombre_generico": "Metformina + Sitagliptina",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Hidrocloruro de metformina y sitagliptina",
+        "clasificacion": "Antidiabético oral; biguanida e inhibidor de DPP-4; código ATC A10BD07",
+        "efecto_terapeutica": "Mejora el control glucémico en adultos con diabetes mellitus tipo 2",
+        "mecanismo_accion": "La metformina reduce la producción hepática de glucosa y mejora la sensibilidad a la insulina; la sitagliptina inhibe la DPP-4, aumentando la actividad de las incretinas y favoreciendo la secreción de insulina dependiente de glucosa"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Ambos principios activos se absorben por vía oral; los alimentos pueden retrasar la absorción de metformina",
+        "distribucion": "La metformina presenta unión insignificante a proteínas plasmáticas; la sitagliptina presenta unión moderada a proteínas plasmáticas",
+        "metabolismo": "La metformina prácticamente no se metaboliza; la sitagliptina sufre un metabolismo limitado y una parte se transforma mediante enzimas CYP",
+        "eliminacion": "La metformina se elimina sin modificar por vía renal; la sitagliptina se elimina principalmente por vía renal, en gran parte sin modificar"
+      },
+      "indicaciones": "Tratamiento de adultos con diabetes mellitus tipo 2 como complemento de dieta y ejercicio cuando la metformina sola no proporciona control suficiente; también puede utilizarse en pacientes que ya reciben ambos medicamentos por separado o junto con otros antidiabéticos según la ficha técnica",
+      "contraindicaciones": "Hipersensibilidad a los principios activos o excipientes; cualquier tipo de acidosis metabólica aguda; cetoacidosis diabética; insuficiencia renal grave con TFGe inferior a 30 ml/min/1,73 m²; enfermedades agudas que puedan alterar la función renal; intoxicación alcohólica aguda o alcoholismo según la ficha técnica",
+      "precauciones": "Riesgo de acidosis láctica; insuficiencia renal; deshidratación; infección grave; cirugía; uso de contraste yodado; pancreatitis; penfigoide ampolloso; artralgia intensa; insuficiencia cardíaca o hipoxia; déficit de vitamina B12; riesgo de hipoglucemia al asociarse con insulina o sulfonilureas",
+      "advertencias": "Evaluar la función renal antes y durante el tratamiento; suspender temporalmente metformina cuando lo indique la ficha técnica; investigar dolor abdominal intenso y persistente por posible pancreatitis; reconocer signos de acidosis láctica; ajustar la dosis de sitagliptina en insuficiencia renal cuando corresponda",
+      "embarazo_lactancia": "No se recomienda durante el embarazo por la insuficiencia de datos para la combinación; valorar insulina para el control de la diabetes gestacional; no se recomienda durante la lactancia debido a la falta de datos suficientes sobre sitagliptina",
+      "ajustes": {
+        "renal": "La dosis de sitagliptina debe ajustarse según TFGe; para sitagliptina sola, la dosis habitual es de 100 mg/día con TFGe de al menos 45 ml/min/1,73 m², 50 mg/día con TFGe de 30 a menos de 45 y 25 mg/día con TFGe inferior a 30; la metformina está contraindicada con TFGe inferior a 30; la combinación fija debe permitir respetar ambos límites",
+        "hepatico": "Valorar función hepática y factores de riesgo de acidosis láctica; seguir la ficha técnica de la combinación específica y evitar su uso cuando exista contraindicación por enfermedad aguda o hepática relevante"
+      },
+      "interacciones": "El alcohol aumenta el riesgo de acidosis láctica; los contrastes yodados pueden requerir suspensión temporal de metformina; los medicamentos que alteran la función renal requieren precaución; los glucocorticoides y simpaticomiméticos pueden elevar la glucemia; insulina y sulfonilureas aumentan el riesgo de hipoglucemia",
+      "reacciones_adversas": "Náuseas; vómitos; diarrea; dolor abdominal; disminución del apetito; hipoglucemia en combinación con otros antidiabéticos; deficiencia de vitamina B12; pancreatitis; reacciones de hipersensibilidad; penfigoide ampolloso; dolor articular intenso; acidosis láctica, rara pero potencialmente mortal",
+      "toxicidad_sobredosis": "Puede producir molestias gastrointestinales y, por metformina, acidosis láctica; la hipoglucemia es más probable si se combina con otros medicamentos hipoglucemiantes; requiere evaluación médica urgente, control glucémico y evaluación de la función renal y el equilibrio ácido-base",
+      "antidotos": "No existe antídoto específico; tratamiento de soporte; la hemodiálisis puede ser necesaria en casos graves de acidosis láctica y puede eliminar sitagliptina",
+      "monitorizacion": {
+        "clinica": "Glucemia; tolerancia gastrointestinal; hidratación; signos de pancreatitis; reacciones alérgicas; dolor articular intenso; signos de hipoglucemia cuando se combina con otros antidiabéticos",
+        "laboratorio": "Glucemia; HbA1c; creatinina y TFGe; vitamina B12 en tratamientos prolongados o ante sospecha de déficit; lactato y equilibrio ácido-base si se sospecha acidosis láctica"
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar glucemia, HbA1c, función renal, antecedentes de pancreatitis, medicación concomitante, consumo de alcohol y riesgo de acidosis láctica",
+        "durante": "Controlar glucemia; vigilar función renal y síntomas digestivos; observar dolor abdominal persistente, reacciones alérgicas o dolor articular intenso",
+        "despues": "Evaluar control glucémico, tolerancia y adherencia; documentar efectos adversos y revisar la dosis si cambia la función renal"
+      },
+      "presentaciones": "Comprimidos de 50 mg/850 mg y 50 mg/1.000 mg en el prospecto consultado; otras presentaciones dependen del fabricante y del mercado",
+      "dosis": {
+        "adultos": "La dosis habitual de sitagliptina es de 100 mg/día y la dosis de metformina se individualiza; la combinación suele administrarse dos veces al día con las comidas; reducir la dosis de sitagliptina en insuficiencia renal y no utilizar una combinación fija que impida el ajuste apropiado",
+        "pediatrico": "No se recomienda para uso pediátrico salvo que la ficha técnica específica establezca lo contrario",
+        "geriatrico": "Individualizar según función renal, tolerancia digestiva y comorbilidades; comprobar la función renal regularmente"
+      },
+      "vias_administracion": "Oral; administrar con las comidas",
+      "preparacion": {
+        "dilucion": "No requiere dilución; administrar el comprimido según el prospecto",
+        "compatibilidad_iv": "No aplica; formulación oral"
+      },
+      "velocidad_infusion": "No aplica",
+      "estabilidad_soluciones": "No aplica; conservar según el prospecto específico",
+      "concentracion": "No aplica; medicamento oral sin concentración máxima de administración establecida",
+      "alarma_riesgo": "Dolor abdominal intenso y persistente; vómitos persistentes; respiración dificultosa; debilidad intensa; reacción alérgica grave; ampollas extensas o sospecha de acidosis láctica",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar glucemia y registrar los resultados.",
+          "Comprobar función renal antes del inicio y durante el tratamiento.",
+          "Vigilar síntomas de pancreatitis, especialmente dolor abdominal persistente.",
+          "Valorar hidratación y tolerancia gastrointestinal.",
+          "Observar reacciones alérgicas y lesiones ampollosas en la piel.",
+          "Revisar los tratamientos concomitantes que puedan aumentar el riesgo de hipoglucemia.",
+          "Activar atención urgente ante sospecha de acidosis láctica."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento con las comidas según la prescripción.",
+          "No modificar la dosis sin indicación profesional.",
+          "Informar inmediatamente sobre dolor abdominal intenso o persistente.",
+          "Consultar ante erupciones graves, ampollas o hinchazón de la cara.",
+          "Evitar el consumo excesivo de alcohol.",
+          "Informar antes de estudios con contraste yodado o procedimientos quirúrgicos.",
+          "Comunicar vómitos persistentes, deshidratación o enfermedad aguda."
+        ]
+      }
     }
   ]
 }
