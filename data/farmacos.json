@@ -8338,6 +8338,85 @@
           "Mantener el medicamento fuera del alcance de niños y conservarlo según las indicaciones del envase."
         ]
       }
+    },
+    {
+      "id": "104",
+      "nombre_generico": "Levodopa",
+      "letra": "L",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Levodopa o L-DOPA. Habitualmente se administra combinada con carbidopa o benserazida.",
+        "clasificacion": "Precursor metabólico de la dopamina; medicamento antiparkinsoniano dopaminérgico.",
+        "efecto_terapeutica": "Mejora la bradicinesia, la rigidez y, en muchos pacientes, el temblor asociado a la enfermedad de Parkinson. También puede utilizarse en otros síndromes parkinsonianos seleccionados, según su causa y la indicación médica.",
+        "mecanismo_accion": "Atraviesa la barrera hematoencefálica y se convierte en dopamina mediante la enzima dopa-descarboxilasa. El aumento de dopamina en el sistema nervioso central compensa parcialmente el déficit dopaminérgico de la enfermedad de Parkinson. La carbidopa y la benserazida inhiben la conversión periférica de levodopa y aumentan la cantidad disponible para llegar al cerebro."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe principalmente en el intestino delgado. El vaciamiento gástrico y las comidas, especialmente las ricas en proteínas, pueden modificar la velocidad y la cantidad de absorción. El hierro oral puede reducir su absorción.",
+        "distribucion": "Atraviesa la barrera hematoencefálica mediante transportadores de aminoácidos. La dopamina formada en la periferia no atraviesa de manera significativa esta barrera.",
+        "metabolismo": "Se metaboliza rápidamente por descarboxilación y otras vías enzimáticas. La administración combinada con carbidopa o benserazida reduce la conversión periférica y permite utilizar dosis menores de levodopa.",
+        "eliminacion": "Los metabolitos se eliminan principalmente por vía renal. La duración del efecto clínico es relativamente corta con las formulaciones de liberación inmediata y varía según la formulación y la evolución de la enfermedad."
+      },
+      "indicaciones": "Tratamiento de los síntomas motores de la enfermedad de Parkinson y de determinados síndromes parkinsonianos, habitualmente en combinación con carbidopa o benserazida. La levodopa sola se utiliza con menor frecuencia. No todas las causas de parkinsonismo responden de igual manera.",
+      "contraindicaciones": "Las contraindicaciones dependen de si se administra sola o combinada con carbidopa o benserazida. Pueden incluir hipersensibilidad a los componentes, uso concomitante con IMAO no selectivos y determinadas afecciones oculares, cardiovasculares o psiquiátricas según la ficha técnica. Verificar las contraindicaciones específicas de la combinación prescrita.",
+      "precauciones": "Utilizar con precaución en pacientes con hipotensión ortostática, arritmias, cardiopatía isquémica, antecedentes de infarto, glaucoma, enfermedad psiquiátrica, deterioro cognitivo, antecedentes de úlcera péptica o riesgo de melanoma. Puede producir discinesias, alucinaciones, somnolencia, conductas impulsivas y fluctuaciones motoras. Las comidas ricas en proteínas pueden interferir con la respuesta.",
+      "advertencias": "No suspender bruscamente ni reducir de forma importante sin supervisión médica, ya que puede producir rigidez intensa, fiebre, alteraciones de conciencia e inestabilidad autonómica semejantes al síndrome neuroléptico maligno. Puede provocar episodios de sueño repentino, hipotensión, alucinaciones y discinesias. La aparición de melanoma se ha asociado con la enfermedad de Parkinson, por lo que se recomienda vigilancia cutánea según criterio clínico.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar solamente si el beneficio esperado justifica los riesgos y tras valoración especializada. La información de seguridad es limitada. La levodopa puede inhibir la lactancia y pasar a la leche materna; valorar los riesgos para el lactante y la necesidad del tratamiento con el equipo médico.",
+      "ajustes": {
+        "renal": "No existe un ajuste universal para todas las formulaciones. Utilizar con precaución en insuficiencia renal y adaptar el tratamiento según tolerancia, comorbilidades y ficha técnica de la combinación.",
+        "hepatico": "Utilizar con precaución en enfermedad hepática. No existe una pauta de ajuste única para todas las formulaciones; individualizar y vigilar la tolerancia."
+      },
+      "interacciones": "Los IMAO no selectivos pueden producir elevaciones importantes de la presión arterial y están contraindicados con determinadas formulaciones. Los antipsicóticos y otros antagonistas dopaminérgicos pueden reducir el efecto antiparkinsoniano. Los antihipertensivos pueden aumentar la hipotensión ortostática. El hierro oral puede disminuir la absorción. Las comidas ricas en proteínas pueden interferir con la respuesta clínica. Algunos medicamentos pueden aumentar el riesgo de arritmias o efectos neuropsiquiátricos. Revisar toda la medicación concomitante.",
+      "reacciones_adversas": "Náuseas, vómitos, hipotensión ortostática, mareos, somnolencia, discinesias, palpitaciones y pérdida del apetito. También pueden aparecer alucinaciones, confusión, insomnio, pesadillas, conductas impulsivas y fluctuaciones entre períodos de buena movilidad y períodos de inmovilidad. Puede observarse coloración oscura de orina, sudor o saliva sin que necesariamente indique una complicación.",
+      "toxicidad_sobredosis": "La sobredosis puede causar discinesias intensas, agitación, confusión, alucinaciones, náuseas, hipotensión, hipertensión, taquicardia y arritmias. Requiere evaluación urgente, tratamiento de soporte y monitorización cardiovascular y neurológica. No inducir el vómito.",
+      "antidotos": "No existe un antídoto específico. El tratamiento es sintomático y de soporte, con vigilancia cardiovascular, neurológica y de las funciones vitales.",
+      "monitorizacion": {
+        "clinica": "Evaluar movilidad, rigidez, bradicinesia, temblor, fluctuaciones motoras, discinesias, presión arterial, frecuencia cardíaca, estado mental, alucinaciones, somnolencia y riesgo de caídas. Vigilar la respuesta en relación con los horarios de administración y las comidas.",
+        "laboratorio": "No requiere análisis específicos rutinarios en todos los pacientes. Según la formulación y la situación clínica, pueden controlarse función hepática, función renal, hemograma y otros parámetros indicados. Considerar evaluación dermatológica periódica cuando corresponda."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la combinación farmacológica, la formulación, la dosis, el horario y la vía. Valorar síntomas motores, presión arterial, frecuencia cardíaca, antecedentes de arritmias, glaucoma, trastornos psiquiátricos e interacciones. Revisar el patrón de comidas y la respuesta a dosis anteriores.",
+        "durante": "Evaluar mejoría motora, discinesias, períodos de bloqueo, mareos, hipotensión ortostática, somnolencia, alucinaciones y otros cambios conductuales. Comprobar la relación entre la administración, las comidas y la respuesta clínica.",
+        "despues": "Registrar la respuesta motora, los efectos adversos, los horarios y las intervenciones realizadas. Comunicar fluctuaciones importantes, discinesias incapacitantes, síncope o cambios neuropsiquiátricos. Coordinar cualquier modificación de dosis con el equipo tratante."
+      },
+      "presentaciones": "La levodopa suele comercializarse combinada con carbidopa o benserazida en comprimidos de liberación inmediata, dispersables o de liberación prolongada, según el producto y el país. También existen formulaciones especiales para administración por otras vías en determinados contextos clínicos. Las combinaciones y concentraciones no son intercambiables automáticamente.",
+      "dosis": {
+        "adultos": "La dosis depende de la formulación, la combinación, la gravedad de los síntomas y la respuesta individual. El tratamiento suele iniciarse con una dosis baja y aumentarse gradualmente. En combinaciones orales de liberación inmediata se utilizan diferentes pautas de inicio; no existe una dosis única aplicable a todas las presentaciones. Respetar la prescripción y la ficha técnica del producto exacto.",
+        "pediatrico": "No existe una pauta pediátrica universal para las indicaciones habituales de la enfermedad de Parkinson. El uso debe quedar a cargo de especialistas y depender de la indicación específica, el peso, la formulación y la respuesta clínica.",
+        "geriatrico": "La dosis debe individualizarse según respuesta, tolerancia, comorbilidades y medicación concomitante. Vigilar hipotensión, confusión, alucinaciones, somnolencia, discinesias y caídas. Evitar cambios bruscos de pauta."
+      },
+      "vias_administracion": "Principalmente vía oral, generalmente en combinación con carbidopa o benserazida. Existen formulaciones especiales para otras vías en contextos clínicos específicos; utilizar únicamente según las indicaciones del producto y del equipo especializado.",
+      "preparacion": {
+        "dilucion": "Los comprimidos y cápsulas se administran según las instrucciones de la formulación. No triturar ni partir formulaciones de liberación prolongada salvo que el fabricante lo autorice. Los preparados especiales requieren instrucciones específicas de preparación y administración.",
+        "compatibilidad_iv": "No corresponde a las formulaciones orales habituales. Para cualquier presentación especial de administración no oral, consultar la ficha técnica del producto y el protocolo institucional."
+      },
+      "velocidad_infusion": "No corresponde a las presentaciones orales. Las formulaciones especiales para administración continua tienen instrucciones propias y requieren personal capacitado.",
+      "estabilidad_soluciones": "Depende de la formulación. Para comprimidos, cápsulas, preparados dispersables o sistemas especiales, respetar las condiciones de conservación y los tiempos de utilización del fabricante. No extrapolar la estabilidad entre productos.",
+      "concentracion": "Variable según la combinación y la formulación. Los productos suelen expresar por separado los miligramos de levodopa y de carbidopa o benserazida. Verificar ambos componentes antes de administrar y al realizar cambios de marca o formulación.",
+      "alarma_riesgo": "Solicitar atención urgente ante fiebre con rigidez intensa y alteración de conciencia, síncope, dolor torácico, palpitaciones importantes, alucinaciones graves o movimientos involuntarios incapacitantes. No suspender bruscamente el tratamiento.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la prescripción y confirmar si el producto contiene levodopa sola o combinada con carbidopa o benserazida.",
+          "Respetar estrictamente los horarios de administración, ya que los retrasos pueden empeorar los síntomas motores.",
+          "Valorar movilidad, rigidez, temblor, bradicinesia, discinesias y fluctuaciones motoras antes y después de la administración.",
+          "Controlar presión arterial y observar hipotensión ortostática, mareos, síncope y riesgo de caídas.",
+          "Vigilar somnolencia, episodios de sueño repentino, alucinaciones, confusión y cambios conductuales.",
+          "Revisar la relación entre la administración y las comidas, especialmente el consumo de alimentos ricos en proteínas, según la pauta indicada.",
+          "No triturar ni modificar las formulaciones de liberación prolongada sin confirmar que esté permitido.",
+          "Revisar interacciones con hierro oral, antipsicóticos, antihipertensivos y otros medicamentos relevantes.",
+          "Registrar la respuesta clínica, los horarios, los efectos adversos y las intervenciones realizadas.",
+          "No suspender ni reducir bruscamente el tratamiento sin indicación profesional."
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento en los horarios indicados y no modificar la dosis por cuenta propia.",
+          "Explicar que el control de los síntomas puede fluctuar y que debe informar si aparecen períodos de bloqueo o movimientos involuntarios.",
+          "Consultar antes de cambiar significativamente la distribución de proteínas en la dieta o comenzar suplementos de hierro.",
+          "Evitar conducir si presenta somnolencia intensa, episodios de sueño repentino o mareos.",
+          "Levantarse lentamente para reducir el riesgo de hipotensión y caídas.",
+          "Informar al equipo de salud sobre alucinaciones, confusión, conductas impulsivas o cambios importantes del estado de ánimo.",
+          "No suspender bruscamente el medicamento, aunque los síntomas parezcan mejorar.",
+          "Conservar el medicamento según las instrucciones del envase y mantenerlo fuera del alcance de niños."
+        ]
+      }
     }
   ]
 }
