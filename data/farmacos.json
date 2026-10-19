@@ -10381,6 +10381,79 @@
           "Consultar sobre prevención de nuevas sobredosis y tratamiento de la dependencia cuando corresponda."
         ]
       }
+    },
+    {
+      "id": "132",
+      "nombre_generico": "Flumazenilo",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Flumazenilo",
+        "clasificacion": "Antagonista de los receptores benzodiazepínicos; antídoto específico de las benzodiazepinas",
+        "efecto_terapeutica": "Revierte parcial o totalmente la sedación y otros efectos centrales de las benzodiazepinas",
+        "mecanismo_accion": "Antagoniza competitivamente el sitio de unión de las benzodiazepinas en el complejo receptor GABA-A. No revierte los efectos de opioides, alcohol, barbitúricos ni anestésicos generales que no actúan en ese sitio"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La vía intravenosa permite un inicio rápido de acción; no se utiliza por vía oral para la reversión de urgencia",
+        "distribucion": "Se distribuye rápidamente en los tejidos, incluido el sistema nervioso central; presenta una fase inicial de distribución breve",
+        "metabolismo": "Metabolismo hepático extenso, principalmente mediante hidrólisis y conjugación",
+        "eliminacion": "Eliminación principalmente urinaria en forma de metabolitos; la semivida terminal es aproximadamente de 40 a 80 minutos, según las condiciones del paciente"
+      },
+      "indicaciones": "Reversión de los efectos sedantes de las benzodiazepinas utilizadas en anestesia o procedimientos diagnósticos y terapéuticos; tratamiento de determinadas sobredosis por benzodiazepinas cuando está clínicamente indicado. No debe considerarse tratamiento único de toda intoxicación con compromiso de conciencia",
+      "contraindicaciones": "Hipersensibilidad al flumazenilo o a los excipientes; pacientes que reciben benzodiazepinas para controlar una afección potencialmente mortal, como el estado epiléptico o la hipertensión intracraneal; intoxicación mixta con sustancias proconvulsivantes o antidepresivos tricíclicos cuando exista riesgo elevado de convulsiones, según evaluación médica y prospecto",
+      "precauciones": "Extremar precauciones en pacientes con dependencia o uso prolongado de benzodiazepinas, antecedentes de convulsiones, traumatismo craneoencefálico, insuficiencia hepática o intoxicación por múltiples sustancias; mantener vigilancia porque la duración del efecto del flumazenilo puede ser menor que la de la benzodiazepina; no sustituye el soporte de la vía aérea ni la ventilación",
+      "advertencias": "Puede precipitar abstinencia aguda, agitación y convulsiones en pacientes dependientes de benzodiazepinas; puede desencadenar convulsiones o arritmias en determinadas intoxicaciones mixtas; la sedación y la depresión respiratoria pueden reaparecer después de la respuesta inicial; no administrar como sustituto de la evaluación y el soporte vital",
+      "embarazo_lactancia": "Durante el embarazo, utilizar solo cuando la necesidad clínica lo justifique y bajo supervisión médica. En lactancia, evaluar la necesidad de administración y consultar el prospecto de la especialidad disponible; la decisión debe individualizarse",
+      "ajustes": {
+        "renal": "En general no se requiere ajuste específico por insuficiencia renal, pero se debe individualizar la vigilancia clínica",
+        "hepatico": "El metabolismo y la eliminación pueden enlentecerse en insuficiencia hepática; considerar una titulación más cautelosa y vigilancia prolongada"
+      },
+      "interacciones": "Antagoniza los efectos de las benzodiazepinas; puede precipitar convulsiones en intoxicaciones mixtas con antidepresivos tricíclicos u otras sustancias proconvulsivantes; puede desencadenar abstinencia en pacientes dependientes de benzodiazepinas; no revierte los efectos de opioides",
+      "reacciones_adversas": "Náuseas; vómitos; mareos; ansiedad; agitación; temblores; cefalea; sudoración; palpitaciones; hipotensión o hipertensión; arritmias; convulsiones; reacciones de abstinencia; reaparición de sedación o depresión respiratoria",
+      "toxicidad_sobredosis": "La sobredosis puede provocar alteraciones neurológicas y cardiovasculares; el riesgo clínico depende también de la sustancia responsable de la intoxicación y de los medicamentos concomitantes. No existe un antídoto específico adicional; suspender la administración y proporcionar soporte clínico y tratamiento de las complicaciones",
+      "antidotos": "No requiere un antídoto específico. El flumazenilo es en sí mismo un antagonista de las benzodiazepinas; las convulsiones y otras complicaciones deben tratarse según el protocolo de emergencias, teniendo en cuenta que algunos tratamientos habituales pueden tener eficacia limitada en intoxicaciones mixtas",
+      "monitorizacion": {
+        "clinica": "Nivel de conciencia; frecuencia respiratoria; saturación de oxígeno; permeabilidad de la vía aérea; frecuencia y ritmo cardíacos; presión arterial; agitación; convulsiones; signos de abstinencia y reaparición de sedación",
+        "laboratorio": "No requiere controles de laboratorio específicos de rutina para la reversión aislada; solicitar estudios toxicológicos, glucemia, electrolitos y otros análisis según el contexto clínico"
+      },
+      "parametros_valoracion": {
+        "antes": "Valorar indicación y posible exposición a benzodiazepinas; evaluar nivel de conciencia, respiración, oxigenación y estado hemodinámico; investigar consumo crónico de benzodiazepinas, antecedentes convulsivos y posibles intoxicaciones mixtas; disponer de equipo de reanimación",
+        "durante": "Administrar por vía intravenosa en dosis tituladas conforme al prospecto y al protocolo; vigilar respuesta neurológica, respiratoria y cardiovascular; observar signos de abstinencia, agitación, convulsiones o arritmias",
+        "despues": "Mantener observación por riesgo de resedación y depresión respiratoria recurrente; documentar dosis acumulada, respuesta y efectos adversos; continuar el soporte de la vía aérea y la vigilancia según la sustancia involucrada y la evolución"
+      },
+      "presentaciones": "Prospecto argentino aprobado por ANMAT para Flumazenil Celtyc: solución inyectable intravenosa de 0,5 mg/5 mL, equivalente a 0,1 mg/mL. Verificar registro, disponibilidad y presentación del producto utilizado",
+      "dosis": {
+        "adultos": "La pauta depende de la indicación. Para reversión de sedación, el prospecto de la especialidad puede indicar dosis intravenosas iniciales pequeñas, habitualmente 0,2 mg, seguidas de dosis tituladas según la respuesta y con límites acumulados específicos. En sobredosis, la titulación y la dosis máxima deben seguir el prospecto y el protocolo toxicológico. No administrar una pauta universal sin confirmar la indicación",
+        "pediatrico": "La indicación, la dosis y la dosis máxima dependen de la edad, el peso y el contexto clínico; utilizar exclusivamente una pauta pediátrica validada en el prospecto o protocolo institucional. No extrapolar automáticamente la dosis de adultos",
+        "geriatrico": "Utilizar una titulación cautelosa según la respuesta clínica y las comorbilidades; confirmar la pauta de la especialidad utilizada"
+      },
+      "vias_administracion": "Intravenosa; la ficha de Flumazenil Celtyc consultada corresponde a solución inyectable de uso IV",
+      "preparacion": {
+        "dilucion": "Puede requerir dilución según la dosis, la presentación y el protocolo institucional; utilizar únicamente diluyentes compatibles establecidos por el prospecto. Rotular la jeringa preparada",
+        "compatibilidad_iv": "Verificar la compatibilidad con la presentación y el diluyente antes de mezclar o administrar en una misma línea; no mezclar con otros medicamentos sin datos de compatibilidad confirmados"
+      },
+      "velocidad_infusion": "Administrar por vía intravenosa lenta y titulada, de acuerdo con el prospecto y la indicación; no utilizar una velocidad universal para todas las situaciones clínicas",
+      "estabilidad_soluciones": "Conservar y utilizar de acuerdo con el prospecto del producto específico; no asumir un período de estabilidad después de la dilución sin datos confirmados; desechar remanentes conforme a las normas de uso único y control de infecciones",
+      "concentracion": "No se establece aquí una concentración máxima universal de administración. La presentación argentina consultada contiene 0,5 mg/5 mL (0,1 mg/mL); verificar la concentración final y el protocolo antes de administrar",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Puede precipitar convulsiones, abstinencia aguda y arritmias en pacientes seleccionados. La reversión puede ser transitoria y la sedación puede reaparecer; mantener vigilancia y soporte respiratorio",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la indicación, la dosis, la concentración y la presentación antes de preparar el medicamento",
+          "Evaluar y registrar el nivel de conciencia, la frecuencia respiratoria, la saturación de oxígeno y los signos vitales antes de la administración",
+          "Comprobar la disponibilidad de oxígeno, aspiración y equipo de reanimación",
+          "Administrar por vía intravenosa con titulación según la respuesta y el protocolo institucional",
+          "Mantener vigilancia continua de la respiración, el estado neurológico y el ritmo cardíaco",
+          "Observar signos de abstinencia, agitación, convulsiones o arritmias",
+          "Vigilar la reaparición de sedación o depresión respiratoria después de la respuesta inicial",
+          "Registrar las dosis administradas, la respuesta clínica y las posibles reacciones adversas"
+        ],
+        "educacion_paciente": [
+          "Explicar que el efecto puede ser temporal y que será necesario mantener observación después de la administración",
+          "Indicar que comunique de inmediato dificultad respiratoria, palpitaciones, ansiedad intensa, temblores o cambios en el estado de conciencia",
+          "Advertir que no debe levantarse ni realizar actividades que requieran coordinación hasta que el equipo médico lo autorice",
+          "Recomendar informar sobre el uso habitual de benzodiazepinas, alcohol, opioides y otros medicamentos o sustancias"
+        ]
+      }
     }
   ]
 }
