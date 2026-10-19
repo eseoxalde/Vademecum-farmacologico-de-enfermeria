@@ -2832,67 +2832,76 @@
     },
     {
       "id": "TP-14",
-      "nombre_generico": "Cloruro de Sodio Concentrado (NaCl 20 %)",
+      "nombre_generico": "Cloruro de sodio concentrado al 20 % (NaCl)",
       "letra": "C",
       "alto_riesgo": true,
       "farmacodinamia": {
-        "principio_activo": "Sodio (Na⁺) [62]",
-        "clasificacion": "Agente hipertónico / Electrólito catiónico extracelular [62]",
-        "efecto_terapeutica": "Eleva drásticamente la osmolaridad sérica [62]",
-        "mecanismo_accion": "Fuerza la salida de agua del espacio tisular al torrente circulatorio [62]"
+        "principio_activo": "Cloruro de sodio; aporta sodio (Na+) y cloruro (Cl-)",
+        "clasificacion": "Electrolito concentrado; solución hipertónica para perfusión intravenosa después de dilución",
+        "efecto_terapeutica": "Reposición de sodio y cloruro; tratamiento de hiponatremia e hipocloremia; tratamiento de hiperhidratación hipotónica cuando está indicado",
+        "mecanismo_accion": "Aumenta la concentración extracelular de sodio y cloruro y modifica la osmolaridad plasmática; el efecto sobre el movimiento de agua entre compartimentos depende de la concentración administrada y de la respuesta fisiológica"
       },
       "farmacocinetica_adme": {
-        "absorcion": "No aplica (Vía IV) [46]",
-        "distribucion": "Distribución extracelular inmediata [62]",
-        "metabolismo": "No aplica [62]",
-        "eliminacion": "Filtración renal con reabsorción tubular regulada homeostáticamente [62]"
+        "absorcion": "La administración intravenosa proporciona disponibilidad sistémica inmediata",
+        "distribucion": "El sodio y el cloruro se distribuyen principalmente en el líquido extracelular; el sodio también se encuentra en el tejido óseo y otros compartimentos corporales",
+        "metabolismo": "No experimenta metabolismo en sentido estricto; el sodio y el cloruro participan en la regulación del equilibrio hidroelectrolítico y ácido-base",
+        "eliminacion": "Eliminación principalmente renal, regulada por mecanismos hormonales y tubulares; también existen pérdidas por sudor y tracto gastrointestinal"
       },
-      "indicaciones": "Preparación de soluciones de corrección y reposición de pérdidas volumétricas específicas [63]",
-      "contraindicaciones": "Hipernatremia, estados de sobrecarga de volumen severa [64]",
-      "precauciones": "PROHIBIDA SU ADMINISTRACIÓN DIRECTA SIN DILUIR [59]",
-      "advertencias": "Un error de cálculo provoca arritmias cardíacas letales inmediatas o daño tisular irreversible [59]",
-      "embarazo_lactancia": "Uso bajo indicación de corrección homeostática estricta [52]",
+      "indicaciones": "Tratamiento de hiponatremia e hipocloremia; tratamiento de hiperhidratación hipotónica; reposición de sodio y cloruro según déficit calculado y evaluación clínica",
+      "contraindicaciones": "Hipersensibilidad al principio activo; hipernatremia; hipercloremia; edema preexistente; insuficiencia cardíaca, renal o hepática grave; hipertensión arterial, de acuerdo con el prospecto de la especialidad. La decisión de utilizar soluciones hipertónicas en situaciones urgentes requiere valoración médica individualizada",
+      "precauciones": "CONCENTRADO PARA DILUIR ANTES DE LA ADMINISTRACIÓN INTRAVENOSA. Extremar precauciones en insuficiencia renal, oliguria, insuficiencia cardíaca, cirrosis, edema, hipertensión, hipopotasemia y trastornos que requieren restricción de sodio; controlar sodio, cloruro, equilibrio ácido-base y balance hídrico; verificar el cálculo y la preparación con una segunda persona según el protocolo institucional",
+      "advertencias": "La administración directa sin diluir puede provocar complicaciones graves. Una corrección excesivamente rápida de la hiponatremia puede causar desmielinización osmótica; la sobrecarga de sodio y agua puede provocar hipertensión, edema periférico o pulmonar y descompensación cardíaca; las soluciones hipertónicas pueden producir irritación venosa y flebitis. Verificar siempre la concentración, el volumen y la velocidad antes de administrar",
+      "embarazo_lactancia": "Durante el embarazo, utilizar cuando exista indicación clínica y bajo monitorización cuidadosa de electrolitos y equilibrio ácido-base; extremar precauciones en trastornos hipertensivos del embarazo. Durante la lactancia, el sodio y el cloruro pasan a la leche, pero el prospecto consultado no anticipa efectos en el lactante con dosis terapéuticas; individualizar según la situación clínica",
       "ajustes": {
-        "renal": "No especificado",
-        "hepatico": "No especificado"
+        "renal": "La insuficiencia renal y la oliguria aumentan el riesgo de retención de sodio, sobrecarga de volumen e hipernatremia; ajustar la cantidad y la velocidad según función renal, diuresis, sodio sérico y estado hemodinámico",
+        "hepatico": "En insuficiencia hepática grave existe riesgo de retención hidrosalina y sobrecarga de volumen; el prospecto consultado la incluye entre las contraindicaciones. No existe una reducción universal de dosis; la conducta debe individualizarse por el equipo médico"
       },
-      "interacciones": "Corticoides incrementan significativamente la retención de sodio [65]",
-      "reacciones_adversas": "Necrosis tisular severa por extravasación y flebitis química de alto grado [52]",
-      "toxicidad_sobredosis": "Hipernatremia severa y edema pulmonar [66]",
-      "antidotos": "Suspender infusión y administrar soluciones hipotónicas según cálculo estricto [65]",
+      "interacciones": "Los corticosteroides y la ACTH pueden aumentar la retención de sodio y agua, con riesgo de edema e hipertensión; revisar otros tratamientos que favorezcan retención hidrosalina o alteraciones electrolíticas",
+      "reacciones_adversas": "Hipernatremia; hipercloremia; hiperosmolaridad sérica; hipertensión; sobrecarga de volumen; edema periférico; edema pulmonar; irritación venosa; flebitis; diuresis osmótica; diarrea; acidosis metabólica; desmielinización osmótica por corrección demasiado rápida de la hiponatremia",
+      "toxicidad_sobredosis": "Puede provocar hipernatremia, hipercloremia, hiperosmolaridad, sobrecarga de volumen, hipertensión, edema pulmonar y acidosis metabólica; la corrección rápida de una hiponatremia crónica puede causar desmielinización osmótica. Suspender o reducir la administración según evaluación urgente, controlar electrolitos y estado hemodinámico y corregir las alteraciones de acuerdo con el cuadro clínico",
+      "antidotos": "No existe un antídoto específico. El tratamiento consiste en detener o reducir la administración y corregir cuidadosamente la alteración hidroelectrolítica y la sobrecarga de volumen según la situación clínica; las soluciones hipotónicas y los diuréticos solo deben utilizarse cuando estén indicados, con cálculo y monitorización médica",
       "monitorizacion": {
-        "clinica": "Balance hídrico estricto e ingurgitación yugular [25, 67]",
-        "laboratorio": "Electrolitos séricos frecuentes [7]"
+        "clinica": "Presión arterial; frecuencia cardíaca; estado neurológico; balance hídrico; diuresis; signos de sobrecarga de volumen; edema periférico; disnea; ingurgitación yugular cuando corresponda; inspección del sitio de infusión para detectar dolor, eritema, infiltración o flebitis",
+        "laboratorio": "Sodio y cloruro séricos; potasio; función renal; osmolaridad sérica cuando esté indicada; equilibrio ácido-base; controles seriados de sodio durante la corrección de la hiponatremia"
       },
       "parametros_valoracion": {
-        "antes": "Confirmar permeabilidad absoluta de la vía central [56]",
-        "durante": "Inspección visual horaria del sitio de inserción [56]",
-        "despues": "Registro exacto de los mEq netos administrados [54]"
+        "antes": "Confirmar indicación, dosis prescrita, concentración de la ampolla, cálculo en mEq y volumen final; evaluar sodio, cloruro, función renal, diuresis, estado neurológico, presión arterial y balance hídrico; valorar riesgo de sobrecarga de volumen; verificar el diluyente y el protocolo de preparación; confirmar que la solución concentrada no se administrará directamente",
+        "durante": "Administrar únicamente después de dilución validada; utilizar bomba de infusión cuando corresponda; vigilar velocidad de administración, signos vitales, estado neurológico, balance hídrico y sitio de infusión; controlar electrolitos con la frecuencia indicada; evitar incrementos de sodio superiores a los límites establecidos para la situación clínica",
+        "despues": "Evaluar la respuesta clínica y la evolución del sodio sérico; controlar cloruro, equilibrio ácido-base, función renal y balance hídrico según indicación; vigilar signos de sobrecarga de volumen y cambios neurológicos; registrar cantidad de sodio administrada, concentración final, velocidad, controles y respuesta"
       },
-      "presentaciones": "Ampollas de NaCl al 20 % [9]",
+      "presentaciones": "Cloruro de sodio 20 % Norgreen: ampollas de 10 mL y 20 mL; cada mL contiene 200 mg de cloruro de sodio y aporta aproximadamente 3,42 mEq de sodio. Verificar la presentación y el registro vigente del producto utilizado",
       "dosis": {
-        "adultos": "Dosis calculada según el déficit de sodio del paciente [63]",
-        "pediatrico": "Cálculo estricto por mEq/kg con bombas microvolumétricas [48]",
-        "geriatrico": "Tasa de infusión a la mitad [48]"
+        "adultos": "Individualizar según la indicación, el sodio sérico, el estado de volumen y el déficit calculado. Para hiponatremia, la cantidad y la velocidad deben determinarse según la gravedad, la duración del trastorno y el protocolo institucional. En hiponatremia crónica, evitar una corrección excesivamente rápida; el límite diario debe individualizarse y seguir el protocolo vigente. No administrar una dosis fija universal",
+        "pediatrico": "Requiere cálculo especializado por peso, concentración sérica de sodio, síntomas y causa de la hiponatremia; utilizar exclusivamente un protocolo pediátrico validado y monitorización frecuente. No extrapolar una pauta adulta ni utilizar el cálculo del prospecto como una orden de administración automática",
+        "geriatrico": "No reducir automáticamente la dosis a la mitad por edad. Individualizar según sodio sérico, función renal, estado cardíaco, balance hídrico y riesgo de sobrecarga; en personas mayores puede variar el agua corporal total utilizada para el cálculo del déficit"
       },
-      "vias_administracion": "Vía Venosa Central (VVC) una vez diluido [9, 51]",
+      "vias_administracion": "Intravenosa exclusivamente después de dilución o adición a una solución parenteral compatible, conforme al prospecto de la especialidad y al protocolo institucional",
       "preparacion": {
-        "dilucion": "Debe diluirse siempre en agua bidestilada o dextrosa [63]",
-        "compatibilidad_iv": "Incompatible con Bicarbonato de Sodio y Ceftriaxona [12]"
+        "dilucion": "Debe diluirse antes de la administración intravenosa. Calcular la cantidad necesaria según la indicación y añadirla asépticamente a una solución para perfusión compatible, siguiendo el prospecto y el protocolo institucional; mezclar suavemente y rotular la concentración final. No utilizar agua bidestilada como solución intravenosa final. Para administración periférica, el prospecto de Norgreen indica que la solución final no debe superar una osmolaridad de 800 mOsm/L",
+        "compatibilidad_iv": "No mezclar con otros medicamentos o soluciones sin verificar la compatibilidad con Farmacia hospitalaria y el prospecto específico. La compatibilidad depende de la solución final y de los medicamentos concomitantes; no asumir incompatibilidad universal con ceftriaxona o bicarbonato sin consultar la referencia correspondiente"
       },
-      "velocidad_infusion": "Administrar estrictamente mediante bomba de infusión continua; jamás a goteo libre [13, 68]",
-      "estabilidad_soluciones": "Solución final debe descartarse a las 24 horas [13]",
-      "concentracion": "20 % (Aproximadamente 3,4 mEq de Sodio por cada ml) [50]",
-      "alarma_riesgo": "Requiere almacenamiento diferenciado en farmacia con etiquetas rojas [14]",
+      "velocidad_infusion": "Depende de la indicación, el déficit y la situación clínica; administrar con control estricto de la velocidad y bomba de infusión cuando corresponda. En hiponatremia crónica, el aumento de sodio debe mantenerse dentro de los límites de corrección establecidos por el protocolo para prevenir desmielinización osmótica",
+      "estabilidad_soluciones": "Conservar el concentrado según el prospecto de la especialidad; para Norgreen, a temperatura ambiente entre 15 °C y 30 °C. Preparar la dilución en condiciones asépticas inmediatamente antes de la perfusión según el prospecto; no asumir una estabilidad universal de 24 horas. Inspeccionar la solución y desecharla si presenta turbidez, partículas o alteraciones del envase",
+      "concentracion": "Concentrado original al 20 %: 200 mg/mL de cloruro de sodio, aproximadamente 3,42 mEq/mL de sodio y osmolaridad teórica de 6800 mOsm/L. No administrar esta concentración directamente por vía intravenosa; la concentración final debe establecerse según indicación, vía y protocolo de preparación",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. CONCENTRADO PARA DILUIR: NO ADMINISTRAR DIRECTAMENTE SIN DILUIR. Verificar de forma independiente el cálculo en mEq, la concentración de la ampolla, el volumen extraído, el diluyente, la concentración final y la velocidad. Mantener almacenamiento diferenciado y rotulado de acuerdo con la política institucional",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Doble verificación institucional obligatoria del cálculo y velocidad [14]",
-          "Uso de válvulas antirretorno para prevenir pasos accidentales en bolo [69]",
-          "No administrar directamente sin diluir bajo ninguna circunstancia [59]"
+          "Realizar doble verificación independiente del cálculo, la concentración, el volumen y la velocidad de administración",
+          "Comprobar que la presentación corresponda a cloruro de sodio concentrado al 20 % y que la indicación esté documentada",
+          "No administrar el concentrado directamente por vía intravenosa; confirmar la dilución prescrita y la concentración final",
+          "Preparar en condiciones asépticas y rotular claramente la solución final",
+          "Utilizar bomba de infusión cuando corresponda y comprobar la programación antes de iniciar",
+          "Controlar sodio, cloruro, función renal y equilibrio ácido-base según la frecuencia indicada",
+          "Vigilar estado neurológico, presión arterial, diuresis y balance hídrico",
+          "Inspeccionar el sitio de infusión y vigilar dolor, eritema, infiltración o flebitis",
+          "Informar inmediatamente cambios neurológicos, disnea, edema, hipertensión importante o signos de sobrecarga de volumen",
+          "Registrar la cantidad administrada, la concentración final, la velocidad, los controles y la respuesta clínica"
         ],
         "educacion_paciente": [
-          "Explicar la necesidad de permanecer inmóvil si posee acceso periférico temporal [69]",
-          "Notificar dolor punzante local de inmediato [61]"
+          "Explicar que el medicamento corrige alteraciones del sodio y del equilibrio de líquidos y que requiere controles durante la administración",
+          "Indicar que comunique inmediatamente dolor o ardor en el sitio de infusión, hinchazón, dificultad respiratoria, cefalea intensa, confusión o cambios visuales",
+          "Explicar que el equipo controlará análisis de sangre y balance de líquidos para evitar una corrección demasiado rápida",
+          "Indicar que informe antecedentes de enfermedad renal, cardíaca o hepática y tratamientos que puedan favorecer retención de líquidos"
         ]
       }
     },
