@@ -1893,64 +1893,75 @@
       "letra": "D",
       "alto_riesgo": false,
       "farmacodinamia": {
-        "principio_activo": "Dexametasona",
-        "clasificacion": "Corticoide de acción prolongada y alta potencia [57]",
-        "efecto_terapeutica": "Acción antiinflamatoria potente (30 veces superior al cortisol) [58]",
-        "mecanismo_accion": "Se une a receptores citoplasmáticos suprimiendo la respuesta inmunitaria [57]"
+        "principio_activo": "Dexametasona, disponible en distintas sales y formulaciones según la vía de administración.",
+        "clasificacion": "Glucocorticoide sintético de alta potencia y acción prolongada, con actividad mineralocorticoide mínima.",
+        "efecto_terapeutica": "Produce efectos antiinflamatorios, antialérgicos e inmunosupresores potentes. Disminuye el edema asociado a determinadas enfermedades y se utiliza como antiemético en algunos esquemas de quimioterapia. En obstetricia, determinadas pautas se emplean para favorecer la maduración pulmonar fetal cuando existe riesgo de parto prematuro.",
+        "mecanismo_accion": "Se une a receptores glucocorticoides intracelulares y modifica la expresión de genes relacionados con la inflamación y la respuesta inmunitaria. Reduce la producción de mediadores inflamatorios y la migración de células inflamatorias. También modifica el metabolismo de carbohidratos, proteínas y grasas."
       },
       "farmacocinetica_adme": {
-        "absorcion": "Rápida IV/IM [58]",
-        "distribucion": "Atraviesa placenta [59]",
-        "metabolismo": "Hepático (CYP3A4) [58]",
-        "eliminacion": "Urinaria; vida media biológica 36-54h [58]"
+        "absorcion": "Por vía oral se absorbe en el tracto gastrointestinal. La administración intravenosa proporciona disponibilidad sistémica inmediata, mientras que la absorción intramuscular depende de la formulación y del sitio de inyección.",
+        "distribucion": "Se distribuye ampliamente por el organismo, circula unida a proteínas plasmáticas y atraviesa la placenta. Puede pasar a la leche materna. La distribución y exposición sistémica dependen de la dosis y de la formulación.",
+        "metabolismo": "Se metaboliza principalmente en el hígado, mediante procesos que incluyen la participación de enzimas como CYP3A4.",
+        "eliminacion": "Se elimina principalmente por vía renal en forma de metabolitos y, en menor proporción, como fármaco sin modificar. Su semivida plasmática es de varias horas, mientras que su efecto biológico puede persistir aproximadamente entre 36 y 54 horas."
       },
-      "indicaciones": "Edema cerebral, maduración pulmonar fetal, antiemético en quimioterapia, shock [58]",
-      "contraindicaciones": "Infecciones virales activas, micosis sistémicas, psicosis aguda [59]",
-      "precauciones": "Diabetes (hiperglucemia marcada), insuficiencia hepática grave [60]",
-      "advertencias": "Puede causar miopatía esteroidea e inmunosupresión profunda [60]",
-      "embarazo_lactancia": "Uso específico para maduración pulmonar fetal. Riesgo de insuficiencia adrenal fetal en uso crónico [59]",
+      "indicaciones": "Tratamiento de enfermedades inflamatorias, alérgicas, autoinmunes y otras afecciones que responden a glucocorticoides. Según la formulación y la indicación, puede utilizarse en edema cerebral asociado a determinadas enfermedades, exacerbaciones inflamatorias graves, prevención de náuseas y vómitos por quimioterapia, tratamiento complementario de algunas emergencias y maduración pulmonar fetal ante riesgo de parto prematuro. En determinadas situaciones de shock puede utilizarse como tratamiento complementario según el protocolo clínico. No sustituye los tratamientos de primera línea de las emergencias, como la adrenalina intramuscular en la anafilaxia.",
+      "contraindicaciones": "Hipersensibilidad a la dexametasona o a los componentes de la formulación. Las infecciones fúngicas sistémicas constituyen una contraindicación importante para el tratamiento sistémico, salvo circunstancias excepcionales indicadas por especialistas. Las vacunas vivas están contraindicadas durante tratamientos con dosis inmunosupresoras de corticoides. Las contraindicaciones específicas dependen de la vía y de la presentación utilizada.",
+      "precauciones": "Utilizar con precaución en pacientes con diabetes, hipertensión, insuficiencia cardíaca, osteoporosis, glaucoma, cataratas, úlcera péptica, antecedentes de trastornos psiquiátricos, epilepsia o infecciones activas. Puede provocar hiperglucemia, inmunosupresión, alteraciones del estado de ánimo y supresión del eje hipotálamo-hipófiso-suprarrenal. En tratamientos prolongados, vigilar debilidad muscular, pérdida de masa ósea y otros efectos metabólicos. Evaluar el riesgo de reactivación de infecciones latentes según los antecedentes del paciente.",
+      "advertencias": "Puede enmascarar signos de infección y aumentar el riesgo de infecciones nuevas o reactivadas. Los tratamientos prolongados pueden producir síndrome de Cushing, miopatía, osteoporosis, alteraciones psiquiátricas y supresión suprarrenal. No suspender bruscamente un tratamiento sistémico prolongado sin indicación médica. La dexametasona tiene escasa actividad mineralocorticoide, pero puede causar hiperglucemia y otras alteraciones metabólicas importantes. En edema cerebral, la dosis y la duración deben ajustarse a la causa y a la respuesta clínica.",
+      "embarazo_lactancia": "Durante el embarazo, utilizar cuando el beneficio esperado justifique los posibles riesgos. La dexametasona atraviesa la placenta y se utiliza en pautas obstétricas específicas para favorecer la maduración pulmonar fetal cuando existe riesgo de parto prematuro. El uso sistémico prolongado puede tener efectos maternos y fetales y requiere seguimiento. Durante la lactancia, valorar la dosis, la duración y la vía; las dosis sistémicas elevadas o repetidas pueden requerir precauciones específicas.",
       "ajustes": {
-        "renal": "No requiere [60]",
-        "hepatico": "Evaluar espaciar dosis por prolongación de vida media [60]"
+        "renal": "No suele requerirse un ajuste sistemático basado exclusivamente en la función renal, pero la dosis debe individualizarse según la indicación, la duración y el estado clínico. Vigilar glucemia, presión arterial, balance de líquidos y electrolitos según el riesgo del paciente.",
+        "hepatico": "La enfermedad hepática grave puede modificar el metabolismo y la respuesta al tratamiento. No existe un ajuste universal aplicable a todas las indicaciones. Individualizar la dosis y vigilar la eficacia y los efectos adversos."
       },
-      "interacciones": "Anfotericina B (hipopotasemia drástica), anticonceptivos orales [60]",
-      "reacciones_adversas": "Hiperglucemia, debilidad muscular proximal, aumento de PA, glaucoma [60]",
-      "toxicidad_sobredosis": "No especificado",
-      "antidotos": "No existe; tratamiento de soporte [61]",
+      "interacciones": "La anfotericina B y los diuréticos que eliminan potasio pueden aumentar el riesgo de hipopotasemia. Los antiinflamatorios no esteroideos y el ácido acetilsalicílico pueden aumentar el riesgo de úlcera y hemorragia gastrointestinal. Puede elevar la glucemia y modificar los requerimientos de insulina y antidiabéticos. Inductores enzimáticos como rifampicina, fenitoína y carbamazepina pueden reducir su efecto; inhibidores enzimáticos como algunos antifúngicos azólicos pueden aumentarlo. Puede modificar la respuesta a anticoagulantes y vacunas y aumentar el riesgo de infección al combinarse con otros inmunosupresores. Revisar la medicación concomitante antes de iniciar o modificar el tratamiento.",
+      "reacciones_adversas": "Hiperglucemia, aumento del apetito, insomnio, cambios del estado de ánimo, hipertensión, molestias gastrointestinales y mayor susceptibilidad a infecciones. Con tratamientos prolongados pueden aparecer síndrome de Cushing, debilidad muscular, osteoporosis, fracturas, piel fina, retraso en la cicatrización, cataratas, glaucoma y supresión suprarrenal. También pueden presentarse alteraciones psiquiátricas graves, hemorragia gastrointestinal y desequilibrios electrolíticos. La frecuencia y gravedad dependen de la dosis, la vía y la duración del tratamiento.",
+      "toxicidad_sobredosis": "La exposición excesiva puede provocar hiperglucemia, hipertensión, alteraciones del estado mental y empeoramiento de enfermedades preexistentes. El uso prolongado o repetido de dosis elevadas puede causar síndrome de Cushing y supresión suprarrenal. No existe un antídoto específico. El tratamiento es sintomático y de soporte, con control de glucemia, presión arterial, electrolitos y otras complicaciones según la situación clínica. No suspender bruscamente un tratamiento prolongado sin valoración médica.",
+      "antidotos": "No existe un antídoto específico. El tratamiento de la sobredosis consiste en medidas de soporte, vigilancia clínica y corrección de las complicaciones metabólicas o electrolíticas. La sospecha de insuficiencia suprarrenal requiere evaluación y tratamiento médico.",
       "monitorizacion": {
-        "clinica": "PA, estado neurológico, estado de ánimo [62]",
-        "laboratorio": "Glucemia (cada 4-6h), electrolitos [62]"
+        "clinica": "Controlar presión arterial, respuesta terapéutica, estado neurológico, estado de ánimo, peso, edema y signos de infección. En tratamientos prolongados, vigilar fuerza muscular, signos de hipercortisolismo, salud ósea y síntomas oculares. En pacientes con edema cerebral, evaluar el estado neurológico y los signos de hipertensión intracraneal según el protocolo clínico.",
+        "laboratorio": "Controlar glucemia según la dosis, la indicación y el riesgo de hiperglucemia. En pacientes críticos o con tratamientos prolongados, valorar electrolitos, especialmente potasio y sodio, y otros parámetros según las comorbilidades. Pueden requerirse hemograma, función renal, función hepática y evaluación de salud ósea en tratamientos prolongados. La frecuencia de los controles debe individualizarse."
       },
       "parametros_valoracion": {
-        "antes": "Glucemia basal y signos vitales [62]",
-        "durante": "Sitio de punción y estado de conciencia [62]",
-        "despues": "Evaluación de respuesta (ej. mejora de edema cerebral) [62]"
+        "antes": "Verificar identidad, prescripción, indicación, dosis, formulación, concentración, vía y alergias. Registrar signos vitales y glucemia cuando corresponda. Valorar antecedentes de diabetes, hipertensión, infecciones, trastornos psiquiátricos, glaucoma y tratamiento corticoide previo. Antes de administrar una formulación inyectable, confirmar que sea adecuada para la vía indicada.",
+        "durante": "Vigilar respuesta clínica, presión arterial, glucemia según el riesgo, estado neurológico y signos de hipersensibilidad. En administración intravenosa, respetar la velocidad indicada para la presentación. En pacientes con edema cerebral o enfermedades graves, seguir la monitorización específica de la patología.",
+        "despues": "Evaluar la respuesta terapéutica y la aparición de efectos adversos. Registrar dosis, vía, hora y respuesta clínica. Vigilar glucemia y otros parámetros según el estado del paciente. Si el tratamiento sistémico fue prolongado, comprobar que exista un plan de reducción gradual cuando corresponda."
       },
-      "presentaciones": "Ampollas, Comprimidos [59, 63]",
+      "presentaciones": "Comprimidos, solución oral y formulaciones inyectables, como fosfato sódico de dexametasona, en distintas concentraciones según el fabricante y el país. También existen preparados oftálmicos, óticos, tópicos y otras formulaciones para usos específicos. Las sales, concentraciones, indicaciones y vías autorizadas no son necesariamente intercambiables. Verificar la ficha técnica de la presentación disponible.",
       "dosis": {
-        "adultos": "4-20 mg cada 6h según protocolo [59]",
-        "pediatrico": "0.15-0.6 mg/kg en crup/meningitis [59]",
-        "geriatrico": "No especificado"
+        "adultos": "La dosis depende de la indicación, la gravedad, la vía y la respuesta clínica. En algunas enfermedades inflamatorias sistémicas se utilizan dosis orales de aproximadamente 0,5 a 10 mg al día, aunque las indicaciones graves pueden requerir pautas diferentes. En edema cerebral y otras emergencias se utilizan esquemas específicos según el diagnóstico y el protocolo. Para maduración pulmonar fetal, una pauta habitual es 6 mg por vía intramuscular cada 12 horas durante cuatro dosis, según el protocolo obstétrico. Estas pautas no son intercambiables y no deben utilizarse como prescripción individual.",
+        "pediatrico": "La dosis depende de la indicación, el peso o la superficie corporal, la edad y la vía. En crup, algunas pautas utilizan una dosis única de 0,15 a 0,6 mg/kg, con un máximo definido por el protocolo. En meningitis y otras enfermedades graves se aplican esquemas específicos. No utilizar un intervalo general de dosis para todas las indicaciones; consultar la pauta pediátrica correspondiente.",
+        "geriatrico": "No existe una reducción fija por edad. Utilizar la menor dosis eficaz durante el menor tiempo necesario y vigilar especialmente hiperglucemia, hipertensión, infecciones, osteoporosis, debilidad muscular, alteraciones psiquiátricas y riesgo gastrointestinal."
       },
-      "vias_administracion": "IV, IM, Oral, Oftálmica, Intraarticular [59]",
+      "vias_administracion": "Oral, intravenosa, intramuscular, oftálmica, tópica y otras vías específicas según la formulación autorizada. Algunas presentaciones pueden utilizarse por vía intraarticular o mediante otras técnicas locales, siempre que la ficha técnica lo autorice. No administrar una formulación por una vía no autorizada; las formulaciones inyectables de depósito no deben utilizarse por vía intravenosa salvo autorización expresa del producto.",
       "preparacion": {
-        "dilucion": "Compatible con SF 0.9% y Dx5% [63]",
-        "compatibilidad_iv": "SF 0.9%, Dx5% [63]"
+        "dilucion": "Depende de la presentación. Algunas soluciones inyectables de fosfato sódico de dexametasona pueden administrarse sin diluir o diluirse para perfusión con solución de cloruro de sodio al 0,9 % o dextrosa al 5 %, cuando así lo autoriza la ficha técnica. Verificar el diluyente, el volumen, la concentración final y la técnica aséptica del producto específico. No diluir automáticamente todas las formulaciones.",
+        "compatibilidad_iv": "La compatibilidad depende de la formulación, el diluyente, la concentración y los medicamentos que compartan la línea. Algunas presentaciones son compatibles con solución de cloruro de sodio al 0,9 % o dextrosa al 5 %, pero debe confirmarse en la ficha técnica o con farmacia. No mezclar con otros medicamentos sin información documentada de compatibilidad."
       },
-      "velocidad_infusion": "IV directa lenta: entre 1 y 4 minutos [63]",
-      "estabilidad_soluciones": "Diluciones estables 24h a temperatura ambiente [63]",
-      "concentracion": "0.75 mg (dosis equivalente estándar) [64]",
-      "alarma_riesgo": "Es el corticoide que más descompensa la glucemia [62]",
+      "velocidad_infusion": "Depende de la dosis y de la presentación. Algunas formulaciones de dexametasona pueden administrarse mediante inyección intravenosa lenta durante varios minutos; las dosis elevadas pueden requerir una administración más prolongada o perfusión según la ficha técnica. No considerar de 1 a 4 minutos como una velocidad universal. Seguir la prescripción y las instrucciones del fabricante.",
+      "estabilidad_soluciones": "Conservar el medicamento sin preparar según las condiciones indicadas por el fabricante. La estabilidad después de abrir, diluir o preparar una solución depende de la formulación, el diluyente, la temperatura y las condiciones de preparación. No asumir que todas las diluciones son estables durante 24 horas. Utilizar el plazo establecido en la ficha técnica y el protocolo institucional, respetando las normas de preparación aséptica e inspeccionando la solución antes de administrarla.",
+      "concentracion": "Variable según la presentación. Las soluciones inyectables pueden encontrarse, por ejemplo, en concentraciones de 4 mg/ml o 8 mg/2 ml, dependiendo del producto y del mercado. Los comprimidos también existen en distintas concentraciones, como 0,5 mg, 0,75 mg, 4 mg y otras. No considerar 0,75 mg como una concentración estándar universal. Confirmar la cantidad de principio activo por mililitro, ampolla o comprimido antes de calcular la dosis.",
+      "alarma_riesgo": "Puede producir hiperglucemia importante, inmunosupresión, alteraciones psiquiátricas y supresión suprarrenal, especialmente con dosis elevadas o tratamientos prolongados. Verificar dosis, concentración, formulación, vía y velocidad de administración. No suspender bruscamente tratamientos prolongados sin indicación médica. En anafilaxia, no sustituye a la adrenalina intramuscular.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Control estricto de glucemia (hemoglucotest) cada 4-6h",
-          "Administración IV lenta para evitar efectos adversos",
-          "Vigilar cambios de humor o psicosis esteroidea"
+          "Verificar prescripción, identidad del paciente, indicación, dosis, concentración, formulación y vía antes de administrar.",
+          "Confirmar las instrucciones específicas de preparación, dilución, velocidad y estabilidad de la presentación inyectable.",
+          "Controlar glucemia según la indicación, la dosis, la duración y los factores de riesgo del paciente.",
+          "Vigilar presión arterial, estado neurológico, estado de ánimo y signos de infección.",
+          "Controlar electrolitos y balance de líquidos cuando la situación clínica o la duración del tratamiento lo requieran.",
+          "Observar signos de hipersensibilidad y suspender la administración si aparece una reacción grave, activando el protocolo de emergencia.",
+          "En pacientes con edema cerebral, valorar el estado de conciencia y los parámetros neurológicos definidos por el equipo tratante.",
+          "En tratamientos prolongados, vigilar debilidad muscular, cambios físicos compatibles con hipercortisolismo, problemas visuales y riesgo de osteoporosis.",
+          "Registrar dosis, vía, hora, formulación, respuesta clínica y reacciones adversas.",
+          "Comprobar que exista un plan médico de reducción gradual cuando corresponda tras un tratamiento sistémico prolongado."
         ],
         "educacion_paciente": [
-          "No suspender bruscamente el tratamiento",
-          "Reportar signos de infección de inmediato",
-          "Dieta baja en sodio y azúcares durante el tratamiento"
+          "Tomar o utilizar el medicamento según la prescripción y no modificar la dosis por cuenta propia.",
+          "No suspender bruscamente un tratamiento sistémico prolongado sin indicación médica.",
+          "Informar al equipo de salud si presenta fiebre, signos de infección, cambios intensos del estado de ánimo, visión borrosa, sed excesiva o aumento importante de la frecuencia urinaria.",
+          "Comunicar que utiliza dexametasona antes de una cirugía, vacunación o inicio de otros medicamentos.",
+          "Consultar antes de utilizar antiinflamatorios u otros medicamentos que puedan aumentar el riesgo de efectos adversos.",
+          "En tratamientos prolongados, seguir las recomendaciones de seguimiento clínico y consultar qué hacer durante enfermedades, cirugías u otras situaciones de estrés físico.",
+          "No utilizar una presentación oral, oftálmica, tópica o inyectable por una vía distinta de la indicada."
         ]
       }
     },
