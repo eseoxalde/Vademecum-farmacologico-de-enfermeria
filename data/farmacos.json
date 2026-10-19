@@ -7332,6 +7332,85 @@
           "Conservar el medicamento fuera del alcance de niños y otras personas, no compartirlo y desechar los sobrantes de forma segura."
         ]
       }
+    },
+    {
+      "id": "91",
+      "nombre_generico": "Metadona",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Metadona, generalmente como clorhidrato de metadona.",
+        "clasificacion": "Analgésico opioide sintético de acción prolongada, agonista de los receptores opioides mu. También se utiliza en programas especializados para el tratamiento de los trastornos por consumo de opioides. Es un medicamento de alto riesgo.",
+        "efecto_terapeutica": "Produce analgesia prolongada y, en programas terapéuticos específicos, ayuda a reducir los síntomas de abstinencia y el deseo compulsivo de consumir opioides.",
+        "mecanismo_accion": "Actúa principalmente como agonista de los receptores opioides mu, inhibiendo la transmisión de señales nociceptivas. También presenta actividad antagonista sobre los receptores NMDA e inhibe la recaptación de noradrenalina y serotonina en cierta medida. Su efecto analgésico puede durar menos que su efecto de depresión respiratoria."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Se absorbe bien por vía oral, aunque presenta variabilidad individual en la biodisponibilidad y el metabolismo de primer paso. El inicio y la duración del efecto dependen de la formulación, la dosis y las características del paciente.",
+        "distribucion": "Se distribuye ampliamente por los tejidos y presenta una elevada unión a proteínas plasmáticas. Su redistribución y liberación desde los tejidos contribuyen a su duración prolongada.",
+        "metabolismo": "Se metaboliza principalmente en el hígado, mediante varias enzimas, entre ellas CYP2B6 y CYP3A4. Presenta variabilidad metabólica importante e interacciones con medicamentos que modifican su metabolismo.",
+        "eliminacion": "Se elimina por vía renal y fecal, como fármaco sin modificar y metabolitos. Su vida media es prolongada y variable, por lo que puede acumularse con dosis repetidas incluso cuando la analgesia parece insuficiente."
+      },
+      "indicaciones": "Tratamiento del dolor intenso en situaciones seleccionadas cuando otras alternativas no son adecuadas, bajo supervisión especializada. También se utiliza en programas autorizados para el tratamiento de la dependencia de opioides, con el objetivo de controlar la abstinencia y reducir el consumo no médico. Las indicaciones autorizadas y las condiciones de dispensación varían según el país y la formulación.",
+      "contraindicaciones": "Hipersensibilidad a la metadona o a los componentes de la formulación; depresión respiratoria significativa; asma bronquial aguda o grave en un entorno no monitorizado; obstrucción gastrointestinal conocida o sospechada, incluido íleo paralítico. Algunas fichas técnicas incluyen restricciones adicionales relacionadas con alteraciones respiratorias o situaciones clínicas específicas. Verificar siempre la ficha técnica local.",
+      "precauciones": "Extremar las precauciones en pacientes con prolongación del intervalo QT, antecedentes de arritmias, síncope inexplicado, bradicardia, hipopotasemia, hipomagnesemia, enfermedad cardíaca, insuficiencia respiratoria, apnea del sueño, enfermedad hepática o renal, hipotiroidismo, edad avanzada o fragilidad. Puede producir dependencia, tolerancia y síndrome de abstinencia. El riesgo de acumulación aumenta durante el inicio del tratamiento y después de incrementos de dosis.",
+      "advertencias": "Puede causar depresión respiratoria grave o mortal, especialmente durante el inicio del tratamiento, los aumentos de dosis o la combinación con otros depresores del sistema nervioso central. La acumulación puede provocar toxicidad tardía. Puede prolongar el intervalo QT y ocasionar torsades de pointes y otras arritmias potencialmente mortales. No aumentar la dosis por cuenta propia ante un alivio insuficiente del dolor. La conversión desde otros opioides requiere supervisión especializada, ya que las equivalencias no son lineales ni universalmente aplicables.",
+      "embarazo_lactancia": "Durante el embarazo, el tratamiento debe individualizarse y mantenerse o iniciarse bajo supervisión especializada cuando esté indicado. En el tratamiento de la dependencia de opioides, no debe interrumpirse bruscamente sin evaluación clínica, debido al riesgo de abstinencia materna y fetal. La exposición prolongada puede causar síndrome de abstinencia neonatal y la administración próxima al parto puede producir depresión respiratoria neonatal. Durante la lactancia, la metadona puede pasar a la leche materna; valorar riesgos y beneficios con el equipo tratante y vigilar somnolencia excesiva, dificultades de alimentación y respiración anormal en el lactante.",
+      "ajustes": {
+        "renal": "La eliminación puede modificarse en insuficiencia renal, aunque la metadona no depende exclusivamente de la vía renal. En enfermedad renal avanzada, individualizar la pauta y vigilar acumulación, sedación y depresión respiratoria según la situación clínica.",
+        "hepatico": "El metabolismo hepático puede estar alterado y aumentar la exposición. En insuficiencia hepática, utilizar con precaución, valorar dosis iniciales menores y titulación lenta, y vigilar estrechamente la respuesta clínica."
+      },
+      "interacciones": "Benzodiacepinas, alcohol, otros opioides, sedantes, hipnóticos y anestésicos aumentan el riesgo de sedación profunda, depresión respiratoria, coma y muerte. Los medicamentos que prolongan el intervalo QT, como determinados antiarrítmicos, antipsicóticos y antibióticos, pueden aumentar el riesgo de arritmias. Los inhibidores enzimáticos pueden elevar las concentraciones de metadona y los inductores pueden reducirlas; al iniciar o suspender estos fármacos puede cambiar el riesgo de toxicidad o abstinencia. Los medicamentos serotoninérgicos pueden aumentar el riesgo de síndrome serotoninérgico. Revisar siempre la medicación concomitante y la ficha técnica.",
+      "reacciones_adversas": "Estreñimiento, náuseas, vómitos, sudoración, somnolencia, mareos, prurito, sequedad de boca y retención urinaria. Puede producir hipotensión, bradicardia, disminución de la libido, alteraciones hormonales, tolerancia y dependencia. Las reacciones graves incluyen depresión respiratoria, apnea, prolongación del intervalo QT, arritmias ventriculares, torsades de pointes y síndrome serotoninérgico.",
+      "toxicidad_sobredosis": "Puede provocar somnolencia profunda, dificultad para despertar, respiración lenta o ausente, pupilas puntiformes, hipotensión, bradicardia, coma y muerte. También puede ocasionar prolongación del intervalo QT y arritmias, incluso después de una mejoría inicial. Activar inmediatamente el sistema de emergencias, asegurar la vía aérea y proporcionar ventilación y oxígeno según necesidad. Administrar naloxona de acuerdo con el protocolo de emergencia; pueden requerirse dosis repetidas o una infusión por la duración prolongada de la metadona. Mantener observación médica prolongada por riesgo de recurrencia de la depresión respiratoria y complicaciones cardíacas.",
+      "antidotos": "Naloxona, antagonista de los receptores opioides. Administrar conforme al protocolo de emergencia y repetir o mantener una infusión cuando esté indicado por la respuesta clínica. El soporte ventilatorio y de la vía aérea es prioritario. No existe un antídoto específico para la prolongación del intervalo QT; las arritmias requieren manejo urgente y monitorización electrocardiográfica.",
+      "monitorizacion": {
+        "clinica": "Controlar frecuencia y patrón respiratorio, saturación de oxígeno, nivel de conciencia, sedación, presión arterial, frecuencia cardíaca, respuesta analgésica y signos de acumulación. Evaluar el riesgo de caídas, estreñimiento y retención urinaria. Vigilar palpitaciones, mareos, síncope o convulsiones como posibles signos de arritmia. En pacientes con riesgo cardíaco, valorar electrocardiograma y seguimiento según el protocolo.",
+        "laboratorio": "Valorar potasio y magnesio, especialmente en pacientes con riesgo de prolongación del QT, pérdidas gastrointestinales o uso de medicamentos que prolongan el intervalo QT. Considerar función hepática y renal según los antecedentes y la evolución. No se requieren pruebas de laboratorio rutinarias para todos los pacientes; individualizar según la indicación y el riesgo clínico."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar indicación, prescripción, formulación, dosis y vía, distinguiendo tratamiento del dolor de tratamiento de la dependencia de opioides. Valorar exposición previa a opioides, frecuencia respiratoria, saturación de oxígeno, nivel de conciencia, presión arterial, frecuencia cardíaca, función renal y hepática, antecedentes cardíacos y medicación concomitante. Revisar factores de riesgo de prolongación del QT y la necesidad de electrocardiograma y electrolitos.",
+        "durante": "Vigilar respiración, oxigenación, nivel de conciencia, sedación y estabilidad hemodinámica según el riesgo. Evaluar el alivio del dolor o el control de los síntomas de abstinencia sin aumentar la dosis de forma prematura. Observar signos de acumulación, palpitaciones, síncope, convulsiones y síndrome serotoninérgico. Mantener especial vigilancia al iniciar el tratamiento, después de aumentar la dosis o al modificar medicamentos concomitantes.",
+        "despues": "Reevaluar la respuesta clínica y los efectos adversos. Mantener vigilancia según la dosis, la formulación y el riesgo de acumulación, ya que la toxicidad puede aparecer tardíamente. Documentar la administración, los controles, la respuesta y cualquier evento adverso. Ante sospecha de sobredosis, mantener monitorización prolongada conforme al protocolo de urgencias."
+      },
+      "presentaciones": "Solución oral, comprimidos y solución inyectable en determinados países y contextos asistenciales. Las concentraciones, las vías autorizadas y las condiciones de dispensación varían según el fabricante y la normativa local.",
+      "dosis": {
+        "adultos": "Individualizar según la indicación, la vía, la formulación, la exposición previa a opioides, la función orgánica y la respuesta. Las pautas para dolor y para tratamiento de la dependencia son diferentes y no intercambiables. Iniciar y ajustar bajo supervisión especializada, con incrementos prudentes y tiempo suficiente para valorar la acumulación. Verificar la ficha técnica y el protocolo local; no utilizar una pauta genérica como prescripción.",
+        "pediatrico": "El uso requiere indicación especializada y depende de la edad, el peso, la formulación y el contexto clínico. No extrapolar dosis de adultos ni utilizar una pauta universal por peso. Verificar la autorización pediátrica local y mantener monitorización apropiada por el riesgo de depresión respiratoria y acumulación.",
+        "geriatrico": "Considerar dosis iniciales menores, incrementos prudentes y vigilancia estrecha debido a mayor sensibilidad a los opioides, comorbilidades, polifarmacia y posibles alteraciones de la función hepática o renal. Valorar el riesgo de prolongación del QT y caídas."
+      },
+      "vias_administracion": "Oral y, en determinadas presentaciones y contextos especializados, parenteral. Utilizar exclusivamente las vías autorizadas para cada producto. La vía y la formulación deben corresponder a la indicación y a la prescripción.",
+      "preparacion": {
+        "dilucion": "Para formulaciones inyectables, verificar concentración, vía autorizada e instrucciones del fabricante. Diluir únicamente cuando esté indicado, con el diluyente especificado en la ficha técnica o el protocolo institucional. Utilizar técnica aséptica, rotular la concentración final y aplicar la doble verificación establecida para medicamentos de alto riesgo.",
+        "compatibilidad_iv": "La compatibilidad depende de la concentración, el diluyente, el recipiente y los medicamentos administrados simultáneamente. Consultar una fuente institucional de compatibilidad intravenosa antes de mezclarla con otros medicamentos o administrarla por la misma línea. No asumir compatibilidad sin datos específicos."
+      },
+      "velocidad_infusion": "Depende de la presentación, la indicación y el protocolo especializado. Administrar únicamente conforme a la ficha técnica y la prescripción. No establecer una velocidad universal. Durante la administración parenteral, mantener monitorización respiratoria y hemodinámica adecuada y disponibilidad de soporte ventilatorio.",
+      "estabilidad_soluciones": "Depende de la presentación, la concentración, el diluyente, el envase y las condiciones de conservación. Preparar y conservar según la ficha técnica del fabricante y las normas institucionales. No establecer un período de estabilidad después de la dilución sin datos específicos. Desechar la solución si presenta alteraciones visibles o no se puede garantizar su integridad.",
+      "concentracion": "Variable según el fabricante y la formulación. Verificar la cantidad de metadona por comprimido, por mililitro o por ampolla, y confirmar si la etiqueta expresa la cantidad como metadona base o como clorhidrato. Revisar cuidadosamente las unidades y evitar errores de conversión.",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Riesgo de depresión respiratoria tardía por acumulación y de arritmias potencialmente mortales por prolongación del intervalo QT. Verificar dosis, formulación e indicación; vigilar sedación y respiración; evaluar factores de riesgo cardíaco e interacciones. No aumentar dosis prematuramente ni realizar conversiones desde otros opioides sin supervisión especializada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar identidad del paciente, indicación, prescripción, dosis, unidades, vía y formulación. Diferenciar claramente las pautas para el dolor de las utilizadas en programas de tratamiento de la dependencia de opioides.",
+          "Aplicar la doble verificación independiente establecida por la institución para medicamentos de alto riesgo.",
+          "Valorar dolor o síntomas de abstinencia, nivel de conciencia, frecuencia respiratoria, saturación de oxígeno y signos vitales antes y después de la administración.",
+          "Vigilar la aparición de sedación excesiva o depresión respiratoria, especialmente al iniciar el tratamiento, después de aumentar la dosis o ante cambios en la medicación concomitante.",
+          "Revisar antecedentes de arritmias, síncope, prolongación del QT y uso de medicamentos que puedan prolongarlo. Controlar electrocardiograma y electrolitos cuando estén indicados.",
+          "Observar palpitaciones, mareos intensos, síncope o convulsiones y comunicar de inmediato estos signos al equipo médico.",
+          "Verificar función renal y hepática cuando corresponda y comunicar situaciones que puedan favorecer la acumulación.",
+          "No administrar dosis adicionales antes del intervalo prescrito por una respuesta analgésica insuficiente sin valoración profesional.",
+          "Ante sospecha de sobredosis, activar el protocolo de emergencia, proporcionar soporte respiratorio y administrar naloxona según indicación y protocolo.",
+          "Registrar dosis, vía, hora, respuesta, monitorización y reacciones adversas. Cumplir las normas institucionales de almacenamiento, custodia y registro de estupefacientes."
+        ],
+        "educacion_paciente": [
+          "Tomar la metadona exactamente según la prescripción y no modificar la dosis ni la frecuencia por cuenta propia.",
+          "No consumir alcohol ni combinarla con benzodiacepinas, sedantes u otros opioides sin supervisión profesional.",
+          "No conducir ni manejar maquinaria si presenta somnolencia, mareos o disminución del estado de alerta.",
+          "Solicitar atención urgente ante respiración lenta, dificultad para despertar, desmayo, palpitaciones intensas o convulsiones.",
+          "Informar al profesional sanitario sobre todos los medicamentos y suplementos que utiliza antes de iniciar, suspender o modificar tratamientos.",
+          "No suspender bruscamente un tratamiento prolongado sin orientación profesional, debido al riesgo de abstinencia.",
+          "Conservar el medicamento bajo llave, fuera del alcance de niños y otras personas, y no compartirlo.",
+          "No duplicar una dosis olvidada ni compensarla con una dosis adicional; consultar las instrucciones específicas del equipo tratante."
+        ]
+      }
     }
   ]
 }
