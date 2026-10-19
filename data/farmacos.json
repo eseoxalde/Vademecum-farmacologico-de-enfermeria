@@ -9671,7 +9671,7 @@
       },
       "velocidad_infusion": "No aplica",
       "estabilidad_soluciones": "No aplica; conservar los comprimidos según el prospecto del producto",
-      "concentracion": "Comprimidos de liberación modificada de 30 mg y 60 mg en las presentaciones consultadas; pueden existir otras concentraciones según la formulación",
+      "concentracion": "No aplica. Administración oral; el prospecto no establece una concentración máxima de administración.",
       "alarma_riesgo": "Hipoglucemia grave; alteración de conciencia; convulsiones; incapacidad para deglutir; reacción alérgica grave; ictericia o signos de lesión hepática",
       "cuidados_enfermeria": {
         "cuidados": [
