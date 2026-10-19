@@ -3363,62 +3363,69 @@
       "alto_riesgo": true,
       "farmacodinamia": {
         "principio_activo": "Adenosina",
-        "clasificacion": "Antiarrítmico; nucleótido endógeno",
-        "efecto_terapeutica": "Restablece el ritmo sinusal en TPSV; potente vasodilatador coronario",
-        "mecanismo_accion": "Enlentece la conducción del nodo AV e interrumpe vías de reentrada"
+        "clasificacion": "Antiarrítmico; nucleósido endógeno",
+        "efecto_terapeutica": "Interrumpe determinadas taquicardias supraventriculares paroxísticas dependientes del nodo auriculoventricular; produce vasodilatación coronaria y puede utilizarse en estudios de perfusión miocárdica según la formulación y el protocolo correspondiente",
+        "mecanismo_accion": "Activa receptores purinérgicos, principalmente A1 en el nodo auriculoventricular, disminuye transitoriamente la conducción AV y puede interrumpir circuitos de reentrada que dependen de este nodo. Su acción sobre receptores A2 produce vasodilatación"
       },
       "farmacocinetica_adme": {
-        "absorcion": "Vía IV inmediata",
-        "distribucion": "Captación rápida por eritrocitos; no cruza BHE significativamente",
-        "metabolismo": "Intracelular (a AMP o inosina); vida media < 10 segundos",
-        "eliminacion": "No requiere metabolismo hepático ni renal"
+        "absorcion": "Administrada por vía intravenosa, su efecto comienza prácticamente de inmediato",
+        "distribucion": "Se distribuye rápidamente y es captada por eritrocitos y células endoteliales; no presenta una distribución tisular prolongada debido a su rápida eliminación",
+        "metabolismo": "Se metaboliza rápidamente por captación celular y por desaminación, formando metabolitos como inosina y otros derivados de purinas; su semivida plasmática es inferior a 10 segundos",
+        "eliminacion": "Se elimina rápidamente mediante metabolismo celular y enzimático; generalmente no requiere ajuste de dosis por insuficiencia renal o hepática"
       },
-      "indicaciones": "Conversión de taquicardia paroxística supraventricular (TPSV); estudios de perfusión miocárdica",
-      "contraindicaciones": "Bloqueo AV 2°/3° sin marcapasos, asma, broncoespasmo, síndrome del seno enfermo",
-      "precauciones": "Tener equipo de reanimación disponible; precaución con digoxina/verapamilo",
-      "advertencias": "Puede causar asistolia transitoria, arritmias graves o broncoespasmo",
-      "embarazo_lactancia": "Uso solo si es estrictamente necesario. Lactancia no especificada",
+      "indicaciones": "Conversión de determinadas taquicardias supraventriculares paroxísticas regulares, principalmente las dependientes del nodo auriculoventricular; utilización diagnóstica en estudios de perfusión miocárdica cuando corresponda a la formulación autorizada",
+      "contraindicaciones": "Hipersensibilidad a la adenosina o a los excipientes; bloqueo auriculoventricular de segundo o tercer grado sin marcapasos funcionante; síndrome del seno enfermo o bradicardia sintomática, salvo en pacientes con marcapasos funcionante; asma o broncoespasmo grave, de acuerdo con el prospecto del producto. No utilizar para taquicardias irregulares o complejos anchos de origen incierto sin evaluación especializada",
+      "precauciones": "Administrar en un ámbito con monitorización electrocardiográfica continua y equipo de reanimación disponible; extremar precauciones ante enfermedad respiratoria obstructiva, trastornos de conducción, trasplante cardíaco o tratamiento concomitante con fármacos que modifican la conducción AV; considerar las interacciones con dipiridamol, carbamazepina, cafeína y teofilina",
+      "advertencias": "Puede producir bloqueo AV transitorio, asistolia breve, hipotensión, arritmias, dolor u opresión torácica, disnea y broncoespasmo; excepcionalmente pueden presentarse complicaciones graves. Si aparece bloqueo AV de alto grado, no deben administrarse dosis adicionales sin evaluación clínica. La administración lenta puede reducir la eficacia para la conversión de la taquicardia",
+      "embarazo_lactancia": "Utilizar durante el embarazo únicamente cuando esté clínicamente indicado y bajo supervisión médica; la decisión debe considerar la situación materna y fetal. La información sobre lactancia debe verificarse en el prospecto de la especialidad disponible; consultar al equipo médico antes de utilizarla durante la lactancia",
       "ajustes": {
-        "renal": "No requiere ajuste",
-        "hepatico": "No requiere ajuste"
+        "renal": "En general no requiere ajuste por insuficiencia renal debido a su rápida metabolización; considerar el estado clínico global",
+        "hepatico": "En general no requiere ajuste por insuficiencia hepática debido a su rápida eliminación por mecanismos celulares y enzimáticos"
       },
-      "interacciones": "Cafeína y teofilina disminuyen efecto; Dipiridamol lo potencia",
-      "reacciones_adversas": "Rubor facial, palpitaciones, opresión torácica, disnea, náuseas, asistolia transitoria",
-      "toxicidad_sobredosis": "Autolimitada por vida media ultracorta",
-      "antidotos": "Metilxantinas (Teofilina) como antagonistas competitivos",
+      "interacciones": "Cafeína y teofilina pueden antagonizar sus efectos; dipiridamol puede potenciarlos y prolongarlos; carbamazepina puede aumentar el grado de bloqueo AV; otros fármacos que deprimen la conducción auriculoventricular pueden incrementar el riesgo de trastornos de conducción; informar al equipo médico sobre todos los medicamentos administrados",
+      "reacciones_adversas": "Rubor facial; disnea; opresión o dolor torácico; sensación de presión; cefalea; mareos; náuseas; hipotensión; bradicardia; bloqueo AV; pausas sinusales o asistolia transitoria; palpitaciones; broncoespasmo; arritmias, excepcionalmente graves",
+      "toxicidad_sobredosis": "Por su semivida extremadamente corta, muchos efectos suelen ser transitorios; una administración excesiva puede causar bradicardia intensa, bloqueo AV, asistolia, hipotensión, broncoespasmo u otras arritmias. Suspender nuevas dosis, mantener monitorización y aplicar soporte y tratamiento de las complicaciones según el protocolo de emergencias",
+      "antidotos": "No existe un antídoto específico de uso rutinario. Las metilxantinas, como teofilina o aminofilina, antagonizan los efectos de la adenosina, pero su utilización debe quedar a criterio médico; tratar las complicaciones con medidas de soporte y según el protocolo institucional",
       "monitorizacion": {
-        "clinica": "ECG continuo, PA, ritmo cardíaco, mecánica respiratoria",
-        "laboratorio": "No aplica"
+        "clinica": "ECG continuo durante la administración; frecuencia y ritmo cardíacos; presión arterial; estado respiratorio y saturación de oxígeno; aparición de dolor torácico, disnea, hipotensión o alteraciones de conducción",
+        "laboratorio": "No requiere controles de laboratorio específicos de rutina para una administración aislada; solicitar estudios adicionales según la indicación clínica y el estado del paciente"
       },
       "parametros_valoracion": {
-        "antes": "Vía venosa permeable (lo más cerca al corazón); ECG basal",
-        "durante": "Monitor ECG continuo; observar aparición de dolor torácico",
-        "despues": "Confirmar conversión a ritmo sinusal"
+        "antes": "Confirmar indicación y tipo de arritmia mediante ECG; valorar frecuencia cardíaca, presión arterial, estado respiratorio y antecedentes de asma, broncoespasmo, trastornos de conducción, trasplante cardíaco y medicación concomitante; comprobar permeabilidad de la vía venosa y disponibilidad de monitorización y equipo de reanimación",
+        "durante": "Administrar como bolo intravenoso rápido conforme al protocolo; mantener registro electrocardiográfico continuo; vigilar ritmo, frecuencia cardíaca, presión arterial, saturación de oxígeno y síntomas; detener nuevas dosis y solicitar evaluación inmediata ante bloqueo AV de alto grado u otras complicaciones",
+        "despues": "Confirmar la respuesta electrocardiográfica y la estabilidad hemodinámica; vigilar recurrencia de la taquicardia, bradicardia, bloqueo AV, hipotensión, disnea o dolor torácico; documentar dosis, hora, respuesta y reacciones adversas"
       },
-      "presentaciones": "Ampollas 6 mg/2 mL",
+      "presentaciones": "Solución inyectable; se encuentran referencias de presentaciones de 6 mg/2 mL (3 mg/mL), cuya disponibilidad y registro deben verificarse en el Vademécum Nacional de Medicamentos de ANMAT",
       "dosis": {
-        "adultos": "Bolo rápido: 6 mg inicial; si no responde, 12 mg (máx 12 mg/dosis)",
-        "pediatrico": "No especificado en fuente",
-        "geriatrico": "No especificado en fuente"
+        "adultos": "Para determinadas taquicardias supraventriculares regulares: 6 mg por vía IV en bolo rápido; si no hay respuesta, administrar 12 mg según el protocolo y tras reevaluación. Las dosis y la posibilidad de repetirlas deben ajustarse al prospecto del producto y al protocolo institucional. No utilizar este esquema para estudios de perfusión miocárdica, que requieren una pauta diferente",
+        "pediatrico": "Para determinadas taquicardias supraventriculares: dosis inicial habitual de 0,1 mg/kg por vía IV o intraósea en bolo rápido, con un máximo inicial de 6 mg; si no hay respuesta, puede administrarse una segunda dosis de 0,2 mg/kg, con un máximo de 12 mg, conforme al protocolo pediátrico vigente. Confirmar la pauta en el protocolo institucional antes de utilizarla",
+        "geriatrico": "En general se emplea la misma pauta inicial que en adultos; individualizar según el estado clínico, las comorbilidades y los medicamentos concomitantes"
       },
-      "vias_administracion": "Intravenosa (bolo ultra-rápido)",
+      "vias_administracion": "Intravenosa en bolo rápido para determinadas taquicardias supraventriculares; otras modalidades de administración dependen de la indicación, la formulación y el protocolo autorizado",
       "preparacion": {
-        "dilucion": "Generalmente sin diluir para bolo rápido",
-        "compatibilidad_iv": "Lavar con 20 mL de SF inmediatamente tras el bolo"
+        "dilucion": "Para la conversión de determinadas taquicardias supraventriculares suele administrarse sin diluir cuando la presentación lo permite; preparar y administrar conforme al prospecto de la especialidad y al protocolo institucional",
+        "compatibilidad_iv": "Administrar por una vía venosa permeable y lo más proximal posible; realizar inmediatamente después un lavado rápido con solución fisiológica al 0,9 % según el protocolo institucional. El volumen de lavado debe adecuarse al acceso venoso y a las condiciones del paciente"
       },
-      "velocidad_infusion": "Bolo IV rápido en 1-2 segundos",
-      "estabilidad_soluciones": "Desechar remanentes; no refrigerar (cristaliza)",
-      "concentracion": "3 mg/mL",
-      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Un error de técnica (administración lenta) anula el efecto",
+      "velocidad_infusion": "Para la conversión de determinadas taquicardias supraventriculares: bolo IV rápido, habitualmente en 1–2 segundos, seguido inmediatamente del lavado de la vía. Los estudios de perfusión miocárdica requieren una pauta de administración diferente",
+      "estabilidad_soluciones": "Conservar según las condiciones indicadas en el prospecto de la especialidad. Inspeccionar la solución antes de administrarla; no utilizar si presenta partículas, cambios de aspecto o alteraciones del envase. No asumir que todas las presentaciones tienen las mismas condiciones de conservación; verificar si el producto específico requiere protección frente al frío o condiciones especiales",
+      "concentracion": "No se establece aquí una concentración máxima universal de administración. Para el bolo rápido se utiliza la concentración de la presentación autorizada cuando el prospecto lo permite; una presentación de 6 mg/2 mL equivale a 3 mg/mL. Confirmar la concentración del producto y el protocolo institucional antes de administrar",
+      "alarma_riesgo": "MEDICAMENTO DE ALTO RIESGO. Administrar únicamente con monitorización electrocardiográfica continua y equipo de reanimación disponible. La administración lenta puede disminuir la eficacia; los errores de dosis, vía o indicación pueden provocar complicaciones graves",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Administrar en la vena más cercana al corazón (fosa antecubital)",
-          "Técnica de dos jeringas: una con fármaco y otra con SF para lavado inmediato",
-          "Mantener a la paciente conectada al monitor cardíaco con registro de tira"
+          "Verificar la indicación, la dosis prescrita, la concentración y la presentación antes de administrar",
+          "Confirmar la permeabilidad de la vía venosa y utilizar un acceso proximal cuando sea posible",
+          "Mantener monitorización electrocardiográfica continua y registrar el ritmo antes, durante y después de la administración",
+          "Controlar la presión arterial, la frecuencia cardíaca, la saturación de oxígeno y el estado respiratorio",
+          "Preparar el lavado inmediato de la vía con solución fisiológica al 0,9 % según el protocolo institucional",
+          "Comprobar la disponibilidad de equipo de reanimación y de personal capacitado para responder a complicaciones",
+          "Vigilar bradicardia, bloqueo AV, pausas, hipotensión, dolor torácico, disnea y broncoespasmo",
+          "Registrar dosis, vía, hora, respuesta clínica y electrocardiográfica y posibles reacciones adversas"
         ],
         "educacion_paciente": [
-          "Advertir que sentirá una sensación de opresión o muerte inminente muy breve (segundos)",
-          "Permanecer inmóvil durante la administración"
+          "Explicar brevemente que puede experimentar rubor, opresión torácica, falta de aire, mareo o una sensación intensa y pasajera durante la administración",
+          "Indicar que comunique inmediatamente dolor torácico intenso, dificultad respiratoria u otros síntomas preocupantes",
+          "Explicar que la administración se realizará bajo monitorización y que el personal observará la respuesta cardíaca",
+          "Solicitar que informe antecedentes de asma, broncoespasmo, problemas de conducción cardíaca y medicamentos que esté utilizando"
         ]
       }
     },
