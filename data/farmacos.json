@@ -8652,6 +8652,83 @@
           "Registrar glucemias, dosis y episodios de hipoglucemia."
         ]
       }
+    },
+    {
+      "id": "108",
+      "nombre_generico": "Insulina NPH",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Insulina humana isófana NPH, una suspensión de insulina humana con protamina.",
+        "clasificacion": "Insulina de acción intermedia; medicamento de alto riesgo.",
+        "efecto_terapeutica": "Proporciona cobertura insulínica intermedia para controlar la glucemia entre comidas y durante determinados períodos del día o de la noche.",
+        "mecanismo_accion": "Se une a los receptores de insulina, favorece la captación periférica de glucosa e inhibe la producción hepática de glucosa. La protamina retrasa la absorción desde el tejido subcutáneo."
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Tras la administración subcutánea, el inicio suele producirse aproximadamente entre 1 y 2 horas. El pico y la duración presentan variabilidad individual.",
+        "distribucion": "Actúa principalmente en músculo, tejido adiposo e hígado a través de los receptores de insulina.",
+        "metabolismo": "Se degrada mediante enzimas proteolíticas en hígado, riñones y otros tejidos.",
+        "eliminacion": "Se elimina mediante degradación metabólica. La insuficiencia renal o hepática puede reducir las necesidades de insulina."
+      },
+      "indicaciones": "Control glucémico en personas con diabetes mellitus tipo 1 o tipo 2 que requieren insulina de acción intermedia, sola o en combinación con otras insulinas según el esquema prescrito.",
+      "contraindicaciones": "Hipoglucemia activa e hipersensibilidad a la insulina humana o a los componentes de la formulación.",
+      "precauciones": "El pico de acción puede provocar hipoglucemia varias horas después de la administración. La suspensión debe resuspenderse según las instrucciones del fabricante hasta obtener un aspecto uniformemente blanco y turbio. No administrar por vía intravenosa ni utilizar en bombas de infusión salvo que una formulación específica esté expresamente autorizada, lo que no corresponde a la NPH habitual.",
+      "advertencias": "Medicamento de alto riesgo. Confundir NPH con insulinas rápidas o basales puede causar hipoglucemia grave. No administrar si la suspensión no se resuspende correctamente o presenta grumos, partículas persistentes o adherencias anormales al envase. No suspender la insulina basal en diabetes tipo 1 sin indicación médica.",
+      "embarazo_lactancia": "La insulina humana puede utilizarse durante el embarazo y la lactancia cuando está indicada. Los requerimientos pueden cambiar durante la gestación y después del parto, por lo que deben ajustarse mediante seguimiento clínico.",
+      "ajustes": {
+        "renal": "La insuficiencia renal puede reducir los requerimientos de insulina y aumentar el riesgo de hipoglucemia. Ajustar según glucemias, ingesta y función renal.",
+        "hepatico": "La insuficiencia hepática puede aumentar la susceptibilidad a hipoglucemia. Individualizar los requerimientos y monitorizar con mayor frecuencia."
+      },
+      "interacciones": "Otros antidiabéticos, alcohol y algunos medicamentos pueden aumentar la hipoglucemia. Corticoides, simpaticomiméticos y determinados antipsicóticos pueden elevar la glucemia. Los betabloqueantes pueden enmascarar síntomas de hipoglucemia. Cambios en dieta y actividad física también alteran los requerimientos.",
+      "reacciones_adversas": "Hipoglucemia, reacciones en el sitio de inyección, lipodistrofia, aumento de peso, edema, alergia e hipopotasemia. El pico de acción puede asociarse a hipoglucemia nocturna según el horario de administración.",
+      "toxicidad_sobredosis": "La sobredosis puede causar hipoglucemia prolongada o recurrente debido al perfil de acción intermedia. Puede producir sudoración, temblor, confusión, convulsiones o pérdida de conciencia. Requiere tratamiento inmediato y vigilancia posterior.",
+      "antidotos": "No existe antídoto específico. Tratar la hipoglucemia con glucosa oral si la persona está consciente y puede deglutir, o glucosa intravenosa o glucagón según gravedad y protocolo. Vigilar la recurrencia y el potasio cuando corresponda.",
+      "monitorizacion": {
+        "clinica": "Controlar glucemia, ingesta, signos de hipoglucemia y relación temporal con el pico de acción. Vigilar sitios de inyección y respuesta al esquema basal o intermedio.",
+        "laboratorio": "Controlar glucemia y HbA1c. Evaluar función renal, función hepática y potasio según situación clínica."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar prescripción, tipo de insulina, dosis, concentración, vía, horario y glucemia. Confirmar la correcta resuspensión de la suspensión y revisar la ingesta prevista, el patrón de glucemias y los episodios previos de hipoglucemia.",
+        "durante": "Vigilar glucemia en los momentos indicados, especialmente durante el período de mayor acción. Observar síntomas de hipoglucemia y revisar cambios en la alimentación, actividad física o función renal.",
+        "despues": "Registrar dosis, hora, sitio de inyección, glucemia y respuesta. Mantener vigilancia durante el período de acción intermedia y comunicar hipoglucemias recurrentes."
+      },
+      "presentaciones": "Suspensión inyectable en viales, cartuchos o plumas precargadas, según fabricante y mercado. La presentación habitual es U-100, aunque siempre debe verificarse el envase.",
+      "dosis": {
+        "adultos": "Individualizada según tipo de diabetes, glucemia, alimentación, actividad física y esquema prescrito. Puede administrarse una o más veces al día según las necesidades. No existe una dosis universal segura; ajustar mediante el plan clínico individual.",
+        "pediatrico": "La dosis se individualiza según edad, peso, ingesta, glucemias y esquema terapéutico. Debe ser indicada por el equipo especializado y requiere educación de cuidadores.",
+        "geriatrico": "Individualizar considerando función renal, ingesta variable, fragilidad y riesgo de hipoglucemia, especialmente nocturna. Puede requerirse un esquema más conservador y vigilancia más frecuente."
+      },
+      "vias_administracion": "Vía subcutánea. No administrar por vía intravenosa ni intramuscular. No utilizar en bombas de infusión convencionales.",
+      "preparacion": {
+        "dilucion": "No requiere dilución rutinaria. Resuspender suavemente según las instrucciones del fabricante hasta lograr una suspensión uniformemente blanca y turbia. No agitar vigorosamente. No mezclar con otras insulinas salvo que la ficha técnica y la prescripción lo permitan.",
+        "compatibilidad_iv": "No corresponde. La insulina NPH habitual es una suspensión para administración subcutánea y no debe administrarse por vía intravenosa."
+      },
+      "velocidad_infusion": "No corresponde. Administración subcutánea.",
+      "estabilidad_soluciones": "Conservar según las instrucciones del fabricante, evitando congelación, calor excesivo y luz directa. Los períodos de uso después de abrir varían según vial, cartucho o pluma; verificar la ficha técnica específica.",
+      "concentracion": "La presentación habitual es U-100, equivalente a 100 unidades/mL. Verificar la concentración del envase y utilizar el dispositivo compatible.",
+      "alarma_riesgo": "Medicamento de alto riesgo. Vigilar hipoglucemia durante el pico de acción, incluidos episodios nocturnos. Ante alteración de conciencia o convulsiones, activar el protocolo de hipoglucemia y no administrar alimentos por boca.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar paciente, tipo de insulina, concentración, dosis, vía y horario.",
+          "Aplicar el protocolo institucional de prevención de errores con insulinas de alto riesgo.",
+          "Resuspender suavemente según las instrucciones del fabricante y comprobar el aspecto antes de administrar.",
+          "No utilizar la suspensión si presenta grumos persistentes o aspecto anormal.",
+          "Controlar glucemia y anticipar el período de mayor acción según el horario de administración.",
+          "Vigilar hipoglucemia, especialmente cuando cambia la ingesta o durante la noche si el esquema lo requiere.",
+          "Rotar los sitios de inyección y revisar la piel.",
+          "Registrar dosis, horario, glucemia, ingesta y respuesta.",
+          "No administrar por vía intravenosa ni utilizar en bombas de infusión convencionales."
+        ],
+        "educacion_paciente": [
+          "Explicar la diferencia entre NPH y las insulinas de acción rápida.",
+          "Resuspender la insulina suavemente conforme a las instrucciones del producto antes de administrarla.",
+          "Mantener horarios de comidas y controles según el plan terapéutico.",
+          "Reconocer y tratar la hipoglucemia según el plan individual.",
+          "No cambiar dosis ni suspender insulina basal por cuenta propia.",
+          "Rotar los sitios de inyección y conservar el producto según el fabricante.",
+          "Consultar qué hacer ante enfermedad aguda, vómitos o disminución de la ingesta."
+        ]
+      }
     }
   ]
 }
