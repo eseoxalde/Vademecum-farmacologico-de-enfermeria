@@ -3685,64 +3685,74 @@
       "letra": "L",
       "alto_riesgo": true,
       "farmacodinamia": {
-        "principio_activo": "Lidocaína",
-        "clasificacion": "Antiarrítmico clase IB / Anestésico local amida",
-        "efecto_terapeutica": "Suprime arritmias ventriculares; produce bloqueo reversible de la conducción nerviosa",
-        "mecanismo_accion": "Bloquea canales rápidos de sodio dependientes de voltaje, estabilizando la membrana"
+        "principio_activo": "Lidocaína; puede presentarse como clorhidrato de lidocaína o lidocaína base, según la formulación.",
+        "clasificacion": "Anestésico local del grupo de las amidas; antiarrítmico de clase IB cuando se administra por vía sistémica para indicaciones cardíacas.",
+        "efecto_terapeutica": "Produce anestesia local o regional reversible y, en indicaciones específicas, suprime determinadas arritmias ventriculares.",
+        "mecanismo_accion": "Bloquea los canales de sodio dependientes de voltaje, inhibiendo la generación y propagación de los potenciales de acción nerviosos. En el miocardio disminuye la automaticidad ventricular y suprime determinadas alteraciones de la conducción."
       },
       "farmacocinetica_adme": {
-        "absorcion": "Rápida vía IV; variable en otras vías",
-        "distribucion": "Amplia; unión moderada a proteínas",
-        "metabolismo": "Hepático",
-        "eliminacion": "Renal como metabolitos; vida media 1.5-2 horas"
+        "absorcion": "La administración intravenosa proporciona disponibilidad sistémica inmediata. La absorción por vía tópica, infiltración, epidural u otras vías depende de la vascularización del sitio, la dosis, la concentración y la formulación. La absorción sistémica puede aumentar al administrar grandes volúmenes o utilizar zonas muy vascularizadas.",
+        "distribucion": "Se distribuye ampliamente por los tejidos y atraviesa la barrera hematoencefálica y la placenta. La unión a proteínas plasmáticas es variable y depende, entre otros factores, de la concentración de alfa-1-glicoproteína ácida.",
+        "metabolismo": "Principalmente hepático, mediante enzimas que incluyen CYP1A2 y CYP3A4. Los metabolitos pueden conservar actividad farmacológica y contribuir a la toxicidad, especialmente en tratamientos prolongados.",
+        "eliminacion": "Principalmente renal en forma de metabolitos; una pequeña proporción se excreta sin modificar. La vida media plasmática habitual después de una administración intravenosa única es aproximadamente de 1,5 a 2 horas, y puede prolongarse en insuficiencia hepática, bajo gasto cardíaco o infusiones prolongadas."
       },
-      "indicaciones": "Arritmias ventriculares (post-IAM), taquicardia/fibrilación ventricular, anestesia local/epidural",
-      "contraindicaciones": "Bloqueo AV 2°/3° sin marcapasos, síndrome de Stokes-Adams, bradicardia grave, shock cardiogénico",
-      "precauciones": "Epilepsia, adultos mayores, insuficiencia hepática",
-      "advertencias": "La administración rápida puede provocar convulsiones o paro cardíaco",
-      "embarazo_lactancia": "Uso si beneficio > riesgo; atraviesa placenta. Compatible con lactancia en dosis recomendadas",
+      "indicaciones": "Anestesia local por infiltración y bloqueo nervioso; anestesia regional y epidural con formulaciones autorizadas; anestesia tópica en piel o mucosas con productos específicos; tratamiento de determinadas arritmias ventriculares, especialmente en contextos seleccionados de urgencia o perioperatorios. No es un tratamiento de primera elección para todas las arritmias ventriculares y no debe utilizarse de forma rutinaria para prevenir arritmias después de un infarto agudo de miocardio.",
+      "contraindicaciones": "Hipersensibilidad a la lidocaína o a anestésicos locales de tipo amida; bloqueo sinoauricular, auriculoventricular grave o intraventricular sin dispositivo de estimulación cuando corresponda a la formulación antiarrítmica; determinadas alteraciones graves de la conducción cardíaca; shock cardiogénico grave según la indicación y la ficha técnica. Las contraindicaciones dependen de la vía y de la presentación. La administración epidural o regional presenta contraindicaciones adicionales relacionadas con la técnica, la coagulación y el sitio de administración.",
+      "precauciones": "Insuficiencia hepática; insuficiencia cardíaca o bajo gasto cardíaco; insuficiencia renal grave, especialmente con tratamientos prolongados; edad avanzada; epilepsia; trastornos de conducción cardíaca; bradicardia; hipovolemia; hipoxia; acidosis; alteraciones electrolíticas; porfiria cuando corresponda a la formulación; uso concomitante de otros anestésicos locales o antiarrítmicos. La inyección debe realizarse con vigilancia adecuada y medidas disponibles para tratar toxicidad sistémica.",
+      "advertencias": "La administración intravascular accidental o una dosis sistémica excesiva puede causar toxicidad neurológica y cardiovascular, incluidas convulsiones, depresión respiratoria, hipotensión, arritmias y paro cardíaco. En anestesia regional, administrar de forma fraccionada cuando corresponda, aspirar antes de inyectar según la técnica y vigilar al paciente. La adrenalina u otros vasoconstrictores solo deben añadirse cuando estén indicados y sean compatibles con el sitio y la formulación. No confundir las concentraciones de productos tópicos, infiltrativos, epidurales e intravenosos.",
+      "embarazo_lactancia": "Embarazo: puede utilizarse cuando exista indicación clínica y el beneficio justifique los riesgos, con selección de la vía y la dosis apropiadas. Atraviesa la placenta; la seguridad depende de la dosis, la vía y el contexto clínico. Lactancia: las cantidades que pasan a la leche suelen ser bajas con el uso habitual y, en general, no se espera un efecto significativo en el lactante con dosis clínicas adecuadas. Confirmar las recomendaciones de la ficha técnica específica, especialmente para dosis altas o tratamientos prolongados.",
       "ajustes": {
-        "renal": "Vigilar en insuficiencia grave por metabolitos",
-        "hepatico": "Reducir la dosis obligatoriamente"
+        "renal": "No suele requerir un ajuste inicial específico tras una dosis única, pero en insuficiencia renal grave pueden acumularse metabolitos, especialmente durante infusiones prolongadas. Vigilar respuesta y signos de toxicidad; individualizar el tratamiento.",
+        "hepatico": "El metabolismo es hepático. En insuficiencia hepática grave o bajo flujo sanguíneo hepático puede disminuir el aclaramiento y aumentar la exposición. Considerar reducción de dosis o de velocidad de infusión según la indicación y la respuesta clínica."
       },
-      "interacciones": "Betabloqueantes, amiodarona (alteran conducción), cimetidina",
-      "reacciones_adversas": "Bradicardia, hipotensión, mareos, confusión, convulsiones, depresión respiratoria",
-      "toxicidad_sobredosis": "Entumecimiento bucal, tinnitus (zumbidos), visión borrosa, convulsiones, paro cardíaco",
-      "antidotos": "No existe específico; se recomienda emulsión lipídica al 20% en toxicidad grave",
+      "interacciones": "Amiodarona y otros antiarrítmicos; betabloqueantes; cimetidina; determinados inhibidores de CYP1A2 o CYP3A4; otros anestésicos locales; medicamentos que afectan la conducción cardíaca; depresores del sistema nervioso central. Algunas combinaciones pueden reducir el aclaramiento, potenciar los efectos cardiovasculares o aumentar el riesgo de toxicidad. Evaluar las interacciones según la vía y la duración del tratamiento.",
+      "reacciones_adversas": "Parestesias periorales; sabor metálico; tinnitus; mareos; visión borrosa; agitación o confusión; temblores; convulsiones; somnolencia; depresión respiratoria; hipotensión; bradicardia; trastornos de conducción; arritmias; paro cardíaco en intoxicaciones graves; náuseas; reacciones locales; reacciones alérgicas infrecuentes. La toxicidad sistémica puede aparecer rápidamente después de una inyección intravascular accidental.",
+      "toxicidad_sobredosis": "Los primeros signos pueden incluir adormecimiento perioral, sabor metálico, tinnitus, alteraciones visuales, agitación, confusión y temblores. La toxicidad grave puede provocar convulsiones, pérdida de conciencia, depresión respiratoria, hipotensión, bradicardia, arritmias ventriculares y paro cardíaco. Suspender la administración, solicitar asistencia urgente, asegurar vía aérea y ventilación, y seguir el protocolo de toxicidad sistémica por anestésicos locales. La emulsión lipídica intravenosa al 20% puede estar indicada en toxicidad sistémica grave según el protocolo vigente.",
+      "antidotos": "No existe un antídoto específico. En toxicidad sistémica grave por anestésicos locales, puede utilizarse emulsión lipídica intravenosa al 20% conforme al protocolo institucional vigente. El tratamiento incluye soporte de vía aérea, oxigenación, control de convulsiones y manejo cardiovascular especializado.",
       "monitorizacion": {
-        "clinica": "ECG continuo, estado neurológico, saturación de O2",
-        "laboratorio": "Función hepática en tratamiento prolongado"
+        "clinica": "Nivel de conciencia; estado neurológico; parestesias periorales; tinnitus; alteraciones visuales; temblores; convulsiones; frecuencia respiratoria; saturación de oxígeno; presión arterial; frecuencia cardíaca; ECG continuo durante el uso intravenoso antiarrítmico; respuesta anestésica; signos de toxicidad sistémica.",
+        "laboratorio": "No se requieren análisis seriados de rutina en todas las administraciones locales breves. Valorar función hepática y renal según comorbilidades y duración del tratamiento; electrolitos y equilibrio ácido-base en pacientes críticos o con arritmias. Las concentraciones plasmáticas de lidocaína pueden considerarse en tratamientos intravenosos prolongados o ante sospecha de toxicidad, si están disponibles."
       },
       "parametros_valoracion": {
-        "antes": "Verificar alergias a anestésicos locales",
-        "durante": "Vigilar signos de toxicidad (tinnitus, parestesias)",
-        "despues": "Evaluación del ritmo cardíaco"
+        "antes": "Verificar indicación, prescripción, dosis, concentración, vía y peso del paciente; revisar alergias a anestésicos locales de tipo amida; valorar antecedentes cardiovasculares, hepáticos, renales y neurológicos; registrar presión arterial, frecuencia cardíaca, respiración y saturación de oxígeno; obtener ECG basal cuando se utilice como antiarrítmico; comprobar disponibilidad de equipo de reanimación y tratamiento de toxicidad sistémica.",
+        "durante": "Vigilar respuesta anestésica o control de la arritmia; controlar nivel de conciencia, respiración, saturación, presión arterial y frecuencia cardíaca; mantener ECG continuo durante la administración intravenosa antiarrítmica; observar parestesias periorales, tinnitus, sabor metálico, alteraciones visuales, temblores o convulsiones; vigilar el sitio de administración y detectar signos de inyección intravascular accidental.",
+        "despues": "Evaluar la recuperación de la sensibilidad y función motora según la técnica anestésica; comprobar estabilidad respiratoria y hemodinámica; reevaluar el ritmo cardíaco si se utilizó como antiarrítmico; mantener observación durante el período indicado según dosis y vía; documentar dosis total, concentración, vía, respuesta y efectos adversos."
       },
-      "presentaciones": "Ampollas 1% y 2% (20 mg/mL); Gel; Aerosol; Crema",
+      "presentaciones": "Según el país y el fabricante: soluciones inyectables de 0,5%, 1% y 2% (5, 10 y 20 mg/ml); soluciones para anestesia regional o epidural con o sin vasoconstrictor; geles, cremas, aerosoles, soluciones tópicas y parches medicinales en concentraciones específicas. La disponibilidad y las indicaciones varían por producto. Verificar el envase y la ficha técnica antes de administrar.",
       "dosis": {
-        "adultos": "Carga IV: 1-1.5 mg/kg. Mantenimiento: 1-4 mg/min",
-        "pediatrico": "Cálculo estricto por peso (mg/kg)",
-        "geriatrico": "Utilizar la menor dosis eficaz por riesgo de acumulación"
+        "adultos": "Antiarrítmico intravenoso: dosis de carga habitual de 1 a 1,5 mg/kg, administrada lentamente según protocolo; si persiste la arritmia, pueden indicarse dosis adicionales conforme al protocolo clínico. Infusión de mantenimiento habitual de 1 a 4 mg/min en adultos, ajustada a respuesta, situación clínica y monitorización. Para anestesia local, la dosis depende del procedimiento, la concentración y el uso de vasoconstrictor; respetar el máximo indicado en la ficha técnica específica. No aplicar una pauta antiarrítmica a las formulaciones destinadas exclusivamente a anestesia local.",
+        "pediatrico": "La dosis depende de la indicación, el peso, la vía y la formulación. En arritmias, las dosis de carga y mantenimiento deben seguir un protocolo pediátrico específico y ajustarse según respuesta y monitorización. Para anestesia local, calcular estrictamente por peso y respetar los límites de la ficha técnica. No utilizar una dosis pediátrica genérica para todas las vías.",
+        "geriatrico": "Puede requerir dosis menores por disminución del aclaramiento, comorbilidades y mayor sensibilidad a los efectos cardiovasculares y neurológicos. Individualizar según función hepática, estado hemodinámico, indicación y respuesta."
       },
-      "vias_administracion": "IV, IM, Infiltración local, Epidural, Tópica",
+      "vias_administracion": "Intravenosa para indicaciones antiarrítmicas con formulaciones apropiadas; infiltración local; bloqueo nervioso; epidural o regional con formulaciones autorizadas; tópica sobre piel o mucosas con productos específicos. La vía intramuscular no debe asumirse como apropiada para todas las presentaciones. Verificar siempre las vías autorizadas en la ficha técnica.",
       "preparacion": {
-        "dilucion": "Compatible con SF 0.9% y Dextrosa 5%",
-        "compatibilidad_iv": "Usar técnica aséptica"
+        "dilucion": "La necesidad de dilución depende de la presentación y de la indicación. Para infusión antiarrítmica, utilizar una formulación adecuada y un diluyente compatible, como cloruro de sodio al 0,9% o glucosa al 5%, únicamente si la ficha técnica del producto lo permite. Calcular la dosis en miligramos y la concentración final antes de preparar. No diluir automáticamente las formulaciones tópicas o destinadas a anestesia local.",
+        "compatibilidad_iv": "La compatibilidad depende de la formulación, el diluyente, la concentración y los medicamentos concomitantes. No mezclar con otros medicamentos en la misma jeringa o bolsa sin confirmar compatibilidad en la ficha técnica o con farmacia. Utilizar técnica aséptica y una línea exclusiva cuando sea necesario."
       },
-      "velocidad_infusion": "Dosis de carga: pasar en 2 a 3 minutos",
-      "estabilidad_soluciones": "Preparar inmediatamente antes de su uso",
-      "concentracion": "100 mg/5 mL (2%) o 200 mg/10 mL (2%)",
-      "alarma_riesgo": "Considerado de ALTO RIESGO en situaciones críticas/arritmias",
+      "velocidad_infusion": "Para la dosis de carga antiarrítmica en adultos, administrar de forma lenta y controlada según el protocolo institucional, habitualmente durante varios minutos, con monitorización electrocardiográfica y hemodinámica. La infusión de mantenimiento suele expresarse en mg/min y requiere bomba de infusión. Evitar la administración rápida que pueda producir toxicidad neurológica o cardiovascular.",
+      "estabilidad_soluciones": "Depende de la presentación, el diluyente, la concentración, el envase y las condiciones de preparación. No existe un tiempo universal aplicable a todas las soluciones. Preparar y conservar según la ficha técnica y las normas institucionales de preparación aséptica; inspeccionar la solución y descartar si presenta partículas, cambios de color o condiciones de conservación inadecuadas.",
+      "concentracion": "Las concentraciones inyectables habituales incluyen 0,5% (5 mg/ml), 1% (10 mg/ml) y 2% (20 mg/ml). Por ejemplo, 100 mg/5 ml equivale a 20 mg/ml (2%). La concentración máxima permitida para anestesia depende de la vía, el sitio, el uso de vasoconstrictor y la ficha técnica; no debe confundirse con la concentración comercial.",
+      "alarma_riesgo": "Medicamento de alto riesgo en administración intravenosa antiarrítmica y en procedimientos con posibilidad de absorción sistémica elevada. La aparición de tinnitus, sabor metálico, parestesias periorales, alteraciones visuales, temblores, convulsiones, bradicardia, hipotensión o arritmias puede indicar toxicidad. Tener disponible equipo de reanimación y seguir el protocolo de toxicidad sistémica por anestésicos locales.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Monitorizar ECG continuamente durante administración IV",
-          "Tener disponible equipo de reanimación y emulsión lipídica",
-          "Vigilar signos tempranos de toxicidad neurológica"
+          "Verificar la prescripción, la dosis total, la concentración, la vía y la indicación antes de administrar.",
+          "Comprobar alergias a anestésicos locales y antecedentes de enfermedad cardíaca, hepática, renal o neurológica.",
+          "Realizar doble comprobación del cálculo por peso cuando corresponda.",
+          "Monitorizar continuamente el ECG durante la administración intravenosa antiarrítmica.",
+          "Vigilar presión arterial, frecuencia cardíaca, respiración, saturación de oxígeno y estado neurológico.",
+          "Observar signos precoces de toxicidad, como parestesias periorales, tinnitus, sabor metálico, visión borrosa, temblores o confusión.",
+          "Tener disponibles equipo de reanimación y los recursos indicados por el protocolo institucional para tratar toxicidad sistémica por anestésicos locales.",
+          "Utilizar la formulación y el diluyente apropiados y confirmar compatibilidad antes de preparar una infusión.",
+          "Registrar la dosis administrada, la vía, la concentración, la respuesta clínica y los posibles efectos adversos.",
+          "Suspender la administración y solicitar asistencia urgente ante signos de toxicidad sistémica."
         ],
         "educacion_paciente": [
-          "Informar pérdida temporal de sensibilidad en zona tratada",
-          "No comer/beber hasta recuperar sensibilidad si fue en boca/garganta",
-          "Reportar mareos intensos o palpitaciones"
+          "Informar de inmediato si aparecen mareos intensos, zumbidos en los oídos, sabor metálico, visión borrosa, temblores o palpitaciones.",
+          "Después de anestesia en boca o garganta, no comer ni beber hasta recuperar la sensibilidad y la deglución seguras.",
+          "Proteger la zona anestesiada de quemaduras, golpes o lesiones mientras persista la pérdida de sensibilidad.",
+          "Seguir las instrucciones del equipo de salud sobre reposo y recuperación después del procedimiento.",
+          "No aplicar preparados tópicos en superficies extensas, heridas o mucosas sin respetar las instrucciones del producto.",
+          "Consultar si presenta dificultad respiratoria, desmayo, convulsiones o palpitaciones intensas."
         ]
       }
     },
