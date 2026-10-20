@@ -11783,6 +11783,73 @@
           "Instruir sobre la importancia de avisar inmediatamente si siente náuseas intensas o dificultad para respirar.;"
         ]
       }
+    },
+    {
+      "id": "152",
+      "nombre_generico": "L-Carnitina",
+      "letra": "L",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Levocarnitina",
+        "clasificacion": "Coadyuvante metabólico, antídoto en toxicidad por ácido valproico",
+        "efecto_terapeutica": "Restablece la beta-oxidación de ácidos grasos y previene la hiperamonemia y hepatotoxicidad",
+        "mecanismo_accion": "Facilita el transporte de ácidos grasos de cadena larga al interior de la mitocondria y acelera la eliminación de metabolitos tóxicos del ácido valproico mediante la formación de valproilcarnitina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral; biodisponibilidad sistémica rápida por vía intravenosa",
+        "distribucion": "Se distribuye ampliamente concentrándose en el músculo esquelético, corazón e hígado",
+        "metabolismo": "Mínimo metabolismo sistémico",
+        "eliminacion": "Excreción renal en forma libre y conjugada"
+      },
+      "indicaciones": "Tratamiento de la intoxicación aguda o hiperamonemia inducida por ácido valproico; deficiencia primaria o secundaria de carnitina.",
+      "contraindicaciones": "Hipersensibilidad a la levocarnitina.",
+      "precauciones": "Usar con precaución en pacientes con insuficiencia renal severa en tratamiento crónico por vía oral.",
+      "advertencias": "La administración oral rápida puede causar molestias gastrointestinales graves.",
+      "embarazo_lactancia": "Uso aceptable durante el embarazo si el beneficio supera los riesgos. Compatible con la lactancia.",
+      "ajustes": {
+        "renal": "Reducir la dosis oral en insuficiencia renal severa; en sobredosis agudas se mantiene el esquema bajo diálisis.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "El ácido valproico, la emetina y los anticonvulsivantes disminuyen los niveles endógenos de carnitina.",
+      "reacciones_adversas": "Náuseas; vómitos; calambres abdominales; olor corporal a pescado; convulsiones en pacientes predispuestos.",
+      "toxicidad_sobredosis": "Trastornos gastrointestinales y diarrea.",
+      "antidotos": "Tratamiento sintomático de soporte.",
+      "monitorizacion": {
+        "clinica": "Control del estado neurológico, amonemia y función hepática.",
+        "laboratorio": "Niveles de amonio en sangre, valproemia y pruebas de función hepática."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar los niveles de amonio sérico y enzimas hepáticas.",
+        "durante": "Monitorear la respuesta clínica y la tolerancia a la infusión intravenosa.",
+        "despues": "Valorar el descenso del amonio y la recuperación del sensorio."
+      },
+      "presentaciones": "Ampollas inyectables de 1 g/5 ml; solución oral de 1 g/10 ml.",
+      "dosis": {
+        "adultos": "Dosis de carga IV de 100 mg/kg (máximo 6 g), seguida de 50 mg/kg cada 8 horas en intoxicación por valproato.",
+        "pediatrico": "50 mg/kg a 100 mg/kg intravenosos divididos en varias dosis según protocolos toxicológicos.",
+        "geriatrico": "Misma dosis que en adultos ajustando según función renal basal."
+      },
+      "vias_administracion": "Intravenosa lenta o vía oral.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis inyectable en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por vía IV en un lapso de 15 a 30 minutos.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "200 mg/ml en ampolla inyectable.",
+      "alarma_riesgo": "Riesgo de convulsiones en pacientes con antecedentes de cuadros comiciales sin control.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Monitorear periódicamente los niveles de amonio en sangre durante el tratamiento de la toxicidad por valproato.;",
+          "Administrar la infusión IV diluida y de manera lenta para evitar reacciones locales o náuseas.;",
+          "Evaluar la aparición de diarrea o calambres abdominales significativos.;"
+        ],
+        "educacion_paciente": [
+          "Informar al paciente que es posible percibir un olor corporal característico a pescado durante el tratamiento.;",
+          "Explicar que la medicación ayuda a proteger el hígado de la toxicidad por los anticonvulsivantes.;",
+          "Indicar que avise ante la presencia de malestar estomacal o náuseas persistentes.;"
+        ]
+      }
     }
   ]
 }
