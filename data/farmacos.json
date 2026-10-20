@@ -13927,6 +13927,73 @@
           "Notificar al personal si presenta sarpullido en la piel o malestar estomacal."
         ]
       }
+    },
+    {
+      "id": "184",
+      "nombre_generico": "Imipenem (Imipenem / Cilastatina)",
+      "letra": "I",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Imipenem (asociado a Cilastatina sódica)",
+        "clasificacion": "Antibiótico, carbapenem de muy amplio espectro",
+        "efecto_terapeutica": "Bactericida ultracomprensivo sobre cocos grampositivos, bacilos gramnegativos y bacterias anaerobias",
+        "mecanismo_accion": "El imipenem inhibe la síntesis de la pared celular bacteriana uniéndose a las PBP; la cilastatina inhibe la deshidropeptidasa I renal impidiendo la inactivación renal del imipenem"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral por vía IV o IM exclusivamente",
+        "distribucion": "Amplia distribución en tejidos corporales, esputo, bilis y líquido peritoneal; baja penetración en LCR no inflamado",
+        "metabolismo": "El imipenem se metaboliza en los túbulos renales por la deshidropeptidasa I (bloqueada reversiblemente por la cilastatina)",
+        "eliminacion": "Excreción renal (70% de imipenem y cilastatina inalterados)"
+      },
+      "indicaciones": "Infecciones intraabdominales graves, respiratorias inferiores, ginecológicas, urinarias complicadas, osteoarticulares, septicemia e infecciones polimicrobianas mixtas.",
+      "contraindicaciones": "Hipersensibilidad al imipenem, cilastatina o carbapenémicos; la presentación IM (con lidocaína) está contraindicada en alergia a anestésicos amídicos.",
+      "precauciones": "Riesgo elevado de convulsiones (mayor que con meropenem), sobre todo en antecedentes de lesiones del SNC o falla renal no ajustada.",
+      "advertencias": "Reduce marcadamente los niveles séricos de ácido valproico induciendo convulsiones; ajustar dosis según peso y clearance.",
+      "embarazo_lactancia": "Categoría C en el embarazo; utilizar solo si el beneficio supera los riesgos. Se excreta en leche materna.",
+      "ajustes": {
+        "renal": "Ajuste estricto reduciendo la dosis y espaciando los intervalos según la tasa de filtración glomerular y peso corporal.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Incompatibilidad farmacocinética severa con ácido valproico; ganciclovir aumenta el riesgo de convulsiones generalizadas.",
+      "reacciones_adversas": "Flebitis en la vía IV; náuseas; vómitos; diarrea; erupción cutánea; convulsiones; micosis secundarias; elevación de transaminasas.",
+      "toxicidad_sobredosis": "Convulsiones, mioclonías, hipotensión y confusión mental.",
+      "antidotos": "Tratamiento de soporte, anticonvulsivantes (benzodiacepinas) y hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la actividad motora central, signos de convulsiones, sitio de vía venosa y velocidad de goteo.",
+        "laboratorio": "Función renal, hemograma y pruebas de función hepática."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal, peso corporal, antecedentes de epilepsia o traumatismo encefálico.",
+        "durante": "Monitorear náuseas durante la infusión (indican velocidad muy rápida) y movimientos involuntarios.",
+        "despues": "Valorar el control de la infección severa."
+      },
+      "presentaciones": "Frasco ampolla inyectable de 500 mg (500 mg imipenem / 500 mg cilastatina).",
+      "dosis": {
+        "adultos": "500 mg cada 6 horas o 1000 mg cada 8 horas IV por infusión (dosis máxima 50 mg/kg/día o 4 g/día).",
+        "pediatrico": "15 mg/kg a 25 mg/kg cada 6 horas IV en niños mayores de 3 meses.",
+        "geriatrico": "Ajustar la dosis rigurosamente según el clearance de creatinina y peso."
+      },
+      "vias_administracion": "Intravenosa e intramuscular.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla y diluir en 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en 20 a 30 minutos para dosis de 250-500 mg, y en 40 a 60 minutos para dosis de 1000 mg.",
+      "estabilidad_soluciones": "Estable durante 4 horas a temperatura ambiente o 24 horas bajo refrigeración (2°C - 8°C) en solución fisiológica.",
+      "concentracion": "5 mg/ml (concentración máxima recomendada para infusión IV).",
+      "alarma_riesgo": "Alto riesgo de inducir convulsiones si se administra en infusión rápida o sin ajuste renal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir a la velocidad indicada; si el paciente manifiesta náuseas, ralentizar el goteo de la infusión.;",
+          "Asegurar el ajuste de la dosis según la función renal y el peso corporal para evitar convulsiones.;",
+          "No administrar simultáneamente con ganciclovir ni ácido valproico.;"
+        ],
+        "educacion_paciente": [
+          "Informar que el medicamento se administra por vía intravenosa de manera lenta.;",
+          "Avisar de inmediato si siente náuseas, mareos, temblores o contracciones musculares involuntarias.;",
+          "Notificar al personal de enfermería si presenta picazón o enrojecimiento en la piel."
+        ]
+      }
     }
   ]
 }
