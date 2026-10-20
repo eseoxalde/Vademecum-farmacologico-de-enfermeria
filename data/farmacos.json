@@ -11716,6 +11716,73 @@
           "Advertir sobre la posibilidad de presentar fiebre o erupciones cutáneas días después del tratamiento.;"
         ]
       }
+    },
+    {
+      "id": "151",
+      "nombre_generico": "Carbón Activado",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Carbón activado",
+        "clasificacion": "Antídoto, adsorbente gastrointestinal",
+        "efecto_terapeutica": "Inhibe la absorción sistémica de tóxicos y fármacos mediante su adsorción directa en el tubo digestivo",
+        "mecanismo_accion": "Su gran superficie porosa y capacidad de adsorción se une físicamente a las moléculas tóxicas presentes en el tracto gastrointestinal, impidiendo su entrada a la circulación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "No se absorbe en el tracto gastrointestinal",
+        "distribucion": "Permanencia exclusiva en la luz del tubo digestivo",
+        "metabolismo": "No sufre metabolismo biológico",
+        "eliminacion": "Excreción fecal completa transformando las heces en color negro"
+      },
+      "indicaciones": "Tratamiento de la intoxicación aguda por ingestión de medicamentos y tóxicos absorbiles.",
+      "contraindicaciones": "Vía aérea no protegida; alteración del nivel de conciencia sin intubación previa; perforación u obstrucción intestinal; ingestión de cáusticos o hidrocarburos.",
+      "precauciones": "Riesgo severo de neumonitis química y asfixia en caso de broncoaspiración.",
+      "advertencias": "Poco o nada efectivo en intoxicaciones por alcoholes, litio, hierro, potasio, ácidos y álcalis fuertes.",
+      "embarazo_lactancia": "Seguro durante el embarazo y la lactancia por no absorberse a nivel sistémico.",
+      "ajustes": {
+        "renal": "No requiere ajustes de dosis.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Inactiva la eficacia de otros medicamentos orales administrados simultáneamente; no administrar junto con jarabe de ipecacuana.",
+      "reacciones_adversas": "Constipación; heces de color negro; vómitos; plenitud gástrica; obstrucción intestinal en dosis múltiples.",
+      "toxicidad_sobredosis": "Obstrucción intestinal o formación de bezoares gástricos.",
+      "antidotos": "Administración de catárticos salinos o irrigación intestinal si hay obstrucción.",
+      "monitorizacion": {
+        "clinica": "Control estricto del estado de conciencia, ruidos hidroaéreos y reflejos de protección de la vía aérea.",
+        "laboratorio": "No requiere monitorización analítica del fármaco."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar la protección de la vía aérea y auscultar ruidos intestinales.",
+        "durante": "Monitorear que no se presenten vómitos o signos de regurgitación durante la administración.",
+        "despues": "Valorar la evacuación intestinal y el color de las deposiciones."
+      },
+      "presentaciones": "Polvo para suspensión oral en frascos de 25 g, 50 g o frascos listos para usar.",
+      "dosis": {
+        "adultos": "50 g a 100 g administrados en dosis única lo antes posible (idealmente en la primera hora post-ingesta).",
+        "pediatrico": "1 g/kg de peso corporal (aproximadamente 10 g a 25 g en niños) por vía oral o sonda nasogástrica.",
+        "geriatrico": "50 g en dosis única asegurando la ausencia de íleo o riesgo de aspiración."
+      },
+      "vias_administracion": "Vía oral o por sonda nasogástrica.",
+      "preparacion": {
+        "dilucion": "Suspender el polvo en agua en una proporción de 1 g de carbón por cada 4 a 8 ml de agua.",
+        "compatibilidad_iv": "Incompatible por vía parenteral; contraindicado su uso IV."
+      },
+      "velocidad_infusion": "Administración oral o enteral en pocos minutos según tolerancia.",
+      "estabilidad_soluciones": "Utilizar la suspensión inmediatamente después de su preparación.",
+      "concentracion": "Polvo puro al 100% para reconstitución.",
+      "alarma_riesgo": "Riesgo de broncoaspiración masiva si se administra en pacientes con somnolencia o convulsiones sin intubación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar la colocación correcta de la sonda nasogástrica y la presencia de ruidos intestinales antes de administrar.;",
+          "Posicionar al paciente en fowler o decúbito lateral para prevenir aspiración si presenta emesis.;",
+          "Registrar la hora exacta de la ingesta del tóxico y de la administración del carbón activado.;"
+        ],
+        "educacion_paciente": [
+          "Informar al paciente que las deposiciones serán de color negro intenso durante los próximos días.;",
+          "Explicar la necesidad de ingerir el preparado para atrapar la sustancia tóxica en el estómago.;",
+          "Instruir sobre la importancia de avisar inmediatamente si siente náuseas intensas o dificultad para respirar.;"
+        ]
+      }
     }
   ]
 }
