@@ -12252,6 +12252,73 @@
           "Advertir que debe suspender la medicación y consultar ante la presencia de palpitaciones o mareos.;"
         ]
       }
+    },
+    {
+      "id": "159",
+      "nombre_generico": "Claritromicina",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Claritromicina",
+        "clasificacion": "Antibiótico, macrólido",
+        "efecto_terapeutica": "Bactericida y bacterostático de amplio espectro sobre gérmenes respiratorios y gérmenes atípicos",
+        "mecanismo_accion": "Se une a la subunidad 50S del ribosoma bacteriano inhibiendo la síntesis proteica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral; sufre metabolismo de primer paso produciendo un metabolito activo (14-hidroxi-claritromicina)",
+        "distribucion": "Alta penetración tisular en tejido pulmonar, amígdalas y mucosa bronquial",
+        "metabolismo": "Hepático extenso por el sistema CYP3A4",
+        "eliminacion": "Renal y biliar en forma de metabolitos y fármaco inalterado"
+      },
+      "indicaciones": "Infecciones del tracto respiratorio superior e inferior, otitis media, infecciones de piel, erradicación de Helicobacter pylori e infecciones por micobacterias.",
+      "contraindicaciones": "Hipersensibilidad a macrólidos; administración concomitante con cisaprida, pimozida, ergotamínicos o estatinas metabolizadas por CYP3A4.",
+      "precauciones": "Prolongación del intervalo QT; miastenia gravis; insuficiencia renal o hepática.",
+      "advertencias": "Riesgo de hepatotoxicidad e ictericia colestásica; precaución en pacientes con cardiopatía isquémica.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo-beneficio. Se excreta en la leche materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% o espaciar intervalos si el clearance de creatinina es menor a 30 ml/min.",
+        "hepatico": "Precaución en insuficiencia hepática; no requiere ajuste si la función renal es normal."
+      },
+      "interacciones": "Inhibidor potente de CYP3A4; eleva significativamente niveles de carbamazepina, ciclosporina, teofilina, digoxina y anticoagulantes.",
+      "reacciones_adversas": "Disgeusia (sabor metálico en la boca); náuseas; dispepsia; diarrea; cefalea; elevación transitoria de enzimas hepáticas.",
+      "toxicidad_sobredosis": "Síntomas gastrointestinales severos y alteración del estado mental.",
+      "antidotos": "Tratamiento de soporte sintomático.",
+      "monitorizacion": {
+        "clinica": "Monitoreo de función hepática, síntomas digestivos y trazado electrocardiográfico en pacientes de riesgo.",
+        "laboratorio": "Enzimas hepáticas y electrocardiograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal, antecedentes cardíacos y la lista de medicamentos concomitantes.",
+        "durante": "Monitorear la tolerancia digestiva y la aparición de ictericia o arritmias.",
+        "despues": "Verificar el control de la infección."
+      },
+      "presentaciones": "Comprimidos de 500 mg; suspensión oral de 250 mg/5 ml; frasco ampolla inyectable de 500 mg.",
+      "dosis": {
+        "adultos": "250 mg a 500 mg cada 12 horas por vía oral o IV según la severidad.",
+        "pediatrico": "7,5 mg/kg a 15 mg/kg cada 12 horas por vía oral.",
+        "geriatrico": "Ajustar dosis según la función renal estimada."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla y diluir en 250 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 60 minutos.",
+      "estabilidad_soluciones": "Usar dentro de las 24 horas a temperatura ambiente.",
+      "concentracion": "2 mg/ml en la solución diluida para infusión.",
+      "alarma_riesgo": "Riesgo grave de interacción farmacológica tóxica y arritmias ventriculares.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar interacciones medicamentosas antes de iniciar la administración.;",
+          "Infundir por vía IV en no menos de 60 minutos para evitar flebitis.;",
+          "Controlar periódicamente la función hepática en tratamientos prolongados.;"
+        ],
+        "educacion_paciente": [
+          "Advertir que es frecuente sentir un sabor metálico en la boca durante el tratamiento.;",
+          "Recomendar tomar los comprimidos con alimentos si presenta molestias gástricas.;",
+          "Instruir que informe de inmediato si presenta palpitaciones, dolor abdominal o tinte amarillo en piel.;"
+        ]
+      }
     }
   ]
 }
