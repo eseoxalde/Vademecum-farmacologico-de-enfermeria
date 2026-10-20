@@ -18349,6 +18349,73 @@
           "Notificar la presencia de moratones espontáneos, puntos rojos en la piel o hemorragias."
         ]
       }
+    },
+    {
+      "id": "250",
+      "nombre_generico": "Etopósido",
+      "letra": "E",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Etopósido (VP-16)",
+        "clasificacion": "Antineoplásico, inhibidor de la topoisomerasa II (derivado de la podofilotoxina)",
+        "efecto_terapeutica": "Citotóxico de fase S y G2 específica del ciclo celular amplio en tumores sólidos y hematológicos",
+        "mecanismo_accion": "Forma un complejo terciario con la topoisomerasa II y el ADN, impidiendo el resellado de las hebras de ADN produciendo roturas de doble cadena e interrumpiendo la división celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral variable y dosis-dependiente (biodisponibilidad media del 50%); administración habitual IV",
+        "distribucion": "Alta unión a proteínas plasmáticas (96%); baja penetración a través de la BHE en condiciones normales",
+        "metabolismo": "Hepático por la isoenzima CYP3A4 a glucurónidos y derivados inactivos",
+        "eliminacion": "Excreción renal principal (40-50% inalterado y metabolitos) y biliar/fecal (30%)"
+      },
+      "indicaciones": "Cáncer de pulmón microcítico (de células pequeñas), carcinoma testicular, linfoma de Hodgkin y no Hodgkin, leucemias agudas, coriocarcinoma y sarcomas.",
+      "contraindicaciones": "Hipersensibilidad al etopósido o a los polisorbatos; mielosupresión grave; insuficiencia hepática o renal severa; embarazo y lactancia.",
+      "precauciones": "Riesgo de hipotensión severa si se infunde rápidamente; reacciones anafilactoides (por el vehículo polisorbato 80); mielosupresión; riesgo de leucemia mieloide secundaria.",
+      "advertencias": "No administrar en bolo IV rápido por riesgo de hipotensión grave y colapso cardiovascular.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 75% si el clearance es de 15 a 50 ml/min; reducir al 50% si es < 15 ml/min.",
+        "hepatico": "Reducir la dosis si existe disfunción hepática grave o hiperbilirrubinemia."
+      },
+      "interacciones": "Aumento del riesgo de mielosupresión con otros citotóxicos; la ciclosporina eleva significativamente sus concentraciones plasmáticas y toxicidad.",
+      "reacciones_adversas": "Mielosupresión (neutropenia limitante); alopecia; náuseas; vómitos; hipotensión (por infusión rápida); mucositis; neuropatía periférica leve; anafilaxia.",
+      "toxicidad_sobredosis": "Mielosupresión severa, mucositis ulcerosa y toxicidad hepático-renal.",
+      "antidotos": "Tratamiento de soporte, antihistamínicos/corticoides en reacciones de infusión y factores hematopoyéticos.",
+      "monitorizacion": {
+        "clinica": "Control de presión arterial durante la infusión, signos de anafilaxia, temperatura corporal y mucosas.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, clearance de creatinina y transaminasas."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la concentración de la solución diluida para prevenir la precipitación del fármaco y tomar la PA basal.",
+        "durante": "Monitorear la PA cada 15 minutos durante la infusión IV de no menos de 30 a 60 minutos.",
+        "despues": "Valorar el nadir leucocitario a los 10-14 días post-tratamiento."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg/5 ml de solución inyectable concentrada; cápsulas de 50 mg y 100 mg.",
+      "dosis": {
+        "adultos": "50 mg/m² a 100 mg/m²/día IV los días 1 a 5 cada 3 a 4 semanas (o 100 mg/m² los días 1, 3 y 5).",
+        "pediatrico": "60 mg/m² a 120 mg/m²/día IV por 3 a 5 días en protocolos hemato-oncológicos pediátricos.",
+        "geriatrico": "Ajustar dosis de acuerdo al clearance de creatinina y tolerancia cardiovascular."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis en solución fisiológica o dextrosa al 5% hasta lograr una concentración final no mayor a 0.4 mg/ml (para evitar precipitación).",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de no menos de 30 a 60 minutos (nunca en bolo rápido).",
+      "estabilidad_soluciones": "Estable durante 24 horas a concentración de 0.2 mg/ml y solo 3 a 4 horas a concentración de 0.4 mg/ml a temperatura ambiente.",
+      "concentracion": "20 mg/ml (concentración del concentrado inyectable original).",
+      "alarma_riesgo": "Riesgo de colapso por hipotensión si se infunde rápido y precipitación en la bolsa si excede la concentración límite.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la solución diluida en un lapso mínimo de 30 a 60 minutos monitoreando la presión arterial.;",
+          "Controlar la concentración final de la dilución (≤ 0.4 mg/ml) para evitar la precipitación de cristales en la bolsa.;",
+          "Ajustar la dosis posológica en presencia de insuficiencia renal por clearance de creatinina.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato durante la inyección si siente mareos, sofocos, sudoración fría o palpitaciones.;",
+          "Notificar al equipo de salud si presenta fiebre, escalofríos, moratones o llagas en la boca.;",
+          "Avisar si nota enrojecimiento o ardor en el sitio de aplicación venosa."
+        ]
+      }
     }
   ]
 }
