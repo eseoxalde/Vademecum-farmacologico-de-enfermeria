@@ -14128,6 +14128,73 @@
           "Avisar de inmediato si siente palpitaciones, dolor en el talón o tono amarillento en los ojos."
         ]
       }
+    },
+    {
+      "id": "187",
+      "nombre_generico": "Ácido Clavulánico (Amoxicilina / Ácido Clavulánico)",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clavulanato de potasio (asociado a Amoxicilina)",
+        "clasificacion": "Inhibidor de betalactamasas suicida (mecanismo suicida)",
+        "efecto_terapeutica": "Restaura y amplia el espectro bactericida de la amoxicilina frente a cepas productoras de betalactamasas",
+        "mecanismo_accion": "Se une irreversiblemente al sitio activo de las enzimas betalactamasas (clase A de Ambler), inaktivándolas y protegiendo a la amoxicilina de su degradación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral; se optimiza administrándose al comienzo de las comidas",
+        "distribucion": "Amplia distribución en tejidos corporales, oído medio, secreciones bronquiales y peritoneal; baja penetración al LCR",
+        "metabolismo": "Hepático extenso (a diferencia de la amoxicilina)",
+        "eliminacion": "Excreción renal (40-50%), fecal y pulmonar"
+      },
+      "indicaciones": "Infecciones respiratorias superiores e inferiores, otitis media aguda, sinusitis, infecciones urinarias, de piel y tejidos blandos, e infecciones odontológicas por microorganismos resistentes a amoxicilina sola.",
+      "contraindicaciones": "Antecedentes de ictericia colestásica o disfunción hepática asociada a amoxicilina/ácido clavulánico; alergia grave a betalactámicos.",
+      "precauciones": "Riesgo de hepatotoxicidad (mayor que con amoxicilina sola); ajustar dosis en insuficiencia renal severa.",
+      "advertencias": "El ácido clavulánico es el principal responsable de la diarrea y hepatotoxicidad colestásica asociadas a esta combinación.",
+      "embarazo_lactancia": "Categoría B en el embarazo; uso aceptado. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "Ajustar según clearance de creatinina; evitar la presentación de 875 mg o 1000 mg si el clearance es menor a 30 ml/min.",
+        "hepatico": "Precaución y monitoreo de la función hepática a intervalos regulares."
+      },
+      "interacciones": "Incrementa el riesgo de erupción cutánea con alopurinol; puede aumentar el efecto de anticoagulantes orales.",
+      "reacciones_adversas": "Diarrea; náuseas; vómitos; dispepsia; candidiasis mucocutánea; ictericia colestásica; elevación de transaminasas.",
+      "toxicidad_sobredosis": "Síntomas gastrointestinales, desequilibrio hidroelectrolítico y cristaluria.",
+      "antidotos": "Tratamiento de soporte e hidratación; la hemodiálisis elimina el compuesto.",
+      "monitorizacion": {
+        "clinica": "Control de la frecuencia y consistencia de las deposiciones, piel e ictericia.",
+        "laboratorio": "Pruebas de función hepática y renal en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar antecedentes de ictericia por este fármaco o alergias a penicilinas.",
+        "durante": "Monitorear la tolerancia digestiva y la coloración de la piel y mucosas.",
+        "despues": "Valorar la resolución completa del proceso infeccioso."
+      },
+      "presentaciones": "Comprimidos de 500/125 mg, 875/125 mg y 1000/62.5 mg; suspensión oral de 250/62.5 mg y 400/57 mg en 5 ml; frasco ampolla IV.",
+      "dosis": {
+        "adultos": "500/125 mg cada 8 horas u 875/125 mg cada 12 horas por vía oral; 1000/200 mg cada 8 horas IV.",
+        "pediatrico": "40 mg/5 mg/kg/día a 80 mg/10 mg/kg/día divididos cada 8 a 12 horas por vía oral.",
+        "geriatrico": "Dosis habitual ajustada según la función renal y monitoreando el perfil hepático."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir la suspensión oral con agua potable; para IV diluir el frasco ampolla en 50 ml a 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (inestable en soluciones glucosadas)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV lenta durante 30 a 40 minutos (o inyección directa en 3 a 5 minutos).",
+      "estabilidad_soluciones": "Usar la solución IV dentro de los 20 minutos de su preparación; la suspensión oral dura 7 días en heladera.",
+      "concentracion": "20 mg/ml (concentración máxima recomendada de la combinación para infusión IV).",
+      "alarma_riesgo": "Riesgo de ictericia colestásica y hepatitis medicamentosa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar las dosis por vía oral al comienzo de las comidas para mejorar la absorción y reducir náuseas.;",
+          "Infundir por vía IV usando únicamente solución fisiológica por su rápida degradación.;",
+          "Vigilar la aparición de ictericia o coluria en pacientes con tratamientos extensos.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos justo al iniciar el almuerzo o cena para evitar molestias estomacales.;",
+          "Guardar la suspensión preparada en la heladera y agitar bien antes de dar la dosis.;",
+          "Consultar al médico si presenta deposiciones líquidas abundantes o tinte amarillo en los ojos."
+        ]
+      }
     }
   ]
 }
