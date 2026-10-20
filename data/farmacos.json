@@ -11180,6 +11180,73 @@
           "Resolver dudas acerca del procedimiento de emergencia realizado.;"
         ]
       }
+    },
+    {
+      "id": "143",
+      "nombre_generico": "Edetato de calcio disódico (EDTA)",
+      "letra": "E",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Edetato cálcico disódico",
+        "clasificacion": "Antídoto, agente quelante de metales pesados",
+        "efecto_terapeutica": "Forma complejos quelatos estables con iones metálicos pesados (principalmente plomo), facilitando su excreción renal",
+        "mecanismo_accion": "El calcio de la molécula es desplazado por iones de plomo y otros metales pesados con mayor afinidad, formando un complejo soluble hidrosoluble que se elimina por la orina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Mala absorción oral; administración exclusiva por vía intravenosa o intramuscular profunda",
+        "distribucion": "Se distribuye en el líquido extracelular y no penetra eficazmente al interior de las células",
+        "metabolismo": "No se metaboliza de forma significativa en el organismo",
+        "eliminacion": "Excreción renal rápida por filtración glomerular en forma de complejo quelado"
+      },
+      "indicaciones": "Tratamiento de la intoxicación aguda y crónica por plomo (saturnismo) y encefalopatía por plomo.",
+      "contraindicaciones": "Anuria; insuficiencia renal aguda; hipersensibilidad al EDTA cálcico.",
+      "precauciones": "Nefrotóxico importante; requiere monitorización estricta de la función renal y diuresis adecuada antes de iniciar la terapia.",
+      "advertencias": "No confundir con el edetato disódico (EDTA sódico), ya que este último puede causar hipocalcemia mortal.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo vital materno ante intoxicaciones severas por plomo.",
+      "ajustes": {
+        "renal": "Contraindicado en insuficiencia renal grave o anuria; requiere reducción drástica de dosis según clearance de creatinina.",
+        "hepatico": "No requiere ajuste específico por ausencia de metabolismo hepático."
+      },
+      "interacciones": "Incompatible en la misma solución con hidralazina, anfotericina B y soluciones de metindol.",
+      "reacciones_adversas": "Nefrotoxicidad; hipotensión arterial; fatiga; calambres musculares; deficiencia transitoria de zinc y hierro; dolor local intramuscular.",
+      "toxicidad_sobredosis": "Insuficiencia renal aguda tubular severa, depleción electrolítica y convulsiones.",
+      "antidotos": "Suspensión inmediata del fármaco, soporte hemodinámico y hemodiálisis si hay fallo renal.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la diuresis horaria, balance hidroelectrolítico y presión arterial.",
+        "laboratorio": "Urea, creatinina sérica, plumbemia, calciuria y análisis de orina completa."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal, diuresis adecuada y niveles de plomo en sangre.",
+        "durante": "Monitorear continuamente el volumen urinario y la presión arterial durante la perfusión.",
+        "despues": "Valorar la excreción urinaria de plomo y la evolución clínica neurológica del paciente."
+      },
+      "presentaciones": "Ampollas de solución inyectable de 1 g/5 ml (200 mg/ml).",
+      "dosis": {
+        "adultos": "Hasta 1 g a 1,5 g diarios disueltos en solución fisiológica o dextrosa al 5%, administrados en infusión intravenosa lenta durante 24 horas.",
+        "pediatrico": "30 mg/kg a 50 mg/kg diarios divididos en dos infusiones intravenosas diarias.",
+        "geriatrico": "Ajustar cuidadosamente la dosis según la función renal estimada por depuración de creatinina."
+      },
+      "vias_administracion": "Infusión intravenosa lenta o intramuscular profunda.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis diaria en 250 ml a 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Infusión intravenosa lenta en un tiempo no menor a 1 hora por cada gramo de fármaco.",
+      "estabilidad_soluciones": "Estable durante 24 horas en soluciones parenterales estándar a temperatura ambiente.",
+      "concentracion": "200 mg/ml en ampolla original.",
+      "alarma_riesgo": "Riesgo elevado de insuficiencia renal aguda y empeoramiento de la encefalopatía por plomo si se administra en bolo rápido.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar una hidratación adecuada y un flujo urinario suficiente antes de iniciar cada infusión del quelante.;",
+          "Controlar la diuresis horaria de manera estricta para detectar precozmente signos de nefrotoxicidad.;",
+          "Vigilar la presión arterial durante la infusión intravenosa para prevenir episodios de hipotensión.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente la importancia de cumplir con el tratamiento de desintoxicación y los controles de laboratorio.;",
+          "Instruir sobre la necesidad de reportar cualquier disminución en la cantidad de orina eliminada.;",
+          "Informar acerca de las medidas de prevención ambiental para evitar nuevas exposiciones al plomo.;"
+        ]
+      }
     }
   ]
 }
