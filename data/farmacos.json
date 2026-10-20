@@ -10912,6 +10912,73 @@
           "Advertir sobre la disminución de los reflejos y evitar la conducción de vehículos si presenta mareos o visión borrosa.;"
         ]
       }
+    },
+    {
+      "id": "139",
+      "nombre_generico": "Pralidoxima",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Cloruro de pralidoxima",
+        "clasificacion": "Antídoto, reactivador de la colinesterasa",
+        "efecto_terapeutica": "Restaura la actividad de la acetilcolinesterasa inhibida por agentes organofosforados",
+        "mecanismo_accion": "Se une covalentemente al organofosforado fosforilado, liberando la enzima acetilcolinesterasa y permitiendo la destrucción de la acetilcolina acumulada en la placa neuromuscular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa o intramuscular",
+        "distribucion": "Se distribuye ampliamente por los líquidos corporales, no penetra de forma efectiva en el sistema nervioso central",
+        "metabolismo": "Hepático parcial",
+        "eliminacion": "Renal rápida principalmente por filtración glomerular"
+      },
+      "indicaciones": "Tratamiento de la intoxicación aguda por plaguicidas organofosforados y compuestos inhibidores de la colinesterasa, en conjunto con atropina.",
+      "contraindicaciones": "Hipersensibilidad al fármaco; intoxicación por carbamatos o insecticidas organoclorados (donde no está indicada).",
+      "precauciones": "Administrar con extrema precaución en insuficiencia renal y en pacientes con miastenia gravis para evitar crisis.",
+      "advertencias": "La administración debe realizarse de forma precoz tras la exposición para garantizar su eficacia terapéutica.",
+      "embarazo_lactancia": "Evaluar riesgo-beneficio vital materno ante situaciones de intoxicación aguda grave. Suspender la lactancia temporalmente.",
+      "ajustes": {
+        "renal": "Reducir la dosis o espaciar los intervalos en caso de insuficiencia renal por disminución de su excreción.",
+        "hepatico": "No requiere ajustes específicos estipulados, pero valorar función hepática global."
+      },
+      "interacciones": "Debe administrarse conjuntamente con atropina. Puede potenciar efectos neuromusculares si se combina con ciertos relajantes.",
+      "reacciones_adversas": "Taquicardia; hipertensión arterial transitoria; visión borrosa; mareos; cefalea; dolor en el sitio de inyección.",
+      "toxicidad_sobredosis": "Visión borrosa, diplopía, debilidad muscular transitoria y taquicardia severa.",
+      "antidotos": "Medidas de soporte vital respiratorio y cardiovascular en caso de sobredosis.",
+      "monitorizacion": {
+        "clinica": "Monitoreo continuo de la función respiratoria, presión arterial, frecuencia cardíaca y signos de neurotoxicidad.",
+        "laboratorio": "Determinación de seudocolinesterasa plasmática y colinesterasa eritrocitaria, gases en sangre y función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar el grado de intoxicación aguda, signos muscarínicos y nicotínicos, y permeabilidad de la vía aérea.",
+        "durante": "Controlar la reversión de la debilidad muscular y la estabilidad hemodinámica durante la infusión.",
+        "despues": "Valorar la persistencia de síntomas para determinar la necesidad de continuar con la perfusión continua."
+      },
+      "presentaciones": "Viales de solución inyectable con concentraciones variables según el laboratorio fabricante.",
+      "dosis": {
+        "adultos": "Dosis inicial de 1 g a 2 g diluidos en solución fisiológica administrados por vía intravenosa en 15 a 30 minutos, pudiendo repetirse según clínica.",
+        "pediatrico": "20 mg/kg a 40 mg/kg de peso diluidos adecuadamente según protocolo toxicológico pediátrico.",
+        "geriatrico": "Ajustar dosis según función renal basal y estado clínico general."
+      },
+      "vias_administracion": "Intravenosa en infusión intermitente o continua; intramuscular profunda.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis indicada en 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% según guías de antídotos."
+      },
+      "velocidad_infusion": "Infusión intravenosa lenta en un período no menor a 15-30 minutos para evitar hipertensión y laringoespasmo.",
+      "estabilidad_soluciones": "Utilizar inmediatamente tras su reconstitución y dilución.",
+      "concentracion": "Concentración máxima variable según presentación institucional disponible en redes de antídotos.",
+      "alarma_riesgo": "Riesgo de paro cardíaco o apnea si se administra en bolo intravenoso rápido.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar soporte respiratorio avanzado y disponibilidad de equipo de aspiración y oxígeno.;",
+          "Administrar atropina previamente o en conjunto según indicación médica estricta antes o durante el uso de la oxima.;",
+          "Controlar estrictamente la presión arterial y la frecuencia cardíaca durante la infusión para detectar hipertensión súbita.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente consciente o a sus familiares el propósito del tratamiento antídoto en el contexto de la urgencia toxicológica.;",
+          "Informar sobre la necesidad de monitorización intensiva prolongada en unidades críticas.;",
+          "Educar sobre las medidas de prevención ante futuras exposiciones a pesticidas agrícolas.;"
+        ]
+      }
     }
   ]
 }
