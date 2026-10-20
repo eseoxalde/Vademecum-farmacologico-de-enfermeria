@@ -18282,6 +18282,73 @@
           "Avisar de inmediato ante fiebre, escalofríos o vómitos persistentes."
         ]
       }
+    },
+    {
+      "id": "249",
+      "nombre_generico": "Topotecán",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de topotecán",
+        "clasificacion": "Antineoplásico, inhibidor de la topoisomerasa I (derivado semisintético de la camptotecina)",
+        "efecto_terapeutica": "Citotóxico de fase S específica activo en tumores ginecológicos y neuroendócrinos",
+        "mecanismo_accion": "Inhibe la enzima topoisomerasa I estabilizando el complejo covalente ADN-topoisomerasa I, impidiendo el relajamiento del ADN y produciendo roturas letales de doble cadena durante la replicación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral moderada (biodisponibilidad del 40%); administración intravenosa preferencial",
+        "distribucion": "Unión moderada a proteínas plasmáticas (35%); atraviesa la barrera hematoencefálica",
+        "metabolismo": "Hidrólisis reversible no enzimática dependiente de pH del anillo de lactona a la forma carboxilato inactiva",
+        "eliminacion": "Excreción renal masiva (30-50% inalterado y metabolitos)"
+      },
+      "indicaciones": "Carcinoma metastásico de ovario tras fracaso de quimioterapia de primera línea, cáncer de pulmón microcítico (células pequeñas) en recaída y cáncer de cérvix recurrente o en estadio IVB (con cisplatino).",
+      "contraindicaciones": "Hipersensibilidad al topotecán; mielosupresión grave preexistente (neutrófilos < 1.500/mm³, plaquetas < 100.000/mm³); embarazo y lactancia.",
+      "precauciones": "Riesgo muy alto de neutropenia febril y trombocitopenia dosis-limitante; neumonitis intersticial; requiere ajuste riguroso en insuficiencia renal.",
+      "advertencias": "La mielosupresión es la principal toxicidad limitante de la dosis; se requiere un monitoreo estrecho del hemograma.",
+      "embarazo_lactancia": "Categoría D en el embarazo; teratogénico y embriotóxico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis a 0.75 mg/m²/día si el clearance de creatinina es de 20 a 39 ml/min; evitar si es < 20 ml/min.",
+        "hepatico": "No suele requerir ajuste salvo en insuficiencia hepática grave."
+      },
+      "interacciones": "Aumento del riesgo de mielosupresión profunda en combinación con otros agentes citotóxicos; inhibidores de P-gp aumentan su exposición oral.",
+      "reacciones_adversas": "Mielosupresión (neutropenia severa, trombocitopenia, anemia); náuseas; vómitos; diarrea; estomatitis; alopecia; astenia; neumonitis intersticial.",
+      "toxicidad_sobredosis": "Aplasia medular irrecuperable, mucositis destructiva y neumonitis agudizada.",
+      "antidotos": "Tratamiento de soporte, factores de estimulación de colonias (G-CSF) y transfusiones sanguíneas.",
+      "monitorizacion": {
+        "clinica": "Control de temperatura corporal, signos de infección, sangrados, mucositis y función respiratoria.",
+        "laboratorio": "Hemograma completo frecuente (diario durante el nadir) y clearance de creatinina previa a cada ciclo."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar función renal (clearance) y recuento de neutrófilos (≥ 1.500/mm³) y plaquetas (≥ 100.000/mm³).",
+        "durante": "Monitorear la infusión IV de 30 minutos.",
+        "despues": "Valorar la aparición del nadir leucocitario alrededor de los días 9 a 12."
+      },
+      "presentaciones": "Frasco ampolla de 1 mg y 4 mg de polvo liofilizado.",
+      "dosis": {
+        "adultos": "1.5 mg/m²/día administrados en infusión IV de 30 minutos durante 5 días consecutivos cada 21 días (o 0.75 mg/m² los días 1 a 3 con cisplatino).",
+        "pediatrico": "1.5 mg/m²/día por 5 días en protocolos hemato-oncológicos específicos.",
+        "geriatrico": "Ajustar dosis obligatoriamente según el clearance de creatinina estimado por la edad."
+      },
+      "vias_administracion": "Intravenosa en infusión (y vía oral en presentaciones en cápsulas).",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril y diluir en 50 ml a 250 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o refrigerado (2°C - 8°C).",
+      "concentracion": "1 mg/ml (concentración de la solución reconstituida inicial).",
+      "alarma_riesgo": "Riesgo elevado de neutropenia febril grave y pancitopenia sin ajuste renal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Ajustar la dosis posológica según el clearance de creatinina calculado antes de cada ciclo.;",
+          "Controlar el hemograma frecuentemente durante los días posteriores a la pauta de 5 días.;",
+          "Vigilar la aparición de tos seca o disnea que sugieran neumonitis intersticial.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que la medicación se aplica por vía intravenosa durante 5 días seguidos cada 3 semanas.;",
+          "Avisar inmediatamente al equipo médico si presenta fiebre alta, escalofríos o dolor de garganta.;",
+          "Notificar la presencia de moratones espontáneos, puntos rojos en la piel o hemorragias."
+        ]
+      }
     }
   ]
 }
