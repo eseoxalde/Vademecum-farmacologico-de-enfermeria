@@ -14329,6 +14329,73 @@
           "Avisar al personal de salud si presenta dolor abdominal intenso o tinte amarillo en los ojos.;"
         ]
       }
+    },
+    {
+      "id": "190",
+      "nombre_generico": "Gentamicina",
+      "letra": "G",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de gentamicina",
+        "clasificacion": "Antibiótico, aminoglucósido",
+        "efecto_terapeutica": "Bactericida sobre bacterias gramnegativas aeróbicas y sinergia sobre cocos grampositivos",
+        "mecanismo_accion": "Inhibe la síntesis proteica bacteriana al unirse irreversiblemente a la subunidad 30S del ribosoma, causando lectura errónea del código genético"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral directa por vía IV o IM con disponibilidad completa",
+        "distribucion": "Distribución preferente en líquido extracelular; baja penetración ocular y en barrera hematoencefálica",
+        "metabolismo": "No se metaboliza en el organismo",
+        "eliminacion": "Excreción renal inalterada (> 90%) por filtración glomerular"
+      },
+      "indicaciones": "Infecciones graves por bacilos gramnegativos, endocarditis bacteriana (en combinación con penicilinas), sepsis, pielonefritis e infecciones intraabdominales.",
+      "contraindicaciones": "Hipersensibilidad a la gentamicina u otros aminoglucósidos; miastenia gravis.",
+      "precauciones": "Insuficiencia renal; trastornos auditivos o vestibulares; deshidratación; ancianos.",
+      "advertencias": "Riesgo elevado de ototoxicidad vestibular/auditiva e insuficiencia renal por necrosis tubular aguda.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de sordera congénita en el feto. Usar con precaución en la lactancia.",
+      "ajustes": {
+        "renal": "Ajustar dosis o espaciar intervalos (cada 24 a 48 horas) de acuerdo al clearance de creatinina y dosaje sérico.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Sinergismo de nefro/ototoxicidad con vancomicina, furosemida, colistina y anfotericina B; potencia bloqueantes neuromusculares.",
+      "reacciones_adversas": "Ototoxicidad (vértigo, ataxia, tinnitus, sordera); nefrotoxicidad; bloqueo neuromuscular; erupción cutánea.",
+      "toxicidad_sobredosis": "Depresión respiratoria por bloqueo neuromuscular y fallo renal agudo.",
+      "antidotos": "Gluconato de calcio IV o neostigmina; hemodiálisis para depuración plasmática.",
+      "monitorizacion": {
+        "clinica": "Control de diuresis, función vestibular (equilibrio), audición y función respiratoria.",
+        "laboratorio": "Urea, creatinina sérica, clearance de creatinina y niveles plasmáticos (pico y valle)."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal, equilibrio y audición del paciente.",
+        "durante": "Monitorear la aparición de mareos, inestabilidad al marchar o reducción en la orina.",
+        "despues": "Valorar la remisión de la infección y la función renal posterior."
+      },
+      "presentaciones": "Ampollas de 20 mg/2 ml, 80 mg/2 ml y 160 mg/2 ml.",
+      "dosis": {
+        "adultos": "3 mg/kg a 5 mg/kg/día IV o IM en dosis única diaria o dividida cada 8 horas.",
+        "pediatrico": "5 mg/kg a 7,5 mg/kg/día IV divididos cada 8 horas (o 5 mg/kg dosis única diaria).",
+        "geriatrico": "Ajustar la dosis rigurosamente según la función renal calculada."
+      },
+      "vias_administracion": "Intravenosa e intramuscular.",
+      "preparacion": {
+        "dilucion": "Diluir la ampolla en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar la infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "1 mg/ml (concentración habitual recomendada para infusión).",
+      "alarma_riesgo": "Riesgo de daño vestibular e hipoacusia irrecuperable por niveles tóxicos en sangre.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar por infusión IV lenta en no menos de 30 a 60 minutos.;",
+          "Verificar la volemia e hidratación adecuada del paciente antes de la dosis.;",
+          "Tomar muestra de sangre para nivel de valle 30 minutos antes de la siguiente dosis.;"
+        ],
+        "educacion_paciente": [
+          "Explicar la función del tratamiento antibiótico hospitalario.;",
+          "Avisar de inmediato si siente zumbidos en los oídos, mareos o inestabilidad al caminar.;",
+          "Informar si nota una disminución significativa en la cantidad de orina."
+        ]
+      }
     }
   ]
 }
