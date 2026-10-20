@@ -13056,6 +13056,73 @@
           "Informar que la coloración amarillenta en los ojos con atazanavir es común y generalmente inofensiva.;"
         ]
       }
+    },
+    {
+      "id": "171",
+      "nombre_generico": "Aciclovir",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Aciclovir",
+        "clasificacion": "Antiviral, análogo nucleósido de la guanosina",
+        "efecto_terapeutica": "Inhibe la replicación de los virus del herpes simplex (VHS-1 y VHS-2) y del virus varicela-zóster (VVZ)",
+        "mecanismo_accion": "Es convertido por la timidina quinasa viral a aciclovir monofosfato y luego a trifosfato, el cual inhibe competitivamente la ADN polimerasa viral e interrumpe la síntesis del ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Baja biodisponibilidad oral (15% a 30%); administración IV con biodisponibilidad inmediata y completa",
+        "distribucion": "Amplia distribución en tejidos y fluidos corporales, incluyendo el líquido cefalorraquídeo",
+        "metabolismo": "Metabolismo hepático insignificante (menos del 15%)",
+        "eliminacion": "Excreción renal por filtración glomerular y secreción tubular (60-91% inalterado)"
+      },
+      "indicaciones": "Tratamiento de infecciones por virus herpes simplex (mucocutáneo y genital), encefalitis herpética, varicela y herpes zóster.",
+      "contraindicaciones": "Hipersensibilidad al aciclovir, valaciclovir o a cualquiera de los componentes de la fórmula.",
+      "precauciones": "Riesgo de nefrotoxicidad por cristalización renal si no se asegura una hidratación adecuada o si se administra por vía IV rápida.",
+      "advertencias": "Pueden presentarse alteraciones neurotóxicas (letargo, confusión, alucinaciones) especialmente en falla renal o ancianos.",
+      "embarazo_lactancia": "Uso seguro y aceptado en el embarazo (Categoría B). Se excreta en la leche materna pero es compatible con la lactancia.",
+      "ajustes": {
+        "renal": "Disminuir la dosis y espaciar los intervalos según el clearance de creatinina (ajuste estricto si es menor a 50 ml/min).",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El probenecid disminuye la secreción tubular de aciclovir; aumenta la neurotoxicidad y nefrotoxicidad con otros fármacos renales o nefrotóxicos.",
+      "reacciones_adversas": "Flebitis en el sitio de inyección IV; náuseas; vómitos; cefalea; elevación transitoria de urea/creatinina; alucinaciones; somnolencia.",
+      "toxicidad_sobredosis": "Insuficiencia renal aguda por cristaluria, convulsiones, coma y agitación.",
+      "antidotos": "Tratamiento de soporte e hidratación parenteral; la hemodiálisis remueve eficientemente el aciclovir.",
+      "monitorizacion": {
+        "clinica": "Monitoreo de la función renal, diuresis, sitio de punción venosa y estado neurológico.",
+        "laboratorio": "Urea, creatinina sérica y análisis de orina completa."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal y asegurar un buen estado de hidratación en el paciente.",
+        "durante": "Monitorear el ritmo diurético y la presencia de temblores o confusión durante la infusión IV.",
+        "despues": "Valorar la cicatrización de las lesiones herpéticas y la recuperación renal."
+      },
+      "presentaciones": "Comprimidos de 200 mg, 400 mg y 800 mg; frasco ampolla inyectable de 250 mg y 500 mg; crema al 5%.",
+      "dosis": {
+        "adultos": "Oral: 200 mg a 800 mg cada 4 a 5 horas; IV: 5 mg/kg a 10 mg/kg cada 8 horas (hasta 15 mg/kg cada 8 horas en encefalitis).",
+        "pediatrico": "IV: 250 mg/m² a 500 mg/m² de superficie corporal cada 8 horas según la gravedad del cuadro.",
+        "geriatrico": "Ajustar la dosis cuidadosamente según la función renal y mantener una hidratación adecuada."
+      },
+      "vias_administracion": "Vía oral, intravenosa y tópica.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con agua estéril y diluir en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período no menor a 60 minutos (nunca en bolo).",
+      "estabilidad_soluciones": "Utilizar dentro de las 12 horas a temperatura ambiente; no refrigerar la solución diluida porque precipita.",
+      "concentracion": "7 mg/ml (concentración máxima recomendada para la infusión IV).",
+      "alarma_riesgo": "Riesgo de insuficiencia renal aguda por cristaluria si se administra en bolo o con baja hidratación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía intravenosa de manera lenta en no menos de 1 hora para evitar la precipitación renal.;",
+          "Garantizar un flujo urinario abundante mediante hidratación previa y posterior a la infusión.;",
+          "No refrigerar la solución reconstituida para evitar la formación de cristales.;"
+        ],
+        "educacion_paciente": [
+          "Beber abundante cantidad de agua durante todo el tratamiento para proteger los riñones.;",
+          "Completar el esquema y horario prescrito para evitar recaídas en las lesiones herpéticas.;",
+          "Informar de inmediato si nota cambios en la cantidad de orina, mareos o alucinaciones.;"
+        ]
+      }
     }
   ]
 }
