@@ -18215,6 +18215,73 @@
           "Consultar de urgencia si la diarrea persiste por más de 24 horas o presenta fiebre."
         ]
       }
+    },
+    {
+      "id": "248",
+      "nombre_generico": "Irinotecán Liposomal",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de irinotecán trihidrato liposomal",
+        "clasificacion": "Antineoplásico, inhibidor de la topoisomerasa I encapsulado en liposomas",
+        "efecto_terapeutica": "Liberación prolongada de SN-38 con mayor acumulación tumoral y menor exposición sistémica pico",
+        "mecanismo_accion": "Encapsulado en vesículas lipidicas que prolongan la circulación plasmática y aumentan la retención intratumoral del fármaco, donde se convierte en SN-38 activo"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución reducido; permanencia prolongada en el espacio vascular y endotelio tumoral permeable",
+        "metabolismo": "Liberación progresiva del irinotecán libre y conversión tisular/hepática por carboxilesterasas a SN-38",
+        "eliminacion": "Aclaramiento plasmático significativamente más lento que el irinotecán convencional"
+      },
+      "indicaciones": "Tratamiento del adenocarcinoma metastásico de páncreas en combinación con 5-fluorouracilo y leucovorina en pacientes con progresión tras terapia basada en gemcitabina.",
+      "contraindicaciones": "Hipersensibilidad al irinotecán liposomal o sus componentes; reacción anafiláctica previa al irinotecán convencional; embarazo y lactancia.",
+      "precauciones": "No es intercambiable con las formulaciones no liposomales de irinotecán (dosis y parámetros farmacocinéticos distintos); riesgo de mielosupresión grave y diarrea tardía.",
+      "advertencias": "Requiere un cálculo preciso de la dosis (expresada en base libre o sal según el producto comercial) y premedicación antiemética y colinérgica.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No se recomienda su uso en insuficiencia renal severa por falta de datos.",
+        "hepatico": "No se recomienda si la bilirrubina sérica supera el límite normal superior."
+      },
+      "interacciones": "Evitar la coadministración con inductores potentes de CYP3A4 (disminuyen el SN-38) o inhibidores de CYP3A4/UGT1A1 (aumentan la toxicidad grave).",
+      "reacciones_adversas": "Neutropenia; diarrea tardía; náuseas; vómitos; disminución del apetito; astenia; estomatitis; reacción infusional; síndrome colinérgico.",
+      "toxicidad_sobredosis": "Diarrea severa e incontrolable, deshidratación y neutropenia febril grave.",
+      "antidotos": "Atropina para síntomas colinérgicos agudos, loperamida a dosis altas e hidratación parenteral intensiva.",
+      "monitorizacion": {
+        "clinica": "Control de diarrea temprana y tardía, hidratación, temperatura, signos de neutropenia y reacción a la infusión.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, bilirrubina total, transaminasas y creatinina."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la dosis exacta en miligramos de la sal o base libre y asegurar que el paciente no tenga bilirrubina elevada.",
+        "durante": "Infundir durante 90 minutos controlando signos de reacción anafilactoide o colinérgica.",
+        "despues": "Instruir al paciente sobre la terapia domiciliaria con loperamida para la diarrea."
+      },
+      "presentaciones": "Frasco ampolla de 43 mg/10 ml de concentración liposomal.",
+      "dosis": {
+        "adultos": "70 mg/m² (equivalente a 80 mg/m² de la sal trihidrato) IV cada 2 semanas seguido de leucovorina y 5-FU.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Reducir la dosis inicial a 50 mg/m² en mayores de 65 años o homocigotos para UGT1A1*28."
+      },
+      "vias_administracion": "Intravenosa en infusión (prohibido intercambiar con irinotecán no liposomal).",
+      "preparacion": {
+        "dilucion": "Diluir la dosis requerida exclusivamente en dextrosa al 5% o solución fisiológica hasta un volumen final de 500 ml.",
+        "compatibilidad_iv": "Compatible con dextrosa al 5% y solución fisiológica (no usar filtros de poro menor a 1.2 micras si causan retención)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua en un período de 90 minutos.",
+      "estabilidad_soluciones": "Estable durante 4 horas a temperatura ambiente o 24 horas bajo refrigeración (2°C - 8°C).",
+      "concentracion": "4.3 mg/ml (concentración de la suspensión concentrada original).",
+      "alarma_riesgo": "Error de sustitución con irinotecán no liposomal resultando en sobredosificación o subdosificación grave.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar dos veces la indicación médica para evitar la confusión con irinotecán convencional.;",
+          "Premedicar con atropina si el paciente presenta historia de reacción colinérgica agudas.;",
+          "Monitorear activamente el número de deposiciones y prescribir loperamida domiciliaria.;"
+        ],
+        "educacion_paciente": [
+          "Comprender que esta formulación liposomal no se administra a la misma dosis que el irinotecán estándar.;",
+          "Iniciar loperamida oral al primer signo de diarrea blanda o líquida e informar al hospital.;",
+          "Avisar de inmediato ante fiebre, escalofríos o vómitos persistentes."
+        ]
+      }
     }
   ]
 }
