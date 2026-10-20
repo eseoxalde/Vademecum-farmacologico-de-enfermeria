@@ -18014,6 +18014,73 @@
           "Avisar si la piel previamente irradiada se pone roja o inflamada."
         ]
       }
+    },
+    {
+      "id": "245",
+      "nombre_generico": "Mitomicina C",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Mitomicina C",
+        "clasificacion": "Antineoplásico, antibiótico alquilante (derivado de Streptomyces caespitosus)",
+        "efecto_terapeutica": "Citotóxico amplio no específico del ciclo celular que actúa de forma similar a los agentes alquilantes",
+        "mecanismo_accion": "Tras su activación metabólica intracelular, actúa como un agente alquilante bifuncional formando enlaces cruzados con el ADN e inhibiendo su síntesis y replicación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva (IV, intravesical, intraarterial)",
+        "distribucion": "Aclaramiento vascular rápido; baja penetración en LCR",
+        "metabolismo": "Hepático y tisular extenso a través de sistemas enzimáticos reductores a metabolitos inactivos",
+        "eliminacion": "Excreción renal en menor proporción (10-20% inalterado) y metabólica principal"
+      },
+      "indicaciones": "Carcinoma gástrico, pancreático, de mama, anal, de cabeza y cuello, de vejiga (instilación intravesical) y carcinoma de cérvix.",
+      "contraindicaciones": "Hipersensibilidad a la mitomicina; trombocitopenia o coagulopatía grave; insuficiencia renal severa; embarazo y lactancia.",
+      "precauciones": "Mielosupresión acumulativa y tardía (nadir de plaquetas y leucocitos a las 4 a 8 semanas); síndrome urémico hemolítico (SUH) y falla renal; vesicante tisular potente en extravasación.",
+      "advertencias": "Riesgo de microangiopatía trombótica / síndrome urémico hemolítico (SUH) potencialmente mortal en dosis acumulativas > 40-60 mg/m².",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Contraindicado si la creatinina es mayor a 2 mg/dl o si el clearance es < 30 ml/min.",
+        "hepatico": "Reducir la dosis en caso de disfunción hepática grave."
+      },
+      "interacciones": "Aumento del riesgo de toxicidad pulmonar con alcaloides de la vinca; potencializa la nefrotoxicidad en combinación con otros antineoplásicos.",
+      "reacciones_adversas": "Mielosupresión tardía (trombocitopenia y leucopenia severe a las 4-8 semanas); necrosis local por extravasación; toxicidad renal (SUH); toxicidad pulmonar; náuseas; alopecia; cistitis (vía intravesical).",
+      "toxicidad_sobredosis": "Aplasia medular tardía irrecuperable, insuficiencia renal anúrica por SUH y fibrosis pulmonar.",
+      "antidotos": "Tratamiento de soporte, plasmaféresis/eAculizumab para el SUH y dimetilsulfóxido (DMSO) tópico con compresas frías en extravasación.",
+      "monitorizacion": {
+        "clinica": "Control de signos de sangrado (petequias), diuresis, función respiratoria, sitio venoso e integridad cutánea.",
+        "laboratorio": "Hemograma completo semanal por 8 semanas post-ciclo, frotis de sangre periférica (esquistocitos para SUH), creatinina y proteinuria."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal y el recuento de plaquetas; registrar la dosis acumulativa total del paciente.",
+        "durante": "Monitorear la infusión IV asegurando un flujo libre venoso.",
+        "despues": "Seguir el hemograma y la función renal varias semanas después del tratamiento."
+      },
+      "presentaciones": "Frasco ampolla de 5 mg, 10 mg y 20 mg de polvo liofilizado.",
+      "dosis": {
+        "adultos": "10 mg/m² a 20 mg/m² IV cada 6 a 8 semanas en dosis única; Instilación intravesical: 20 mg a 40 mg semanales.",
+        "pediatrico": "Uso bajo protocolos hemato-oncológicos específicos por superficie corporal.",
+        "geriatrico": "Ajustar dosis según la función renal y tolerancia hematológica."
+      },
+      "vias_administracion": "Intravenosa e intravesical.",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril o solución fisiológica y diluir en 50 ml a 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica (inestable en soluciones ácidas o con dextrosa al 5%)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 15 a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente protegida de la luz.",
+      "concentracion": "0.5 mg/ml (concentración tras la reconstitución inicial).",
+      "alarma_riesgo": "Riesgo de síndrome urémico hemolítico mortal, extravasación vesicante grave y aplasia medular tardía.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir con máxima precaución en una vía venosa permeable por su potente carácter vesicante.;",
+          "Controlar la dosis acumulativa total para no superar los 40-60 mg/m² por riesgo de falla renal/SUH.;",
+          "Llevar un seguimiento semanal del hemograma durante al menos 6 a 8 semanas tras el ciclo.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato si siente dolor, quemazón, ardor o hinchazón en el lugar de la inyección.;",
+          "Informar si nota moratones inusuales, sangrado, disminución en la orina o palidez extrema semanas después.;",
+          "Consultar si presenta dificultad para respirar o tos seca."
+        ]
+      }
     }
   ]
 }
