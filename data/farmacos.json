@@ -14530,6 +14530,73 @@
           "Avisar al personal si presenta fiebre, tos o dificultad para respirar."
         ]
       }
+    },
+    {
+      "id": "193",
+      "nombre_generico": "Colistina",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Colistimetato de sodio (Colistina)",
+        "clasificacion": "Antibiótico, polimixina (Polimixina E)",
+        "efecto_terapeutica": "Bactericida potente de rescate contra bacilos gramnegativos ultrarresistentes (Pseudomonas, Acinetobacter, KPC)",
+        "mecanismo_accion": "Actúa como detergente catiónico alterando la permeabilidad de la membrana citoplasmática bacteriana, causando la pérdida de nutrientes y lisis celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía IV o nebulización (sin absorción sistémica oral)",
+        "distribucion": "Mala penetración en pleura, parénquima pulmonar, hueso y LCR; volumen de distribución moderado",
+        "metabolismo": "El colistimetato de sodio (prodroga) se hidroliza in vivo a colistina activa",
+        "eliminacion": "Excreción renal por filtración glomerular de la prodroga y colistina activa"
+      },
+      "indicaciones": "Infecciones graves por bacilos gramnegativos multirresistentes (Acinetobacter baumannii, Pseudomonas aeruginosa, Klebsiella KPC) neumonía intrahospitalaria y sepsis.",
+      "contraindicaciones": "Hipersensibilidad al colistimetato de sodio o a la polimixina B.",
+      "precauciones": "Insuficiencia renal preexistente; miastenia gravis; riesgo elevado de nefrotoxicidad dependiente de la dosis.",
+      "advertencias": "Fármaco de estrecho margen terapéutico; alta incidencia de nefrotoxicidad y neurotoxicidad reversible.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo vital materno. Se excreta en baja cantidad en leche materna.",
+      "ajustes": {
+        "renal": "Ajuste estricto reduciendo la dosis y/o aumentando los intervalos posológicos según la función renal y diálisis.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Sinergismo de nefrotoxicidad con aminoglucósidos, vancomicina y anfotericina B; potencia bloqueantes neuromusculares.",
+      "reacciones_adversas": "Nefrotoxicidad (necrosis tubular); parestesias peribucales y extremidades; mareos; ataxia; apneas por bloqueo neuromuscular; broncoespasmo (inhalada).",
+      "toxicidad_sobredosis": "Fallo renal agudo, parestesias graves, confusión y paro respiratorio por parálisis muscular.",
+      "antidotos": "Tratamiento de soporte, ventilación mecánica e hidratación; parcialmente removida por hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la diuresis horaria, parestesias peribucales, patrón respiratorio y fuerza muscular.",
+        "laboratorio": "Urea, creatinina sérica, clearance de creatinina e ionograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal e iniciar con dosis de carga en pacientes críticos según peso.",
+        "durante": "Monitorear la función renal diariamente y la presencia de hormigueo en cara o manos.",
+        "despues": "Valorar la remisión de la infección grave y la recuperación de la función renal."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg (aprox. 3.000.000 UI) o 150 mg (aprox. 4.500.000 UI) de colistimetato de sodio.",
+      "dosis": {
+        "adultos": "Dosis de carga: 6 a 9 millones de UI IV; Mantenimiento: 9 millones de UI/día divididos en 2 o 3 dosis IV; Inhalada: 1 a 2 millones de UI c/12h.",
+        "pediatrico": "2,5 mg/kg a 5 mg/kg/día (aprox. 75.000 a 150.000 UI/kg/día) divididos cada 8 horas IV.",
+        "geriatrico": "Ajustar rigurosamente la dosis posológica de acuerdo a la función renal calculada."
+      },
+      "vias_administracion": "Intravenosa e inhalatoria (nebulización).",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con solución fisiológica y diluir en 50 ml a 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Utilizar inmediatamente tras su reconstitución por riesgo de hidrólisis a colistina libre tóxica.",
+      "concentracion": "1,5 mg/ml (concentración sugerida para infusión intravenosa).",
+      "alarma_riesgo": "Riesgo muy elevado de insuficiencia renal aguda y apnea por bloqueo neuromuscular.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Preparar e infundir la solución de forma inmediata tras su reconstitución.;",
+          "Controlar la diuresis horaria y la creatinina diariamente para ajustar la dosis.;",
+          "Vigilar la aparición de parestesias o debilidad muscular durante la infusión.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que es un medicamento de uso hospitalario intensivo para infecciones complejas.;",
+          "Avisar inmediatamente al personal si siente hormigueo en la boca, rostro o manos.;",
+          "Informar si presenta dificultad para respirar o disminución en la orina."
+        ]
+      }
     }
   ]
 }
