@@ -13391,6 +13391,73 @@
           "Mantener una estricta higiene de manos y uñas para prevenir la autoinfección.;"
         ]
       }
+    },
+    {
+      "id": "176",
+      "nombre_generico": "Ivermectina",
+      "letra": "I",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Ivermectina",
+        "clasificacion": "Antiparasitario, endectocida (avermectina)",
+        "efecto_terapeutica": "Parálisis y muerte de parásitos susceptibles e in vitro",
+        "mecanismo_accion": "Se une selectivamente a los canales de cloro activados por glutamato en las células nerviosas y musculares del invertebrado, provocando hiperpolarización y parálisis flácida"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral con pico plasmático a las 4 horas; aumenta con la ingesta de grasa",
+        "distribucion": "Alta unión a proteínas (93%); no atraviesa la barrera hematoencefálica humana sana en dosis terapéuticas",
+        "metabolismo": "Hepático por la isoenzima CYP3A4",
+        "eliminacion": "Fecal (99%) y mínima eliminación renal (< 1%)"
+      },
+      "indicaciones": "Tratamiento de estrongiloidiasis, oncocercosis, escabiosis (sarna humana) resistente y pediculosis.",
+      "contraindicaciones": "Hipersensibilidad a la ivermectina; niños menores de 15 kg de peso; alteración de la barrera hematoencefálica.",
+      "precauciones": "Riesgo de reacción de Mazzotti (alérgica) en pacientes con alta carga microfilárica.",
+      "advertencias": "No utilizar en el tratamiento de infecciones virales sin indicación o evidencia comprobada.",
+      "embarazo_lactancia": "Evitar durante el embarazo (Categoría C). Se excreta en baja proporción en leche materna; evaluar riesgo.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No hay recomendaciones específicas; precaución en hepatopatías severas."
+      },
+      "interacciones": "Potenciación del efecto de anticoagulantes orales y de fármacos con acción GABAérgica.",
+      "reacciones_adversas": "Prurito; exantema; mareos; somnolencia; náuseas; dolor abdominal; hipotensión ortostática; reacción de Mazzotti.",
+      "toxicidad_sobredosis": "Ataxia, parestesias, convulsiones, depresión del sensorio y coma.",
+      "antidotos": "Tratamiento sintomático de soporte e hidratación parenteral.",
+      "monitorizacion": {
+        "clinica": "Control de prurito, erupción cutánea, presión arterial y examen parasitológico.",
+        "laboratorio": "Eosinófilos e identificación del parásito."
+      },
+      "parametros_valoracion": {
+        "antes": "Pesar al paciente para calcular la dosis exacta y descartar embarazo.",
+        "durante": "Monitorear hipotensión o prurito intenso posadministración.",
+        "despues": "Evaluar la erradicación de la sarna o del parásito a los 7-14 días."
+      },
+      "presentaciones": "Comprimidos de 6 mg; solución gotas al 0,6% (6 mg/ml).",
+      "dosis": {
+        "adultos": "200 mcg/kg de peso en dosis única por vía oral con agua (ej. 1 comp de 6 mg por cada 30 kg).",
+        "pediatrico": "200 mcg/kg en dosis única en niños con peso superior a 15 kg.",
+        "geriatrico": "Dosis habitual calculada por peso corporal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; tomar los comprimidos con abundante agua en ayunas.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "6 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de encefalopatía por acumulación si la barrera hematoencefálica está alterada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Calcular minuciosamente la dosis basada en el peso corporal del paciente.;",
+          "Administrar la dosis en ayunas (2 horas antes o después de los alimentos).;",
+          "Monitorear la presión arterial por riesgo de hipotensión transitoria.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis indicada con un vaso lleno de agua con el estómago vacío.;",
+          "En caso de sarna, tratar simultáneamente a los convivientes y lavar la ropa personal con agua caliente.;",
+          "Informar si presenta mareos intensos o brotes alérgicos en la piel.;"
+        ]
+      }
     }
   ]
 }
