@@ -17143,6 +17143,73 @@
           "Informar si nota enrojecimiento, bultos o dolor intenso en el lugar donde se le aplicó la inyección."
         ]
       }
+    },
+    {
+      "id": "232",
+      "nombre_generico": "Citarabina",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Citarabina (ara-C)",
+        "clasificacion": "Antineoplásico, antimetabolito análogo de la pirimidina (desoxicitidina)",
+        "efecto_terapeutica": "Citotóxico potente de fase S específica del ciclo celular para leucemias agudas y linfomas",
+        "mecanismo_accion": "Se convierte intracelularmente en trifosfato de citarabina (ara-CTP), compitiendo con la desoxicitidina trifosfato para inhibir la ADN polimerasa e incorporándose al ADN, deteniendo su elongación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral insignificante; administración exclusiva parenteral (IV, SC) o intratecal",
+        "distribucion": "Amplia distribución tisular; cruza eficazmente la barrera hematoencefálica alcanzando altas concentraciones en LCR en dosis altas",
+        "metabolismo": "Hepático y plasmático rápido por la citidindeaminasa a uracilarabinósido (ara-U) inactivo",
+        "eliminacion": "Excreción renal casi exclusiva en forma de metabolito inactivo (80% en 24 horas)"
+      },
+      "indicaciones": "Inducción y consolidación de la remisión en leucemia mieloide aguda (LMA), leucemia linfoblástica aguda (LLA), leucemia mieloide crónica y linfomas.",
+      "contraindicaciones": "Hipersensibilidad a la citarabina; mielosupresión grave preexistente no inducida por fármacos; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de mielosupresión severa (aplasia medular); toxicidad cerebelosa a dosis altas; conjuntivitis (requiere colirio de corticoides).",
+      "advertencias": "A dosis altas puede provocar toxicidad neurológica central irreversible (ataxia, somnolencia, convulsiones) y daño corneal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; potente teratógeno. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis o ajustar intervalos en insuficiencia renal por acumulación de metabolitos.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática grave."
+      },
+      "interacciones": "Disminuye la eficacia de la gentamicina frente a Klebsiella; toxicidad hematológica aditiva con otros citostáticos.",
+      "reacciones_adversas": "Mielosupresión profunda; náuseas; vómitos; estomatitis; diarrea; conjuntivitis ulcerativa; neurotoxicidad central a dosis altas (ataxia); erupción cutánea (síndrome de citarabina).",
+      "toxicidad_sobredosis": "Aplasia medular profunda, neurotoxicidad central irreversible y daño corneal severo.",
+      "antidotos": "Tratamiento de soporte intensivo, transfusiones e instilación de colirio corticoide para la conjuntivitis.",
+      "monitorizacion": {
+        "clinica": "Control neurológico diario (coordinación, ataxia, conciencia), evaluación ocular y signos de sangrado/infección.",
+        "laboratorio": "Hemograma completo diario o interdiario, función renal y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función neurológica basal, hemograma y administrar colirio preventivo de corticoides si recibe dosis altas.",
+        "durante": "Monitorear la aparición de alteraciones en la marcha, somnolencia o visión borrosa.",
+        "despues": "Valorar la recuperación medular post-quimioterapia."
+      },
+      "presentaciones": "Frasco ampolla inyectable de 100 mg, 500 mg, 1 g y 2 g de solución.",
+      "dosis": {
+        "adultos": "Inducción convencional: 100 mg/m² a 200 mg/m² diarios en infusión continua o dividida; Dosis altas (HiDAC): 2 g/m² a 3 g/m² cada 12 horas por 6 dosis.",
+        "pediatrico": "Dosificación por superficie corporal en protocolos leucémicos pediátricos.",
+        "geriatrico": "Ajustar posología según la tolerancia general y función neurológica."
+      },
+      "vias_administracion": "Intravenosa, subcutánea e intratecal.",
+      "preparacion": {
+        "dilucion": "Diluir el vial en solución fisiológica o dextrosa al 5% para infusión continua o intermitente.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar en bolo rápido, infusión corta de 30-60 minutos o infusión continua de 24 horas según protocolo.",
+      "estabilidad_soluciones": "Estable durante 48 horas a temperatura ambiente.",
+      "concentracion": "20 mg/ml o 100 mg/ml según la presentación original.",
+      "alarma_riesgo": "Riesgo de neurotoxicidad cerebelosa severa a dosis altas y aplasia medular profunda.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar colirio con corticoides (como prednisolona) de forma preventiva para evitar la conjuntivitis ulcerativa a dosis altas.;",
+          "Evaluar diariamente la función neurológica (equilibrio, marcha, reflejos y estado de conciencia) antes de cada dosis.;",
+          "Controlar de manera estricta el hemograma completo por el alto riesgo de aplasia medular.;"
+        ],
+        "educacion_paciente": [
+          "Avisar inmediatamente al personal de salud si siente mareos, dificultad para caminar o hablar, o visión doble.;",
+          "Informar si nota ardor, picazón o enrojecimiento en los ojos (aplicar las gotas recetadas).;",
+          "Notificar ante la aparición de fiebre, escalofríos, puntos rojos en la piel o sangrados."
+        ]
+      }
     }
   ]
 }
