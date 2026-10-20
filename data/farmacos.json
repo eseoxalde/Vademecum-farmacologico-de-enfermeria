@@ -17746,6 +17746,73 @@
           "Notificar urgente al personal si presenta fiebre, escalofríos, mareos o falta de aire."
         ]
       }
+    },
+    {
+      "id": "241",
+      "nombre_generico": "Idarubicina",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de idarubicina",
+        "clasificacion": "Antineoplásico, antibiótico antracíclico analógico de la daunorrubicina",
+        "efecto_terapeutica": "Citotóxico antileucémico de alta potencia y rápida penetración celular",
+        "mecanismo_accion": "Se intercala en el ADN e inhibe la enzima topoisomerasa II, bloqueando la síntesis de ácidos nucleicos; más lipofílica que la daunorrubicina con mayor captación celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral (biodisponibilidad del 30-40%); administración intravenosa habitual en inducción leucémica",
+        "distribucion": "Alta lipofilidad y amplio volumen de distribución tisular; penetra la barrera hematoencefálica",
+        "metabolismo": "Hepático extenso al metabolito activo idarubicinol (con vida media prolongada de 40 a 60 horas)",
+        "eliminacion": "Excreción biliar y fecal principal (80%) y renal en baja proporción (5-10%)"
+      },
+      "indicaciones": "Inducción de la remisión en la leucemia mieloide aguda (LMA) en adultos y tratamiento de la leucemia linfoblástica aguda (LLA) en recaída.",
+      "contraindicaciones": "Hipersensibilidad a la idarubicina o a las antraciclinas; insuficiencia cardíaca o renal severa; disfunción hepática grave; mielosupresión no leucémica; embarazo y lactancia.",
+      "precauciones": "Riesgo de cardiotoxicidad (dosis acumulativa máxima de 120-150 mg/m²); vesicante tisular grave; mielosupresión profunda y prolongada.",
+      "advertencias": "Debido a la larga vida media de su metabolito activo idarubicinol, la aplasia medular provocada es más prolongada.",
+      "embarazo_lactancia": "Categoría D en el embarazo; alto riesgo teratogénico. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% si la creatinina o la urea sérica están elevadas.",
+        "hepatico": "Reducir al 50% si la bilirrubina es de 1.2 a 3 mg/dl; suspender o reducir al 75% si la bilirrubina es > 3 mg/dl."
+      },
+      "interacciones": "Sinergismo de cardiotoxicidad con otros agentes antracíclicos o calcioantagonistas; la coadministración con otros citostáticos acentúa la aplasia.",
+      "reacciones_adversas": "Mielosupresión profunda; cardiotoxicidad; mucositis; náuseas; vómitos; alopecia; orina rojiza; necrosis severa en extravasación.",
+      "toxicidad_sobredosis": "Aplasia medular profunda e irrecuperable, cardiotoxicidad aguda e inflamación destructiva de mucosas.",
+      "antidotos": "Dexrazoxano (antídoto de extravasación y cardioprotector) y soporte mieloablativo intensivo.",
+      "monitorizacion": {
+        "clinica": "Control de función cardíaca (FEVI), signos de extravasación en el sitio venoso, mucositis e infecciones.",
+        "laboratorio": "Ecocardiograma basal, hemograma completo diario durante la aplasia, bilirrubina y función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la FEVI basal por ecocardiograma, la función hepática (bilirrubina) y asegurar acceso venoso central.",
+        "durante": "Verificar minuciosamente la permeabilidad de la vía central durante los 10-15 minutos de infusión.",
+        "despues": "Monitorear la diuresis y la profilaxis antiinfecciosa durante la fase de aplasia."
+      },
+      "presentaciones": "Frasco ampolla de 5 mg y 10 mg de polvo liofilizado o solución inyectable.",
+      "dosis": {
+        "adultos": "LMA inducción IV: 12 mg/m²/día IV por 3 días consecutivos (en combinación con citarabina). Dosis acumulativa máxima: 120 mg/m².",
+        "pediatrico": "10 mg/m² a 12 mg/m²/día por 3 días en protocolos pediátricos seleccionados.",
+        "geriatrico": "Ajustar dosis (p. ej. 8 mg/m²/día) según la función hepática y la reserva cardiaca."
+      },
+      "vias_administracion": "Intravenosa en infusión (y oral bajo protocolos específicos).",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril y diluir en 50 ml a 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 10 a 15 minutos en la vía de un sachet de solución fisiológica en flujo libre.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C) protegida de la luz.",
+      "concentracion": "1 mg/ml (concentración de la solución inyectable o reconstituida).",
+      "alarma_riesgo": "Riesgo de necrosis local por extravasación y aplasia medular prolongada por acumulación de idarubicinol.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir en 10 a 15 minutos en una vía central con flujo libre asegurando el retorno venoso.;",
+          "Registrar estrictamente la dosis acumulativa para no superar el límite de 120 mg/m².;",
+          "Ajustar posología en presencia de hiperbilirrubinemia o insuficiencia renal.;"
+        ],
+        "educacion_paciente": [
+          "Informar de inmediato si siente dolor, ardor o hinchazón en el sitio de aplicación IV.;",
+          "Saber que la orina adquiera un color rojo o anaranjado durante 1 a 2 días tras la infusión.;",
+          "Avisar urgentemente ante cualquier episodio de fiebre, escalofríos, mareos o sangrados."
+        ]
+      }
     }
   ]
 }
