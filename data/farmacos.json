@@ -14195,6 +14195,73 @@
           "Consultar al médico si presenta deposiciones líquidas abundantes o tinte amarillo en los ojos."
         ]
       }
+    },
+    {
+      "id": "188",
+      "nombre_generico": "Amikacina",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de amikacina",
+        "clasificacion": "Antibiótico, aminoglucósido",
+        "efecto_terapeutica": "Bactericida de amplio espectro sobre bacilos gramnegativos aeróbicos multirresistentes",
+        "mecanismo_accion": "Se une de forma irreversible a la subunidad 30S del ribosoma bacteriano, alterando la síntesis proteica e induciendo la lectura errónea del código genético"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración exclusivamente parenteral con disponibilidad sistémica del 100%",
+        "distribucion": "Se distribuye principalmente en el líquido extracelular; penetración baja en tejido pulmonar y LCR no inflamado",
+        "metabolismo": "No sufre metabolismo apreciable en el organismo",
+        "eliminacion": "Excreción renal inalterada (> 90%) por filtración glomerular"
+      },
+      "indicaciones": "Infecciones graves por bacilos gramnegativos resistentes a otros aminoglucósidos, neumonía intrahospitalaria, sepsis, infecciones intraabdominales y urinarias complicadas.",
+      "contraindicaciones": "Hipersensibilidad a la amikacina o a otros aminoglucósidos; miastenia gravis.",
+      "precauciones": "Insuficiencia renal preexistente, hipoacusia o vestibulopatía; ajuste estricto por peso e hidratación.",
+      "advertencias": "Riesgo de ototoxicidad (auditiva y vestibular) irreversible y nefrotoxicidad tubular directa.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de ototoxicidad fetal. Evaluar riesgo-beneficio durante la lactancia.",
+      "ajustes": {
+        "renal": "Ajustar dosis o prolongar intervalo entre dosis según el clearance de creatinina y dosaje plasmático.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Aumenta la nefrotoxicidad y ototoxicidad con furosemida, vancomicina, colistina y anfotericina B; potencia bloqueantes neuromusculares.",
+      "reacciones_adversas": "Ototoxicidad (sordera, acúfenos); nefrotoxicidad (elevación de urea/creatinina); bloqueo neuromuscular; mareos.",
+      "toxicidad_sobredosis": "Bloqueo neuromuscular con paro respiratorio, insuficiencia renal aguda y sordera irreversible.",
+      "antidotos": "Sales de calcio (gluconato de calcio IV) o neostigmina para el bloqueo neuromuscular; hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control de la diuresis, función auditiva, equilibrio y tono muscular.",
+        "laboratorio": "Creatinina sérica, urea, clearance de creatinina y niveles plasmáticos (pico y valle)."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal, audición previa y estado de hidratación.",
+        "durante": "Monitorear la diuresis horaria y aparición de zumbidos o vértigo.",
+        "despues": "Valorar la resolución de la infección y la estabilidad de la función renal."
+      },
+      "presentaciones": "Ampollas de 100 mg/2 ml y 500 mg/2 ml.",
+      "dosis": {
+        "adultos": "15 mg/kg/día IV en dosis única diaria o dividida cada 12 horas (máximo 1,5 g/día).",
+        "pediatrico": "15 mg/kg a 20 mg/kg/día IV divididos cada 8 a 12 horas.",
+        "geriatrico": "Ajustar cuidadosamente la dosis según la función renal calculada."
+      },
+      "vias_administracion": "Intravenosa e intramuscular.",
+      "preparacion": {
+        "dilucion": "Diluir la ampolla en 100 ml a 200 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "5 mg/ml (concentración máxima recomendada en la solución de infusión).",
+      "alarma_riesgo": "Riesgo de ototoxicidad permanente y falla renal aguda por acumulación del fármaco.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV lenta en no menos de 30 a 60 minutos para evitar bloqueo neuromuscular.;",
+          "Asegurar una hidratación adecuada antes y durante la infusión del fármaco.;",
+          "Medir niveles plasmáticos de valle antes de administrar la siguiente dosis según protocolo.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento se administra por vía parenteral en el hospital.;",
+          "Informar de inmediato si nota zumbidos en los oídos, pérdida de audición o mareos.;",
+          "Notificar al personal si disminuye la cantidad de orina eliminada.;"
+        ]
+      }
     }
   ]
 }
