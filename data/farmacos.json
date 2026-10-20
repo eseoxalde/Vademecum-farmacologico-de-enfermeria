@@ -17411,6 +17411,73 @@
           "Avisar urgente ante fiebre, escalofríos, puntos rojos en la piel o sangrados inusuales."
         ]
       }
+    },
+    {
+      "id": "236",
+      "nombre_generico": "Leucovorina",
+      "letra": "L",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Folinato de calcio (Ácido folínico)",
+        "clasificacion": "Antídoto de antagonistas del ácido fólico, modulador de antimetabolitos",
+        "efecto_terapeutica": "Rescatador celular de la toxicidad por antifolatos y potenciador del efecto citotóxico del 5-fluorouracilo",
+        "mecanismo_accion": "Forma activa del ácido fólico que no requiere la enzima dihidrofolato reductasa para convertirse en tetrahidrofolato; potencia la unión del 5-FU a la timidilato sintasa"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción oral a dosis bajas (< 25 mg); administración parenteral recomendada para altas dosis",
+        "distribucion": "Amplia distribución en tejidos corporales, concentrándose en hígado, LCR y eritrocitos",
+        "metabolismo": "Hepático e intestinal extenso a su metabolito activo 5-metiltetrahidrofolato",
+        "eliminacion": "Excreción renal principalmente en forma de metabolitos activos (80-90%)"
+      },
+      "indicaciones": "Rescate hematológico tras dosis altas de metotrexato, prevención y tratamiento de la toxicidad por antifolatos (trimetoprima, pirimetamina), potenciación del 5-fluorouracilo en cáncer colorrectal y tratamiento de anemias megaloblásticas por deficiencia de folatos.",
+      "contraindicaciones": "Hipersensibilidad al folinato de calcio; anemia perniciosa u otras anemias megaloblásticas por deficiencia de vitamina B12.",
+      "precauciones": "No administrar intratecalmente (riesgo de toxicidad neurológica grave y muerte); ajustar dosis en insuficiencia renal si se usa en rescate de metotrexato.",
+      "advertencias": "La coadministración con 5-fluorouracilo incrementa sustancialmente la toxicidad gastrointestinal (diarrea y mucositis) de este último.",
+      "embarazo_lactancia": "Categoría C en el embarazo; uso seguro cuando está indicado. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "Aumentar la dosis y la duración del rescate si existe retraso en la eliminación del metotrexato por insuficiencia renal.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Disminuye el efecto anticonvulsivante del fenobarbital, fenitoína y primidona (aumenta riesgo de convulsiones); potencia la citotoxicidad y toxicidad del 5-FU.",
+      "reacciones_adversas": "Reacciones de hipersensibilidad (urticaria, anafilaxia); insomnio; agitación; náuseas; vómitos; intensificación de la diarrea provocada por 5-FU.",
+      "toxicidad_sobredosis": "Toxicidad directa muy baja; en combinación con 5-FU puede provocar enteritis mielosupresiva grave.",
+      "antidotos": "Tratamiento sintomático de soporte e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control de síntomas de toxicidad por metotrexato (estomatitis, diuresis) o diarrea en esquemas con 5-FU.",
+        "laboratorio": "Niveles séricos de metotrexato, pH urinario, creatinina sérica y hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la pauta horaria exacta de inicio del rescate tras la infusión de metotrexato.",
+        "durante": "Monitorear la diuresis y la alcalinización urinaria si se combina con dosis altas de metotrexato.",
+        "despues": "Valorar la recuperación de la mucosa oral y las series sanguíneas."
+      },
+      "presentaciones": "Comprimidos de 15 mg; frasco ampolla inyectable de 50 mg y 350 mg de polvo liofilizado o solución.",
+      "dosis": {
+        "adultos": "Rescate MTX: 15 mg (aprox. 10 mg/m²) IV/IM/oral cada 6 horas por 2 a 3 días; Potenciación 5-FU: 20 mg/m² a 200 mg/m² IV seguidos de 5-FU.",
+        "pediatrico": "Dosificación según protocolos oncológicos ajustados a los niveles séricos de metotrexato.",
+        "geriatrico": "Dosis habitual adaptada a la función renal y aclaramiento del metotrexato."
+      },
+      "vias_administracion": "Vía oral, intravenosa e intramuscular (prohibida la vía intratecal).",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril o solución fisiológica y diluir en 100 ml a 250 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar la infusión IV lenta sin superar los 160 mg por minuto por su contenido de calcio.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o bajo refrigeración (2°C - 8°C).",
+      "concentracion": "10 mg/ml (concentración tras la reconstitución inicial).",
+      "alarma_riesgo": "Riesgo mortal si se administra por vía intratecal y riesgo de neutropenia febril grave si se retrasa el rescate de metotrexato.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Nunca administrar por vía intratecal under ninguna circunstancia.;",
+          "Respetar de forma estricta los horarios programados para las dosis de rescate de metotrexato.;",
+          "Monitorear la aparición de diarrea intensa cuando se coadministra con 5-fluorouracilo.;"
+        ],
+        "educacion_paciente": [
+          "Cumplir con exactitud los horarios de las tomas orales o aplicaciones inyectables indicadas.;",
+          "Informar de inmediato si presenta diarrea frecuente, aftas en la boca o erupciones en la piel.;",
+          "Avisar si está tomando medicamentos para la epilepsia ya que puede requerir ajuste de su dosis."
+        ]
+      }
     }
   ]
 }
