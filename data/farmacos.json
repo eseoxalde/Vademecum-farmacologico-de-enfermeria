@@ -15133,6 +15133,73 @@
           "Avisar de inmediato si nota brotes en la piel, sangrados o dolor al orinar."
         ]
       }
+    },
+    {
+      "id": "202",
+      "nombre_generico": "Ácido Fusídico",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Ácido fusídico / Fusidato de sodio",
+        "clasificacion": "Antibiótico, esteroideo",
+        "efecto_terapeutica": "Bactericida o bacterostático potente sobre Staphylococcus aureus (incluidos SAMR)",
+        "mecanismo_accion": "Inhibe la síntesis proteica bacteriana al bloquear el factor de elongación G (EF-G), impidiendo la translocación de la cadena peptídica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral; rápida absorción tisular sistémica y excelente penetración tópica cutánea",
+        "distribucion": "Alta unión a proteínas plasmáticas (> 95%); excelente penetración en tejido óseo, piel, pus y articulaciones",
+        "metabolismo": "Hepático extenso transformándose en metabolitos inactivos",
+        "eliminacion": "Excreción biliar y fecal principalmente; mínima eliminación renal (< 1%)"
+      },
+      "indicaciones": "Infecciones estafilocócicas de piel y tejidos blandos (impétigo, foliculitis), osteomielitis e infecciones osteoarticulares por gérmenes resistentes.",
+      "contraindicaciones": "Hipersensibilidad al ácido fusídico o al fusidato de sodio; insuficiencia hepática grave.",
+      "precauciones": "Usar con precaución en pacientes con hepatopatías preexistentes o disfunción biliar.",
+      "advertencias": "Riesgo de hepatotoxicidad e ictericia en tratamientos sistémicos prolongados o a dosis elevadas.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo-beneficio. Se excreta en bajas concentraciones en leche materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis o evitar en insuficiencia hepática grave."
+      },
+      "interacciones": "Aumenta significativamente el riesgo de rabdomiólisis si se coadministra con estatinas (contraindicada su combinación sistémica); incrementa niveles de anticoagulantes orales.",
+      "reacciones_adversas": "Trastornos gastrointestinales (náuseas, dispepsia); ictericia; elevación de transaminasas; erupción cutánea; irritación local en uso tópico.",
+      "toxicidad_sobredosis": "Molestias gastrointestinales e ictericia reversible.",
+      "antidotos": "Tratamiento sintomático de soporte.",
+      "monitorizacion": {
+        "clinica": "Control de función hepática, tinte ictérico y respuesta clínica cutánea u ósea.",
+        "laboratorio": "Transaminasas, bilirrubina total y hemograma en esquemas orales prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar función hepática basal y verificar que el paciente no reciba estatinas.",
+        "durante": "Monitorear la aparición de ictericia o intolerancia digestiva.",
+        "despues": "Valorar la curación clínica de las lesiones cutáneas o la infección ósea."
+      },
+      "presentaciones": "Comprimidos de 250 mg y 500 mg; suspensión oral de 250 mg/5 ml; crema y ungüento al 2%.",
+      "dosis": {
+        "adultos": "500 mg cada 8 horas por vía oral; o aplicación tópica 2 a 3 veces al día en piel.",
+        "pediatrico": "20 mg/kg a 50 mg/kg/día divididos cada 8 horas por vía oral; aplicación tópica 2 a 3 veces al día.",
+        "geriatrico": "Dosis habitual monitoreando la función hepática."
+      },
+      "vias_administracion": "Vía oral y tópica.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; tomar los comprimidos con agua o alimentos.",
+        "compatibilidad_iv": "Formulación oral y tópica exclusiva en Argentina."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral/tópica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente en lugar seco.",
+      "concentracion": "500 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de rabdomiólisis grave al combinar por vía sistémica con estatinas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que el paciente no consuma estatinas concomitantemente por vía oral.;",
+          "Administrar los comprimidos junto con los alimentos para reducir la irritación gástrica.;",
+          "Controlar periódicamente la aparición de ictericia o coluria en la piel del paciente.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación acompañada de comida para evitar molestias en el estómago.;",
+          "Limpiar y secar la zona de la piel antes de aplicar la crema o ungüento tópico.;",
+          "Consultar al médico de inmediato si nota coloración amarillenta en los ojos o piel."
+        ]
+      }
     }
   ]
 }
