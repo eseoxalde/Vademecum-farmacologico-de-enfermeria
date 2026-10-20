@@ -14061,6 +14061,73 @@
           "Informar si presenta náuseas o molestias en la zona de la inyección."
         ]
       }
+    },
+    {
+      "id": "186",
+      "nombre_generico": "Moxifloxacino",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Moxifloxacino",
+        "clasificacion": "Antibiótico, fluoroquinolona de 4ª generación (respiratoria)",
+        "efecto_terapeutica": "Bactericida de amplio espectro sobre cocos grampositivos (Streptococcus pneumoniae resistente), gramnegativos, anaerobios y atípicos",
+        "mecanismo_accion": "Inhibe equilibradamente las enzimas bacterianas ADN girasa (topoisomerasa II) y topoisomerasa IV, bloqueando la replicación del ADN bacteriano"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral rápida con una biodisponibilidad del 90%; no se modifica con la ingesta de alimentos",
+        "distribucion": "Extensa distribución en tejido pulmonar, senos paranasales, mucosa bronquial y macrófagos",
+        "metabolismo": "Hepático mediante conjugación a glucurónidos y sulfatos (no usa sistema CYP450)",
+        "eliminacion": "Excreción fecal/biliar (25% inalterado) y renal (20% inalterado)"
+      },
+      "indicaciones": "Neumonía adquirida en la comunidad, exacerbación aguda de bronquitis crónica, sinusitis bacteriana aguda, infecciones intraabdominales complicadas e infecciones de piel y tejidos blandos.",
+      "contraindicaciones": "Hipersensibilidad a las quinolonas; antecedentes de prolongación del QT o arritmias ventriculares; enfermedad hepática severa.",
+      "precauciones": "Riesgo de prolongación del intervalo QT; tendinitis y ruptura del tendón de Aquiles; miastenia gravis; aneurisma aórtico.",
+      "advertencias": "Riesgo de hepatotoxicidad fulminante, reacciones cutáneas ampollosas (Stevens-Johnson) y trastornos del SNC.",
+      "embarazo_lactancia": "Contraindicado en el embarazo y la lactancia por riesgo de artropatía destructiva en cartílagos de crecimiento.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en ningún grado de insuficiencia renal.",
+        "hepatico": "No se recomienda su uso en insuficiencia hepática moderada o severa (Child-Pugh B o C)."
+      },
+      "interacciones": "Aumento del riesgo de arritmias ventriculares con antiarrítmicos (amiodarona, sotalol); los antiácidos y minerales reducen su absorción oral.",
+      "reacciones_adversas": "Náuseas; diarrea; mareos; cefalea; prolongación del intervalo QT; elevación de transaminasas; artralgias; fototoxicidad.",
+      "toxicidad_sobredosis": "Prolongación del intervalo QT, arritmias, mareos y convulsiones.",
+      "antidotos": "Tratamiento de soporte, monitorización electrocardiográfica y carbón activado si la ingesta fue reciente.",
+      "monitorizacion": {
+        "clinica": "Control del trazado electrocardiográfico en pacientes de riesgo, función hepática y dolor articular/tendinoso.",
+        "laboratorio": "Electrocardiograma (medición del intervalo QTc), enzimas hepáticas e ionograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de arritmias previas, trazado electrocardiográfico y descartar hepatopatía severa.",
+        "durante": "Monitorear la aparición de palpitaciones, dolor en el talón de Aquiles o diarrea grave.",
+        "despues": "Valorar la remisión de la infección respiratoria o tisular."
+      },
+      "presentaciones": "Comprimidos de 400 mg; frasco ampolla inyectable de 400 mg/250 ml; solución oftálmica al 0,5%.",
+      "dosis": {
+        "adultos": "400 mg una vez al día por vía oral o intravenosa durante 5 a 21 días según el cuadro.",
+        "pediatrico": "Contraindicado su uso en niños y adolescentes menores de 18 años.",
+        "geriatrico": "Dosis habitual de 400 mg una vez al día con precaución electrocardiográfica."
+      },
+      "vias_administracion": "Vía oral, intravenosa y oftálmica.",
+      "preparacion": {
+        "dilucion": "Presentación IV lista para infusión; no requiere dilución adicional.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua durante un período no menor a 60 minutos.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz; no refrigerar por riesgo de precipitación.",
+      "concentracion": "1,6 mg/ml (solución lista para infusión).",
+      "alarma_riesgo": "Riesgo de arritmia ventricular fatal (Torsades de Pointes) por prolongación del intervalo QT.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la solución IV lentamente en no menos de 60 minutos.;",
+          "No refrigerar la solución parenteral para evitar la formación de cristales.;",
+          "Suspender de inmediato ante el inicio de dolor o inflamación en el tendón de Aquiles.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el comprimido una vez al día a la misma hora con o sin alimentos.;",
+          "Evitar tomar antiácidos, hierro o suplementos de calcio 4 horas antes o 8 horas después del comprimido.;",
+          "Avisar de inmediato si siente palpitaciones, dolor en el talón o tono amarillento en los ojos."
+        ]
+      }
     }
   ]
 }
