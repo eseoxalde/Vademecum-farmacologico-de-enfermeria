@@ -16942,6 +16942,73 @@
           "Avisar de inmediato si presenta diarrea frecuente (más de 4 deposiciones al día), vómitos o ampollas en manos."
         ]
       }
+    },
+    {
+      "id": "229",
+      "nombre_generico": "Metotrexato",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Metotrexato (MTX)",
+        "clasificacion": "Antineoplásico e inmunosupresor, antimetabolito análogo del ácido fólico",
+        "efecto_terapeutica": "Citotóxico e inmunomodulador antiinflamatorio de fase S específica del ciclo celular",
+        "mecanismo_accion": "Inhibe competitiva y reversiblemente la enzima dihidrofolato reductasa, bloqueando la conversión de ácido fólico en tetrahidrofólico e impidiendo la síntesis de purinas y timidilato"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral a dosis bajas (< 30 mg/m²); errática y limitada a dosis elevadas, requiriendo vía parenteral",
+        "distribucion": "Amplia distribución tisular; se acumula en riñón, hígado y bazo; cruza la barrera hematoencefálica en baja proporción",
+        "metabolismo": "Hepático e intracelular leve por conversión a poliglutamatos activos retenidos en los tejidos",
+        "eliminacion": "Excreción renal casi exclusiva por filtración glomerular y secreción tubular (80-90% inalterado en 24 horas)"
+      },
+      "indicaciones": "Leucemia linfoblástica aguda, linfoma no Hodgkin, osteosarcoma, coriocarcinoma, cáncer de mama; enfermedades autoinmunes (artritis reumatoide, psoriasis grave).",
+      "contraindicaciones": "Hipersensibilidad al metotrexato; insuficiencia renal o hepática grave; discrasias sanguíneas severas; embarazo y lactancia; infecciones activas.",
+      "precauciones": "Riesgo severo de nefrotoxicidad y mielosupresión por eliminación renal lenta; requiere rescate con ácido folínico (leucovorina) a dosis altas.",
+      "advertencias": "La administración semanal en enfermedades autoinmunes se confunde frecuentemente con dosis diarias, provocando toxicidad letal.",
+      "embarazo_lactancia": "Categoría X en el embarazo; potente teratógeno y abortivo. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Modificar o suspender la dosis estrictamente según el clearance de creatinina y los niveles séricos de MTX.",
+        "hepatico": "Contraindicado en cirrosis o insuficiencia hepática crónica activa."
+      },
+      "interacciones": "Los AINEs, penicilinas y salicilatos reducen su excreción renal aumentando la toxicidad grave; el omeprazol puede retrasar su eliminación; el alcohol potencia la hepatotoxicidad.",
+      "reacciones_adversas": "Mielosupresión; estomatitis y úlceras orales; náuseas; vómitos; hepatotoxicidad (fibrosis); neumonitis intersticial; nefrotoxicidad; alopecia.",
+      "toxicidad_sobredosis": "Pancitopenia severa, estomatitis hemorrágica, falla renal aguda, neurotoxicidad y muerte.",
+      "antidotos": "Ácido folínico (leucovorina cálcica) intravenoso u oral como rescate obligatorio; glucarpidasa (enzima de rescate).",
+      "monitorizacion": {
+        "clinica": "Control estricto de diuresis, pH urinario (> 7), estomatitis, signos de sangrado y dificultad respiratoria.",
+        "laboratorio": "Dosaje de niveles séricos de metotrexato (en altas dosis), hemograma, función renal y transaminasas."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance), hemograma, estado pulmonar y asegurar hidratación con alcalinización urinaria (bicarbonato).",
+        "durante": "Monitorear la diuresis horaria y administrar el rescate de leucovorina pautado según protocolo.",
+        "despues": "Seguir midiendo niveles de MTX hasta clearance seguro (< 0.1 micromol/L)."
+      },
+      "presentaciones": "Comprimidos de 2.5 mg y 10 mg; frasco ampolla inyectable de 50 mg/2 ml, 500 mg/20 ml y 1 g/10 alcalinizante.",
+      "dosis": {
+        "adultos": "Artritis reumatoide: 7.5 mg a 25 mg una vez por semana oral; Oncológico altas dosis: 1 g/m² a 12 g/m² IV con rescate de leucovorina.",
+        "pediatrico": "Dosificación según protocolos oncológicos específicos (LLA) bajo estricto monitoreo farmacocinético.",
+        "geriatrico": "Ajustar la dosis rigurosamente según la función renal estimada y reserva medular."
+      },
+      "vias_administracion": "Vía oral, intravenosa, intramuscular, intratecal y subcutánea.",
+      "preparacion": {
+        "dilucion": "Diluir las presentaciones parenterales en solución fisiológica o dextrosa al 5% para infusión.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar en bolo lento o infusión IV de 2 a 24 horas según el protocolo terapéutico.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente protegida de la luz.",
+      "concentracion": "25 mg/ml (concentración habitual de la presentación inyectable).",
+      "alarma_riesgo": "Riesgo de error de medicación mortal al administrar por error de forma diaria en lugar de semanal en patologías no oncológicas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar dos veces que la pauta oral en reumatología sea estrictamente semanal y no diaria.;",
+          "Asegurar la hidratación intravenosa y la alcalinización de la orina (pH > 7) antes de administrar altas dosis.;",
+          "Administrar las dosis de rescate con ácido folínico (leucovorina) en los horarios exactos indicados por protocolo.;"
+        ],
+        "educacion_paciente": [
+          "Recordar que el comprimido se toma una sola vez a la semana en enfermedades crónicas (no todos los días).;",
+          "Tomar abundantes líquidos diarios y notificar si presenta llagas en la boca, fiebre o tos seca.;",
+          "Evitar el consumo de alcohol y suspender la toma consultando al médico ante cualquier signo de infección."
+        ]
+      }
     }
   ]
 }
