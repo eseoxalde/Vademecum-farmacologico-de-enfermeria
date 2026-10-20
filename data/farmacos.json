@@ -16607,6 +16607,73 @@
           "Informar si nota sensación de opresión en la garganta, dificultad para tragar o calambres en las manos."
         ]
       }
+    },
+    {
+      "id": "224",
+      "nombre_generico": "Carmustina",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Carmustina (BCNU)",
+        "clasificacion": "Antineoplásico, nitrosourea alquilante altamente lipofílica",
+        "efecto_terapeutica": "Citotóxico amplio capaz de atravesar la barrera hematoencefálica para tratar tumores del SNC",
+        "mecanismo_accion": "Alquila el ADN y el ARN en posiciones nucleofílicas y carbamoyla aminoácidos de proteínas intracelulares, impidiendo la reparación e inhibiendo la división celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral intravenosa o mediante implantes intraoperatorios en el lecho tumoral",
+        "distribucion": "Alta lipofilidad con penetración inmediata al LCR y tejido cerebral (niveles del 50-80% respecto al plasma)",
+        "metabolismo": "Hepático y tisular sumamente rápido a metabolitos activos e inactivos",
+        "eliminacion": "Excreción renal de metabolitos (60-70% en 96 horas) y pulmonar (10%)"
+      },
+      "indicaciones": "Gliomas de alto grado (gliobastoma multiforme, astrocitoma), tumores cerebrales primarios o metastásicos, mieloma múltiple, linfoma de Hodgkin y no Hodgkin.",
+      "contraindicaciones": "Hipersensibilidad a la carmustina o a nitrosoureas; mielosupresión grave; insuficiencia respiratoria severa; embarazo.",
+      "precauciones": "Riesgo muy alto de toxicidad pulmonar (fibrosis pulmonar tardía y dosis dependiente); mielosupresión acumulativa y tardía (4 a 6 semanas).",
+      "advertencias": "La mielosupresión por carmustina es tardía e hidrópica, alcanzando el nadir a las 4-6 semanas post-tratamiento.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico y embriotóxico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis si el clearance de creatinina es menor a 50 ml/min por retención y nefrotoxicidad.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática severa."
+      },
+      "interacciones": "Aumento del riesgo de toxicidad pulmonar en combinación con bleomicina; cimetidina eleva la mielotoxicidad de carmustina.",
+      "reacciones_adversas": "Mielosupresión tardía y acumulativa (leucopenia, trombocitopenia a las 4-6 semanas); toxicidad pulmonar (fibrosis); náuseas; vómitos; dolor y enrojecimiento en la vena; hepatotoxicidad.",
+      "toxicidad_sobredosis": "Fibrosis pulmonar irreversible, aplasia medular tardía profunda e insuficiencia hepático-renal.",
+      "antidotos": "Tratamiento de soporte, corticoides para toxicidad pulmonar y factores hematopoyéticos.",
+      "monitorizacion": {
+        "clinica": "Control de función respiratoria (tos, disnea), espirometría, sitio de infusión venosa y hemogramas tardíos.",
+        "laboratorio": "Pruebas de función pulmonar (DLCO, espirometría), hemograma completo semanal por 6 semanas y hepatograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar espirometría con DLCO basal y verificar la ausencia de mielosupresión tardía del ciclo anterior.",
+        "durante": "Monitorear la infusión IV para prevenir dolor en la vena o enrojecimiento cutáneo por el diluyente alcohólico.",
+        "despues": "Seguir el hemograma semanal durante 6 semanas posteriores a la infusión."
+      },
+      "presentaciones": "Frasco ampolla liofilizado de 100 mg con ampolla de diluyente con etanol.",
+      "dosis": {
+        "adultos": "150 mg/m² a 200 mg/m² IV cada 6 semanas en dosis única o dividida en 2 días consecutivos.",
+        "pediatrico": "Uso en protocolos hemato-oncológicos pediátricos bajo monitorización de la función pulmonar.",
+        "geriatrico": "Ajustar dosis según la función renal, reserva medular y capacidad pulmonar."
+      },
+      "vias_administracion": "Intravenosa en infusión e implante intersticial (oblea Wafer).",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado exclusivamente con el diluyente alcohólico adjunto, agregar agua estéril y diluir en 500 ml de dextrosa al 5% o solución fisiológica.",
+        "compatibilidad_iv": "Compatible con dextrosa al 5% y solución fisiológica (usar recipientes de vidrio o polietileno sin PVC)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 1 a 2 horas (evitar infusiones rápidas por ardor intenso).",
+      "estabilidad_soluciones": "Usar la solución diluida dentro de las 8 horas refrigerada (2°C - 8°C) y protegida de la luz.",
+      "concentracion": "0,2 mg/ml (concentración máxima recomendada en la solución para infusión).",
+      "alarma_riesgo": "Riesgo de fibrosis pulmonar irreversible y mielosupresión grave no detectable de forma temprana.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir utilizando recipientes de vidrio o libres de PVC protegidos de la luz durante 1 a 2 horas.;",
+          "Llevar un control semanal del hemograma hasta 6 semanas post-ciclo por su nadir tardío.;",
+          "Monitorear periódicamente la función pulmonar y evaluar cualquier queja de tos seca o disnea.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que la bajada de defensas o plaquetas puede ocurrir varias semanas después de aplicar el fármaco.;",
+          "Informar de inmediato si presenta dificultad para respirar, tos seca persistente o fiebre tardía.;",
+          "Avisar si siente dolor o ardor intenso en el brazo durante la infusión intravenosa."
+        ]
+      }
     }
   ]
 }
