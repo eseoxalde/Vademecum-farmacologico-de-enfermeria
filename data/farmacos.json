@@ -11381,6 +11381,73 @@
           "Brindar contención y explicar la importancia de los controles de laboratorio seriados.;"
         ]
       }
+    },
+    {
+      "id": "146",
+      "nombre_generico": "Suero Antiofídico Polivalente",
+      "letra": "S",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Inmunoglobulinas equinas purificadas específicas contra veneno de serpientes (Bothrops, Crotalus y Lachesis)",
+        "clasificacion": "Antídoto, suero hiperinmune heterólogo",
+        "efecto_terapeutica": "Neutraliza las toxinas circulantes del veneno ofídico, previniendo o revirtiendo el daño tisular, sistémico y coagulopatías",
+        "mecanismo_accion": "Los anticuerpos equinos específicos se unen covalentemente a los antígenos y toxinas del veneno (hemorraginas, neurotoxinas y miotoxinas), neutralizando su actividad biológica y facilitando su depuración"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración exclusiva por vía intravenosa con biodisponibilidad sistémica inmediata",
+        "distribucion": "Se distribuye por el espacio intravascular y líquido extracelular",
+        "metabolismo": "Catabolismo proteico normal de las inmunoglobulinas en el sistema reticuloendotelial",
+        "eliminacion": "Excreción renal y catabolismo sistémico con vida media prolongada (varios días)"
+      },
+      "indicaciones": "Tratamiento de accidentes por mordeduras de serpientes venenosas de los géneros Bothrops (yarará), Crotalus (cascabel) y Lachesis (surucará) en Argentina.",
+      "contraindicaciones": "Hipersensibilidad conocida a las inmunoglobulinas de origen equino (evaluar antecedente de anafilaxia previa).",
+      "precauciones": "Riesgo de reacciones alérgicas agudas (anafilaxia) y enfermedad del suero tardía; disponer siempre de adrenalina al 1:1000 y equipo de reanimación.",
+      "advertencias": "La prueba de sensibilidad cutánea previa no es predictiva de reacciones adversas y no debe retrasar la administración del suero antiofídico.",
+      "embarazo_lactancia": "Ante el riesgo vital por mordedura ofídica ponzoñosa, el embarazo no constituye contraindicación para su uso.",
+      "ajustes": {
+        "renal": "No requiere ajuste específico; tratar las complicaciones renales secundarias al veneno con soporte médico.",
+        "hepatico": "No requiere ajuste específico por insuficiencia hepática."
+      },
+      "interacciones": "Puede disminuir la respuesta inmunológica a vacunas con virus vivos atenuados administradas simultáneamente.",
+      "reacciones_adversas": "Reacción anafilactoide aguda; urticaria; prurito; broncoespasmo; hipotensión arterial; fiebre; enfermedad del suero (días después).",
+      "toxicidad_sobredosis": "Reacciones de hipersensibilidad sistémica severa y sobrecarga de volumen en pacientes pediátricos.",
+      "antidotos": "Adrenalina (epinefrina) intramuscular, antihistamínicos y corticoides para las reacciones anafilácticas.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la evolución local de la lesión, signos vitales, coagulación y sangrados activos.",
+        "laboratorio": "Tiempo de protrombina, KPTT, fibrinógeno, recuento de plaquetas, función renal y hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la gravedad del envenenamiento (leve, moderado o grave) según guías del Ministerio de Salud de Argentina.",
+        "durante": "Monitorear estrechamente los primeros 15-30 minutos de la infusión por riesgo de reacción anafiláctica aguda.",
+        "despues": "Valorar la normalización de los tiempos de coagulación y la detención de la progresión del edema local."
+      },
+      "presentaciones": "Viales de solución inyectable o liofilizado con capacidad neutralizante específica estandarizada.",
+      "dosis": {
+        "adultos": "Dosis inicial según la gravedad clínica (generalmente 2 a 8 viales o más) diluidos en solución fisiológica.",
+        "pediatrico": "Misma cantidad de viales neutralizantes que el adulto, ajustando el volumen de dilución del suero según peso corporal.",
+        "geriatrico": "Dosis según severidad del cuadro clínico evaluando la tolerancia cardiovascular."
+      },
+      "vias_administracion": "Infusión intravenosa exclusiva diluida.",
+      "preparacion": {
+        "dilucion": "Diluir la cantidad de viales indicada en 100 ml a 250 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica."
+      },
+      "velocidad_infusion": "Iniciar a velocidad lenta (goteo inicial de 10-15 gotas por minuto) durante los primeros 15 minutos, luego incrementar según tolerancia hasta completar en 1 a 2 horas.",
+      "estabilidad_soluciones": "Conservar refrigerado entre 2°C y 8°C; no congelar. Utilizar inmediatamente tras su dilución.",
+      "concentracion": "Concentración máxima estandarizada por unidades neutralizantes de veneno por vial.",
+      "alarma_riesgo": "Riesgo de shock anafiláctico grave por administración intravenosa rápida o hipersensibilidad al suero heterólogo.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Tener preparado el carro de paro y adrenalina al 1:1000 antes de iniciar la administración del suero heterólogo.;",
+          "Vigilar estrictamente al paciente durante los primeros 15 minutos de infusión para detectar signos precoces de anafilaxia.;",
+          "Controlar la zona de la mordedura midiendo la progresión del edema y registrando la aparición de sangrados activos.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente la necesidad de recibir el antídoto específico para neutralizar el veneno de la serpiente.;",
+          "Advertir sobre la posibilidad de presentar reacciones alérgicas tardías (fiebre o dolores articulares) en los días posteriores.;",
+          "Instruir sobre la importancia de evitar torniquetes, cortes o remedios caseros en futuros incidentes.;"
+        ]
+      }
     }
   ]
 }
