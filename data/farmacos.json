@@ -18148,6 +18148,73 @@
           "Informar si nota fiebre, escalofríos o hemorragias."
         ]
       }
+    },
+    {
+      "id": "247",
+      "nombre_generico": "Irinotecán",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de irinotecán (CPT-11)",
+        "clasificacion": "Antineoplásico, inhibidor de la topoisomerasa I (derivado de la camptotecina)",
+        "efecto_terapeutica": "Citotóxico de fase S específica activo en adenocarcinoma digestivo y tumores sólidos",
+        "mecanismo_accion": "Prodroga convertida por carboxilesterasas en su metabolito activo SN-38, el cual inhibe la topoisomerasa I impidiendo el relajamiento del ADN y generando roturas letales en las hebras de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas de su metabolito SN-38 (95%); amplio volumen de distribución",
+        "metabolismo": "Hepático y tisular por carboxilesterasas a SN-38 (activo); posterior inactivación por la enzima UGT1A1 a glucurónido de SN-38",
+        "eliminacion": "Excreción biliar y fecal principal (30%) y renal (20%)"
+      },
+      "indicaciones": "Cáncer colorrectal avanzado o metastásico (en combinación con 5-FU/LV en esquemas FOLFIRI o en monoterapia) y cáncer gástrico o pancreático.",
+      "contraindicaciones": "Hipersensibilidad al irinotecán; enfermedad inflamatoria intestinal crónica u obstrucción intestinal; bilirrubina > 3 veces el límite superior; neutropenia severa; embarazo y lactancia.",
+      "precauciones": "Síndrome colinérgico agudo temprano (diaforesis, cólicos, miosis, salivación - prevenible con atropina); diarrea tardía grave (> 24 horas post-infusión); mielosupresión.",
+      "advertencias": "La diarrea tardía puede ser deshidratante y potencialmente mortal. Debe tratarse de inmediato con loperamida a dosis altas.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Usar con precaución en insuficiencia renal; no hay pautas de ajuste bien definidas.",
+        "hepatico": "Reducir la dosis si la bilirrubina está entre 1.5 y 3 mg/dl; contraindicado si bilirrubina es > 3 mg/dl."
+      },
+      "interacciones": "Los inductores de CYP3A4 (anticonvulsivantes, hierba de San Juan) disminuyen los niveles de SN-38; los inhibidores de CYP3A4 o UGT1A1 (ketoconazol, atazanavir) aumentan la toxicidad.",
+      "reacciones_adversas": "Diarrea tardía grave; síndrome colinérgico agudo (diarrea precoz, sudoración, salivación); neutropenia; náuseas; vómitos; alopecia; astenia; dolor abdominal.",
+      "toxicidad_sobredosis": "Diarrea profusa deshidratante e incontrollable y neutropenia febril severa.",
+      "antidotos": "Atropina SC/IV para el síndrome colinérgico agudo e hidratación intensiva con loperamida a dosis altas para la diarrea tardía.",
+      "monitorizacion": {
+        "clinica": "Control de diaforesis y miosis durante la infusión, número de deposiciones diarias post-infusión y signos de deshidratación.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, bilirrubina total, transaminasas y creatinina."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función hepática (bilirrubina) y disponer de atropina para premedicación si aparece síndrome colinérgico.",
+        "durante": "Monitorear cólicos, sudoración o salivación durante la infusión de 90 minutos.",
+        "despues": "Prescribir e instruir el uso inmediato de loperamida ante la primera deposición blanda tardía."
+      },
+      "presentaciones": "Frasco ampolla de 40 mg/2 ml, 100 mg/5 ml y 500 mg/25 ml de solución inyectable concentrada.",
+      "dosis": {
+        "adultos": "180 mg/m² IV cada 2 semanas (en esquema FOLFIRI) o 350 mg/m² IV cada 3 semanas (en monoterapia).",
+        "pediatrico": "50 mg/m² a 125 mg/m² semanales en protocolos hemato-oncológicos específicos.",
+        "geriatrico": "Ajustar la dosis inicial en mayores de 70 años o pacientes frágiles."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis requerida en 250 ml a 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 90 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C).",
+      "concentracion": "20 mg/ml (concentración del concentrado inyectable original).",
+      "alarma_riesgo": "Riesgo de deshidratación grave y shock hipovolémico por diarrea tardía profusa no tratada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar atropina (0.25 a 0.5 mg SC o IV) si el paciente presenta cólicos, sudoración o miosis durante la infusión.;",
+          "Asegurar que el paciente se retire a su domicilio con indicaciones claras y loperamida para la diarrea tardía.;",
+          "Ajustar la dosis según los valores de bilirrubina plasmática.;"
+        ],
+        "educacion_paciente": [
+          "Iniciar loperamida inmediatamente al presentar la primera deposición blanda o líquida tardía y beber abundantes líquidos.;",
+          "Avisar si durante la inyección en el hospital siente retortijones, sudor frío o exceso de saliva.;",
+          "Consultar de urgencia si la diarrea persiste por más de 24 horas o presenta fiebre."
+        ]
+      }
     }
   ]
 }
