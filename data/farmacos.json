@@ -12453,6 +12453,73 @@
           "Consultar al médico inmediatamente si presenta erupción en la piel o diarrea líquida e intensa.;"
         ]
       }
+    },
+    {
+      "id": "162",
+      "nombre_generico": "Cefuroxima",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Cefuroxima",
+        "clasificacion": "Antibiótico, cefalosporina de 2ª generación",
+        "efecto_terapeutica": "Bactericida con mayor actividad frente a bacilos gramnegativos que la primera generación y estabilidad frente a betalactamasas",
+        "mecanismo_accion": "Inhibe la síntesis de la pared celular bacteriana uniéndose a las proteínas fijadoras de penicilina (PBP)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "La cefuroxima axetil oral se absorbe bien y su biodisponibilidad aumenta con los alimentos",
+        "distribucion": "Amplia distribución en tejidos y líquidos, incluyendo líquido sinovial y atraviesa la barrera hematoencefálica con meninges inflamadas",
+        "metabolismo": "No se metaboliza significativamente; la profármaco axetil se hidroliza en la mucosa intestinal",
+        "eliminacion": "Excreción renal por filtración glomerular y secreción tubular inalterada"
+      },
+      "indicaciones": "Infecciones del tracto respiratorio, otitis media, sinusitis, infecciones urinarias, de piel, enfermedad de Lyme y profilaxis quirúrgica.",
+      "contraindicaciones": "Hipersensibilidad a la cefuroxima, cefalosporinas o reacciones anafilácticas previas a betalactámicos.",
+      "precauciones": "Ajuste en insuficiencia renal; antecedente de colitis; alergia cruzada con penicilinas.",
+      "advertencias": "Riesgo de sobreinfección fúngica o bacteriana y colitis pseudomembranosa.",
+      "embarazo_lactancia": "Categoría B en el embarazo; uso seguro. Excreción en baja cantidad en la leche materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis o prolongar el intervalo entre dosis si el clearance de creatinina es menor a 20 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Los antiafármacos que reducen la acidez gástrica disminuyen la absorción de cefuroxima axetil; probenecid eleva sus niveles.",
+      "reacciones_adversas": "Diarrrea; náuseas; vómitos; cefalea; mareos; eosinofilia; elevación de enzimas hepáticas.",
+      "toxicidad_sobredosis": "Irritación cerebral y convulsiones en fallas renales con dosis altas.",
+      "antidotos": "Tratamiento de soporte e hidratación; hemodiálisis para depuración.",
+      "monitorizacion": {
+        "clinica": "Monitorear la respuesta clínica, sitio de punción IV y características de las deposiciones.",
+        "laboratorio": "Función renal y hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de alergias a betalactámicos y función renal.",
+        "durante": "Observar la aparición de signos alérgicos o diarrea.",
+        "despues": "Valorar la remisión de la infección."
+      },
+      "presentaciones": "Comprimidos de 250 mg y 500 mg; suspensión oral de 250 mg/5 ml; frasco ampolla de 750 mg y 1500 mg.",
+      "dosis": {
+        "adultos": "250 mg a 500 mg cada 12 horas por vía oral; o 750 mg a 1500 mg cada 8 horas IV o IM.",
+        "pediatrico": "30 mg/kg/día divididos cada 12 horas por vía oral; o 60 mg/kg a 100 mg/kg/día IV divididos cada 6 u 8 horas.",
+        "geriatrico": "Dosis ajustada a la función renal del paciente."
+      },
+      "vias_administracion": "Vía oral, intravenosa e intramuscular.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con agua estéril y diluir en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administración IV directa en 3 a 5 minutos o en infusión durante 15 a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas refrigerada entre 2°C y 8°C.",
+      "concentracion": "100 mg/ml (concentración máxima recomendada para inyección).",
+      "alarma_riesgo": "Riesgo de convulsiones en falla renal si no se ajusta la dosis.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar el ajuste de la dosis en presencia de disfunción renal.;",
+          "Administrar la versión oral junto con alimentos para favorecer la absorción.;",
+          "Vigilar la aparición de flebitis en el acceso venoso periférico.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos inmediatamente después de las comidas para mejorar su efectividad.;",
+          "No suspender el tratamiento antes del tiempo indicado aunque se sienta mejor.;",
+          "Avisar si presenta diarrea persistente, vómitos o erupciones en la piel.;"
+        ]
+      }
     }
   ]
 }
