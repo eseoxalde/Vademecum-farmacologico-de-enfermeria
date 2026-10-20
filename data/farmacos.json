@@ -10979,6 +10979,73 @@
           "Educar sobre las medidas de prevención ante futuras exposiciones a pesticidas agrícolas.;"
         ]
       }
+    },
+    {
+      "id": "140",
+      "nombre_generico": "Hidroxicobalamina",
+      "letra": "H",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Hidroxicobalamina",
+        "clasificacion": "Antídoto, agente secuestrante de cianuro",
+        "efecto_terapeutica": "Neutraliza rápidamente los iones cianuro formando cianocobalamina (vitamina B12), la cual se excreta de forma segura por vía renal",
+        "mecanismo_accion": "El ión cobalto trivalente de la hidroxicobalamina se combina con el ión cianuro libre en los tejidos y la sangre para formar un complejo inocuo que se elimina mediante la orina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa directa con disponibilidad sistémica inmediata",
+        "distribucion": "Se distribuye ampliamente por el líquido extracelular y tejidos corporales",
+        "metabolismo": "Transformación directa por unión química al cianuro",
+        "eliminacion": "Renal, dando una coloración rojiza característica a la orina y a la piel"
+      },
+      "indicaciones": "Tratamiento de sospecha o confirmación de intoxicación aguda por cianuro (derivado de incendios, inhalación o ingestión).",
+      "contraindicaciones": "Hipersensibilidad conocida a la hidroxicobalamina o a la vitamina B12.",
+      "precauciones": "Puede interferir con la lectura de diversos parámetros analíticos de laboratorio debido a la intensa coloración roja de la solución.",
+      "advertencias": "Produce una coloración roja intensa en la piel, mucosas y orina (cromaturia), aspecto que debe ser anticipado para evitar alarmas.",
+      "embarazo_lactancia": "Dado que la intoxicación por cianuro es una situación potencialmente mortal, el embarazo no constituye una contraindicación para su uso.",
+      "ajustes": {
+        "renal": "Precaución en insuficiencia renal severa, aunque el beneficio vital ante la intoxicación por cianuro prioriza su administración.",
+        "hepatico": "No requiere modificaciones específicas en insuficiencia hepática."
+      },
+      "interacciones": "Incompatible en la misma vía de infusión intravenosa con múltiples fármacos y hemoderivados debido a incompatibilidades físico-químicas.",
+      "reacciones_adversas": "Coloración roja de la piel y orina; hipertensión arterial transitoria; erupción cutánea; náuseas; molestias torácicas leves.",
+      "toxicidad_sobredosis": "Elevación transitoria de la presión arterial y reacciones cutáneas locales.",
+      "antidotos": "Tratamiento de soporte vital avanzado.",
+      "monitorizacion": {
+        "clinica": "Control estricto de constantes vitales, saturación de oxígeno, estado de conciencia y perfusión periférica.",
+        "laboratorio": "Gasometría arterial, niveles de lactato en sangre y función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Identificar signos de intoxicación por cianuro y antecedentes de exposición en incendios o sustancias químicas.",
+        "durante": "Vigilar la respuesta hemodinámica y la reversión de la acidosis láctica grave.",
+        "despues": "Monitorear la evolución neurológica y la depuración del tóxico."
+      },
+      "presentaciones": "Frasco ampolla liofilizado con kit de reconstitución (Cianokit).",
+      "dosis": {
+        "adultos": "5 g administrados por vía intravenosa en infusión durante 15 minutos, pudiendo repetirse una segunda dosis según la gravedad clínica.",
+        "pediatrico": "70 mg/kg de peso corporal administrados por vía intravenosa en infusión durante 15 minutos.",
+        "geriatrico": "Dosis similar a la de adultos, ajustando según patologías asociadas de base."
+      },
+      "vias_administracion": "Infusión intravenosa exclusiva.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con el volumen indicado de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "No mezclar con otros medicamentos en la misma línea de infusión; administrar por vía exclusiva."
+      },
+      "velocidad_infusion": "Infusión intravenosa rápida en un lapso de 15 minutos (aproximadamente 15 ml/min en adultos).",
+      "estabilidad_soluciones": "Una vez reconstituida, debe utilizarse de forma inmediata.",
+      "concentracion": "Concentración máxima tras reconstitución según especificaciones del fabricante del kit.",
+      "alarma_riesgo": "Riesgo de hipertensión arterial transitoria severa durante la infusión rápida.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar una vía venosa exclusiva y permeable para la infusión rápida del antídoto.;",
+          "Advertir al equipo médico y al paciente sobre la aparición inevitable de cromaturia (orina roja) y coloración cutánea transitoria.;",
+          "Monitorear estrictamente la presión arterial durante y después de la infusión intravenosa.;"
+        ],
+        "educacion_paciente": [
+          "Informar al paciente recuperado que la coloración rojiza en la orina y piel es un efecto secundario inofensivo y temporal del medicamento.;",
+          "Explicar la naturaleza de la urgencia toxicológica superada y la importancia del seguimiento clínico posterior.;",
+          "Brindar contención emocional al paciente y sus familiares tras el episodio crítico.;"
+        ]
+      }
     }
   ]
 }
