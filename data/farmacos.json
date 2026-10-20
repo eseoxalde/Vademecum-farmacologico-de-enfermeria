@@ -14865,6 +14865,73 @@
           "Informar si presenta urticaria, picazón o lesiones en la boca."
         ]
       }
+    },
+    {
+      "id": "198",
+      "nombre_generico": "Clindamicina",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Fosfato de clindamicina / Clorhidrato de clindamicina",
+        "clasificacion": "Antibiótico, lincosamida",
+        "efecto_terapeutica": "Bacterostático y bactericida sobre bacterias anaerobias y cocos grampositivos (incluyendo SAMR)",
+        "mecanismo_accion": "Se une a la subunidad 50S del ribosoma bacteriano, inhibiendo la síntesis proteica al bloquear la fase de transpeptidación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción oral (90%); no se altera por alimentos; biodisponibilidad parenteral del 100%",
+        "distribucion": "Amplia distribución en tejidos corporales, hueso, bilis y líquido sinovial; no penetra significativamente al LCR",
+        "metabolismo": "Hepático extenso por el sistema CYP3A4 a metabolitos activos e inactivos",
+        "eliminacion": "Biliar/fecal y renal en forma de metabolitos"
+      },
+      "indicaciones": "Infecciones graves por anaerobios, infecciones osteoarticulares, de piel y tejidos blandos, neumonía por aspiración, fascitis necrotizante y profilaxis de endocarditis.",
+      "contraindicaciones": "Hipersensibilidad a la clindamicina o a la lincomicina.",
+      "precauciones": "Antecedentes de colitis ulcerosa, enteritis regional o colitis asociada a antibióticos; insuficiencia hepática grave.",
+      "advertencias": "Alto riesgo de inducir colitis pseudomembranosa por proliferación de Clostridioides difficile.",
+      "embarazo_lactancia": "Categoría B en el embarazo; uso aceptado cuando es necesario. Se excreta en la leche materna; evaluar riesgo.",
+      "ajustes": {
+        "renal": "No requiere ajustes de dosis en insuficiencia renal.",
+        "hepatico": "No suele requerir ajuste salvo en falla hepática severa combinada."
+      },
+      "interacciones": "Bloqueo neuromuscular potenciado con agentes curarizantes; antagonismo competitivo con eritromicina y cloranfenicol.",
+      "reacciones_adversas": "Diarrea; colitis pseudomembranosa; náuseas; vómitos; dolor abdominal; exantema; tromboflebitis IV; sabor metálico.",
+      "toxicidad_sobredosis": "Diarrea severa, colapso cardiovascular si se administra en bolo IV rápido y convulsiones.",
+      "antidotos": "Tratamiento de soporte; la hemodiálisis no elimina eficazmente el fármaco.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la frecuencia y consistencia de las deposiciones, dolor abdominal y sitio venoso.",
+        "laboratorio": "Pruebas de función hepática y hemograma en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar antecedentes de enfermedades gastrointestinales o colitis previa.",
+        "durante": "Monitorear la presencia de diarrea acuosa intensa o con moco/sangre.",
+        "despues": "Valorar la resolución del proceso infeccioso."
+      },
+      "presentaciones": "Cápsulas de 300 mg; ampolla inyectable de 600 mg/4 ml; solución tópica y óvulos.",
+      "dosis": {
+        "adultos": "Oral: 150 mg a 450 mg cada 6 horas; IV: 600 mg a 1200 mg cada 6 u 8 horas (hasta 2700 mg/día en infecciones graves).",
+        "pediatrico": "20 mg/kg a 40 mg/kg/día divididos cada 6 u 8 horas por vía oral o IV.",
+        "geriatrico": "Dosis habitual observando la tolerancia intestinal."
+      },
+      "vias_administracion": "Vía oral, intravenosa, intramuscular, tópica y vaginal.",
+      "preparacion": {
+        "dilucion": "Diluir la ampolla inyectable en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en 10 a 60 minutos (nunca administrar en bolo IV directo por riesgo de paro cardíaco).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "18 mg/ml (concentración máxima recomendada para infusión IV).",
+      "alarma_riesgo": "Riesgo de paro cardiorrespiratorio por administración directa en bolo e inducción de colitis pseudomembranosa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Nunca administrar en bolo intravenoso directo por riesgo de colapso cardiovascular.;",
+          "Infundir diluido en no menos de 10 a 60 minutos según la dosis posológica.;",
+          "Descontinuar e informar de inmediato ante la presencia de diarrea líquida e intensa.;"
+        ],
+        "educacion_paciente": [
+          "Tomar las cápsulas orales con un vaso lleno de agua para evitar la irritación esofágica.;",
+          "Avisar de inmediato si presenta diarrea frecuente, fiebre o dolor de estómago severo.;",
+          "Informar si nota urticaria o picazón en la piel durante la administración."
+        ]
+      }
     }
   ]
 }
