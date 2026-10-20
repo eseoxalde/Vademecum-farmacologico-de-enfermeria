@@ -17277,6 +17277,73 @@
           "Evitar el contacto con aglomeraciones y personas enfermas durante el tratamiento."
         ]
       }
+    },
+    {
+      "id": "234",
+      "nombre_generico": "Pemetrexed",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Pemetrexed disódico",
+        "clasificacion": "Antineoplásico, antifolato multifuncional",
+        "efecto_terapeutica": "Citotóxico antimetabolito de amplio espectro en tumores sólidos (mesotelioma y cáncer de pulmón)",
+        "mecanismo_accion": "Inhibe simultáneamente múltiples enzimas dependientes de folato: timidilato sintasa, dihidrofolato reductasa y glicinamida ribonucleótido formiltransferasa, bloqueando la síntesis de purinas y pirimidinas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas (81%); volumen de distribución moderado",
+        "metabolismo": "No se metaboliza de forma hepática significativa por el sistema CYP450",
+        "eliminacion": "Excreción renal casi exclusiva por filtración glomerular (70-90% inalterado en 24 horas)"
+      },
+      "indicaciones": "Tratamiento del mesotelioma pleural maligno y cáncer de pulmón no microcítico (CPNM) no escamoso (en monoterapia o combinación).",
+      "contraindicaciones": "Hipersensibilidad al pemetrexed; administración concomitante con la vacuna contra la fiebre amarilla; embarazo y lactancia.",
+      "precauciones": "Riesgo de toxicidad grave (mielosupresión, mucositis) si no se administra suplementación previa obligatoria con ácido fólico y vitamina B12.",
+      "advertencias": "Se deben suspender los AINEs antes y después de la administración por el riesgo de retrasar su eliminación renal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Contraindicado si el clearance es < 45 ml/min; requiere ajuste según la función renal.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada."
+      },
+      "interacciones": "Los AINEs (ibuprofeno, naproxeno) prolongan su eliminación renal aumentando la toxicidad; el probenecid reduce su clearance.",
+      "reacciones_adversas": "Mielosupresión (neutropenia, trombocitopenia, anemia); fatiga; náuseas; vómitos; estomatitis; erupción cutánea; diarrea; edema.",
+      "toxicidad_sobredosis": "Supresión medular grave, infección sistémica y mucositis severa.",
+      "antidotos": "Ácido fólico y vitamina B12 a dosis altas; leucovorina (ácido folínico) como rescate en toxicidad.",
+      "monitorizacion": {
+        "clinica": "Control de toxicidad cutánea, estomatitis, deposiciones, signos de sangrado o infección.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, función renal y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar suplementación obligatoria con ácido fólico oral (diario) y vitamina B12 intramuscular (cada 3 semanas) previa al inicio, y verificar clearance ≥ 45 ml/min.",
+        "durante": "Monitorear la infusión IV y suspender el uso de AINEs según el tiempo de vida media.",
+        "despues": "Valorar el nadir hematológico a los 8-10 días post-infusión."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg, 500 mg y 1000 mg de polvo liofilizado.",
+      "dosis": {
+        "adultos": "500 mg/m² administrados en infusión IV de 10 minutos cada 21 días (en combinación con cisplatino u otros agentes).",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Ajustar dosis según la función renal estimada y cumplimiento de la suplementación vitamínica."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir con solución fisiológica y diluir en 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (incompatible con lactato de Ringer o dextrosa)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período exacto de 10 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o refrigerada (2°C - 8°C).",
+      "concentracion": "25 mg/ml (concentración de la reconstitución inicial).",
+      "alarma_riesgo": "Riesgo de toxicidad letal severa si se omite la suplementación previa con ácido fólico y vitamina B12.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que el paciente haya recibido la suplementación con ácido fólico diario y vitamina B12 inyectable antes de la infusión.;",
+          "Controlar la suspensión temporal de AINEs días antes y después de aplicar el pemetrexed.;",
+          "Infundir diluido exclusivamente en solución fisiológica durante 10 minutos exactos.;"
+        ],
+        "educacion_paciente": [
+          "Recordar tomar las tabletas de ácido fólico diariamente tal como se indicó para prevenir efectos tóxicos graves.;",
+          "Suspender el consumo de analgésicos antiinflamatorios (como ibuprofeno) los días previos y posteriores al tratamiento.;",
+          "Informar de inmediato si presenta fiebre, escalofríos, llagas en la boca o dificultad para respirar."
+        ]
+      }
     }
   ]
 }
