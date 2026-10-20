@@ -12989,6 +12989,73 @@
           "No interrumpir la toma sin indicación médica para evitar la resistencia del virus o daño hepático.;"
         ]
       }
+    },
+    {
+      "id": "170",
+      "nombre_generico": "Inhibidores de Proteasa (Darunavir / Ritonavir / Atazanavir)",
+      "letra": "I",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Darunavir / Atazanavir / Lopinavir (potenciados con Ritonavir o Cobicistat)",
+        "clasificacion": "Antivirales, inhibidores de la proteasa del VIH (IP)",
+        "efecto_terapeutica": "Inhiben la maduración viral produciendo partículas virales inmaduras no infecciosas",
+        "mecanismo_accion": "Inhiben selectivamente la enzima proteasa del VIH-1, impidiendo el procesamiento de los precursores poliproteicos Gag-Pol esenciales para el ciclo de replicación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral variable que se incrementa significativamente cuando se administran con alimentos",
+        "distribucion": "Alta unión a proteínas plasmáticas (alfa-1 glicoproteína ácida); penetración variable en el SNC",
+        "metabolismo": "Hepático extenso por el sistema isoenzimático CYP3A4",
+        "eliminacion": "Excreción biliar y fecal principalmente; mínima eliminación renal inalterada"
+      },
+      "indicaciones": "Tratamiento de la infección por VIH-1 en combinación con otros fármacos antiretrovirales en pacientes vírgenes o experimentados.",
+      "contraindicaciones": "Hipersensibilidad al fármaco; coadministración con medicamentos con estrecho margen terapéutico altamente dependientes de CYP3A4 (ej. simvastatina, ergotamina, midazolam).",
+      "precauciones": "Riesgo de hepatotoxicidad, síndrome de Cushing iatrogénico, hiperglucemia, dislipidemia y prolongación del intervalo PR/QT.",
+      "advertencias": "Potente interacción farmacológica al ser combinados con ritonavir o cobicistat como potenciadores farmacocinéticos.",
+      "embarazo_lactancia": "Darunavir/ritonavir y atazanavir/ritonavir son de preferencia en el embarazo. Lactancia no recomendada en VIH.",
+      "ajustes": {
+        "renal": "No requieren ajustes de dosis en insuficiencia renal.",
+        "hepatico": "Precaución y ajuste de dosis en insuficiencia hepática leve a moderada; contraindicado en insuficiencia severa."
+      },
+      "interacciones": "Múltiples y complejas; interaccionan con anticonceptivos, anticonvulsivantes, rifampicina, estatinas, antiácidos e inhibidores de la bomba de protones.",
+      "reacciones_adversas": "Diarrea; náuseas; dispepsia; exantema cutáneo; hiperbilirrubinemia (frecuente con atazanavir); lipodistrofia; hiperlipidemia.",
+      "toxicidad_sobredosis": "Trastornos del ritmo cardíaco, hepatotoxicidad e ictericia severa.",
+      "antidotos": "Tratamiento sintomático y de soporte; la hemodiálisis no es efectiva por su elevada unión a proteínas.",
+      "monitorizacion": {
+        "clinica": "Monitoreo del perfil lipídico, glucemia, función hepática y presencia de erupciones cutáneas.",
+        "laboratorio": "Transaminasas, bilirrubina total (con atazanavir), colesterol, triglicéridos, glucemia y electrocadiograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función hepática basal, perfil de lípidos y revisar minuciosamente la medicación concomitante.",
+        "durante": "Monitorear la aparición de ictericia (amarillamiento de ojos/piel), exantemas o diarrea.",
+        "despues": "Valorar el control virológico y los cambios metabólicos en análisis de sangre."
+      },
+      "presentaciones": "Comprimidos o cápsulas de concentraciones variables (ej. Darunavir 600 mg/800 mg; Atazanavir 300 mg) combinados o coadministrados con Ritonavir 100 mg.",
+      "dosis": {
+        "adultos": "Esquemas adaptados: ej. Darunavir 800 mg + Ritonavir 100 mg una vez al día con alimentos.",
+        "pediatrico": "Dosis calculada según el peso corporal y la superficie corporal bajo estricto control especialista.",
+        "geriatrico": "Dosis habitual con control estricto de interacciones y perfil cardiovascular."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; formulaciones sólidas orales.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar en su envase original a temperatura ambiente protegido de la humedad.",
+      "concentracion": "Variable según la presentación comercial específica del inhibidor.",
+      "alarma_riesgo": "Alto riesgo de reacciones adversas graves por interacciones medicamentosas no detectadas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar meticulosamente todas las interacciones farmacológicas con la medicación habitual del paciente.;",
+          "Administrar las dosis siempre acompañadas de alimentos para asegurar la absorción adecuada.;",
+          "Controlar periódicamente el perfil lipídico y los niveles de bilirrubina plasmática.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento siempre con una comida completa o refrigerio.;",
+          "Consultar al médico o farmacéutico antes de iniciar cualquier otra medicación, suplemento o hierba.;",
+          "Informar que la coloración amarillenta en los ojos con atazanavir es común y generalmente inofensiva.;"
+        ]
+      }
     }
   ]
 }
