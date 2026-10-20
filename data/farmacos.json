@@ -11649,6 +11649,73 @@
           "Educar sobre medidas preventivas domiciliarias para evitar la presencia de escorpiones.;"
         ]
       }
+    },
+    {
+      "id": "150",
+      "nombre_generico": "Antitoxina Botulínica",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Inmunoglobulinas equinas purificadas específicas contra neurotoxinas de Clostridium botulinum (tipos A, B, E)",
+        "clasificacion": "Antídoto, suero hiperinmune heterólogo antitóxico",
+        "efecto_terapeutica": "Neutraliza la toxina botulínica libre en el torrente sanguíneo impidiendo el empeoramiento de la parálisis motora",
+        "mecanismo_accion": "Los anticuerpos equinos específicos se unen a las moléculas de neurotoxina botulínica circulante antes de su fijación irreversible a los receptores presinápticos en la placa neuromuscular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa directa con disponibilidad sistémica inmediata",
+        "distribucion": "Se distribuye en el espacio intravascular neutralizando la toxina no fijada",
+        "metabolismo": "Catabolismo proteico normal de las inmunoglobulinas por el sistema reticuloendotelial",
+        "eliminacion": "Excreción y depuración catabólica lenta con vida media prolongada"
+      },
+      "indicaciones": "Tratamiento de sospecha o confirmación de botulismo alimentario, de heridas o infantil.",
+      "contraindicaciones": "Hipersensibilidad conocida a las inmunoglobulinas de origen equino.",
+      "precauciones": "Riesgo elevado de anafilaxia y enfermedad del suero; contar con adrenalina al 1:1000 y equipo de reanimación.",
+      "advertencias": "La antitoxina no revierte la parálisis previa ya establecida, únicamente frena la progresión de la enfermedad.",
+      "embarazo_lactancia": "Dada la gravedad vital de la intoxicación botulínica, su uso está plenamente indicado en embarazadas.",
+      "ajustes": {
+        "renal": "No requiere ajustes específicos de dosis.",
+        "hepatico": "No requiere ajustes específicos de dosis."
+      },
+      "interacciones": "Interfiere temporalmente con la respuesta inmune a vacunas compuestas por virus vivos atenuados.",
+      "reacciones_adversas": "Shock anafiláctico; urticaria; fiebre; broncoespasmo; hipotensión arterial; enfermedad del suero tardía.",
+      "toxicidad_sobredosis": "Reacciones de hipersensibilidad sistémica severa y sobrecarga hemodinámica.",
+      "antidotos": "Adrenalina (epinefrina) intramuscular, antihistamínicos y corticoides para manejo de anafilaxia.",
+      "monitorizacion": {
+        "clinica": "Monitoreo continuo de la función respiratoria, capacidad deglutoria y signos de anafilaxia.",
+        "laboratorio": "Gasometría arterial, capacidad vital forzada y detección de toxina en suero o heces."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar el grado de compromiso neuromuscular basal y la permeabilidad de la vía aérea.",
+        "durante": "Monitorear estrechamente los primeros 30 minutos de la infusión intravenosa para detectar reacciones alérgicas.",
+        "despues": "Valorar la detención de la parálisis descendente y la estabilidad ventilatoria."
+      },
+      "presentaciones": "Viales de solución inyectable o liofilizado con unidades neutralizantes estandarizadas.",
+      "dosis": {
+        "adultos": "1 vial administrado por vía intravenosa lo antes posible tras el diagnóstico clínico.",
+        "pediatrico": "Dosis calculada o 1 vial administrado por vía intravenosa según guías del Ministerio de Salud.",
+        "geriatrico": "Dosis similar a la de adultos bajo estricto control hemodinámico y ventilatorio."
+      },
+      "vias_administracion": "Infusión intravenosa lenta exclusiva.",
+      "preparacion": {
+        "dilucion": "Diluir el vial en solución fisiológica al 1:10 antes de su administración.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica."
+      },
+      "velocidad_infusion": "Goteo inicial muy lento (0,5 ml/minuto) durante 15-30 minutos, incrementando progresivamente si hay tolerancia.",
+      "estabilidad_soluciones": "Conservar refrigerado entre 2°C y 8°C; utilizar inmediatamente tras su dilución.",
+      "concentracion": "Concentración estandarizada por unidades neutralizantes específicas por vial.",
+      "alarma_riesgo": "Riesgo de paro respiratorio por anafilaxia aguda o progresión rápida de la parálisis neurodegenerativa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Disponer de equipo de intubación endotraqueal y adrenalina preparada antes de iniciar la infusión.;",
+          "Vigilar la mecánica respiratoria y la capacidad vital del paciente de forma continua.;",
+          "Controlar la aparición de signos precoces de hipersensibilidad o broncoespasmo durante el goteo.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente o familiares la función del antídoto para frenar la parálisis muscular.;",
+          "Informar sobre la necesidad de soporte ventilatorio continuo si hay compromiso respiratorio.;",
+          "Advertir sobre la posibilidad de presentar fiebre o erupciones cutáneas días después del tratamiento.;"
+        ]
+      }
     }
   ]
 }
