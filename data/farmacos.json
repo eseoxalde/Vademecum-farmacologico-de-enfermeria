@@ -13190,6 +13190,73 @@
           "Informar de inmediato si nota cambios en el volumen de orina o mareos intensos.;"
         ]
       }
+    },
+    {
+      "id": "173",
+      "nombre_generico": "Oseltamivir",
+      "letra": "O",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Fosfato de oseltamivir",
+        "clasificacion": "Antiviral, inhibidor de la neuraminidasa",
+        "efecto_terapeutica": "Inhibe la replicación y propagación de los virus de la influenza tipo A y B",
+        "mecanismo_accion": "Inhibe selectivamente la neuraminidasa del virus de la influenza, impidiendo la liberación de nuevos viriones desde las células infectadas y deteniendo la diseminación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción gastrointestinal con una biodisponibilidad del 75%; los alimentos no alteran su absorción",
+        "distribucion": "Amplia distribución en vías respiratorias superiores e inferiores y tejido pulmonar",
+        "metabolismo": "Hepático extenso por esterasas hepáticas convertido en su metabolito activo oseltamivir carboxilato",
+        "eliminacion": "Excreción renal casi exclusiva (> 99%) por filtración y secreción tubular"
+      },
+      "indicaciones": "Tratamiento y prevención de la gripe (influenza A y B) en adultos y niños, incluyendo lactantes.",
+      "contraindicaciones": "Hipersensibilidad al fosfato de oseltamivir o a cualquiera de los excipientes.",
+      "precauciones": "Ajuste de dosis en insuficiencia renal; monitoreo de eventos neuropsiquiátricos en niños y adolescentes.",
+      "advertencias": "No sustituye la vacunación anual contra la influenza; debe iniciarse dentro de las primeras 48 horas de los síntomas.",
+      "embarazo_lactancia": "Uso recomendado y seguro en mujeres embarazadas con sospecha o confirmación de influenza. Compatible con la lactancia.",
+      "ajustes": {
+        "renal": "Reducir la dosis si el clearance de creatinina es menor a 60 ml/min.",
+        "hepatico": "No requiere ajuste de dosis en insuficiencia hepática."
+      },
+      "interacciones": "El probenecid reduce el clearance renal del metabolito activo aumentando su exposición plasmática al doble.",
+      "reacciones_adversas": "Náuseas; vómitos; cefalea; dolor abdominal; dispepsia; insomnio; reacciones neuropsiquiátricas raras en pediatría.",
+      "toxicidad_sobredosis": "Náuseas y vómitos intensos.",
+      "antidotos": "Tratamiento de soporte sintomático.",
+      "monitorizacion": {
+        "clinica": "Control de la temperatura corporal, síntomas respiratorios y conducta en pacientes pediátricos.",
+        "laboratorio": "Clearance de creatinina e identificación viral por PCR si se requiere."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la duración de los síntomas (ideal inicio < 48 hs) y la función renal.",
+        "durante": "Monitorear la reducción de la fiebre y la tolerancia digestiva.",
+        "despues": "Valorar la resolución completa de los síntomas gripales."
+      },
+      "presentaciones": "Cápsulas de 30 mg, 45 mg y 75 mg; polvo para suspensión oral de 6 mg/ml.",
+      "dosis": {
+        "adultos": "Tratamiento: 75 mg cada 12 horas durante 5 días; Prevención: 75 mg una vez al día por 10 días.",
+        "pediatrico": "Dosificación ponderal según peso corporal: <15 kg: 30 mg c/12h; 15-23 kg: 45 mg c/12h; 23-40 kg: 60 mg c/12h; >40 kg: 75 mg c/12h.",
+        "geriatrico": "Dosis habitual ajustando de acuerdo con la función renal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "Reconstituir el polvo para suspensión con agua potable; o abrir cápsula y mezclar con jarabe dulce si no hay suspensión.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "La suspensión reconstituida se conserva 10 días a temperatura ambiente o 17 días refrigerada (2°C - 8°C).",
+      "concentracion": "75 mg por cápsula.",
+      "alarma_riesgo": "Riesgo de retraso terapéutico si no se administra dentro de las primeras 48 horas del cuadro.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Iniciar la administración lo más rápido posible tras el inicio de los síntomas gripales.;",
+          "Administrar el medicamento junto con los alimentos para disminuir náuseas y vómitos.;",
+          "Vigilar cambios repentinos de conducta en niños o adolescentes durante el tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Completar los 5 días de tratamiento aunque los síntomas desaparezcan antes.;",
+          "Tomar la cápsula o suspensión acompañada de alguna comida o leche para evitar malestar estomacal.;",
+          "Consultar al médico si se observan alucinaciones o agitación en pacientes jóvenes.;"
+        ]
+      }
     }
   ]
 }
