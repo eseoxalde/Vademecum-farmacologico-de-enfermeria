@@ -15736,6 +15736,73 @@
           "Informar al personal si nota cambios en la cantidad de orina eliminada.;"
         ]
       }
+    },
+    {
+      "id": "211",
+      "nombre_generico": "Bendamustina",
+      "letra": "B",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de bendamustina",
+        "clasificacion": "Antineoplásico, agente alquilante bifuncional con anillo purínico",
+        "efecto_terapeutica": "Citotóxico e inductor de apoptosis intracelular en células linfoides malignas",
+        "mecanismo_accion": "Forma enlaces cruzados mecatrónicos en las cadenas de ADN mono y bicatenarias, causando la rotura de hebras, inhibición de la síntesis del ADN y detención del ciclo celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas (> 95%); volumen de distribución moderado",
+        "metabolismo": "Hepático extenso por hidrólisis y por el sistema CYP1A2 a metabolitos activos e inactivos",
+        "eliminacion": "Excreción renal (45%) y biliar/fecal (50%) en forma de metabolitos"
+      },
+      "indicaciones": "Tratamiento de primera línea de la leucemia linfocítica crónica (LLC), linfoma no Hodgkin indolente en progresión e mieloma múltiple.",
+      "contraindicaciones": "Hipersensibilidad a la bendamustina; insuficiencia hepática grave; mielosupresión grave; infecciones activas no controladas.",
+      "precauciones": "Riesgo de mielosupresión severa (neutropenia, trombocitopenia); síndrome de lisis tumoral; reacciones de infusión.",
+      "advertencias": "Requiere profilaxis antiviral y contra Pneumocystis jirovecii por linfopenia prolongada y neutropenia grave.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste si el clearance es ≥ 30 ml/min; evitar en clearance < 30 ml/min.",
+        "hepatico": "Contraindicado en insuficiencia hepática moderada o severa (bilirrubina > 3 veces el límite superior)."
+      },
+      "interacciones": "Inhibidores del CYP1A2 (ciprofloxacino, fluvoxamina) aumentan sus niveles; medicamentos mielosupresores potencian la toxicidad hematológica.",
+      "reacciones_adversas": "Mielosupresión (neutropenia, trombocitopenia, anemia); náuseas; vómitos; fiebre; astenia; exantema; síndrome de lisis tumoral.",
+      "toxicidad_sobredosis": "Mielosupresión irrecuperable, toxicidad cardíaca y neurotoxicidad.",
+      "antidotos": "Tratamiento de soporte, factores de crecimiento hematopoyético y transfusiones.",
+      "monitorizacion": {
+        "clinica": "Control riguroso de temperatura corporal, signos de infección, sangrados y sitio de venoclisis.",
+        "laboratorio": "Hemograma completo semanal, ácido úrico, potasio, fósforo, calcio y transaminasas."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar recuento de neutrófilos (> 1.500/mm³), plaquetas (> 75.000/mm³) y administrar alopurinol para prevenir lisis tumoral.",
+        "durante": "Monitorear la infusión por reacciones alérgicas o eritema local.",
+        "despues": "Valorar el nadir de mielosupresión a las 2 a 3 semanas post-ciclo."
+      },
+      "presentaciones": "Frasco ampolla de 25 mg y 100 mg de liofilizado.",
+      "dosis": {
+        "adultos": "LLC: 100 mg/m² los días 1 y 2 cada 28 días; Linfoma no Hodgkin: 120 mg/m² los días 1 y 2 cada 21 días.",
+        "pediatrico": "Uso no establecido en pediatría.",
+        "geriatrico": "Dosis habitual ajustada según la tolerancia hematológica y estado general."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir el vial con agua estéril y diluir en 500 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica."
+      },
+      "velocidad_infusion": "Administrar la infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 3,5 horas a temperatura ambiente o 24 horas bajo refrigeración (2°C - 8°C).",
+      "concentracion": "0,6 mg/ml (concentración máxima recomendada en la bolsa para infusión).",
+      "alarma_riesgo": "Riesgo de neutropenia febril grave e infecciones oportunistas por inmunosupresión profunda.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Manipular con normas de bioseguridad para fármacos citostáticos e infundir diluido en solución fisiológica.;",
+          "Garantizar la hidratación previa y la administración de alopurinol contra la lisis tumoral.;",
+          "Controlar semanalmente el hemograma completo para vigilar la caída de neutrófilos.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que es una quimioterapia hospitalaria para enfermedades de la sangre.;",
+          "Avisar de inmediato ante cualquier pico de fiebre, escalofríos, tos o hematomas inusuales.;",
+          "Evitar el contacto con personas enfermas o con infecciones activas durante el tratamiento.;"
+        ]
+      }
     }
   ]
 }
