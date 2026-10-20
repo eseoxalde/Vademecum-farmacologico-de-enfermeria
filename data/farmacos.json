@@ -15200,6 +15200,73 @@
           "Consultar al médico de inmediato si nota coloración amarillenta en los ojos o piel."
         ]
       }
+    },
+    {
+      "id": "203",
+      "nombre_generico": "Fosfomicina",
+      "letra": "F",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Fosfomicina trometamol / Fosfomicina disódica",
+        "clasificacion": "Antibiótico, derivado del ácido fosfónico",
+        "efecto_terapeutica": "Bactericida de amplio espectro activo contra gérmenes grampositivos y gramnegativos uropatógenos (incluidos BLEE)",
+        "mecanismo_accion": "Inhibe la primera etapa de la síntesis de la pared celular bacteriana al bloquear la enzima UDP-N-acetilglucosamina enolpiruvil transferasa (MurA)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción oral de la sal trometamol; biodisponibilidad del 40% reducida por alimentos; parenteral directa IV con disponibilidad del 100%",
+        "distribucion": "Alta concentración en orina, tejido renal y pared vesical; penetra moderadamente en tejidos y LCR",
+        "metabolismo": "No sufre metabolismo metabólico",
+        "eliminacion": "Excreción renal inalterada por filtración glomerular (> 90%) alcanzando niveles urinarios muy elevados por 48 horas"
+      },
+      "indicaciones": "Tratamiento de infecciones urinarias bajas no complicadas (cistitis aguda) en dosis única; infecciones complicadas o multirresistentes por vía IV.",
+      "contraindicaciones": "Hipersensibilidad a la fosfomicina; insuficiencia renal grave (clearance de creatinina < 10 ml/min); hemodiálisis.",
+      "precauciones": "Precaución en pacientes con sobrecarga de sodio (presentación IV contiene sodio); evitar alimentos en la forma oral.",
+      "advertencias": "Riesgo de reacciones anafilácticas y colitis pseudomembranosa por Clostridioides difficile.",
+      "embarazo_lactancia": "Categoría B en el embarazo; de elección y seguro en cistitis gestacional. Compatible con la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste en dosis única oral; ajustar dosis en vía IV si el clearance es menor a 50 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "La metoclopramida reduce la absorción oral y concentraciones urinarias de fosfomicina; los alimentos disminuyen su biodisponibilidad.",
+      "reacciones_adversas": "Diarrea; náuseas; dispepsia; cefalea; mareos; vulvovaginitis; hipernatremia e hipopotasemia (vía IV).",
+      "toxicidad_sobredosis": "Diarrea severa, desequilibrio hidroelectrolítico e hipernatremia.",
+      "antidotos": "Tratamiento de soporte e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control de los síntomas urinarios, consistencia de deposiciones y electrolitos plasmáticos (vía IV).",
+        "laboratorio": "Urocultivo de control, ionograma sérico (sodio/potasio) en uso IV."
+      },
+      "parametros_valoracion": {
+        "antes": "Instruir la toma oral en ayunas o 2 a 3 horas después de comer con la vejiga vacía.",
+        "durante": "Monitorear la reducción de la disuria y la ausencia de diarrea severa.",
+        "despues": "Valorar la erradicación del uropatógeno."
+      },
+      "presentaciones": "Sobres de granulado oral de 3 g (fosfomicina trometamol); frasco ampolla IV de 2 g y 4 g.",
+      "dosis": {
+        "adultos": "Cistitis aguda: 3 g en dosis única por vía oral; Infecciones graves IV: 4 g a 8 g cada 8 horas.",
+        "pediatrico": "Oral: 2 g dosis única en mayores de 6 años; IV: 100 mg/kg a 200 mg/kg/día divididos cada 8 horas.",
+        "geriatrico": "Dosis única oral habitual; ajustar dosis IV de acuerdo a la función renal."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Disolver el sobre de granulado en un vaso de agua e ingerir inmediatamente; para IV diluir el vial en 100 ml a 250 ml de agua estéril o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con agua para inyección, dextrosa al 5% y solución fisiológica."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Tomar la solución oral recién preparada; la solución IV es estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "40 mg/ml (concentración sugerida para infusión IV).",
+      "alarma_riesgo": "Riesgo de sobrecarga hídrica e hipernatremia por el alto contenido de sodio en la formulación parenteral.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar el granulado oral disuelto en agua con el estómago vacío (2 horas antes o después de ingerir alimentos).;",
+          "Monitorear los niveles de sodio y potasio en sangre durante la infusión IV prolongada.;",
+          "Controlar la diuresis y la resolución de la disuria urinaria.;"
+        ],
+        "educacion_paciente": [
+          "Disolver la totalidad del contenido del sobre en medio vaso de agua e ingerir inmediatamente antes de acostarse con la vejiga vacía.;",
+          "No tomar el remedio acompañado de alimentos pesados para no perder su efecto.;",
+          "Informar si presenta diarrea constante o inflamación vaginal tras la toma."
+        ]
+      }
     }
   ]
 }
