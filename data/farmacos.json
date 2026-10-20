@@ -11247,6 +11247,73 @@
           "Informar acerca de las medidas de prevención ambiental para evitar nuevas exposiciones al plomo.;"
         ]
       }
+    },
+    {
+      "id": "144",
+      "nombre_generico": "Dimercaprol (BAL)",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Dimercaprol (British Anti-Lewisite)",
+        "clasificacion": "Antídoto, agente quelante ditiol",
+        "efecto_terapeutica": "Forma complejos estables con metales pesados intracelulares revirtiendo la inhibición enzimática sulfhidrilo",
+        "mecanismo_accion": "Los grupos sulfhidrilos libres del dimercaprol compiten con los grupos sulfhidrilos tisulares por los iones metálicos tóxicos (arsénico, mercurio, plomo), formando complejos quelatados hidrosolubles que se excretan por la orina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intramuscular exclusiva debido a su formulación en aceite de cacahuete",
+        "distribucion": "Se distribuye ampliamente por los tejidos corporales, alcanzando altas concentraciones en hígado, riñones y cerebro",
+        "metabolismo": "Hepático rápido a metabolitos inactivos",
+        "eliminacion": "Excreción renal principalmente en forma de conjugados glucurónidos"
+      },
+      "indicaciones": "Tratamiento de la intoxicación aguda por arsénico, mercurio inorgánico, oro y plomo (en combinación con EDTA).",
+      "contraindicaciones": "Hipersensibilidad al dimercaprol; insuficiencia hepática severa (excepto si se debe a intoxicación por arsénico); intoxicación por cadmio, hierro o selenio.",
+      "precauciones": "Precaución en pacientes con hipertensión arterial, deficiencia de G6PD y úlcera péptica.",
+      "advertencias": "Produce una alta incidencia de reacciones adversas sistémicas, especialmente fiebre y dolor en niños.",
+      "embarazo_lactancia": "Evaluar riesgo vital materno ante intoxicaciones graves por metales pesados.",
+      "ajustes": {
+        "renal": "No requiere ajuste específico, pero se debe vigilar la función renal por la nefrotoxicidad del complejo metálico.",
+        "hepatico": "Contraindicado en disfunción hepática grave preexistente por imposibilidad de metabolización."
+      },
+      "interacciones": "Forma complejos tóxicos con sales de hierro, cadmio y selenio, por lo que no debe administrarse de manera simultánea.",
+      "reacciones_adversas": "Elevación transitoria de la presión arterial; taquicardia; náuseas; vómitos; cefalea; dolor y abscesos estériles en el sitio de inyección intramuscular.",
+      "toxicidad_sobredosis": "Hipertensión severa, convulsiones, coma y hipercalcemia transitoria.",
+      "antidotos": "Antihistamínicos para controlar las reacciones alérgicas y medidas de soporte vital.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la presión arterial, frecuencia cardíaca, temperatura corporal y diuresis.",
+        "laboratorio": "Función renal, ionograma y niveles del metal pesado en orina de 24 horas."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar el tipo de metal pesado involucrado, función hepática y renal basal.",
+        "durante": "Monitorear la aparición de picos hipertensivos y reacciones febriles tras la inyección.",
+        "despues": "Valorar la mejoría clínica general y la depuración del tóxico metálico."
+      },
+      "presentaciones": "Ampollas de solución oleosa inyectable al 10% (100 mg/ml en aceite de maní).",
+      "dosis": {
+        "adultos": "2,5 mg/kg a 3 mg/kg por vía intramuscular profunda cada 4 a 6 horas durante los primeros días según esquema toxicológico.",
+        "pediatrico": "3 mg/kg por vía intramuscular profunda cada 4 a 6 horas según la gravedad del cuadro.",
+        "geriatrico": "Ajustar dosis según función orgánica y estado clínico general."
+      },
+      "vias_administracion": "Intramuscular profunda exclusivamente.",
+      "preparacion": {
+        "dilucion": "Formulación comercial lista para uso en solución oleosa intramuscular.",
+        "compatibilidad_iv": "No administrar por vía intravenosa bajo ninguna circunstancia debido al riesgo de toxicidad cardiovascular severa."
+      },
+      "velocidad_infusion": "Administración intramuscular profunda lenta.",
+      "estabilidad_soluciones": "Conservar en su envase original protegido de la luz a temperatura ambiente.",
+      "concentracion": "100 mg/ml (solución al 10%).",
+      "alarma_riesgo": "Riesgo de hipertensión arterial grave, taquicardia y daño tisular local si se administra por vía intravenosa o superficial.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Rotar estrictamente los sitios de inyección intramuscular profunda para minimizar el riesgo de abscesos y dolor local.;",
+          "Controlar la presión arterial y la frecuencia cardíaca de forma seriada tras cada aplicación del fármaco.;",
+          "Administrar un antihistamínico previo por indicación médica para reducir la incidencia de reacciones febriles y alérgicas.;"
+        ],
+        "educacion_paciente": [
+          "Informar al paciente sobre la posibilidad de experimentar dolor muscular, cefalea o malestar general tras la inyección.;",
+          "Explicar la necesidad de permanecer en reposo posterior a la administración intramuscular.;",
+          "Educar sobre los cuidados de la zona de punción para evitar complicaciones locales.;"
+        ]
+      }
     }
   ]
 }
