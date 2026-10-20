@@ -13592,6 +13592,73 @@
           "Tratar simultáneamente a la pareja en casos de infección de transmisión sexual.;"
         ]
       }
+    },
+    {
+      "id": "179",
+      "nombre_generico": "Benznidazol",
+      "letra": "B",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Benznidazol",
+        "clasificacion": "Antiparasitario, tripanosomicida (nitroimidazol)",
+        "efecto_terapeutica": "Elimina o reduce la carga parasitaria de Trypanosoma cruzi en la enfermedad de Chagas",
+        "mecanismo_accion": "Se reduce intracelularmente produciendo radicales libres e intermediarios reactivos que lesionan el ADN, proteínas y lípidos del parásito"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y buena absorción gastrointestinal con pico plasmático a las 2-4 horas",
+        "distribucion": "Amplia distribución tisular en órganos infectados por el parásito",
+        "metabolismo": "Hepático mediante nitroreductasas a metabolitos inactivos",
+        "eliminacion": "Renal (40-50%) y fecal"
+      },
+      "indicaciones": "Tratamiento de la enfermedad de Chagas aguda, congénita, reactivaciones y fase crónica reciente en Argentina.",
+      "contraindicaciones": "Hipersensibilidad al benznidazol; insuficiencia hepática o renal severa; embarazo.",
+      "precauciones": "Alta tasa de efectos adversos cutáneos, neurológicos y hematológicos; requiere estricto seguimiento médico.",
+      "advertencias": "Riesgo de dermopatía por hipersensibilidad severa (síndrome de Stevens-Johnson), agranulocitosis y polineuropatía.",
+      "embarazo_lactancia": "Contraindicado en el embarazo. Evitar la lactancia materna durante el tratamiento.",
+      "ajustes": {
+        "renal": "Contraindicado en insuficiencia renal severa; usar con precaución en leve a moderada.",
+        "hepatico": "Contraindicado en insuficiencia hepática severa."
+      },
+      "interacciones": "Efecto disulfiram con el alcohol; precaución con fármacos mielosupresores o hepatotóxicos.",
+      "reacciones_adversas": "Erupciones cutáneas (dermatitis); parestesias; neuropatía periférica; náuseas; leucopenia; agranulocitosis; fiebre.",
+      "toxicidad_sobredosis": "Depresión de médula ósea, neurotoxicidad periférica severa y erupción cutánea exfoliativa.",
+      "antidotos": "Suspender el fármaco y administrar tratamiento de soporte, antihistamínicos o corticoides.",
+      "monitorizacion": {
+        "clinica": "Control semanal de piel, estado neurológico, sensibilidad periférica y función hepática.",
+        "laboratorio": "Hemograma completo con recuento de plaquetas y transaminasas cada 2 a 3 semanas."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar embarazo, realizar hemograma y pruebas de función hepática/renal basales.",
+        "durante": "Monitorear la aparición de erupciones en piel, fiebre, dolor articular o adormecimiento en manos/pies.",
+        "despues": "Realizar seguimiento serológico para Chagas según protocolos del Ministerio de Salud."
+      },
+      "presentaciones": "Comprimidos de 100 mg (y comprimidos fraccionables de 12,5 mg pediátricos).",
+      "dosis": {
+        "adultos": "5 mg/kg a 7 mg/kg/día divididos en 2 tomas diarias por 60 días (máximo 300 mg/día).",
+        "pediatrico": "5 mg/kg a 10 mg/kg/día divididos en 2 tomas diarias por 60 días.",
+        "geriatrico": "Evaluación individualizada del riesgo-beneficio según comorbilidades."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; se puede disolver o triturar para uso pediátrico.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegido de la luz y humedad.",
+      "concentracion": "100 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de neutropenia grave, Stevens-Johnson y neuropatía periférica irreversible si no se detectan a tiempo.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Realizar un control cutáneo diario para detectar tempranamente erupciones o dermatitis.;",
+          "Garantizar la realización de hemogramas seriados durante los 60 días de tratamiento.;",
+          "Suspender el fármaco e informar de inmediato ante signos de neuropatía (parestesias) o neutropenia.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento todos los días divididos en dos dosis después de comer.;",
+          "No tomar bebidas alcohólicas durante los dos meses que dura el tratamiento.;",
+          "Avisar de inmediato si aparece sarpullido en la piel, fiebre o adormecimiento en los pies.;"
+        ]
+      }
     }
   ]
 }
