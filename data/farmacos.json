@@ -16406,6 +16406,73 @@
           "Notificar si la orina adquiera un color marrón o rojo oscuro (signo de daño muscular)."
         ]
       }
+    },
+    {
+      "id": "221",
+      "nombre_generico": "Cisplatino",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Cisplatino",
+        "clasificacion": "Antineoplásico, complejo de coordinación de platino",
+        "efecto_terapeutica": "Citotóxico no específico del ciclo celular potente e inmunosupresor",
+        "mecanismo_accion": "El átomo de platino se une covalentemente a las posiciones N-7 de la purina en el ADN, formando aductos intracadena e intercadena que bloquean la replicación y la transcripción"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas irreversibles (> 90%); concentraciones elevadas en riñones, hígado y testículos",
+        "metabolismo": "Inactivación química no enzimática por sustitución de cloruros con nucleófilos celulares",
+        "eliminacion": "Excreción renal prolongada (20-40% en 24 horas y persistencia tisular por meses)"
+      },
+      "indicaciones": "Carcinoma testicular, de ovario, de vejiga, de cabeza y cuello, de cérvix, osteosarcoma y cáncer de pulmón no microcítico y microcítico.",
+      "contraindicaciones": "Hipersensibilidad al cisplatino u otros platinos; insuficiencia renal preexistente; compromiso auditivo previo; mielosupresión grave.",
+      "precauciones": "Riesgo muy elevado de nefrotoxicidad severa (prevenible con hiperhidratación y manitol); emetógeno alto; ototoxicidad y neuropatía periférica.",
+      "advertencias": "Requiere hidratación parenteral abundante previa y posterior a la administración para prevenir necrosis tubular renal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de malformaciones y toxicidad fetal. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "Contraindicado si el clearance es < 30 ml/min; reducir la dosis al 50% si el clearance es de 30 a 50 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Sinergismo de nefrotoxicidad y ototoxicidad con aminoglucósidos, vancomicina, furosemida y colistina; disminuye niveles de fenitoína.",
+      "reacciones_adversas": "Nefrotoxicidad; náuseas y vómitos graves (altamente emetógeno); ototoxicidad (tinnitus, hipoacusia de alta frecuencia); neuropatía periférica; mielosupresión.",
+      "toxicidad_sobredosis": "Fallo renal agudo irreversible, sordera permanente, mielosupresión severa y neurotoxicidad central.",
+      "antidotos": "Tratamiento de soporte, hiperhidratación con forzado de diuresis con manitol y tiosulfato de sodio (investigacional).",
+      "monitorizacion": {
+        "clinica": "Control estricto de la diuresis horaria (> 100 ml/hora), audiometría, síntomas auditivos, parestesias y vómitos.",
+        "laboratorio": "Urea, creatinina, clearance de creatinina, magnesio, potasio, calcio y hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar prehidratación con solución fisiológica (1 a 2 litros) con magnesio y administrar antieméticos antagonistas 5-HT3 y neurocinina.",
+        "durante": "Garantizar una diuresis continua mediante el uso de manitol si la orina cae por debajo de 100 ml/hora.",
+        "despues": "Continuar con poshidratación IV durante 24 horas post-infusión."
+      },
+      "presentaciones": "Frasco ampolla de 10 mg/10 ml, 50 mg/50 ml y 100 mg/100 ml de solución inyectable.",
+      "dosis": {
+        "adultos": "Monoterapia: 50 mg/m² a 120 mg/m² IV cada 3 a 4 semanas; Combinado: 20 mg/m² a 40 mg/m²/día por 5 días consecutivos.",
+        "pediatrico": "30 mg/m² a 60 mg/m²/día por 3 días cada 3 o 4 semanas con estricto manejo de líquidos.",
+        "geriatrico": "Ajustar dosis según la función renal estimada y considerar la fragilidad auditiva."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis calculada en 500 ml a 1000 ml de solución fisiológica (debe contener cloruro de sodio para mantener estabilidad).",
+        "compatibilidad_iv": "Compatible exclusivamente con soluciones con cloruro de sodio (inestable en agua o dextrosa sin cloruros)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 1 a 2 horas (o infusión continua de 24 horas).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente; no refrigerar por riesgo de precipitación de cristales.",
+      "concentracion": "1 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo muy elevado de insuficiencia renal aguda e hipoacusia irreversible si se administra sin hiperhidratación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Garantizar la hiperhidratación parenteral con cloruro de sodio previa y posterior al cisplatino.;",
+          "Medir y registrar la diuresis horaria asegurando un flujo mínimo de 100 ml/hora.;",
+          "No refrigerar las soluciones diluidas para prevenir la formación de precipitados.;"
+        ],
+        "educacion_paciente": [
+          "Beber abundante cantidad de líquidos en casa en los días posteriores al tratamiento.;",
+          "Avisar de inmediato si nota reducción en la orina, vómitos incontrolables o zumbidos en los oídos.;",
+          "Notificar si siente hormigueo o adormecimiento en las manos o pies."
+        ]
+      }
     }
   ]
 }
