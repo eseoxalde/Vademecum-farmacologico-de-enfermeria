@@ -14999,6 +14999,73 @@
           "Notificar al personal si presenta deposiciones líquidas frecuentes."
         ]
       }
+    },
+    {
+      "id": "200",
+      "nombre_generico": "Nitrofurantoína",
+      "letra": "N",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Nitrofurantoína",
+        "clasificacion": "Antibacteriano, nitrofuranocito urinario",
+        "efecto_terapeutica": "Bactericida concentrado exclusivamente en la vía urinaria sobre bacterias uropatógenas (E. coli, Enterococcus)",
+        "mecanismo_accion": "Se reduce por nitroreductasas bacterianas a metabolitos reactivos que atacan las proteínas ribosómicas, el ADN y el metabolismo energético de la bacteria"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y buena absorción gastrointestinal; aumenta significativamente administrado con alimentos",
+        "distribucion": "Bajas concentraciones tisulares y plasmáticas; concentraciones muy elevadas en la orina",
+        "metabolismo": "Hepático y tisular rápido (60%)",
+        "eliminacion": "Excreción renal rápida (40% inalterado) otorgando un color pardo a la orina"
+      },
+      "indicaciones": "Tratamiento y profilaxis de infecciones urinarias bajas no complicadas (cistitis agudas).",
+      "contraindicaciones": "Hipersensibilidad a la nitrofurantoína; anuria, oliguria o clearance de creatinina menor a 45 ml/min; neonatos y embarazadas a término (semanas 38-42).",
+      "precauciones": "Riesgo de toxicidad pulmonar aguda o crónica; neuropatía periférica; anemia hemolítica en deficiencia de G6PD.",
+      "advertencias": "Ineficaz en pielonefritis o sepsis urinaria por no alcanzar niveles terapéuticos en parénquima renal ni sangre.",
+      "embarazo_lactancia": "Contraindicado en las semanas 38 a 42 del embarazo por riesgo de anemia hemolítica neonatal. Compatible con la lactancia en mayores de 1 mes.",
+      "ajustes": {
+        "renal": "Contraindicado si el clearance de creatinina es menor a 45 ml/min (inoperante y tóxico).",
+        "hepatico": "Precaución en insuficiencia hepática o antecedentes de ictericia por el fármaco."
+      },
+      "interacciones": "Los antiácidos con magnesio disminuyen su absorción oral; el probenecid reduce su excreción urinaria aumentando el riesgo tóxico.",
+      "reacciones_adversas": "Náuseas; vómitos; anorexia; orina marrón; erupción cutánea; toxicidad pulmonar (tos, disnea); neuropatía periférica.",
+      "toxicidad_sobredosis": "Vómitos intensos e irritación gástrica.",
+      "antidotos": "Tratamiento de soporte e inducción del vómito.",
+      "monitorizacion": {
+        "clinica": "Control de síntomas respiratorios (tos, disnea), parestesias y sedimento urinario.",
+        "laboratorio": "Función renal, pruebas de función hepática y hemograma en uso prolongado."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance ≥ 45 ml/min) y descartar infección urinaria alta (pielonefritis).",
+        "durante": "Monitorear la aparición de tos, falta de aire o adormecimiento en manos/pies.",
+        "despues": "Valorar la remisión de la cistitis mediante urocultivo de control."
+      },
+      "presentaciones": "Cápsulas de 100 mg (macrocristales); suspensión oral de 25 mg/5 ml.",
+      "dosis": {
+        "adultos": "100 mg cada 6 a 12 horas (según formulación) por vía oral durante 5 a 7 días.",
+        "pediatrico": "5 mg/kg a 7 mg/kg/día divididos cada 6 horas por vía oral en mayores de 1 mes.",
+        "geriatrico": "Contraindicado si el clearance de creatinina es menor a 45 ml/min."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; tomar las cápsulas con abundante líquido.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "100 mg por cápsula.",
+      "alarma_riesgo": "Riesgo de fibrositis o neumonitis pulmonar grave y neuropatía periférica en uso continuado.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar que el clearance de creatinina sea igual o superior a 45 ml/min antes de administrar.;",
+          "Administrar las dosis acompañadas de alimentos o leche para reducir náuseas.;",
+          "Descontinuar de inmediato si el paciente presenta tos, disnea o parestesias.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la cápsula junto con las comidas para tolerar mejor el remedio.;",
+          "Advertir que es normal que la orina adquiera un color marrón o pardo oscuro.;",
+          "Avisar al médico de inmediato si presenta tos, falta de aire o adormecimiento en los pies.;"
+        ]
+      }
     }
   ]
 }
