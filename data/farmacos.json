@@ -17679,6 +17679,73 @@
           "Consultar si nota fatiga inusual, dificultad para respirar al caminar o hinchazón en los tobillos."
         ]
       }
+    },
+    {
+      "id": "240",
+      "nombre_generico": "Daunorrubicina",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de daunorrubicina",
+        "clasificacion": "Antineoplásico, antibiótico antracíclico",
+        "efecto_terapeutica": "Citotóxico potente antileucémico activo en la fase S del ciclo celular",
+        "mecanismo_accion": "Se intercala en el ADN e inhibe la síntesis de ARN y ADN bloqueando la topoisomerasa II; genera especies reactivas de oxígeno provocando la rotura de las hebras de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Amplia distribución en tejidos corporales, principalmente en bazo, riñones, hígado y corazón; no cruza la barrera hematoencefálica",
+        "metabolismo": "Hepático extenso por aldoceto reductasas a daunorrubicinol (metabolito activo)",
+        "eliminacion": "Excreción biliar y fecal principal (40%) y renal (14-25%)"
+      },
+      "indicaciones": "Inducción de la remisión en leucemia mieloide aguda (LMA) y leucemia linfoblástica aguda (LLA).",
+      "contraindicaciones": "Hipersensibilidad a la daunorrubicina u otras antraciclinas; insuficiencia cardíaca grave; dosis acumulativa máxima previa alcanzada; mielosupresión grave no leucémica; infección activa grave.",
+      "precauciones": "Cardiotoxicidad aguda y crónica (dosis acumulativa máxima: 500-600 mg/m² en adultos, 300 mg/m² en niños); vesicante tisular muy agresivo; hiperuricemia por lisis tumoral.",
+      "advertencias": "Colorea la orina de rojo durante 24 a 48 horas post-administración.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico y embriotóxico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 75% si la creatinina sérica es mayor a 3 mg/dl.",
+        "hepatico": "Reducir la dosis al 50% si la bilirrubina es de 1.2 a 3 mg/dl; reducir al 75% si la bilirrubina es > 3 mg/dl."
+      },
+      "interacciones": "Sinergismo de cardiotoxicidad con otros agentes antracíclicos, ciclofosfamida o radioterapia mediastínica; incrementa la mielosupresión con otros citostáticos.",
+      "reacciones_adversas": "Mielosupresión profunda (neutropenia); cardiotoxicidad; alopecia; estomatitis; náuseas; vómitos; orina roja; necrosis local severa por extravasación.",
+      "toxicidad_sobredosis": "Mielosupresión irreversible, estomatitis masiva e insuficiencia cardíaca congestiva aguda.",
+      "antidotos": "Dexrazoxano (antídoto de extravasación y cardioprotector) y tratamiento de soporte intensivo.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la función cardíaca (FEVI), ECG, diuresis, signos de extravasación e infecciones.",
+        "laboratorio": "Ecocardiograma previa al inicio, hemograma completo diario en inducción, bilirrubina y ácido úrico."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar un ecocardiograma basal (FEVI normal), verificar dosis acumulativa total previa e iniciar alopurinol para prevenir lisis tumoral.",
+        "durante": "Monitorear con máxima atención la vía venosa central durante la infusión.",
+        "despues": "Anticipar la etapa de aplasia medular posterior al esquema de inducción."
+      },
+      "presentaciones": "Frasco ampolla de 20 mg y 50 mg de polvo liofilizado o solución inyectable.",
+      "dosis": {
+        "adultos": "45 mg/m²/día IV los días 1, 2 y 3 del ciclo de inducción en LMA (asociado a citarabina). Dosis máxima acumulativa: 500-600 mg/m².",
+        "pediatrico": "25 mg/m² a 45 mg/m²/día por 1 a 3 días en protocolos de LLA o LMA. Dosis acumulativa máxima: 300 mg/m².",
+        "geriatrico": "Ajustar la dosis a 30 mg/m²/día en ancianos por fragilidad cardíaca."
+      },
+      "vias_administracion": "Intravenosa exclusiva en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril o solución fisiológica y diluir en 50 ml a 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 45 minutos (nunca en bolo rápido desprotegido).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C) protegida de la luz.",
+      "concentracion": "2 mg/ml (concentración de la solución reconstituida).",
+      "alarma_riesgo": "Riesgo de necrosis por extravasación y fallo cardíaco fulminante por dosis acumulada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir preferentemente a través de un catéter venoso central chequeando el retorno venoso.;",
+          "Llevar el cómputo exacto de la dosis acumulativa de antraciclinas para no exceder los límites máximos.;",
+          "Garantizar la hiperhidratación y el alopurinol contra el síndrome de lisis tumoral.;"
+        ],
+        "educacion_paciente": [
+          "Saber que el medicamento cambiará el color de la orina a un tono rojo durante 1 o 2 días.;",
+          "Avisar de forma inmediata si siente dolor, quemazón o inflamación donde entra la vía.;",
+          "Notificar urgente al personal si presenta fiebre, escalofríos, mareos o falta de aire."
+        ]
+      }
     }
   ]
 }
