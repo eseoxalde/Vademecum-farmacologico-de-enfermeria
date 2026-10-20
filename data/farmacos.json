@@ -16071,6 +16071,73 @@
           "Avisar si nota ardor al orinar o color rojizo en la orina."
         ]
       }
+    },
+    {
+      "id": "216",
+      "nombre_generico": "Dacarbazina",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Dacarbazina (DTIC)",
+        "clasificacion": "Antineoplásico, agente alquilante y análogo de triazeno",
+        "efecto_terapeutica": "Citotóxico e inhibidor del crecimiento de tumores sólidos y linfomas",
+        "mecanismo_accion": "Prodroga convertida en el hígado a MTIC; actúa alquilando el ADN en la posición O-6 y N-7 de la guanina e inhibiendo la síntesis de ARN y proteínas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral lenta e impredecible; administración exclusiva por vía intravenosa",
+        "distribucion": "Baja penetración en el líquido cefalorraquídeo (14% de niveles plasmáticos); alta fotosensibilidad en solución",
+        "metabolismo": "Hepático extenso por N-desmetilación mediante las isoenzimas CYP1A1, CYP1A2 y CYP2E1 a MTIC activo",
+        "eliminacion": "Excreción renal por secreción tubular (35-50% inalterado y metabolitos)"
+      },
+      "indicaciones": "Tratamiento del melanoma maligno metastásico, linfoma de Hodgkin (como parte del esquema ABVD) y sarcomas de partes blandas.",
+      "contraindicaciones": "Hipersensibilidad a la dacarbazina; mielosupresión grave; embarazo y lactancia.",
+      "precauciones": "Sensación de ardor o dolor en el sitio de inyección IV; riesgo alto de emesis; hepatotoxicidad por trombosis de venas hepáticas.",
+      "advertencias": "Solución fotosensible: debe protegerse estrictamente de la luz durante la preparación e infusión intravenosa.",
+      "embarazo_lactancia": "Categoría D en el embarazo; mutagénico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis si el clearance de creatinina es menor a 30 ml/min.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática grave."
+      },
+      "interacciones": "Aumento del riesgo de hepatotoxicidad o mielosupresión al combinarse con otros antineoplásicos o fármacos hepatotóxicos.",
+      "reacciones_adversas": "Náuseas y vómitos intensos (casi 100% de los pacientes); mielosupresión; alopecia; dolor venoso local; síndrome gripal; fotosensibilidad.",
+      "toxicidad_sobredosis": "Mielosupresión severa, náuseas e irrecuperable necrosis hepática por trombosis venosa.",
+      "antidotos": "Tratamiento de soporte, antieméticos antagonistas 5-HT3 y transfusiones sanguíneas.",
+      "monitorizacion": {
+        "clinica": "Control estricto del sitio de infusión (dolor/extravasación), náuseas, vómitos y signos de infección.",
+        "laboratorio": "Hemograma completo, recuento de plaquetas y pruebas de función hepática."
+      },
+      "parametros_valoracion": {
+        "antes": "Premedicar con antieméticos potentes (ondansetrón y dexametasona) y proteger la guía de la luz.",
+        "durante": "Monitorear dolor en la vena durante la infusión y verificar el retorno venoso.",
+        "despues": "Valorar el nadir leucocitario a las 2 a 4 semanas post-tratamiento."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg, 200 mg y 500 mg de liofilizado.",
+      "dosis": {
+        "adultos": "Melanoma: 200 mg/m² a 250 mg/m²/día IV por 5 días cada 3 semanas; Hodgkin (ABVD): 375 mg/m² los días 1 y 15 del ciclo.",
+        "pediatrico": "Uso bajo protocolos hemato-oncológicos específicos pediátricos.",
+        "geriatrico": "Dosis habitual adaptada según la tolerancia hematológica y función renal."
+      },
+      "vias_administracion": "Intravenosa exclusiva.",
+      "preparacion": {
+        "dilucion": "Reconstituir el vial con agua estéril y diluir en 250 ml a 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 15 a 60 minutos con protección lumínica.",
+      "estabilidad_soluciones": "Estable durante 8 horas a temperatura ambiente o 24 horas refrigerado (2°C - 8°C) protegido de la luz.",
+      "concentracion": "10 mg/ml (concentración máxima recomendada en reconstitución directa).",
+      "alarma_riesgo": "Riesgo de extravasación con necrosis tisular y reacción emética aguda severa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Cubrir la guía de infusión y el sachet con papel opaco para proteger el fármaco de la luz.;",
+          "Administrar antieméticos de alta potencia antes de comenzar la infusión IV.;",
+          "Verificar la permeabilidad del acceso venoso para prevenir dolor o necrosis por extravasación.;"
+        ],
+        "educacion_paciente": [
+          "Informar que es normal sentir náuseas y que se le administrarán medicamentos para prevenirlas.;",
+          "Avisar de inmediato si siente dolor, ardor o hinchazón en el lugar de la vía intravenosa.;",
+          "Evitar la exposición directa al sol por el riesgo elevado de quemaduras en la piel."
+        ]
+      }
     }
   ]
 }
