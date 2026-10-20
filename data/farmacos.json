@@ -18684,6 +18684,73 @@
           "Avisar de urgencia ante cualquier síntoma de fiebre, escalofríos o dolor de garganta."
         ]
       }
+    },
+    {
+      "id": "255",
+      "nombre_generico": "Cabazitaxel",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Cabazitaxel",
+        "clasificacion": "Antineoplásico, taxano de segunda generación",
+        "efecto_terapeutica": "Citotóxico activo en tumores resistentes a docetaxel por baja afinidad con la glicoproteína P",
+        "mecanismo_accion": "Se une a la tubulina promoviendo su ensamblaje en microtúbulos e inhibiendo su despolimerización, bloqueando la mitosis y la interfase celular en tumores refractarios a otros taxanos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas (92%); amplio volumen de distribución; atraviesa la barrera hematoencefálica en baja proporción",
+        "metabolismo": "Hepático extenso principalmente por la isoenzima CYP3A4 a metabolitos inactivos",
+        "eliminacion": "Excreción biliar y fecal principal (76%) y renal mínima (4%)"
+      },
+      "indicaciones": "Tratamiento del cáncer de próstata metastásico resistente a la castración en pacientes tratados previamente con un esquema basado en docetaxel (en combinación con prednisona).",
+      "contraindicaciones": "Hipersensibilidad al cabazitaxel o al polisorbato 80; recuento inicial de neutrófilos < 1.500/mm³; insuficiencia hepática grave; embarazo y lactancia.",
+      "precauciones": "Riesgo de neutropenia febril mortal (requiere profilaxis con G-CSF en pacientes de riesgo); diarrea severa deshidratante; reacciones de hipersensibilidad (exige premedicación); arritmias.",
+      "advertencias": "Es obligatoria la premedicación con antihistamínicos H1 y H2 y un corticoide intravenoso antes de la infusión.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve a moderada; usar con precaución en severa.",
+        "hepatico": "Contraindicado en insuficiencia hepática moderada a severa (bilirrubina > 1.5 veces el límite superior)."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 (ketoconazol, claritromicina) incrementan sus niveles plasmáticos y la neutropenia; los inductores de CYP3A4 reducen su efectividad.",
+      "reacciones_adversas": "Neutropenia febril; diarrea; náuseas; vómitos; astenia; anemia; trombocitopenia; hematuria; neuropatía periférica; disgeusia; alopecia.",
+      "toxicidad_sobredosis": "Mielosupresión profunda irrecuperable y diarrea hemorrágica severa.",
+      "antidotos": "Tratamiento de soporte, uso obligatorio de G-CSF y rehidratación parenteral intensiva.",
+      "monitorizacion": {
+        "clinica": "Control de temperatura, presencia de deposiciones líquidas, signos de infección, presión arterial y sitio venoso.",
+        "laboratorio": "Hemograma completo semanal (recuento de neutrófilos), transaminasas, bilirrubina y creatinina."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar premedicación obligatoria con antihistamínicos H1/H2 y dexametasona IV, y verificar neutrófilos ≥ 1.500/mm³.",
+        "durante": "Monitorear la infusión IV de 1 hora mediante guías libres de PVC con filtro en línea de 0.22 micras.",
+        "despues": "Evaluar la necesidad de administración de G-CSF profiláctico post-ciclo."
+      },
+      "presentaciones": "Frasco ampolla de 60 mg/1.5 ml de solución concentrada con ampolla de diluyente.",
+      "dosis": {
+        "adultos": "20 mg/m² a 25 mg/m² IV en infusión de 1 hora cada 3 semanas (en combinación con 10 mg diarios de prednisona oral).",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis de 20 mg/m² recomendada en ancianos por mayor riesgo de neutropenia febril y muerte."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Mezclar inicialmente el frasco ampolla de 60 mg con la totalidad del diluyente adjunto y luego diluir en solución fisiológica o dextrosa al 5% hasta una concentración de 0.1 mg/ml a 0.26 mg/ml.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (utilizar recipientes e infusores libres de PVC y filtro en línea de 0.22 micras)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período exacto de 1 hora.",
+      "estabilidad_soluciones": "La mezcla inicial es estable durante 1 hora; la solución diluida en la bolsa es estable 8 horas a temperatura ambiente o 24 horas refrigerada.",
+      "concentracion": "40 mg/ml (concentración de la solución concentrada comercial).",
+      "alarma_riesgo": "Riesgo elevado de sepsis y muerte por neutropenia febril si se omite la profilaxis o el control hematológico.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la premedicación intravenosa con corticoides y antihistamínicos 30 minutos antes del cabazitaxel.;",
+          "Utilizar guías e infusores libres de PVC con un filtro en línea de 0.22 micras durante la infusión de 1 hora.;",
+          "Evaluar la indicación de factores de estimulación de colonias (G-CSF) según el recuento de neutrófilos.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la prednisona diaria prescrita por el oncólogo sin suspenderla.;",
+          "Consultar de urgencia absoluta ante cualquier registro de fiebre (≥ 38°C), escalofríos o signos de infección.;",
+          "Avisar de inmediato si presenta diarrea frecuente (más de 4 deposiciones al día) o sangre en la orina."
+        ]
+      }
     }
   ]
 }
