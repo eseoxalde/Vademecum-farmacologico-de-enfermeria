@@ -15937,6 +15937,73 @@
           "Informar de inmediato la aparición de fiebre, moratones, sangrados o tos seca."
         ]
       }
+    },
+    {
+      "id": "214",
+      "nombre_generico": "Ciclofosfamida",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Ciclofosfamida",
+        "clasificacion": "Antineoplásico e inmunosupresor, agente alquilante (oxazafosforina)",
+        "efecto_terapeutica": "Citotóxico de amplio espectro e inmunosupresor potente",
+        "mecanismo_accion": "Prodroga convertida por oxidasas hepáticas en mostaza de fosforamida y acroleína; el metabolito activo forma enlaces cruzados en el ADN impidiendo la división celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral con biodisponibilidad del 75%; parenteral directa IV con biodisponibilidad del 100%",
+        "distribucion": "Amplia distribución en tejidos y fluidos corporales; atraviesa la barrera hematoencefálica y la placenta",
+        "metabolismo": "Hepático extenso por el sistema CYP2B6, CYP3A4 y CYP2C9 a metabolitos activos e inactivos (incluyendo la acroleína)",
+        "eliminacion": "Excreción renal por filtración glomerular (10-20% inalterado y metabolitos)"
+      },
+      "indicaciones": "Linfoma de Hodgkin, linfoma no Hodgkin, leucemias, mieloma múltiple, cáncer de mama, de ovario, retinoblastoma y enfermedades autoinmunes graves (nefritis lúpica, vasculitis).",
+      "contraindicaciones": "Hipersensibilidad a la ciclofosfamida; cistitis hemorrágica activa; aplasia medular severa; infección activa no controlada.",
+      "precauciones": "Riesgo de cistitis hemorrágica por acroleína (prevenible con MESNA y sobrehidratación); mielosupresión; cardiotoxicidad a dosis altas.",
+      "advertencias": "Puede provocar infertilidad permanente, amenorrea, azoospermia y neoplasias secundarias (cáncer de vejiga).",
+      "embarazo_lactancia": "Categoría D en el embarazo; potente teratógeno. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% si el clearance de creatinina es menor a 10 ml/min.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática grave por disminución de su activación."
+      },
+      "interacciones": "La alopurinol aumenta la mielotoxicidad; los inductores enzimáticos aceleran su activación; potencia el efecto de los suxametonio.",
+      "reacciones_adversas": "Alopecia completa; náuseas; vómitos; cistitis hemorrágica; leucopenia; amenorrea; azoospermia; hiperpigmentación ungueal.",
+      "toxicidad_sobredosis": "Mielosupresión severa, cistitis hemorrágica masiva y miocardiopatía tóxica aguda.",
+      "antidotos": "MESNA (mesna sódico) para prevenir/tratar la toxicidad vesical e hiperhidratación parenteral.",
+      "monitorizacion": {
+        "clinica": "Control de la diuresis, presencia de hematuria (macroscópica o microscópica), temperatura y náuseas.",
+        "laboratorio": "Hemograma completo semanal, orina completa (sedimento para glóbulos rojos) y función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Garantizar una hiperhidratación previa e hiperdiuresis, administrar MESNA e indagar síntomas urinarios.",
+        "durante": "Monitorear la frecuencia urinaria y la ausencia de dolor o sangre al orinar.",
+        "despues": "Valorar el nadir de leucocitos a los 10-14 días post-tratamiento."
+      },
+      "presentaciones": "Comprimidos de 50 mg; frasco ampolla inyectable de 200 mg, 500 mg y 1000 mg.",
+      "dosis": {
+        "adultos": "Oncológico IV: 500 mg/m² a 1500 mg/m² en pulsos o dosis continuas; Oral: 1 mg/kg a 3 mg/kg/día.",
+        "pediatrico": "Dosificación basada en la superficie corporal bajo protocolos hemato-oncológicos específicos.",
+        "geriatrico": "Ajustar posología según la reserva medular y la función renal."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril o solución fisiológica y diluir en 250 ml a 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 6 días refrigerado (2°C - 8°C).",
+      "concentracion": "20 mg/ml (concentración máxima en solución reconstituida).",
+      "alarma_riesgo": "Riesgo de cistitis hemorrágica severa e irrecuperable sin la adecuada profilaxis con MESNA e hidratación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar conjuntamente con MESNA e hiperhidratación parenteral según protocolo.;",
+          "Verificar periódicamente la presencia de sangre en la orina mediante tira reactiva.;",
+          "Asegurar que el paciente orine frecuentemente, especialmente antes de acostarse.;"
+        ],
+        "educacion_paciente": [
+          "Beber abundante cantidad de agua (2 a 3 litros al día) durante y después de la dosis.;",
+          "Orinar con frecuencia y no aguantar las ganas de ir al baño.;",
+          "Avisar al personal de salud de inmediato si observa color rojizo o sangre en la orina."
+        ]
+      }
     }
   ]
 }
