@@ -16875,6 +16875,73 @@
           "Humectar las palmas de las manos y plantas de los pies para prevenir el síndrome mano-pie."
         ]
       }
+    },
+    {
+      "id": "228",
+      "nombre_generico": "Capecitabina",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Capecitabina",
+        "clasificacion": "Antineoplásico, antimetabolito, prodroga oral del 5-fluorouracilo (5-FU)",
+        "efecto_terapeutica": "Citotóxico antineoplásico que se convierte enzimáticamente en 5-FU de forma selectiva en los tejidos tumorales",
+        "mecanismo_accion": "Prodroga convertida en tres etapas enzimáticas (culminando en la timidina fosforilasa tumoral) a 5-FU, inhibiendo la timidilato sintasa y bloqueando la síntesis de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción oral; los alimentos reducen la velocidad y el grado de absorción pico",
+        "distribucion": "Baja unión a proteínas plasmáticas (60%); amplia distribución tisular",
+        "metabolismo": "Hepático por carboxilesterasa y tisular por timidina fosforilasa a 5-FU activo y metabolitos inactivos",
+        "eliminacion": "Excreción renal casi exclusiva en forma de metabolitos (95.5%)"
+      },
+      "indicaciones": "Cáncer colorrectal adyugente y metastásico, cáncer de mama metastásico (en combinación con docetaxel o en monoterapia) y cáncer gástrico.",
+      "contraindicaciones": "Hipersensibilidad a la capecitabina o al 5-FU; deficiencia conocida de dihidropirimidina deshidrogenasa (DPD); insuficiencia renal grave; embarazo y lactancia.",
+      "precauciones": "Riesgo de síndrome mano-pie (eritroditesia palmo-plantar); diarrea severa; deshidratación; potencial potenciación de anticoagulantes orales (warfarina).",
+      "advertencias": "Puede inducir toxicidad gastrointestinal grave y cardiotoxicidad; suspender inmediatamente ante diarrea grado 2 o superior.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Contraindicado si el clearance de creatinina es menor a 30 ml/min; reducir la dosis al 75% si es de 30 a 50 ml/min.",
+        "hepatico": "Precaución en insuficiencia hepática moderada; no evaluado en severa."
+      },
+      "interacciones": "Incrementa drásticamente el INR y el riesgo de sangrado con warfarina o acenocumarol; los antiácidos con hidróxido de aluminio/magnesio aumentan sus concentraciones.",
+      "reacciones_adversas": "Síndrome mano-pie (palmas rojas, descamación, dolor); diarrea; náuseas; vómitos; estomatitis; fatiga; hiperbilirrubinemia.",
+      "toxicidad_sobredosis": "Diarrea severa, vómitos, náuseas, sangrado gastrointestinal y depresión medular.",
+      "antidotos": "Triacetato de uridina (antídoto específico de urgencia) y tratamiento de soporte intensivo.",
+      "monitorizacion": {
+        "clinica": "Control de toxicidad cutánea (manos y pies), frecuencia de deposiciones, estomatitis y coagulación (RIN) si toma anticoagulantes.",
+        "laboratorio": "Hemograma completo, pruebas de función hepática y función renal periódicas."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance de creatinina), perfil hepático y descartar déficit de DPD.",
+        "durante": "Interrogar al paciente sobre aparición de hormigueo, enrojecimiento en manos/pies o diarrea.",
+        "despues": "Valorar la respuesta clínica tumoral y la tolerancia digestiva."
+      },
+      "presentaciones": "Comprimidos recubiertos de 150 mg y 500 mg.",
+      "dosis": {
+        "adultos": "1250 mg/m² dos veces al día por vía oral durante 14 días seguidos de 7 días de descanso (ciclo de 21 días).",
+        "pediatrico": "Uso no recomendado de rutina en población pediátrica.",
+        "geriatrico": "Ajustar dosis según la tolerancia clínica y el clearance de creatinina."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "500 mg por comprimido.",
+      "alarma_riesgo": "Riesgo letal de sangrado grave al combinarse con anticoagulantes orales y toxicidad severa por déficit de DPD.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar los comprimidos dentro de los 30 minutos posteriores a las comidas con un vaso de agua.;",
+          "Vigilar la aparición de signos iniciales de síndrome mano-pie o diarrea para suspender a tiempo.;",
+          "Controlar el RIN de forma estrecha si el paciente recibe tratamiento con anticoagulantes orales.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos por la mañana y por la noche después de desayunar y cenar.;",
+          "Humectar frecuentemente las manos y pies con cremas emolientes para mitigar la sequedad.;",
+          "Avisar de inmediato si presenta diarrea frecuente (más de 4 deposiciones al día), vómitos o ampollas en manos."
+        ]
+      }
     }
   ]
 }
