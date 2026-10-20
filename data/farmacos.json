@@ -18818,6 +18818,73 @@
           "Notificar al personal de inmediato si siente ardor o dolor en la zona donde ingresa el remedio por la vena."
         ]
       }
+    },
+    {
+      "id": "257",
+      "nombre_generico": "Vinblastina",
+      "letra": "V",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de vinblastina",
+        "clasificacion": "Antineoplásico, alcaloide de la vinca (inhibidor del huso mitótico)",
+        "efecto_terapeutica": "Citotóxico de fase M específica que causa la detención del ciclo celular mitótico",
+        "mecanismo_accion": "Se une a la tubulina del huso mitótico impidiendo la polimerización de los microtúbulos, inhibiendo la separación cromosómica y conduciendo a la destrucción celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa (reacción fatal por vía intratecal)",
+        "distribucion": "Amplio volumen de distribución; se une intensamente a proteínas plasmáticas y elementos figurados de la sangre; no cruza la BHE",
+        "metabolismo": "Hepático extenso por el sistema CYP3A4 a deacetilvinblastina (metabolito activo)",
+        "eliminacion": "Excreción biliar y fecal principal (95%) y renal mínima (5-10%)"
+      },
+      "indicaciones": "Enfermedad de Hodgkin, linfoma no Hodgkin, cáncer de testículo avanzado, Sarcoma de Kaposi, histiocitosis de células de Langerhans y cáncer de mama refractario.",
+      "contraindicaciones": "Hipersensibilidad a la vinblastina o alcaloides de la vinca; administración por vía intratecal (FATAL); neutropenia severa no relacionada con la enfermedad; infección bacteriana activa.",
+      "precauciones": "Riesgo extremo de mielosupresión (neutropenia limitante de la dosis a diferencia de la vincristina); vesicante tisular potente en extravasación; neurotoxicidad; estreñimiento.",
+      "advertencias": "LA ADMINISTRACIÓN INTRATECAL ES MORTAL. Administrar exclusivamente por vía intravenosa.",
+      "embarazo_lactancia": "Categoría D en el embarazo; teratogénico y genotóxico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis al 50% si la bilirrubina directa es > 3 mg/dl."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 aumentan su toxicidad hematológica y neurológica; la coadministración con mitomicina C puede desencadenar broncoespasmo agudo y toxicidad pulmonar.",
+      "reacciones_adversas": "Mielosupresión profunda (neutropenia); alopecía; náuseas; vómitos; mucositis; estreñimiento; parestesias y neuropatía periférica (menor que con vincristina); necrosis por extravasación.",
+      "toxicidad_sobredosis": "Aplasia medular severa, neurotoxicidad, íleo paralítico y estomatitis masiva.",
+      "antidotos": "Hialuronidasa local e infusión de compresas templadas/tibias en extravasación y soporte mieloablativo.",
+      "monitorizacion": {
+        "clinica": "Control del recuento de neutrófilos, función intestinal, dolor neuropático y sitio de punción IV.",
+        "laboratorio": "Hemograma completo previo a cada aplicación y perfil hepático (bilirrubina total)."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar neutrófilos ≥ 1.500/mm³ y asegurar que la etiqueta especifique 'SOLO USO INTRAVENOSO'.",
+        "durante": "Monitorear la infusión corta o inyección lenta comprobando el retorno venoso frecuente.",
+        "despues": "Valorar el nadir de neutrófilos entre los 5 a 10 días post-administración."
+      },
+      "presentaciones": "Frasco ampolla de 10 mg/10 ml de solución inyectable o liofilizado.",
+      "dosis": {
+        "adultos": "3.7 mg/m² a 6 mg/m² IV una vez por semana (escalando según tolerancia leucocitaria hasta un máximo habitual de 18.5 mg/m²).",
+        "pediatrico": "2.5 mg/m² IV una vez por semana con incrementos graduales según protocolos hemato-oncológicos.",
+        "geriatrico": "Ajustar la dosis inicial según la reserva hematológica y la función hepática."
+      },
+      "vias_administracion": "Intravenosa exclusiva (PROHIBIDA LA VÍA INTRATECAL).",
+      "preparacion": {
+        "dilucion": "Diluir la dosis en 50 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 5 a 10 minutos (o inyección en tubuladura con flujo libre).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o bajo refrigeración (2°C - 8°C) protegida de la luz.",
+      "concentracion": "1 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "ADMINISTRACIÓN INTRATECAL MORTAL. Vesicante grave y aplasia medular profunda.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA administrar por vía intratecal bajo ninguna circunstancia.;",
+          "Monitorear rigurosamente el recuento de neutrófilos por ser la toxicidad principal limitante.;",
+          "Aplicar hialuronidasa más calor local inmediatamente si se produce extravasación.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de urgencia ante cualquier síntoma de fiebre, escalofríos, llagas en la boca o sangrados.;",
+          "Informar de inmediato si siente dolor o escozor en la zona de colocación de la vía intravenosa.;",
+          "Mantener un buen ritmo intestinal consumiendo agua y fibra para evitar el estreñimiento."
+        ]
+      }
     }
   ]
 }
