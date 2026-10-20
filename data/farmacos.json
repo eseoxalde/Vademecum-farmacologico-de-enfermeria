@@ -11582,6 +11582,73 @@
           "Educar sobre medidas de prevención domiciliaria frente a la presencia de arácnidos.;"
         ]
       }
+    },
+    {
+      "id": "149",
+      "nombre_generico": "Suero Antiescorpiónico",
+      "letra": "S",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Inmunoglobulinas equinas purificadas específicas contra veneno de escorpión (Tityus trivittatus)",
+        "clasificacion": "Antídoto, suero hiperinmune heterólogo",
+        "efecto_terapeutica": "Neutraliza las neurotoxinas del veneno escorpiónico, revirtiendo la liberación masiva de neurotransmisores",
+        "mecanismo_accion": "Los anticuerpos específicos se unen a las neurotoxinas del veneno, las cuales alteran los canales de sodio y potasio de las membranas excitables, neutralizando su toxicidad sistémica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa directa con disponibilidad sistémica inmediata",
+        "distribucion": "Distribución en el espacio intravascular y líquido extracelular",
+        "metabolismo": "Catabolismo proteico normal de inmunoglobulinas",
+        "eliminacion": "Excreción renal y catabolismo sistémico prolongado"
+      },
+      "indicaciones": "Tratamiento del escorpionismo moderado a grave (especialmente en niños y adultos vulnerables) por picadura de Tityus trivittatus.",
+      "contraindicaciones": "Hipersensibilidad conocida a las proteínas de origen equino.",
+      "precauciones": "Riesgo de reacciones anafilácticas graves; disponer de adrenalina y equipamiento de reanimación avanzada.",
+      "advertencias": "Debe administrarse de forma urgente ante la presencia de síntomas sistémicos (taquicardia, vómitos, sialorrea, insuficiencia cardíaca).",
+      "embarazo_lactancia": "El riesgo vital materno por envenenamiento justifica su uso durante el embarazo.",
+      "ajustes": {
+        "renal": "No requiere ajuste específico; tratar el fallo multiorgánico secundario con soporte médico intensivo.",
+        "hepatico": "No requiere ajuste específico en insuficiencia hepática."
+      },
+      "interacciones": "Interfiere con la respuesta inmune a vacunas con virus vivos atenuados.",
+      "reacciones_adversas": "Reacción anafiláctica aguda; urticaria; hipotensión; fiebre; enfermedad del suero tardía.",
+      "toxicidad_sobredosis": "Reacciones de hipersensibilidad sistémica severa y sobrecarga hídrica.",
+      "antidotos": "Adrenalina (epinefrina) intramuscular, antihistamínicos y corticoides.",
+      "monitorizacion": {
+        "clinica": "Control continuo estricto de la frecuencia cardíaca, presión arterial, patrón respiratorio y estado neurológico.",
+        "laboratorio": "Ionograma, enzimas cardíacas, glucemia, función renal y gasometría arterial."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de signos de envenenamiento sistémico (taquicardia, sudoración, vómitos, shock).",
+        "durante": "Monitorear minuciosamente la estabilidad hemodinámica durante los primeros 15-30 minutos de infusión.",
+        "despues": "Valorar la reversión de los síntomas neurotóxicos y la estabilización cardiovascular."
+      },
+      "presentaciones": "Viales de solución inyectable o liofilizado antiescorpiónico específico.",
+      "dosis": {
+        "adultos": "Dosis según protocolo nacional de acuerdo con la gravedad clínica (habitualmente 1 a 3 viales) diluidos en solución fisiológica.",
+        "pediatrico": "Número de viales equivalente al adulto según severidad, ajustando el volumen de infusión por peso corporal.",
+        "geriatrico": "Dosis según severidad clínica evaluando la tolerancia cardiovascular."
+      },
+      "vias_administracion": "Infusión intravenosa exclusiva diluida.",
+      "preparacion": {
+        "dilucion": "Diluir los viales indicados en 50 ml a 100 ml de solución fisiológica estéril.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica."
+      },
+      "velocidad_infusion": "Goteo inicial lento durante los primeros 15 minutos, luego incrementar hasta completar en 1 hora.",
+      "estabilidad_soluciones": "Conservar refrigerado entre 2°C y 8°C; utilizar inmediatamente tras su dilución.",
+      "concentracion": "Concentración máxima estandarizada por unidades neutralizantes de veneno escorpiónico.",
+      "alarma_riesgo": "Riesgo de shock anafiláctico grave por administración rápida o sensibilidad a proteínas equinas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar la disponibilidad inmediata de adrenalina y carro de paro antes de comenzar la infusión.;",
+          "Vigilar estrictamente al paciente durante los primeros 15 minutos para detectar signos precoces de anafilaxia.;",
+          "Controlar de forma seriada los signos vitales y el estado hemodinámico ante el riesgo de miocarditis tóxica.;"
+        ],
+        "educacion_paciente": [
+          "Explicar a los familiares o al paciente la importancia de la administración precoz del suero para neutralizar el veneno.;",
+          "Advertir sobre la posible aparición de reacciones alérgicas tardías en los días posteriores.;",
+          "Educar sobre medidas preventivas domiciliarias para evitar la presencia de escorpiones.;"
+        ]
+      }
     }
   ]
 }
