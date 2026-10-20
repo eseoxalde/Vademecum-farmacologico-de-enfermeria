@@ -15468,6 +15468,73 @@
           "No usar lentes de contacto blandas durante el tratamiento porque pueden teñirse de forma permanente.;"
         ]
       }
+    },
+    {
+      "id": "207",
+      "nombre_generico": "Rifabutina",
+      "letra": "R",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Rifabutina",
+        "clasificacion": "Antituberculoso y antimicobacteriano, ansamicina",
+        "efecto_terapeutica": "Bactericida potente frente a Mycobacterium avium complex (MAC) y Mycobacterium tuberculosis resistente o con interacciones a rifampicina",
+        "mecanismo_accion": "Inhibe la ARN polimerasa dependiente de ADN bacteriana, bloqueando la transcripción y síntesis proteica micobacteriana"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral; no se ve alterada de forma relevante por los alimentos",
+        "distribucion": "Excelente y lipofílica distribución en tejidos intracelulares, macrófagos y pulmón; concentraciones tisulares superiores a la rifampicina",
+        "metabolismo": "Hepático por el sistema CYP3A4 a metabolitos activos e inactivos",
+        "eliminacion": "Excreción renal (30%) y biliar/fecal (50%)"
+      },
+      "indicaciones": "Prevención y tratamiento de infecciones por Mycobacterium avium complex (MAC) en pacientes infectados por VIH; alternativa a rifampicina en tuberculosis activa.",
+      "contraindicaciones": "Hipersensibilidad a la rifabutina u otras rifamicinas.",
+      "precauciones": "Riesgo de uveítis (inflamación ocular), leucopenia e interacción con inhibidores de la proteasa del VIH.",
+      "advertencias": "Menor inductor de CYP3A4 que la rifampicina, pero requiere ajustes importantes en combinación con azoles o antirretrovirales.",
+      "embarazo_lactancia": "Categoría B en el embarazo; utilizar si es estrictamente necesario. Se desaconseja la lactancia en infección por VIH.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% si el clearance de creatinina es menor a 30 ml/min.",
+        "hepatico": "Ajustar o considerar suspensión en insuficiencia hepática severa."
+      },
+      "interacciones": "La coadministración con macrólidos (claritromicina) o azoles eleva sus niveles y riesgo de uveítis; ajustar dosis con inhibidores de proteasa.",
+      "reacciones_adversas": "Uveítis; leucopenia; neutropenia; dolor muscular (mialgias); tinción anaranjada de fluidos; náuseas; exantema; ictericia.",
+      "toxicidad_sobredosis": "Uveítis grave, coloración roja/anaranjada de piel e ictericia.",
+      "antidotos": "Tratamiento sintomático de soporte e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control de síntomas de uveítis (dolor ocular, visión borrosa), función hepática y recuento leucocitario.",
+        "laboratorio": "Hemograma completo con recuento de neutrófilos y enzimas hepáticas."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar hemograma completo y descartar patología ocular previa.",
+        "durante": "Monitorear dolor ocular, visión borrosa o caídas en el recuento de glóbulos blancos.",
+        "despues": "Valorar la supresión de la infección micobacteriana."
+      },
+      "presentaciones": "Cápsulas de 150 mg.",
+      "dosis": {
+        "adultos": "Profilaxis de MAC: 300 mg una vez al día por vía oral; Tuberculosis: 300 mg una vez al día (ajustar a 150 mg si se combina con inhibidores de proteasa).",
+        "pediatrico": "5 mg/kg a 10 mg/kg una vez al día por vía oral bajo estricto control especialista.",
+        "geriatrico": "Dosis habitual ajustando de acuerdo a la función renal y medicaciones concomitantes."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; tomar las cápsulas con agua con o sin alimentos.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y humedad.",
+      "concentracion": "150 mg por cápsula.",
+      "alarma_riesgo": "Riesgo de uveítis dolorosa y neutropenia grave si no se ajusta con fármacos interactuantes.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar minuciosamente el esquema antirretroviral o antifúngico para ajustar la dosis de rifabutina.;",
+          "Monitorear semanalmente la presencia de dolor ocular o trastornos de la visión.;",
+          "Controlar el recuento de leucocitos y neutrófilos en sangre.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la cápsula una vez al día con o sin alimentos a la misma hora.;",
+          "Avisar al médico inmediatamente si presenta dolor en los ojos, enrojecimiento o visión borrosa.;",
+          "Saber que el medicamento teñirá la orina, piel o sudor de color anaranjado."
+        ]
+      }
     }
   ]
 }
