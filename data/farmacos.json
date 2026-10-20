@@ -12185,6 +12185,73 @@
           "Informar que se realizarán análisis de sangre periódicos para controlar el tratamiento.;"
         ]
       }
+    },
+    {
+      "id": "158",
+      "nombre_generico": "Azitromicina",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Azitromicina",
+        "clasificacion": "Antibiótico, macrólido (azálida)",
+        "efecto_terapeutica": "Bacterostático y bactericida a altas concentraciones frente a gérmenes atípicos y respiratorios",
+        "mecanismo_accion": "Se une reversiblemente a la subunidad 50S del ribosoma bacteriano, bloqueando la translocación y la síntesis proteica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción oral con biodisponibilidad del 37%; no se altera significativamente con alimentos",
+        "distribucion": "Amplia distribución tisular alcanzando concentraciones muy elevadas en macrófagos y tejidos intracelulares",
+        "metabolismo": "Hepático leve a metabolitos inactivos",
+        "eliminacion": "Biliar y fecal principalmente en forma inalterada; lenta eliminación renal"
+      },
+      "indicaciones": "Infecciones del tracto respiratorio superior e inferior, neumonía adquirida en la comunidad, infecciones de piel y tejidos blandos, enfermedades de transmisión sexual (chlamydia, gonorrea).",
+      "contraindicaciones": "Hipersensibilidad a la azitromicina, eritromicina o cualquier macrólido; antecedentes de ictericia colestásica o disfunción hepática por azitromicina.",
+      "precauciones": "Riesgo de prolongación del intervalo QT y arritmias ventriculares (Torsades de Pointes); precaución en miastenia gravis.",
+      "advertencias": "Evaluar la función hepática si aparecen signos de hepatitis; riesgo de colitis pseudomembranosa.",
+      "embarazo_lactancia": "Categoría B en el embarazo; se considera de uso seguro. Se excreta en baja cantidad en la leche materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve a moderada; precaución con clearance menor a 10 ml/min.",
+        "hepatico": "Contraindicado en insuficiencia hepática severa."
+      },
+      "interacciones": "Aumenta riesgo de arritmias con antiarrítmicos clase IA y III; incrementa niveles de digoxina y anticoagulantes orales.",
+      "reacciones_adversas": "Diarrea; náuseas; dolor abdominal; cefalea; mareos; elevación transitoria de transaminasas.",
+      "toxicidad_sobredosis": "Sordera transitoria, náuseas severas, vómitos y diarrea.",
+      "antidotos": "Tratamiento sintomático y de soporte.",
+      "monitorizacion": {
+        "clinica": "Control de la respuesta clínica, función hepática y presencia de arritmias en pacientes de riesgo.",
+        "laboratorio": "Enzimas hepáticas y electrocardiograma en pacientes con antecedentes arritmogénicos."
+      },
+      "parametros_valoracion": {
+        "antes": "Indagar antecedentes de hipersensibilidad a macrólidos y alteraciones del intervalo QT.",
+        "durante": "Monitorear la aparición de palpitaciones, dolor abdominal o diarrea grave.",
+        "despues": "Evaluar la resolución de la infección al finalizar el tratamiento de corta duración."
+      },
+      "presentaciones": "Comprimidos de 500 mg; suspensión oral de 200 mg/5 ml; frasco ampolla inyectable de 500 mg.",
+      "dosis": {
+        "adultos": "500 mg una vez al día por vía oral durante 3 a 5 días; o 500 mg IV al día en infecciones graves.",
+        "pediatrico": "10 mg/kg una vez al día por vía oral durante 3 a 5 días.",
+        "geriatrico": "Misma dosis que en adultos, evaluando riesgo de arritmias cardíacas."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado inyectable y diluir en 250 ml a 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua durante no menos de 60 minutos (nunca en bolo o IM).",
+      "estabilidad_soluciones": "La solución reconstituida se mantiene estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "2 mg/ml (concentración máxima recomendada para infusión IV).",
+      "alarma_riesgo": "Riesgo de arritmia ventricular fatal por prolongación del intervalo QT.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la infusión IV en al menos 60 minutos para evitar dolor e irritación venosa.;",
+          "Verificar la presencia de palpitaciones o arritmias en el monitor cardíaco durante la infusión IV.;",
+          "Controlar las características de las deposiciones para detectar colitis pseudomembranosa.;"
+        ],
+        "educacion_paciente": [
+          "Instruir al paciente sobre la toma única diaria a la misma hora para asegurar la eficacia.;",
+          "Informar que los comprimidos pueden tomarse con o sin alimentos.;",
+          "Advertir que debe suspender la medicación y consultar ante la presencia de palpitaciones o mareos.;"
+        ]
+      }
     }
   ]
 }
