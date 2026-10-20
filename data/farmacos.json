@@ -17478,6 +17478,73 @@
           "Avisar si está tomando medicamentos para la epilepsia ya que puede requerir ajuste de su dosis."
         ]
       }
+    },
+    {
+      "id": "237",
+      "nombre_generico": "Doxorrubicina",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de doxorrubicina",
+        "clasificacion": "Antineoplásico, antibiótico antracíclico",
+        "efecto_terapeutica": "Citotóxico e inhibidor de la duplicación celular no específico del ciclo celular",
+        "mecanismo_accion": "Se intercala entre las pares de bases del ADN e inhibe la enzima topoisomerasa II, además de generar radicales libres de oxígeno que provocan la rotura de la cadena de ADN y daño a la membrana celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Amplio volumen de distribución tisular; alta unión a proteínas (75%); no atraviesa la barrera hematoencefálica",
+        "metabolismo": "Hepático extenso por aldoceto reductasas a doxorrubicinol (metabolito activo) y derivados inactivos",
+        "eliminacion": "Excreción biliar y fecal principal (40-50%) y renal en menor proporción (5-10%)"
+      },
+      "indicaciones": "Cáncer de mama, cáncer de ovario, sarcoma de partes blandas y óseo, linfoma de Hodgkin y no Hodgkin, leucemias agudas, cáncer de vejiga y carcinoma tiroideo.",
+      "contraindicaciones": "Hipersensibilidad a las antraciclinas o antracenodionas; miocardiopatía o insuficiencia cardíaca grave; dosis acumulativa máxima previa alcanzada; mielosupresión severa; embarazo y lactancia.",
+      "precauciones": "Riesgo de cardiotoxicidad aguda (arritmias) y crónica irreversible (miocardiopatía dilatada/insuficiencia cardíaca) dependiente de la dosis acumulativa (> 450-550 mg/m²); vesicante potente en extravasación.",
+      "advertencias": "Colorea la orina, sudor y lágrimas de rojo durante 24 a 48 horas tras su administración.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico y cardiotóxico fetal. Contraindicado durante la lactancia.",
+      "ajustes": {
+        "renal": "No suele requerir ajuste salvo en falla renal severa.",
+        "hepatico": "Reducir la dosis al 50% si la bilirrubina es de 1.2 a 3 mg/dl; reducir al 75% si la bilirrubina es > 3 mg/dl."
+      },
+      "interacciones": "Aumento del riesgo de cardiotoxicidad con trastuzumab, paclitaxel o ciclosporina; la radioterapia mediastínica previa potencia el daño cardíaco; dexrazoxano actúa como cardioprotector.",
+      "reacciones_adversas": "Alopecia completa; cardiotoxicidad (insuficiencia cardíaca, arritmias); mielosupresión (neutropenia); mucositis; náuseas; vómitos; orina roja; necrosis tisular por extravasación.",
+      "toxicidad_sobredosis": "Mielosupresión severa, mucositis ulcerosa y miocardiopatía tóxica aguda irreversible.",
+      "antidotos": "Dexrazoxano (cardioprotector y antídoto para extravasación), dimetilsulfóxido (DMSO) tópico y compresas frías en extravasación.",
+      "monitorizacion": {
+        "clinica": "Control de función cardíaca (fracción de eyección del ventrículo izquierdo - FEVI), electrocardiograma, sitio venoso y signos de insuficiencia cardíaca.",
+        "laboratorio": "FEVI (ecocardiograma/MUGA) basal y periódico, hemograma completo y bilirrubina total."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la FEVI basal, la dosis acumulativa previa total del paciente y la permeabilidad de la vena venosa central.",
+        "durante": "Verificar el retorno venoso frecuente durante el bolo o la infusión corta por riesgo vesicante.",
+        "despues": "Informar al paciente sobre la tinción roja inofensiva de la orina."
+      },
+      "presentaciones": "Frasco ampolla de 10 mg/5 ml y 50 mg/25 ml de solución o liofilizado.",
+      "dosis": {
+        "adultos": "60 mg/m² a 75 mg/m² IV en dosis única cada 21 días (o 20 mg/m² a 30 mg/m²/día por 3 días consecutivos). Dosis máxima acumulativa: 450-550 mg/m².",
+        "pediatrico": "30 mg/m² a 45 mg/m² IV cada 3 semanas en protocolos pediátricos.",
+        "geriatrico": "Ajustar la dosis posológica por mayor riesgo de cardiotoxicidad y reducción de reserva medular."
+      },
+      "vias_administracion": "Intravenosa exclusiva (bolo lento o infusión corta).",
+      "preparacion": {
+        "dilucion": "Reconstituir si es liofilizado y diluir en 50 ml a 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar en infusión IV en un período de 15 a 30 minutos (o bolo lento en tubuladura con flujo libre).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C) protegida de la luz.",
+      "concentracion": "2 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de insuficiencia cardíaca irreversible por dosis acumulativa y necrosis tisular grave por extravasación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar el retorno venoso continuo antes y durante la administración por ser un vesicante potente.;",
+          "Registrar la dosis acumulativa total de antraciclinas para no superar el límite de 450-550 mg/m².;",
+          "Controlar la FEVI mediante ecocardiograma de forma periódica durante el tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Saber que la orina adquiera un color rojo o anaranjado durante 1 o 2 días sin que esto sea sangre.;",
+          "Avisar de inmediato si siente ardor, dolor o hinchazón en la zona donde entra la vía intravenosa.;",
+          "Notificar al médico si presenta falta de aire al acostarse, hinchazón en los pies o palpitaciones."
+        ]
+      }
     }
   ]
 }
