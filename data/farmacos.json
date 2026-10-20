@@ -16540,6 +16540,73 @@
           "Consultar urgentemente si presenta fiebre o signos de infección."
         ]
       }
+    },
+    {
+      "id": "223",
+      "nombre_generico": "Oxaliplatino",
+      "letra": "O",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Oxaliplatino",
+        "clasificacion": "Antineoplásico, derivado del diaminociclohexano (complejo de platino de tercera generación)",
+        "efecto_terapeutica": "Citotóxico e inhibidor de la duplicación del ADN activo en tumores resistentes a cisplatino",
+        "mecanismo_accion": "Forma aductos masivos de platino intracadena en el ADN que inhiben la síntesis y la reparación del ADN y ARN, desencadenando la apoptosis celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Amplia penetración tisular y rápida unión a eritrocitos y proteínas plasmáticas (85-90%)",
+        "metabolismo": "Biotransformación química no enzimática en especies reactivas de platino",
+        "eliminacion": "Excreción renal masiva (54% en 48 horas)"
+      },
+      "indicaciones": "Tratamiento adyuvante y metastásico del cáncer colorrectal (en esquemas FOLFOX o XELOX) y carcinoma gástrico avanzado.",
+      "contraindicaciones": "Hipersensibilidad al oxaliplatino u otros platinos; mielosupresión grave; neuropatía periférica sensitiva con deterioro funcional previo; lactancia.",
+      "precauciones": "Riesgo característico de neurotoxicidad aguda desencadenada por el frío (disestesia faringolaringea) y neuropatía sensitiva acumulativa.",
+      "advertencias": "Evitar la exposición al frío (bebidas heladas, aire frío) durante y días después de la infusión por espasmo laríngeo agudo.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Ajustar dosis a 65 mg/m² si el clearance de creatinina es menor a 30 ml/min.",
+        "hepatico": "No requiere ajuste de dosis en insuficiencia hepática."
+      },
+      "interacciones": "Incompatible con soluciones salinas alcalinas o cloruro de sodio (provoca precipitación); potencia neurotoxicidad con otros agentes.",
+      "reacciones_adversas": "Neurotoxicidad sensitiva periférica (parestesias, disestesias gatilladas por el frío); disestesia laríngea; náuseas; diarrea; mielosupresión; fatiga; anemia.",
+      "toxicidad_sobredosis": "Neurotoxicidad periférica severa, trombocitopenia e irritación gastrointestinal grave.",
+      "antidotos": "Tratamiento de soporte, calentamiento corporal e infusión lenta.",
+      "monitorizacion": {
+        "clinica": "Control de parestesias, sensibilidad al frío, espasmo faríngeo, sitio de infusión y diuresis.",
+        "laboratorio": "Hemograma completo con recuento de plaquetas, creatinina, magnesio y hepatograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de parestesias previas y asegurar que la dilución se realice exclusivamente en dextrosa al 5%.",
+        "durante": "Monitorear la aparición de opresión en la garganta o dificultad para tragar durante la infusión.",
+        "despues": "Instruir la evitación absoluta del frío en los días posteriores al ciclo."
+      },
+      "presentaciones": "Frasco ampolla de 50 mg/10 ml y 100 mg/20 ml de solución inyectable o liofilizado.",
+      "dosis": {
+        "adultos": "85 mg/m² IV cada 2 semanas (en combinación con 5-FU/LV) o 130 mg/m² IV cada 3 semanas.",
+        "pediatrico": "Uso no establecido formalmente en pediatría.",
+        "geriatrico": "Dosis habitual monitoreando la función renal y la neurotoxicidad."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis calculada en 250 ml a 500 ml de solución de dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible exclusivamente con dextrosa al 5% (contraindicada la mezcla con cloruro de sodio o soluciones alcalinas)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua en un período de 2 a 6 horas.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C).",
+      "concentracion": "0,7 mg/ml (concentración máxima recomendada en la bolsa de infusión).",
+      "alarma_riesgo": "Precipitación química si se mezcla con cloruro de sodio y espasmo laríngeo severo gatillado por frío.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Diluir el oxaliplatino exclusivamente en dextrosa al 5% (nunca en solución fisiológica por incompatibilidad).;",
+          "Infundir en un lapso de 2 a 6 horas mediante vía exclusiva periférica o central.;",
+          "Asegurar que el paciente no consuma líquidos fríos durante ni después de la infusión.;"
+        ],
+        "educacion_paciente": [
+          "No beber líquidos fríos ni consumir helados durante la infusión y por 3 a 5 días después.;",
+          "Usar guantes, abrigo y protegerse la boca y nariz al salir al aire frío o abrir la heladera.;",
+          "Informar si nota sensación de opresión en la garganta, dificultad para tragar o calambres en las manos."
+        ]
+      }
     }
   ]
 }
