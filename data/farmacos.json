@@ -17880,6 +17880,73 @@
           "Avisar si presenta ardor intenso al orinar, fiebre, incapacidad para orinar u orina de color rojo oscuro."
         ]
       }
+    },
+    {
+      "id": "243",
+      "nombre_generico": "Bleomicina",
+      "letra": "B",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de bleomicina",
+        "clasificacion": "Antineoplásico, antibiótico citotóxico (glicopéptido)",
+        "efecto_terapeutica": "Citotóxico e inhibidor del crecimiento tumoral con mayor actividad en fase G2 y M del ciclo celular",
+        "mecanismo_accion": "Induce la fragmentación y rotura de la hélice de ADN mediante la formación de un complejo quelante con hierro y oxígeno que genera radicales libres"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva (IV, IM, SC, intrapleural)",
+        "distribucion": "Se concentra preferentemente en la piel, pulmón y cavidades serosas por baja actividad de la enzima bleomicina hidrolasa en estos tejidos; no cruza la BHE",
+        "metabolismo": "Inactivación enzimática en tejidos por la bleomicina hidrolasa (deficiente en piel y pulmones)",
+        "eliminacion": "Excreción renal principalmente en forma inalterada (60-70%)"
+      },
+      "indicaciones": "Cáncer de testículo, linfoma de Hodgkin, linfoma no Hodgkin, carcinoma epidermoide de cabeza y cuello, de cérvix, de pene y derrame pleural maligno (escleroterapia intrapleural).",
+      "contraindicaciones": "Hipersensibilidad a la bleomicina; infección pulmonar aguda o función pulmonar severamente comprometida; embarazo y lactancia.",
+      "precauciones": "Riesgo muy elevado de toxicidad pulmonar (neumonitis intersticial y fibrosis pulmonar irreversible dependiente de la dosis acumulativa); reacciones febriles e hipertermia; anafilaxia en linfomas.",
+      "advertencias": "Dosis acumulativa máxima de por vida de 400 UI (300 UI en ancianos) por riesgo de fibrosis pulmonar mortal. Monitorear con espirometría y DLCO.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de toxicidad y malformaciones fetales. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 75% si el clearance es de 10-50 ml/min; reducir al 50% si es < 10 ml/min.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Aumento del riesgo de toxicidad pulmonar si se coadministra con oxígeno a altas concentraciones o agentes como carmustina/brentuximab; la nefrotoxicidad por cisplatino disminuye su aclaramiento.",
+      "reacciones_adversas": "Toxicidad pulmonar (tos seca, disnea, estertores, fibrosis); hiperpigmentación cutánea; hiperqueratosis; reacciones febriles post-infusión; estomatitis; anafilaxia.",
+      "toxicidad_sobredosis": "Fibrosis pulmonar irreversible, colapso respiratorio y fiebre alta con hipotensión.",
+      "antidotos": "Tratamiento de soporte, corticoides a dosis altas en neumonitis temprana y suspensión inmediata del fármaco.",
+      "monitorizacion": {
+        "clinica": "Auscultación pulmonar periódica, evaluación de tos o disnea, temperatura corporal post-infusión y función renal.",
+        "laboratorio": "Pruebas de función pulmonar (DLCO y espirometría) previo y durante el tratamiento; radiografía/TC de tórax."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar espirometría con DLCO basal, verificar la dosis acumulativa total del paciente y administrar dosis de prueba en pacientes con linfoma.",
+        "durante": "Monitorear la aparición de estertores crepitantes pulmonares, tos o picos febriles.",
+        "despues": "Valorar la respuesta clínica tumoral y el control de la función respiratoria."
+      },
+      "presentaciones": "Frasco ampolla de 15 UI (15 mg) de polvo liofilizado.",
+      "dosis": {
+        "adultos": "10 a 20 UI/m² IV, IM o SC 1 a 2 veces por semana (en esquemas como ABVD para Hodgkin o BEP para testículo). Dosis máxima acumulativa de por vida: 400 UI.",
+        "pediatrico": "10 a 15 UI/m² 1 o 2 veces por semana según protocolo específico hemato-oncológico.",
+        "geriatrico": "Reducir la dosis límite acumulativa a 300 UI por mayor fragilidad del parénquima pulmonar."
+      },
+      "vias_administracion": "Intravenosa, intramuscular, subcutánea e intrapleural.",
+      "preparacion": {
+        "dilucion": "Reconstituir con solución fisiológica y diluir en 50 ml a 100 ml de solución fisiológica para infusión IV.",
+        "compatibilidad_iv": "Compatible con solución fisiológica (incompatible o inestable con dextrosa al 5% en algunas formulaciones)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV lenta en un período de 10 a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "15 UI por frasco ampolla.",
+      "alarma_riesgo": "Riesgo de fibrosis pulmonar irreversible e hipotensión anafilactoide en la primera dosis.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Registrar de forma estricta la dosis acumulativa en UI para no superar los límites de toxicidad pulmonar.;",
+          "Evaluar la auscultación pulmonar y la saturación de oxígeno antes de cada administración.;",
+          "Administrar una dosis de prueba (1-2 UI) en pacientes con linfoma previa a la dosis completa para descartar anafilaxia.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato si presenta tos seca persistente, falta de aire o dificultad para respirar.;",
+          "Informar que es posible sentir escalofríos o fiebre horas después de recibir la inyección.;",
+          "Notificar la aparición de oscurecimiento o cambios en la piel y uñas."
+        ]
+      }
     }
   ]
 }
