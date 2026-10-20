@@ -12520,6 +12520,73 @@
           "Avisar si presenta diarrea persistente, vómitos o erupciones en la piel.;"
         ]
       }
+    },
+    {
+      "id": "163",
+      "nombre_generico": "Ceftriaxona",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Ceftriaxona",
+        "clasificacion": "Antibiótico, cefalosporina de 3ª generación",
+        "efecto_terapeutica": "Bactericida de amplio espectro sobre enterobacterias, Haemophilus, Neisseria y gérmenes sensibles",
+        "mecanismo_accion": "Inhibe la síntesis de la pared celular bacteriana uniéndose a las proteínas PBP, altamente resistente a betalactamasas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración exclusivamente parenteral con disponibilidad del 100%",
+        "distribucion": "Excelente penetración tisular y en líquido cefalorraquídeo con meninges inflamadas; alta unión a proteínas",
+        "metabolismo": "No se metaboliza a nivel hepático",
+        "eliminacion": "Doble vía de eliminación: renal (60%) y biliar/fecal (40%) de forma inalterada"
+      },
+      "indicaciones": "Neumonía grave, meningitis bacteriana, sepsis, infecciones intraabdominales, gonorrea, infección urinaria complicada, profilaxis quirúrgica.",
+      "contraindicaciones": "Hipersensibilidad a la ceftriaxona o cefalosporinas; neonatos con hiperbilirrubinemia; administración concomitante con soluciones que contengan calcio en neonatos.",
+      "precauciones": "Riesgo de precipitación de sal cálcica de ceftriaxona en pulmones y riñones de neonatos; colelitiasis o barro biliar pseudolitiasis.",
+      "advertencias": "No administrar de forma simultánea con Ringer Lactato u otras soluciones con calcio por la misma vía.",
+      "embarazo_lactancia": "Categoría B en el embarazo; uso seguro. Excreción en bajas concentraciones en leche materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en falla renal si la función hepática es normal (dosis máxima 2 g/día en falla severa).",
+        "hepatico": "No requiere ajuste si la función renal está conservada."
+      },
+      "interacciones": "Incompatibilidad física con soluciones parenterales que contengan calcio; potencia el efecto de antagonistas de vitamina K.",
+      "reacciones_adversas": "Diarrea; náuseas; exantema; trombocitosis; leucopenia; dolor en el sitio de inyección IM; barro biliar.",
+      "toxicidad_sobredosis": "Encefalopatía, convulsiones e irritabilidad neuromuscular.",
+      "antidotos": "Tratamiento sintomático y medidas de soporte.",
+      "monitorizacion": {
+        "clinica": "Control de signos de anafilaxia, tolerancia en el sitio de inyección y dolor en cuadrante superior derecho.",
+        "laboratorio": "Hemograma, coagulograma, ecografía vesicular si hay dolor persistente."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar antecedentes de alergia a betalactámicos y verificar que no se administre calcio IV simultáneo.",
+        "durante": "Vigilar la velocidad de administración intravenosa y la respuesta al tratamiento.",
+        "despues": "Valorar la resolución de los signos de infección."
+      },
+      "presentaciones": "Frasco ampolla de 500 mg, 1000 mg y 2000 mg inyectable.",
+      "dosis": {
+        "adultos": "1 g a 2 g cada 24 horas (hasta 4 g/día en meningitis) por vía IV o IM.",
+        "pediatrico": "50 mg/kg a 75 mg/kg/día cada 24 horas (80 mg/kg a 100 mg/kg/día en meningitis) por vía IV o IM.",
+        "geriatrico": "Dosis habitual sin superar 2 g/día salvo en infecciones del sistema nervioso central."
+      },
+      "vias_administracion": "Intravenosa e intramuscular.",
+      "preparacion": {
+        "dilucion": "Para IM reconstitur con lidocaína al 1%; para IV reconstituir con agua estéril y diluir en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Incompatible con soluciones con calcio (Ringer Lactato); compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar la infusión IV en un período de 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 3 días bajo refrigeración (2°C - 8°C).",
+      "concentracion": "40 mg/ml (concentración recomendada para infusión IV).",
+      "alarma_riesgo": "Riesgo mortal de precipitación de cristales al mezclar con soluciones que contienen calcio.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Nunca utilizar soluciones parenterales con calcio para la reconstitución o dilución del fármaco.;",
+          "Aplicar por vía IM profunda reconstruida con lidocaína para disminuir el dolor local.;",
+          "Monitorear la aparición de ictericia o síntomas biliares durante tratamietos prolongados.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento se aplica una o dos veces al día por la vía parenteral.;",
+          "Avisar al personal de salud si siente picazón, mareos o falta de aire durante la aplicación.;",
+          "Informar la necesidad de reportar dolor abdominal fuerte o deposiciones líquidas.;"
+        ]
+      }
     }
   ]
 }
