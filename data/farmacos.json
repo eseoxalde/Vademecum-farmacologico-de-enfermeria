@@ -16808,6 +16808,73 @@
           "Consumir líquidos abundantes en su domicilio durante los días del tratamiento."
         ]
       }
+    },
+    {
+      "id": "227",
+      "nombre_generico": "5-Fluorouracilo (5-FU)",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fluorouracilo",
+        "clasificacion": "Antineoplásico, antimetabolito análogo de la pirimidina",
+        "efecto_terapeutica": "Citotóxico de fase S específica del ciclo celular amplio en adenocarcinoma digestivo y mamario",
+        "mecanismo_accion": "Inhibe la enzima timidilato sintasa a través de su metabolito FdUMP, bloqueando la síntesis de timidina y ADN; se incorpora al ARN alterando la traducción"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral impredecible y baja; administración parenteral IV exclusiva o tópica",
+        "distribucion": "Amplia distribución en tejidos, tumores y LCR (cruza la barrera hematoencefálica)",
+        "metabolismo": "Hepático y tisular extenso (80%) por la enzima dihidropirimidina deshidrogenasa (DPD)",
+        "eliminacion": "Respiratoria en forma de CO2 (60-80%) y renal en baja proporción (< 15% inalterado)"
+      },
+      "indicaciones": "Cáncer colorrectal, gástrico, pancreático, de mama, esofágico, de cabeza y cuello, de cérvix y queratosis actínica (vía tópica).",
+      "contraindicaciones": "Hipersensibilidad al 5-FU; deficiencia conocida de la enzima dihidropirimidina deshidrogenasa (DPD); mielosupresión grave; embarazo.",
+      "precauciones": "Riesgo de cardiotoxicidad (espasmo coronario, angina); síndrome mano-pie (eritroditesia palmo-plantar); estomatitis grave; diarrea.",
+      "advertencias": "Pacientes con déficit total o parcial de DPD presentan un riesgo elevado de toxicidad severa o mortal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No suele requerir ajuste inicial salvo en insuficiencia renal severa.",
+        "hepatico": "Reducir la dosis si hay ictericia o elevación marcada de transaminasas."
+      },
+      "interacciones": "El ácido folínico (leucovorina) potencia la unión del 5-FU a la timidilato sintasa incrementando su citotoxicidad y toxicidad; brivudina e sorivudina están contraindicadas.",
+      "reacciones_adversas": "Diarrea; mucositis/estomatitis; síndrome mano-pie; mielosupresión; alopecia; cardiotoxicidad (isquemia, arritmias); hiperpigmentación venosa.",
+      "toxicidad_sobredosis": "Diarrea hemorrágica, estomatitis masiva, neutropenia febril y cardiotoxicidad aguda.",
+      "antidotos": "Triacetato de uridina (antídoto específico) en caso de sobredosis o toxicidad temprana grave por déficit de DPD.",
+      "monitorizacion": {
+        "clinica": "Control de estomatitis, deposiciones, eritema palmo-plantar, dolor torácico (ECG) y signos de infección.",
+        "laboratorio": "Hemograma completo semanal y función hepática."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de mucositis, antecedentes coronarios, hemograma basal y (si es posible) genotipificación de DPD.",
+        "durante": "Monitorear la aparición de dolor en el pecho o diarrea constante durante la infusión continua.",
+        "despues": "Valorar la tolerancia cutánea y la recuperación de la mucosa bucal."
+      },
+      "presentaciones": "Frasco ampolla inyectable de 250 mg/5 ml, 500 mg/10 ml y 1000 mg/20 ml; crema tópica al 5%.",
+      "dosis": {
+        "adultos": "Bolos IV: 400 mg/m² a 500 mg/m²; Infusión continua: 600 mg/m² a 1200 mg/m²/día por 24-48 horas (asociado a Leucovorina).",
+        "pediatrico": "Dosificación según protocolos hemato-oncológicos específicos por superficie corporal.",
+        "geriatrico": "Dosis habitual monitoreando cuidadosamente la diarrea y cardiotoxicidad."
+      },
+      "vias_administracion": "Intravenosa (bolo o infusión continua) y tópica.",
+      "preparacion": {
+        "dilucion": "Se puede administrar directo o diluir la dosis en 250 ml a 1000 ml de dextrosa al 5% o solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por bolo IV lento o en infusión continua programada durante 24 a 96 horas mediante elastómero.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente (o varias semanas en bombas de infusión elastoméricas).",
+      "concentracion": "50 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de cardiotoxicidad aguda e intensificación tóxica mortal en pacientes con deficiencia enzimática de DPD.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la correcta programación de la bomba o difusor elastomérico en infusiones continuas de 24-48 horas.;",
+          "Monitorear activamente la aparición de dolor precordial o síntomas de angina de pecho.;",
+          "Evaluar la mucosa bucal diariamente para suspender ante estomatitis o diarrea grave.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato si siente dolor en el pecho, opresión o falta de aire durante o después de la infusión.;",
+          "Notificar al equipo de salud ante la presencia de llagas dolorosas en la boca o diarrea frecuente.;",
+          "Humectar las palmas de las manos y plantas de los pies para prevenir el síndrome mano-pie."
+        ]
+      }
     }
   ]
 }
