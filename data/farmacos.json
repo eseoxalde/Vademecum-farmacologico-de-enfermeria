@@ -12118,6 +12118,73 @@
           "Instruir sobre los signos de alarma alérgicos para consultar a urgencias.;"
         ]
       }
+    },
+    {
+      "id": "157",
+      "nombre_generico": "Penicilina G (Sódica / Potásica)",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Penicilina G cristalina",
+        "clasificacion": "Antibiótico, penicilina natural de acción rápida",
+        "efecto_terapeutica": "Rápida acción bactericida frente a cocos grampositivos y bacterias sensibles",
+        "mecanismo_accion": "Bloquea la síntesis de la pared celular bacteriana provocando la lisis celular de patógenos en fase de multiplicación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Inactiva por vía oral por el ácido gástrico; administración IV con efecto inmediato",
+        "distribucion": "Buena penetración en tejidos e inflamación meníngea",
+        "metabolismo": "Hepático leve (10-30%)",
+        "eliminacion": "Excreción renal muy rápida por secreción tubular"
+      },
+      "indicaciones": "Neurosífilis, meningitis bacteriana, endocarditis, sepsis y neumonías graves.",
+      "contraindicaciones": "Hipersensibilidad confirmada a la penicilina o betalactámicos.",
+      "precauciones": "Carga de sodio o potasio elevada en pacientes con insuficiencia cardíaca o renal.",
+      "advertencias": "Dosis elevadas pueden producir nefrotoxicidad o alteraciones electrolíticas severas (hiperkalemia o hipernatremia).",
+      "embarazo_lactancia": "Segura durante el embarazo (Categoría B) y durante la lactancia.",
+      "ajustes": {
+        "renal": "Disminuir la dosis total diaria o aumentar el intervalo entre dosis en falla renal severa.",
+        "hepatico": "No requiere ajuste específico."
+      },
+      "interacciones": "El probenecid prolonga los niveles de penicilina; no mezclar en el mismo sachet con aminoglucósidos.",
+      "reacciones_adversas": "Reacción anafiláctica; exantema; trastornos electrolíticos; tromboflebitis IV; convulsiones por neurotoxicidad.",
+      "toxicidad_sobredosis": "Neurotoxicidad (convulsiones, mioclonías) e hiperpotasemia/hipernatremia grave.",
+      "antidotos": "Adrenalina para anafilaxia; hemodiálisis para remover el exceso del fármaco.",
+      "monitorizacion": {
+        "clinica": "Control de signos vitales, ionograma y presencia de reacciones alérgicas.",
+        "laboratorio": "Potasio, sodio, función renal y hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la ausencia de alergias a betalactámicos y estado de la función renal.",
+        "durante": "Monitorear la velocidad de infusión para evitar tromboflebitis o picos de electrolitos.",
+        "despues": "Valorar la respuesta clínica y resolución de la infección."
+      },
+      "presentaciones": "Frasco ampolla de 1.000.000 UI, 2.000.000 UI, 5.000.000 UI y 24.000.000 UI.",
+      "dosis": {
+        "adultos": "2.000.000 UI a 5.000.000 UI cada 4 a 6 horas por vía intravenosa según la gravedad.",
+        "pediatrico": "100.000 UI a 400.000 UI/kg/día divididos cada 4 a 6 horas por vía intravenosa.",
+        "geriatrico": "Ajustar dosis según función renal para evitar toxicidad central."
+      },
+      "vias_administracion": "Intravenosa e intramuscular.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado y diluir la dosis en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administración IV en infusión durante 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas bajo refrigeración a 2°C - 8°C tras su reconstitución.",
+      "concentracion": "500.000 UI/ml en la reconstitución directa de la ampolla.",
+      "alarma_riesgo": "Riesgo de paro cardíaco por hiperkalemia si se administra penicilina potásica en bolo directo.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la infusión intravenosa en no menos de 30 minutos para evitar neurotoxicidad o arritmias.;",
+          "Controlar periódicamente el ionograma plasmático en pacientes que reciben altas dosis.;",
+          "Rotar los sitios de punción venosa periférica para evitar el desarrollo de flebitis.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente la necesidad de mantener el tratamiento cada 4 o 6 horas en internación.;",
+          "Advertir sobre la importancia de notificar si siente picazón, mareos o dificultad respiratoria.;",
+          "Informar que se realizarán análisis de sangre periódicos para controlar el tratamiento.;"
+        ]
+      }
     }
   ]
 }
