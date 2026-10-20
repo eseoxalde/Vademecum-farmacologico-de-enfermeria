@@ -14262,6 +14262,73 @@
           "Notificar al personal si disminuye la cantidad de orina eliminada.;"
         ]
       }
+    },
+    {
+      "id": "189",
+      "nombre_generico": "Tigeciclina",
+      "letra": "T",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Tigeciclina",
+        "clasificacion": "Antibiótico, glicilciclina",
+        "efecto_terapeutica": "Bacterostático de amplio espectro contra bacterias multirresistentes (SAMR, ERV, enterobacterias BLEE)",
+        "mecanismo_accion": "Se une a la subunidad 30S del ribosoma bacteriano bloqueando la entrada del aminoacil-ARNt, impidiendo el alargamiento de la cadena proteica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Amplia distribución en tejidos corporales con un volumen de distribución elevado; bajas concentraciones plasmáticas y urinarias",
+        "metabolismo": "Hepático menor por glucuronidación",
+        "eliminacion": "Excreción biliar/fecal (59%) y renal (33%) de forma inalterada"
+      },
+      "indicaciones": "Infecciones complicadas de piel y tejidos blandos e infecciones intraabdominales complicadas.",
+      "contraindicaciones": "Hipersensibilidad a la tigeciclina o a las tetraciclinas.",
+      "precauciones": "Insuficiencia hepática severa; riesgo de pancreatitis aguda; no indicada en sepsis por bajas concentraciones séricas.",
+      "advertencias": "Incremento de la mortalidad por todas las causas en ensayos clínicos comparativos; reservar para situaciones donde no haya alternativas.",
+      "embarazo_lactancia": "Categoría D en el embarazo; puede causar daño fetal y tinción permanente de los dientes. Evitar durante la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal o hemodiálisis.",
+        "hepatico": "Reducir la dosis de mantenimiento al 50% (25 mg c/12h) en insuficiencia hepática grave (Child-Pugh C)."
+      },
+      "interacciones": "Disminuye el clearance de la warfarina aumentando el tiempo de protrombina; interfiere con anticonceptivos orales.",
+      "reacciones_adversas": "Náuseas; vómitos; diarrea; dolor abdominal; dispepsia; cefalea; elevación de bilirrubina y transaminasas; prolongación del KPTT.",
+      "toxicidad_sobredosis": "Náuseas y vómitos intensos, mareos y toxicidad hepática.",
+      "antidotos": "Tratamiento de soporte; no se elimina de forma significativa por hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control de tolerancia digestiva, signos de pancreatitis y sitio de inyección IV.",
+        "laboratorio": "Amilasa, lipasa, coagulograma, pruebas de función hepática y hemograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función hepática basal y la coagulación del paciente.",
+        "durante": "Monitorear la presencia de náuseas o vómitos intensos e indicar antieméticos si se requiere.",
+        "despues": "Valorar la resolución del cuadro infeccioso profundo."
+      },
+      "presentaciones": "Frasco ampolla de 50 mg de liofilizado.",
+      "dosis": {
+        "adultos": "Dosis de carga inicial de 100 mg IV, seguida de 50 mg cada 12 horas en infusión.",
+        "pediatrico": "Uso no recomendado en menores de 18 años.",
+        "geriatrico": "Dosis habitual de adultos sin necesidad de ajustes por edad."
+      },
+      "vias_administracion": "Intravenosa exclusiva.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con 5,3 ml de solución fisiológica o dextrosa al 5% y diluir en 100 ml de la misma solución.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C).",
+      "concentracion": "1 mg/ml (concentración máxima en la solución diluida).",
+      "alarma_riesgo": "Aumento del riesgo de mortalidad y fracaso terapéutico en bacteriemias por bajas concentraciones en sangre.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV en 30 a 60 minutos administrando premedicación antiemética si hay intolerancia.;",
+          "Verificar que la solución reconstituida presente un color amarillo a naranja claro sin partículas.;",
+          "Controlar parámetros de función hepática y enzimas pancreáticas periódicamente.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que el tratamiento se administra en el hospital para infecciones graves.;",
+          "Informar que es muy frecuente sentir náuseas o vómitos y que se pueden administrar remedios para aliviarlo.;",
+          "Avisar al personal de salud si presenta dolor abdominal intenso o tinte amarillo en los ojos.;"
+        ]
+      }
     }
   ]
 }
