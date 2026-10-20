@@ -16339,6 +16339,73 @@
           "Informar inmediatamente si nota enrojecimiento en la piel, llagas en la boca o fiebre."
         ]
       }
+    },
+    {
+      "id": "220",
+      "nombre_generico": "Trabectedina",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Trabectedina",
+        "clasificacion": "Antineoplásico, alcaloide sintético de origen marino (tetrahidroisoquinolina)",
+        "efecto_terapeutica": "Citotóxico e inmunomodulador selectivo del microambiente tumoral",
+        "mecanismo_accion": "Se une al surco menor del ADN alterando la estructura de la doble hélice, interfiriendo con los factores de transcripción y bloqueando el sistema de reparación de apareamientos erróneos (NER)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas (97%); amplio volumen de distribución tisular",
+        "metabolismo": "Hepático extenso por el sistema CYP3A4 a metabolitos activos e inactivos",
+        "eliminacion": "Excreción fecal y biliar principalmente (80%) y renal en baja proporción (< 6%)"
+      },
+      "indicaciones": "Tratamiento del sarcoma de partes blandas avanzado (liposarcoma y leiomiosarcoma) y cáncer de ovario recurrente sensible a platino (en combinación con doxorrubicina liposomal).",
+      "contraindicaciones": "Hipersensibilidad a la trabectedina; infección grave no controlada; bilirrubina sérica superior al límite normal; CPK elevada.",
+      "precauciones": "Riesgo severo de hepatotoxicidad; rabdomiólisis e insuficiencia renal secundaria; mielosupresión profunda.",
+      "advertencias": "Es obligatoria la premedicación con dexametasona IV para prevenir la hepatotoxicidad grave y disminuir náuseas.",
+      "embarazo_lactancia": "Categoría D en el embarazo; teratogénico y genotóxico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste si el clearance es ≥ 30 ml/min; falta de datos en clearance < 30 ml/min.",
+        "hepatico": "Contraindicado en bilirrubina elevada; reducir la dosis si las transaminasas o fosfatasa alcalina aumentan."
+      },
+      "interacciones": "Inhibidores potentes del CYP3A4 (ketoconazol, claritromicina) aumentan sus niveles tóxicos; inductores (rifampicina) reducen su eficacia.",
+      "reacciones_adversas": "Elevación transitoria de transaminasas (GOT/GPT); neutropenia; trombocitopenia; náuseas; vómitos; astenia; mialgias; elevación de CPK; rabdomiólisis.",
+      "toxicidad_sobredosis": "Hepatotoxicidad fulminante, rabdomiólisis con fallo renal masivo y aplasia medular.",
+      "antidotos": "Tratamiento de soporte, dexametasona a dosis altas e hidratación parenteral.",
+      "monitorizacion": {
+        "clinica": "Control de fatiga, mialgias, tinte ictérico, diuresis y sitio de vía venosa central.",
+        "laboratorio": "Transaminasas, bilirrubina, CPK, fosfatasa alcalina, creatinina y hemograma previo a cada ciclo."
+      },
+      "parametros_valoracion": {
+        "antes": "Administrar dexametasona 20 mg IV 30 minutos antes e insistir en neutrófilos ≥ 1.500/mm³, plaquetas ≥ 100.000/mm³ y bilirrubina normal.",
+        "durante": "Monitorear la infusión por vía venosa central mediante bomba programada durante 24 horas.",
+        "despues": "Dosar CPK y enzimas hepáticas a los días 8 y 15 post-infusión."
+      },
+      "presentaciones": "Frasco ampolla liofilizado de 0,25 mg y 1 mg.",
+      "dosis": {
+        "adultos": "1,5 mg/m² administrados en infusión IV continua de 24 horas cada 21 días (en cáncer de ovario: 1,1 mg/m² cada 3 semanas).",
+        "pediatrico": "Uso no establecido en menores de 18 años.",
+        "geriatrico": "Dosis habitual con monitoreo hepático estricto por mayor susceptibilidad a toxicidad."
+      },
+      "vias_administracion": "Intravenosa exclusiva en vía venosa central.",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril y diluir en 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua durante exactamente 24 horas (o 3 horas en esquema combinado).",
+      "estabilidad_soluciones": "Estable durante 30 horas a temperatura ambiente tras la dilución final.",
+      "concentracion": "0,03 mg/ml (concentración máxima recomendada en la bolsa de infusión).",
+      "alarma_riesgo": "Riesgo de rabdomiólisis mortal y falla hepática severa si se omite la dexametasona previa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar obligatoriamente dexametasona 20 mg IV 30 minutos antes de comenzar la infusión.;",
+          "Infundir exclusivamente por un catéter venoso central mediante bomba de infusión durante 24 horas.;",
+          "Controlar la CPK y las enzimas hepáticas en los días intermedios del ciclo.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que la infusión requerirá internación u hospital de día por un lapso continuo de 24 horas.;",
+          "Avisar de inmediato si siente dolores musculares intensos, debilidad extrema o tinte amarillo en ojos.;",
+          "Notificar si la orina adquiera un color marrón o rojo oscuro (signo de daño muscular)."
+        ]
+      }
     }
   ]
 }
