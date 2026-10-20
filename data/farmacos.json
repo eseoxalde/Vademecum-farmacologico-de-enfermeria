@@ -18617,6 +18617,73 @@
           "Informar de inmediato ante sofocos, dificultad para respirar, ronchas o adormecimiento en dedos."
         ]
       }
+    },
+    {
+      "id": "254",
+      "nombre_generico": "Nab-paclitaxel",
+      "letra": "N",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Paclitaxel ligado a albúmina (partículas de nanopartículas)",
+        "clasificacion": "Antineoplásico, taxano en formulación de nanopartículas unidas a albúmina",
+        "efecto_terapeutica": "Citotóxico que induce la detención del ciclo celular sin requerir solventes sintéticos tóxicos",
+        "mecanismo_accion": "Formulación coloidal de nanopartículas de paclitaxel unidas a albúmina humana que facilita el transporte transendotelial a través del receptor de albúmina (Gp60) y su acumulación tumoral mediante la proteína SPARC"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Mayor volumen de distribución y aclaramiento más rápido que el paclitaxel con solventes; no requiere filtros",
+        "metabolismo": "Hepático por las isoenzimas CYP2C8 y CYP3A4 a metabolitos inactivos",
+        "eliminacion": "Excreción biliar y fecal principal y renal mínima"
+      },
+      "indicaciones": "Carcinoma metastásico de mama (tras fracaso de quimioterapia combinada), adenocarcinoma metastásico de páncreas (con gemcitabina) y cáncer de pulmón no microcítico avanzado.",
+      "contraindicaciones": "Hipersensibilidad al paclitaxel o a la albúmina humana; recuento inicial de neutrófilos < 1.500/mm³ (< 1.000/mm³ en páncreas); embarazo y lactancia.",
+      "precauciones": "Mielosupresión (neutropenia profunda dependiente de la dosis); neuropatía sensitiva periférica; no requiere premedicación con corticoides ni antihistamínicos por ausencia de Cremophor EL.",
+      "advertencias": "No es intercambiable con otras formulaciones de paclitaxel convencional debido a sus diferentes perfiles posológicos y farmacocinéticos.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve a moderada.",
+        "hepatico": "Reducir la dosis si la bilirrubina es de 1.5 a 5 mg/dl o si las transaminasas están elevadas."
+      },
+      "interacciones": "La coadministración con fármacos que inhiben o inducen CYP2C8 o CYP3A4 puede alterar sus concentraciones plasmáticas.",
+      "reacciones_adversas": "Neutropenia; neuropatía periférica sensitiva; alopecia; astenia; mialgias; artralgias; diarrea; náuseas; vómitos; mucositis.",
+      "toxicidad_sobredosis": "Aplasia medular severa, neurotoxicidad periférica grave y estomatitis.",
+      "antidotos": "Tratamiento de soporte, factores de estimulación de colonias (G-CSF) y transfusiones.",
+      "monitorizacion": {
+        "clinica": "Control de parestesias, signos de infección o neutropenia febril, temperatura y sitio venoso.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, bilirrubina total y transaminasas."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar recuento de neutrófilos (≥ 1.500/mm³) y preparar la suspensión reconstituida sin formar espuma.",
+        "durante": "Administrar por infusión IV en 30 minutos sin usar filtros en línea.",
+        "despues": "Monitorear la aparición de adormecimiento o dolor en manos y pies."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg de polvo liofilizado para suspensión inyectable.",
+      "dosis": {
+        "adultos": "Mama: 260 mg/m² IV en 30 minutos cada 3 semanas; Páncreas: 125 mg/m² IV los días 1, 8 y 15 de un ciclo de 28 días (con gemcitabina).",
+        "pediatrico": "Uso no establecido en población pediátrica.",
+        "geriatrico": "Dosis habitual monitoreando la función hepática y la neurotoxicidad."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla inyectando lentamente 20 ml de solución fisiológica sobre la pared del vial y dejar reposar sin agitar bruscamente.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (no usar filtros en línea durante la infusión)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 minutos.",
+      "estabilidad_soluciones": "La suspensión reconstituida es estable durante 8 horas refrigerada (2°C - 8°C) en el vial original y 8 horas adicionales en la bolsa de infusión a temperatura ambiente.",
+      "concentracion": "5 mg/ml (concentración de la suspensión reconstituida).",
+      "alarma_riesgo": "Error de sustitución con paclitaxel convencional en Cremophor resultando en sobredosificación y reacciones alérgicas no prevenidas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Reconstituir dirigiendo el chorro de solución fisiológica por la pared del vial sin agitar enérgicamente para evitar espuma.;",
+          "Infundir en 30 minutos mediante guías intravenosas estándar sin utilizar filtros en línea.;",
+          "No administrar premedicación de rutina con corticoides ni antihistamínicos (salvo indicación médica específica).;"
+        ],
+        "educacion_paciente": [
+          "Explicar que esta formulación de paclitaxel no requiere los medicamentos previos para la alergia que se usan habitualmente.;",
+          "Informar de inmediato al médico si nota adormecimiento, hormigueo o dolor en los dedos de las manos o pies.;",
+          "Avisar de urgencia ante cualquier síntoma de fiebre, escalofríos o dolor de garganta."
+        ]
+      }
     }
   ]
 }
