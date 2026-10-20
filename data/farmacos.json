@@ -18081,6 +18081,73 @@
           "Consultar si presenta dificultad para respirar o tos seca."
         ]
       }
+    },
+    {
+      "id": "246",
+      "nombre_generico": "Mitoxantrona",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de mitoxantrona",
+        "clasificacion": "Antineoplásico, antracenodiona (análogo de las antraciclinas)",
+        "efecto_terapeutica": "Citotóxico e inmunosupresor no específico del ciclo celular con menor cardiotoxicidad que doxorrubicina",
+        "mecanismo_accion": "Se intercala en el ADN inhibiendo la topoisomerasa II, causando roturas en la cadena de ADN y bloqueando la síntesis de ARN y ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Amplio volumen de distribución con rápida fijación tisular; no atraviesa la BHE en cantidades relevantes",
+        "metabolismo": "Hepático extenso por glucuronidación y oxidación a metabolitos inactivos",
+        "eliminacion": "Excreción biliar y fecal principal (25%) y renal en menor proporción (10%) con retención tisular prolongada"
+      },
+      "indicaciones": "Leucemia mieloide aguda (LMA) en adultos, cáncer de próstata avanzado hormono-resistente y esclerosis múltiple secundaria progresiva o recurrente grave.",
+      "contraindicaciones": "Hipersensibilidad a la mitoxantrona o antracenodionas; dosis acumulativa máxima previa alcanzada; embarazo y lactancia; mielosupresión grave no leucémica.",
+      "precauciones": "Riesgo de cardiotoxicidad irrecuperable (insuficiencia cardíaca) dependiente de la dosis acumulativa (> 140 mg/m² en oncología, > 100 mg/m² en esclerosis múltiple); mielosupresión profunda; tiñe secreciones y orina de azul-verdoso.",
+      "advertencias": "Colorea la orina, sudor, lágrimas y escleróticas de un color azul o azul-verdoso inofensivo durante 24 a 48 horas.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico y genotóxico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No suele requerir ajuste de dosis.",
+        "hepatico": "Reducir la dosis si la bilirrubina sérica o la función hepática están alteradas."
+      },
+      "interacciones": "Aumento del riesgo de cardiotoxicidad con antraciclinas previas, trastuzumab o radioterapia mediastínica; la coadministración de citostáticos acentúa la aplasia.",
+      "reacciones_adversas": "Mielosupresión (neutropenia); cardiotoxicidad (disminución de la FEVI, insuficiencia cardíaca); orina y escleróticas azul-verdosas; alopecia; náuseas; vómitos; estomatitis.",
+      "toxicidad_sobredosis": "Aplasia medular severa y miocardiopatía tóxica irrecuperable.",
+      "antidotos": "Tratamiento de soporte mieloablativo y fármacos inotrópicos/cardioprotectores.",
+      "monitorizacion": {
+        "clinica": "Control de función cardíaca (FEVI), signos de insuficiencia cardíaca, diuresis y tinte azulado en fluidos.",
+        "laboratorio": "Ecocardiograma (FEVI) previo y periódico, hemograma completo semanal y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la FEVI por ecocardiograma basal y computar la dosis acumulativa previa total de mitoxantrona y antraciclinas.",
+        "durante": "Monitorear la infusión IV y verificar el flujo venoso continuo.",
+        "despues": "Explicar al paciente el cambio de color azul-verdoso en la orina."
+      },
+      "presentaciones": "Frasco ampolla de 20 mg/10 ml y 25 mg/12.5 ml de solución inyectable concentrada.",
+      "dosis": {
+        "adultos": "LMA inducción: 12 mg/m²/día IV los días 1 a 3; Próstata: 12 mg/m² a 14 mg/m² IV cada 21 días; Esclerosis múltiple: 12 mg/m² IV cada 3 meses (máximo acumulativo 100 mg/m²).",
+        "pediatrico": "Uso bajo protocolos hemato-oncológicos específicos por superficie corporal.",
+        "geriatrico": "Ajustar dosis según la función cardiaca y la reserva medular."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis requerida en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 15 a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "2 mg/ml (concentración del concentrado inyectable original).",
+      "alarma_riesgo": "Riesgo de miocardiopatía congestiva irreversible si se sobrepasan los límites de dosis acumulativa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Computar la dosis acumulativa estricta para no superar los 140 mg/m² en oncología o 100 mg/m² en esclerosis múltiple.;",
+          "Controlar la FEVI mediante ecocardiograma previo a iniciar cada ciclo o año de tratamiento.;",
+          "Garantizar que la infusión IV fluya de forma segura para evitar irritación venosa local.;"
+        ],
+        "educacion_paciente": [
+          "Saber que es completamente normal que la orina, las lágrimas o el blanco de los ojos adquieran un color azul-verdoso.;",
+          "Avisar de inmediato si presenta falta de aire al caminar o acostarse, hinchazón en los pies o fatiga inusual.;",
+          "Informar si nota fiebre, escalofríos o hemorragias."
+        ]
+      }
     }
   ]
 }
