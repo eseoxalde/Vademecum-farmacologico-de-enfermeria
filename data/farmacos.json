@@ -11448,6 +11448,73 @@
           "Instruir sobre la importancia de evitar torniquetes, cortes o remedios caseros en futuros incidentes.;"
         ]
       }
+    },
+    {
+      "id": "147",
+      "nombre_generico": "Suero Antiofídico Monovalente",
+      "letra": "S",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Inmunoglobulinas equinas purificadas específicas contra veneno de una sola especie de serpiente (ej. Bothrops alternatus o Crotalus durissus)",
+        "clasificacion": "Antídoto, suero hiperinmune heterólogo específico",
+        "efecto_terapeutica": "Neutraliza selectivamente las toxinas del veneno de la especie ofídica causante del accidente",
+        "mecanismo_accion": "Los anticuerpos equinos específicos se ligan a las toxinas de la especie particular, neutralizando su efecto letal y patogénico tisular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa directa con disponibilidad sistémica inmediata",
+        "distribucion": "Distribución en el espacio intravascular y líquidos corporales",
+        "metabolismo": "Catabolismo proteico natural en el sistema reticuloendotelial",
+        "eliminacion": "Excreción renal y catabolismo sistémico prolongado"
+      },
+      "indicaciones": "Tratamiento específico de mordeduras por una especie serpentina concreta cuando se ha identificado con certeza en la región.",
+      "contraindicaciones": "Hipersensibilidad conocida a las proteínas de origen equino.",
+      "precauciones": "Riesgo latente de reacciones anafilácticas agudas; contar con soporte de reanimación y adrenalina disponible.",
+      "advertencias": "Debe garantizarse la identificación taxonómica correcta de la serpiente para asegurar la efectividad del suero monovalente.",
+      "embarazo_lactancia": "El riesgo vital materno por envenenamiento justifica plenamente su administración durante el embarazo.",
+      "ajustes": {
+        "renal": "No requiere ajuste específico; tratar la insuficiencia renal aguda secundaria con soporte médico.",
+        "hepatico": "No requiere ajuste específico en insuficiencia hepática."
+      },
+      "interacciones": "Interfiere con la respuesta inmune a vacunas de virus vivos atenuados.",
+      "reacciones_adversas": "Reacción anafiláctica aguda; urticaria; hipotensión; fiebre; mialgias; enfermedad del suero tardía.",
+      "toxicidad_sobredosis": "Reacciones alérgicas sistémicas graves y sobrecarga hídrica.",
+      "antidotos": "Adrenalina (epinefrina) intramuscular, antihistamínicos y corticoides.",
+      "monitorizacion": {
+        "clinica": "Control continuo de signos vitales, estado neurológico, sangrados y evolución del edema local.",
+        "laboratorio": "Coagulograma completo, función renal y hemograma seriado."
+      },
+      "parametros_valoracion": {
+        "antes": "Identificar la especie agresora y evaluar la gravedad clínica del paciente.",
+        "durante": "Vigilar minuciosamente al paciente durante la infusión inicial para detectar reacciones de hipersensibilidad.",
+        "despues": "Valorar la reversión de los parámetros de coagulación alterados."
+      },
+      "presentaciones": "Viales de solución inyectable o liofilizado específico.",
+      "dosis": {
+        "adultos": "Cantidad de viales determinada por el protocolo nacional según la gravedad del cuadro clínico.",
+        "pediatrico": "Misma cantidad de viales neutralizantes que el adulto, ajustando el volumen de dilución según peso.",
+        "geriatrico": "Dosis según severidad clínica y estado cardiovascular."
+      },
+      "vias_administracion": "Infusión intravenosa exclusiva diluida.",
+      "preparacion": {
+        "dilucion": "Diluir los viales indicados en 100 ml a 250 ml de solución fisiológica estéril.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica."
+      },
+      "velocidad_infusion": "Goteo inicial lento durante los primeros 15 minutos, luego incrementar según tolerancia hasta completar en 1 a 2 horas.",
+      "estabilidad_soluciones": "Conservar refrigerado entre 2°C y 8°C; utilizar inmediatamente tras su dilución.",
+      "concentracion": "Concentración máxima estandarizada por unidades neutralizantes específicas del veneno.",
+      "alarma_riesgo": "Riesgo de shock anafiláctico por administración rápida o sensibilidad equina.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Disponer de adrenalina y equipo de reanimación cardiopulmonar antes de iniciar la infusión.;",
+          "Vigilar la aparición de signos precoces de anafilaxia durante los primeros 15 minutos del procedimiento.;",
+          "Registrar la evolución clínica de la lesión local y la ausencia de sangrados activos.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente la función específica del suero monovalente para neutralizar el veneno de la especie identificada.;",
+          "Advertir sobre la posible aparición de reacciones alérgicas tardías en los días subsiguientes.;",
+          "Instruir sobre las medidas preventivas ante nuevos encuentros con fauna ponzoñosa.;"
+        ]
+      }
     }
   ]
 }
