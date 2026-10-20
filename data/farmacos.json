@@ -17612,6 +17612,73 @@
           "Informar si nota llagas dolorosas en la boca o enrojecimiento en las palmas."
         ]
       }
+    },
+    {
+      "id": "239",
+      "nombre_generico": "Epirrubicina",
+      "letra": "E",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de epirrubicina",
+        "clasificacion": "Antineoplásico, antibiótico antracíclico (estereoisómero de la doxorrubicina)",
+        "efecto_terapeutica": "Citotóxico amplio con menor índice de cardiotoxicidad que la doxorrubicina",
+        "mecanismo_accion": "Intercala hebras de ADN e inhibe la topoisomerasa II, bloqueando la síntesis de ARN y ADN y generando radicales libres citotóxicos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Amplio volumen de distribución; se une fuertemente a proteínas plasmáticas (77%)",
+        "metabolismo": "Hepático extenso por glucuronidación directa y reducción a epirrubicinol active",
+        "eliminacion": "Excreción biliar principal (40%), fecal y renal (10-15%)"
+      },
+      "indicaciones": "Tratamiento adyuvante y metastásico del cáncer de mama, gástrico, ovárico, mamario, linfomas e instilación vesical en cáncer de vejiga superficial.",
+      "contraindicaciones": "Hipersensibilidad a las antraciclinas; insuficiencia cardíaca severa o arritmias agudas; dosis acumulativa previa alcanzada; mielosupresión grave; insuficiencia hepática severa.",
+      "precauciones": "Riesgo de cardiotoxicidad dosis acumulativa dependiente (> 900-1000 mg/m²); vesicante tisular potente en extravasación; mielosupresión.",
+      "advertencias": "Colorea la orina de rojo durante 24 a 48 horas post-administración.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis si la creatinina sérica es mayor a 5 mg/dl.",
+        "hepatico": "Reducir al 50% si la bilirrubina es de 1.2 a 3 mg/dl; reducir al 75% si la bilirrubina es > 3 mg/dl."
+      },
+      "interacciones": "Coadministración con paclitaxel o docetaxel aumenta sus niveles plasmáticos (administrar epirrubicina primero); incrementa cardiotoxicidad con trastuzumab.",
+      "reacciones_adversas": "Mielosupresión (neutropenia); alopecia; náuseas; vómitos; mucositis; cardiotoxicidad; orina roja; amenorrea; necrosis local por extravasación.",
+      "toxicidad_sobredosis": "Mielosupresión aguda grave, mucositis destructiva e insuficiencia cardíaca aguda.",
+      "antidotos": "Dexrazoxano como antídoto en extravasación o cardioprotector, y compresas frías locales.",
+      "monitorizacion": {
+        "clinica": "Control de la función cardíaca (FEVI), signos de insuficiencia cardíaca, sitio de punción venosa y diuresis.",
+        "laboratorio": "Ecocardiograma o MUGA previo y periódico, hemograma completo y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la FEVI basal, la dosis acumulativa previa del paciente y verificar el perfil hepático (bilirrubina).",
+        "durante": "Monitorear la permeabilidad de la vía IV para evitar extravasaciones.",
+        "despues": "Recordar al paciente la coloración roja transitoria de la orina."
+      },
+      "presentaciones": "Frasco ampolla de 10 mg/5 ml, 50 mg/25 ml y 200 mg/100 ml de solución inyectable.",
+      "dosis": {
+        "adultos": "Cáncer de mama: 60 mg/m² a 120 mg/m² IV cada 3 a 4 semanas. Dosis acumulativa máxima: 900-1000 mg/m².",
+        "pediatrico": "Uso bajo protocolos hemato-oncológicos específicos.",
+        "geriatrico": "Ajustar dosis según la función hepática y la salud cardiovascular."
+      },
+      "vias_administracion": "Intravenosa e intravesical.",
+      "preparacion": {
+        "dilucion": "Diluir en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 15 a 30 minutos mediante vía con flujo libre.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C) protegida de la luz.",
+      "concentracion": "2 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de necrosis tisular por extravasación y miocardiopatía si se sobrepasa la dosis máxima acumulativa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar mediante técnica de infusión segura asegurando el retorno venoso por su carácter vesicante.;",
+          "Controlar la dosis acumulativa para no exceder los 900-1000 mg/m² en la historia del paciente.;",
+          "Ajustar rigurosamente la dosis posológica si los valores de bilirrubina sérica están elevados.;"
+        ],
+        "educacion_paciente": [
+          "Advertir que la orina se teñirá de rojo durante un par de días después de la aplicación.;",
+          "Informar de inmediato si siente ardor, escozor o inflamación en la vena durante la inyección.;",
+          "Consultar si nota fatiga inusual, dificultad para respirar al caminar o hinchazón en los tobillos."
+        ]
+      }
     }
   ]
 }
