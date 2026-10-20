@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-19",
+  "actualizado": "2026-10-20",
   "farmacos": [
     {
       "id": "1",
@@ -10843,6 +10843,73 @@
           "Explicar que el medicamento se utiliza en situaciones específicas de hemorragia grave para revertir determinados anticoagulantes.",
           "Indicar que comunique inmediatamente dolor torácico, dificultad respiratoria, debilidad repentina, alteraciones del habla, pérdida de visión, dolor o hinchazón de una extremidad y cualquier nuevo sangrado.",
           "Explicar que el equipo médico evaluará cuándo reiniciar la anticoagulación, debido al riesgo de trombosis después de la reversión."
+        ]
+      }
+    },
+    {
+      "id": "138",
+      "nombre_generico": "Biperideno",
+      "letra": "B",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Biperideno",
+        "clasificacion": "Antiparkinsoniano, anticolinérgico central",
+        "efecto_terapeutica": "Disminuye la actividad colinérgica exaltada en los ganglios basales y alivia los síntomas extrapiramidales",
+        "mecanismo_accion": "Bloquea competitivamente los receptores muscarínicos de acetilcolina en el sistema nervioso central, restableciendo el equilibrio entre la actividad colinérgica y dopaminérgica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción por vía oral y parenteral",
+        "distribucion": "Se une ampliamente a proteínas plasmáticas y atraviesa la barrera hematoencefálica",
+        "metabolismo": "Hepático extenso",
+        "eliminacion": "Renal y fecal principalmente en forma de metabolitos"
+      },
+      "indicaciones": "Tratamiento de la enfermedad de Parkinson y síndromes parkinsonianos; tratamiento de síntomas extrapiramidales inducidos por fármacos neurolépticos.",
+      "contraindicaciones": "Hipersensibilidad al biperideno; glaucoma de ángulo cerrado; obstrucción mecánica del tracto gastrointestinal; megacolon o íleo paralítico.",
+      "precauciones": "Usar con precaución en pacientes con hipertrofia prostática, retención urinaria, arritmias cardíacas y epilepsia.",
+      "advertencias": "Puede disminuir la capacidad para conducir vehículos o manejar maquinaria pesada debido a sus efectos sobre el sistema nervioso central. Suspender el tratamiento de forma gradual.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo-beneficio. Se desconoce si se excreta en la leche materna, por lo que se recomienda precaución durante la lactancia.",
+      "ajustes": {
+        "renal": "Precaución en insuficiencia renal; puede requerir ajuste individualizado según la tolerancia clínica.",
+        "hepatico": "Precaución en insuficiencia hepática por la disminución de su metabolismo."
+      },
+      "interacciones": "Potencia los efectos anticolinérgicos con antihistamínicos y espasmolíticos. Aumenta los efectos adversos del alcohol y de ciertos psicofármacos.",
+      "reacciones_adversas": "Sequedad de boca; visión borrosa; constipación; somnolencia; retención urinaria; confusión en adultos mayores.",
+      "toxicidad_sobredosis": "Cuadro de intoxicación atropínica con midriasis, sequedad extrema, taquicardia, excitación, alucinaciones y delirio.",
+      "antidotos": "Fisostigmina como inhibidor de la acetilcolinesterasa central en casos graves.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la frecuencia cardíaca, estado neurológico y presión intraocular.",
+        "laboratorio": "Función renal y hepática según criterio médico."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de temblores, rigidez, signos vitales y antecedentes de glaucoma.",
+        "durante": "Monitorear la aparición de efectos adversos anticolinérgicos y el grado de control extrapiramidal.",
+        "despues": "Valorar la mejoría de la movilidad y la persistencia de síntomas adversos."
+      },
+      "presentaciones": "Comprimidos de 2 mg; ampollas de 5 mg/ml (lactato de biperideno).",
+      "dosis": {
+        "adultos": "Oral de 2 mg a 4 mg diarios fraccionados, hasta un máximo de 16 mg diarios. Parenteral de 2 mg intramuscular o intravenosa lenta, repetida cada 30 minutos hasta un máximo de 4 dosis diarias.",
+        "pediatrico": "Uso restringido; de 0,04 mg/kg por vía parenteral según evolución clínica.",
+        "geriatrico": "Iniciar con dosis mínimas debido al alto riesgo de confusión mental y deterioro cognitivo."
+      },
+      "vias_administracion": "Oral, intramuscular e intravenosa lenta.",
+      "preparacion": {
+        "dilucion": "Compatible con soluciones parenterales estándar para administración directa.",
+        "compatibilidad_iv": "Verificar compatibilidad específica en sitio de infusión si se administra junto a otros sueros."
+      },
+      "velocidad_infusion": "Administración intravenosa lenta en varios minutos.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "Ampollas de 5 mg/ml.",
+      "alarma_riesgo": "Riesgo de delirio anticolinérgico y retención urinaria aguda en pacientes susceptibles.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar la presión arterial y la frecuencia cardíaca durante la administración parenteral.;",
+          "Vigilar la aparición de retención urinaria y estreñimiento en pacientes susceptibles.;",
+          "Monitorear el nivel de conciencia y estado de orientación, especialmente en pacientes geriátricos.;"
+        ],
+        "educacion_paciente": [
+          "Instruir al paciente sobre la importancia de no interrumpir el tratamiento de forma brusca.;",
+          "Recomendar el uso de caramelos sin azúcar o sorbos frecuentes de agua para mitigar la sequedad bucal.;",
+          "Advertir sobre la disminución de los reflejos y evitar la conducción de vehículos si presenta mareos o visión borrosa.;"
         ]
       }
     }
