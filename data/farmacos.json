@@ -17210,6 +17210,73 @@
           "Notificar ante la aparición de fiebre, escalofríos, puntos rojos en la piel o sangrados."
         ]
       }
+    },
+    {
+      "id": "233",
+      "nombre_generico": "Fludarabina",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fosfato de fludarabina",
+        "clasificacion": "Antineoplásico e inmunosupresor, antimetabolito análogo de la purina",
+        "efecto_terapeutica": "Citotóxico e inmunosupresor potente con linfopenia profunda prolongada",
+        "mecanismo_accion": "Prodroga desfosforilada rápidamente a F-ara-A, la cual se convierte intracelularmente en trifosfato activo (F-ara-ATP), inhibiendo la ADN polimerasa, la ribonucleótido reductasa y la ADN primasa"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral (biodisponibilidad del 50-60%); administración parenteral intravenosa habitual",
+        "distribucion": "Amplia distribución tisular; se incorpora rápidamente a los linfocitos circulantes",
+        "metabolismo": "Desfosforilación rápida en plasma a su metabolito activo F-ara-A",
+        "eliminacion": "Excreción renal casi exclusiva por filtración glomerular (40-60% como metabolito inalterado)"
+      },
+      "indicaciones": "Leucemia linfocítica crónica (LLC) de células B refractaria; linfoma no Hodgkin indolente; acondicionamiento en trasplante de progenitores hematopoyéticos.",
+      "contraindicaciones": "Hipersensibilidad a la fludarabina; insuficiencia renal grave (clearance < 30 ml/min); anemia hemolítica autoimmune; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de inmunosupresión profunda con linfopenia prolongada; infecciones oportunistas; enfermedad injerto contra huésped por transfusiones.",
+      "advertencias": "Se deben administrar exclusivamente productos sanguíneos irradiados para prevenir la enfermedad injerto contra huésped post-transfusional mortal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Contraindicado si el clearance es < 30 ml/min; reducir la dosis al 50% si el clearance es de 30 a 70 ml/min.",
+        "hepatico": "Precaución en insuficiencia hepática."
+      },
+      "interacciones": "El uso combinado con pentostatina provoca toxicidad pulmonar fulminante mortal; la citarabina disminuye su eficacia activa.",
+      "reacciones_adversas": "Inmunosupresión severa; linfopenia profunda; anemia hemolítica autoimmune; fiebre; fatiga; náuseas; vómitos; neuropatía periférica; neumonitis.",
+      "toxicidad_sobredosis": "Neurotoxicidad central severa (ceguera, coma, paresias), aplasia medular e infecciones mortales.",
+      "antidotos": "Tratamiento de soporte, factores de crecimiento y transfusiones de hemoderivados estrictamente irradiados.",
+      "monitorizacion": {
+        "clinica": "Control estricto de temperatura, signos de infección oportunista, estado neurológico y requerimiento transfusional.",
+        "laboratorio": "Hemograma completo periódico y función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar función renal (clearance), descartar anemia hemolítica autoinmune y asegurar disponibilidad de hemoderivados irradiados.",
+        "durante": "Monitorear la infusión IV y vigilar la aparición de fiebre o infecciones.",
+        "despues": "Evaluar el recuento de linfocitos CD4 para profilaxis contra Pneumocystis jirovecii."
+      },
+      "presentaciones": "Comprimidos de 10 mg; frasco ampolla inyectable de 50 mg de liofilizado.",
+      "dosis": {
+        "adultos": "IV: 25 mg/m²/día por 5 días consecutivos cada 28 días; Oral: 40 mg/m²/día por 5 días consecutivos cada 28 días.",
+        "pediatrico": "Uso bajo protocolos oncológicos específicos pediátricos.",
+        "geriatrico": "Ajustar dosis rigurosamente según el clearance de creatinina estimado."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con agua estéril y diluir en 100 ml a 125 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 15 a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 8 horas a temperatura ambiente o 24 horas refrigerado (2°C - 8°C).",
+      "concentracion": "25 mg/ml (concentración tras reconstitución con agua estéril).",
+      "alarma_riesgo": "Riesgo letal de enfermedad injerto contra huésped si se transfunden productos sanguíneos no irradiados.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Garantizar que todos los hemoderivados (glóbulos rojos, plaquetas) transfundidos estén estrictamente irradiados.;",
+          "Instituir profilaxis obligatoria contra Pneumocystis jirovecii y herpesvirus por la linfopenia profunda.;",
+          "Controlar la función renal y ajustar la dosis si el clearance de creatinina está disminuido.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento reduce drásticamente las defensas, aumentando el riesgo de infecciones.;",
+          "Avisar de inmediato ante fiebre alta, escalofríos, dificultad para respirar o signos de infección.;",
+          "Evitar el contacto con aglomeraciones y personas enfermas durante el tratamiento."
+        ]
+      }
     }
   ]
 }
