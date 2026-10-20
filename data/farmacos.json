@@ -18550,6 +18550,73 @@
           "Es normal presentar dolores musculares o articulaciones un par de días después del tratamiento."
         ]
       }
+    },
+    {
+      "id": "253",
+      "nombre_generico": "Docetaxel",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Docetaxel trihidrato",
+        "clasificacion": "Antineoplásico, taxano semisintético (derivado de las hojas del tejo europeo)",
+        "efecto_terapeutica": "Citotóxico que bloquea la célula en la fase M del ciclo celular provocando la muerte celular",
+        "mecanismo_accion": "Promueve el ensamblaje de la tubulina en microtúbulos estables e inhibe su despolimerización, disminuyendo la tubulina libre e impidiendo la mitosis"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas (95%); amplio volumen de distribución; baja penetración al sistema nervioso central",
+        "metabolismo": "Hepático extenso por la isoenzima CYP3A4 a metabolitos oxidados inactivos",
+        "eliminacion": "Excreción biliar/fecal principal (75%) y renal mínima (6%)"
+      },
+      "indicaciones": "Cáncer de mama (adyuvante y metastásico), cáncer de pulmón no microcítico, cáncer de próstata metastásico resistente a la castración, adenocarcinoma gástrico y cáncer de cabeza y cuello.",
+      "contraindicaciones": "Hipersensibilidad al docetaxel o al polisorbato 80; recuento inicial de neutrófilos < 1.500/mm³; insuficiencia hepática grave; embarazo y lactancia.",
+      "precauciones": "Riesgo de retención de líquidos grave (edema, derrame pleural/pericárdico prevenible con dexametasona); reacciones de hipersensibilidad; mielosupresión (neutropenia profunda); neuropatía periférica.",
+      "advertencias": "Se requiere premedicación obligatoria con dexametasona oral durante 3 días para reducir la incidencia y gravedad de la retención hídrica y de las reacciones alérgicas.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis si las transaminasas son > 1.5 veces el límite superior o si la fosfatasa alcalina es > 2.5 veces el límite superior."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 (ketoconazol, claritromicina, atazanavir) aumentan significativamente sus niveles plasmáticos y toxicidad; los inductores (rifampicina) reducen su eficacia.",
+      "reacciones_adversas": "Mielosupresión (neutropenia febril); alopecia completa; retención de líquidos (edema periférico, ascitis); neuropatía sensitiva; estomatitis; diarrea; alteraciones ungueales (onicólisis, hiperpigmentación); mialgias.",
+      "toxicidad_sobredosis": "Mielosupresión severa, neurotoxicidad periférica e inflamación mucogástrica grave.",
+      "antidotos": "Tratamiento de soporte, factores de estimulación de colonias (G-CSF) y corticoides.",
+      "monitorizacion": {
+        "clinica": "Control del peso corporal diario (retención de líquidos), edema periférico, función respiratoria, signos de infección y sitio venoso.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, transaminasas, fosfatasa alcalina y bilirrubina."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar que el paciente haya tomado la premedicación con dexametasona oral desde el día anterior e inspeccionar perfil hepático.",
+        "durante": "Monitorear la infusión IV de 1 hora vigilando hipotensión o broncoespasmo.",
+        "despues": "Valorar el control del peso y edema en los días posteriores."
+      },
+      "presentaciones": "Frasco ampolla de 20 mg/1 ml y 80 mg/4 ml de solución concentrada.",
+      "dosis": {
+        "adultos": "75 mg/m² a 100 mg/m² IV en infusión de 1 hora cada 3 semanas (en cáncer de próstata: 75 mg/m² cada 21 días con prednisona).",
+        "pediatrico": "Uso no establecido formalmente en pediatría.",
+        "geriatrico": "Ajustar la dosis o la pauta posológica según el estado funcional y el perfil hepático."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis requerida en solución fisiológica o dextrosa al 5% hasta una concentración de 0.3 mg/ml a 0.74 mg/ml.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (se recomienda mezclar e infundir con equipos libres de PVC)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período exacto de 1 hora.",
+      "estabilidad_soluciones": "Estable durante 4 horas a temperatura ambiente o bajo refrigeración.",
+      "concentracion": "20 mg/ml (concentración de la presentación concentrada original).",
+      "alarma_riesgo": "Riesgo de anafilaxia aguda y edema generalizado masivo por falla en la premedicación con corticoides.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar que el paciente haya cumplido la premedicación oral con dexametasona (iniciada 24 horas antes del ciclo).;",
+          "Garantizar la infusión del fármaco en un lapso exacto de 1 hora mediante bomba de infusión.;",
+          "Controlar el peso corporal del paciente en cada ciclo para identificar retención de líquidos temprana.;"
+        ],
+        "educacion_paciente": [
+          "Tomar estrictamente los comprimidos de dexametasona recetados antes y después de la infusión según las indicaciones.;",
+          "Avisar si presenta hinchazón repentina en piernas o tobillos, aumento rápido de peso o falta de aire.;",
+          "Informar de inmediato ante sofocos, dificultad para respirar, ronchas o adormecimiento en dedos."
+        ]
+      }
     }
   ]
 }
