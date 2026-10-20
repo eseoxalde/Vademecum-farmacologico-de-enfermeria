@@ -11917,6 +11917,73 @@
           "Informar que puede sentir molestias estomacales leves o diarrea transitoria.;"
         ]
       }
+    },
+    {
+      "id": "154",
+      "nombre_generico": "Amoxicilina",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Amoxicilina",
+        "clasificacion": "Antibiótico, aminopenicilina de amplio espectro",
+        "efecto_terapeutica": "Bactericida sobre bacterias grampositivas y gramnegativas sensibles",
+        "mecanismo_accion": "Inhibe la síntesis de la pared celular bacteriana al unirse a las proteínas fijadoras de penicilina (PBP), provocando la lisis celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y buena absorción oral no afectada significativamente por los alimentos",
+        "distribucion": "Amplia distribución en tejidos y líquidos corporales; baja penetración meníngea sin inflamación",
+        "metabolismo": "Hepático parcial (10-25%) a ácido peniciloico inactivo",
+        "eliminacion": "Renal rápida por filtración glomerular y secreción tubular"
+      },
+      "indicaciones": "Infecciones del tracto respiratorio superior e inferior, infecciones urinarias, otitis media y erradicación de H. pylori.",
+      "contraindicaciones": "Antecedentes de reacción de hipersensibilidad grave o anafilaxia a la penicilina o betalactámicos.",
+      "precauciones": "Ajustar la dosis en pacientes con insuficiencia renal severa; riesgo de mononucleosis infecciosa.",
+      "advertencias": "Puede desencadenar colitis pseudomembranosa por Clostridioides difficile.",
+      "embarazo_lactancia": "Categoría B en el embarazo; considerado seguro. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la frecuencia de administración si el clearance de creatinina es menor a 30 ml/min.",
+        "hepatico": "No requiere ajuste de dosis específico."
+      },
+      "interacciones": "Reduce la eficacia de anticonceptivos orales; aumenta los niveles de metotrexato; alopurinol eleva el riesgo de rash.",
+      "reacciones_adversas": "Diarrea; náuseas; erupción cutánea; urticaria; candidiasis mucocutánea.",
+      "toxicidad_sobredosis": "Trastornos gastrointestinales y alteración del equilibrio hidroelectrolítico; cristaluria.",
+      "antidotos": "Hemodiálisis para remover el fármaco del torrente sanguíneo.",
+      "monitorizacion": {
+        "clinica": "Control de signos de reacción alérgica, tolerancia digestiva y evolución del cuadro infeccioso.",
+        "laboratorio": "Función renal y hemograma en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Indagar exhaustivamente sobre antecedentes de alergia a betalactámicos.",
+        "durante": "Evaluar la aparición de erupciones cutáneas o diarrea severa.",
+        "despues": "Verificar la resolución de la sintomatología infecciosa."
+      },
+      "presentaciones": "Comprimidos de 500 mg, 875 mg y 1000 mg; suspensión oral de 250 mg/5 ml y 500 mg/5 ml.",
+      "dosis": {
+        "adultos": "500 mg a 1000 mg cada 8 horas por vía oral según la gravedad de la infección.",
+        "pediatrico": "40 mg/kg a 90 mg/kg/día divididos cada 8 a 12 horas por vía oral.",
+        "geriatrico": "Misma dosis que en adultos ajustada estrictamente por función renal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "Reconstituir el polvo para suspensión oral con agua potable hasta la marca del envase.",
+        "compatibilidad_iv": "Formulación oral; no aplica compatibilidad intravenosa."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "La suspensión reconstituida se mantiene estable durante 7 a 14 días (según marca) refrigerada o a temperatura ambiente.",
+      "concentracion": "100 mg/ml (suspensión oral reconstituida al 10%).",
+      "alarma_riesgo": "Riesgo de shock anafiláctico en pacientes con alergia no diagnosticada a penicilinas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la ausencia de alergia a las penicilinas antes de administrar la primera dosis.;",
+          "Agitar bien la suspensión oral reconstituida antes de cada dosis en pacientes pediátricos.;",
+          "Monitorear la frecuencia de deposiciones para detectar diarrea asociada a antibióticos.;"
+        ],
+        "educacion_paciente": [
+          "Instruir al paciente sobre la necesidad de completar la totalidad de días prescritos del antibiótico.;",
+          "Explicar que el medicamento puede tomarse junto con los alimentos para reducir las molestias estomacales.;",
+          "Advertir que debe suspender la toma y consultar de inmediato si presenta erupción o picazón en la piel.;"
+        ]
+      }
     }
   ]
 }
