@@ -12654,6 +12654,73 @@
           "Usar protector solar y evitar la exposición prolongada al sol por el riesgo de manchas o quemaduras.;"
         ]
       }
+    },
+    {
+      "id": "165",
+      "nombre_generico": "Levofloxacino",
+      "letra": "L",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Levofloxacino",
+        "clasificacion": "Antibiótico, fluoroquinolona de 3ª generación (respiratoria)",
+        "efecto_terapeutica": "Bactericida de amplio espectro contra bacterias grampositivas, gramnegativas y atípicas",
+        "mecanismo_accion": "Inhibe las enzimas bacterianas ADN girasa (topoisomerasa II) y topoisomerasa IV, bloqueando la replicación y transcripción del ADN bacteriano"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral rápida y casi completa con una biodisponibilidad del 99%; no se altera significativamente con alimentos",
+        "distribucion": "Amplia distribución en tejidos corporales, parénquima pulmonar, mucosa bronquial y macrófagos",
+        "metabolismo": "Metabolismo hepático mínimo",
+        "eliminacion": "Excreción renal casi exclusiva (> 85%) de forma inalterada por filtración y secreción tubular"
+      },
+      "indicaciones": "Neumonía adquirida en la comunidad, exacerbación de bronquitis crónica, sinusitis aguda, infecciones urinarias complicadas, pielonefritis e infecciones de piel y tejidos blandos.",
+      "contraindicaciones": "Hipersensibilidad al levofloxacino u otras quinolonas; antecedentes de tendinopatía por quinolonas; epilepsia o antecedentes convulsivos.",
+      "precauciones": "Riesgo de tendinitis y ruptura tendinosa; prolongación del intervalo QT; miastenia gravis; aneurisma de aorta.",
+      "advertencias": "Puede causar alteraciones graves del sistema nervioso central (psicosis, convulsiones), neuropatía periférica y fotosensibilidad.",
+      "embarazo_lactancia": "Contraindicado durante el embarazo y la lactancia por riesgo de artropatía en cartílagos de crecimiento.",
+      "ajustes": {
+        "renal": "Ajustar dosis o prolongar intervalo entre dosis si el clearance de creatinina es menor a 50 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Disminuye su absorción con sales de hierro, calcio, aluminio y magnesio; aumenta riesgo de convulsiones con AINEs; incrementa efecto de anticoagulantes orales.",
+      "reacciones_adversas": "Náuseas; diarrea; cefalea; insomnio; mareos; elevación de enzimas hepáticas; artralgias; fototoxicidad.",
+      "toxicidad_sobredosis": "Efectos en el sistema nervioso central (confusión, convulsiones, mareos) y prolongación del intervalo QT.",
+      "antidotos": "Tratamiento sintomático, hidratación y uso de antiácidos para disminuir la absorción si fue oral reciente.",
+      "monitorizacion": {
+        "clinica": "Monitorear dolor o inflamación en tendones, estado neurológico, función renal e hidratación.",
+        "laboratorio": "Función renal, glucemia y trazado electrocardiográfico en pacientes con factores de riesgo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar función renal basal, antecedentes de tendinitis, arritmias o miastenia gravis.",
+        "durante": "Vigilar dolor en el tendón de Aquiles, alteraciones del ritmo cardíaco o cambios en el estado de ánimo.",
+        "despues": "Valorar la resolución del proceso infeccioso."
+      },
+      "presentaciones": "Comprimidos de 500 mg y 750 mg; frasco ampolla inyectable de 500 mg/100 ml y 750 mg/150 ml.",
+      "dosis": {
+        "adultos": "500 mg a 750 mg cada 24 horas por vía oral o intravenosa según la gravedad de la infección.",
+        "pediatrico": "Uso restringido; dosis de 8 mg/kg a 10 mg/kg cada 12 horas solo bajo indicación de infectología pediátrica.",
+        "geriatrico": "Ajustar la dosis estrictamente según el clearance de creatinina."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Presentación lista para usar en solución para infusión; compatible con solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en no menos de 60 minutos para la dosis de 500 mg y 90 minutos para la de 750 mg.",
+      "estabilidad_soluciones": "Conservar protegido de la luz a temperatura ambiente.",
+      "concentracion": "5 mg/ml (solución lista para infusión).",
+      "alarma_riesgo": "Riesgo de ruptura del tendón de Aquiles y reacciones neuropsiquiátricas graves.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la solución IV lentamente en no menos de 60 a 90 minutos para prevenir hipotensión e irritación venosa.;",
+          "Evitar la administración simultánea por vía oral con antiácidos, suplementos de hierro o lácteos.;",
+          "Suspender el fármaco e informar de inmediato ante el primer signo de dolor o inflamación en tendones.;"
+        ],
+        "educacion_paciente": [
+          "Espaciar la toma de antiácidos, calcio o hierro al menos 2 horas antes o después de la dosis.;",
+          "Suspender la actividad física y consultar a urgencias si presenta dolor en las articulaciones o en el talón.;",
+          "Evitar la exposición directa al sol o lámparas UV utilizando protector solar durante el tratamiento.;"
+        ]
+      }
     }
   ]
 }
