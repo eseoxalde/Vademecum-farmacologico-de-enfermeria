@@ -16674,6 +16674,73 @@
           "Avisar si siente dolor o ardor intenso en el brazo durante la infusión intravenosa."
         ]
       }
+    },
+    {
+      "id": "225",
+      "nombre_generico": "Lomustina",
+      "letra": "L",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Lomustina (CCNU)",
+        "clasificacion": "Antineoplásico, nitrosourea alquilante lipofílica",
+        "efecto_terapeutica": "Citotóxico liposoluble activo en tumores del sistema nervioso central",
+        "mecanismo_accion": "Se descompone originando intermediarios que alquilan las hebras de ADN impidiendo la replicación y carbamoylan proteínas celulares"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y completa absorción oral; biodisponibilidad elevada",
+        "distribucion": "Alta lipofilidad con cruce inmediato de la barrera hematoencefálica alcanzando niveles en LCR del 50% superiores a los plasmáticos",
+        "metabolismo": "Hepático extenso de primer paso a metabolitos monohidroxilados activos",
+        "eliminacion": "Excreción renal de metabolitos (70% en 48 horas)"
+      },
+      "indicaciones": "Tumores cerebrales primarios o metastásicos (gliomas, glioblastoma multiforme), enfermedad de Hodgkin recurrente y melanoma.",
+      "contraindicaciones": "Hipersensibilidad a la lomustina o nitrosoureas; mielosupresión severa preexistente; embarazo y lactancia.",
+      "precauciones": "Mielosupresión tardía y acumulativa (nadir a las 4 a 6 semanas); toxicidad pulmonar en dosis acumuladas; disfunción hepática y renal.",
+      "advertencias": "No repetir el ciclo antes de las 6 semanas debido a la toxicidad hematológica tardía e acumulativa.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de malformaciones y toxicidad fetal. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis en función del clearance de creatinina si es menor a 45 ml/min.",
+        "hepatico": "Reducir la dosis si hay elevación importante de bilirrubina o transaminasas."
+      },
+      "interacciones": "Aumento del riesgo de mielosupresión con otros alquilantes; potenciamiento de la toxicidad pulmonar con bleomicina.",
+      "reacciones_adversas": "Mielosupresión tardía (trombocitopenia y leucopenia a las 4-6 semanas); náuseas; vómitos; estomatitis; fibrosis pulmonar; alopecia; hepatotoxicidad.",
+      "toxicidad_sobredosis": "Aplasia medular tardía irreversible, neurotoxicidad y toxicidad pulmonar aguda.",
+      "antidotos": "Tratamiento de soporte, transfusiones sanguíneas y factores hematopoyéticos.",
+      "monitorizacion": {
+        "clinica": "Control de función respiratoria, signos de sangrado, infecciones y tolerancia digestiva.",
+        "laboratorio": "Hemograma completo semanal durante 6 semanas post-dosis, función hepática y renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la recuperación completa del hemograma previo (plaquetas ≥ 100.000/mm³ y leucocitos ≥ 4.000/mm³) y administrar antieméticos.",
+        "durante": "Asegurar la ingesta única de las cápsulas con el estómago vacío.",
+        "despues": "Seguir el hemograma semanal hasta la sexta semana post-dosis."
+      },
+      "presentaciones": "Cápsulas de 10 mg, 40 mg y 100 mg.",
+      "dosis": {
+        "adultos": "100 mg/m² a 130 mg/m² en dosis única por vía oral cada 6 semanas.",
+        "pediatrico": "100 mg/m² a 130 mg/m² por vía oral en dosis única cada 6 semanas bajo protocolos especializados.",
+        "geriatrico": "Ajustar dosis según la reserva medular y la función renal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; las cápsulas se ingieren enteras.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente en envase hermético protegido de la humedad.",
+      "concentracion": "40 mg por cápsula.",
+      "alarma_riesgo": "Riesgo de sobredosificación grave si se ingieren las cápsulas de forma diaria por confusión del paciente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar que la prescripción sea para una dosis única cada 6 semanas y no diaria.;",
+          "Administrar las cápsulas con el estómago vacío o al acostarse acompañadas de un antiemético.;",
+          "Monitorear semanalmente el hemograma completo por el riesgo de bajada tardía de plaquetas.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la totalidad de las cápsulas indicadas en una sola toma un solo día cada 6 semanas.;",
+          "Ingerir con el estómago vacío o por la noche para evitar las náuseas y vómitos.;",
+          "Avisar al médico de inmediato ante fiebre, tos seca, moratones o sangre al cepillarse las encías."
+        ]
+      }
     }
   ]
 }
