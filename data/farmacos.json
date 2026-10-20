@@ -11113,6 +11113,73 @@
           "Brindar orientación y apoyo psicológico interdisciplinario tras la resolución del cuadro agudo de intoxicación.;"
         ]
       }
+    },
+    {
+      "id": "142",
+      "nombre_generico": "Azul de Metileno",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Cloruro de metiltioninio (Azul de metileno)",
+        "clasificacion": "Antídoto, agente reductor",
+        "efecto_terapeutica": "Reduce la metahemoglobina a hemoglobina funcional restaurando la capacidad de transporte de oxígeno en sangre",
+        "mecanismo_accion": "En concentraciones bajas, actúa como sustrato para la enzima eritrocitaria NADPH-metahemoglobina reductasa, acelerando la conversión de metahemoglobina a hemoglobina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración exclusiva por vía intravenosa con biodisponibilidad sistémica inmediata",
+        "distribucion": "Se distribuye rápidamente en los tejidos corporales con alta afinidad por los tejidos ricos en lípidos",
+        "metabolismo": "Hepático parcial a leucoazul de metileno y metabolitos menores",
+        "eliminacion": "Renal y biliar, dando una coloración verdosa o azulada característica a la orina"
+      },
+      "indicaciones": "Tratamiento de la metahemoglobinemia sintomática inducida por fármacos o sustancias químicas.",
+      "contraindicaciones": "Hipersensibilidad al azul de metileno; deficiencia severa de glucosa-6-fosfato deshidrogenasa (G6PD); insuficiencia renal grave.",
+      "precauciones": "No administrar por vía subcutánea o intratecal debido al riesgo de necrosis tisular grave.",
+      "advertencias": "Dosis elevadas (superiores a 7 mg/kg) pueden paradójicamente inducir metahemoglobinemia.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo vital materno. Suspender la lactancia temporalmente.",
+      "ajustes": {
+        "renal": "Precaución en insuficiencia renal por riesgo de acumulación del colorante.",
+        "hepatico": "Precaución en insuficiencia hepática moderada a severa."
+      },
+      "interacciones": "Contraindicado su uso concomitante con inhibidores de la recaptación de serotonina por riesgo de síndrome serotoninérgico grave.",
+      "reacciones_adversas": "Coloración azul verdosa de la orina; dolor torácico; disnea; hipertensión arterial transitoria; náuseas; sudoración.",
+      "toxicidad_sobredosis": "Hemólisis aguda en pacientes con déficit de G6PD, dolor abdominal, confusión y metahemoglobinemia paradójica.",
+      "antidotos": "Tratamiento de soporte y exsanguinotransfusión en casos de hemólisis severa.",
+      "monitorizacion": {
+        "clinica": "Control continuo de la saturación de oxígeno por oximetría, cianosis y signos vitales.",
+        "laboratorio": "Determinación de niveles de metahemoglobina en sangre y hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar el porcentaje de metahemoglobina y la presencia de síntomas clínicos de hipoxia.",
+        "durante": "Monitorear la rápida reversión de la cianosis y la tolerancia a la infusión.",
+        "despues": "Valorar la estabilidad de los valores hematológicos tras finalizar la administración."
+      },
+      "presentaciones": "Ampollas de solución inyectable al 1% (10 mg/ml).",
+      "dosis": {
+        "adultos": "1 mg/kg a 2 mg/kg de solución al 1% administrados por vía intravenosa lenta en 5 a 10 minutos.",
+        "pediatrico": "1 mg/kg a 2 mg/kg por vía intravenosa lenta según protocolos toxicológicos pediátricos.",
+        "geriatrico": "Ajustar dosis según función renal y estado clínico general."
+      },
+      "vias_administracion": "Intravenosa lenta exclusiva.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis calculada en 50 ml a 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica; incompatible con soluciones de cloruro de sodio concentradas y dextrosa al 5% en algunos protocolos."
+      },
+      "velocidad_infusion": "Administrar por vía intravenosa lenta durante un período de 5 a 10 minutos.",
+      "estabilidad_soluciones": "Conservar protegido de la luz a temperatura ambiente.",
+      "concentracion": "10 mg/ml (solución al 1%).",
+      "alarma_riesgo": "Riesgo de necrosis tisular por extravasación e inducción de hemólisis en pacientes con déficit enzimático.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar una vía venosa permeable y verificar el retorno venoso para evitar extravasación y necrosis tisular.;",
+          "Administrar la infusión intravenosa de forma lenta para minimizar las reacciones adversas agudas.;",
+          "Advertir al paciente y al equipo sobre la coloración azulada que presentará la orina.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente consciente que la coloración azul de la piel, mucosas y orina es un efecto temporal e inofensivo del fármaco.;",
+          "Informar sobre la necesidad de mantener la monitorización clínica estrecha en el ámbito hospitalario.;",
+          "Resolver dudas acerca del procedimiento de emergencia realizado.;"
+        ]
+      }
     }
   ]
 }
