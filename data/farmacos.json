@@ -15066,6 +15066,73 @@
           "Avisar al médico de inmediato si presenta tos, falta de aire o adormecimiento en los pies.;"
         ]
       }
+    },
+    {
+      "id": "201",
+      "nombre_generico": "Sulfadiazina",
+      "letra": "S",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Sulfadiazina",
+        "clasificacion": "Antibacteriano y antiparasitario, sulfonamida",
+        "efecto_terapeutica": "Inhibe la replicación de Toxoplasma gondii al combinarse con pirimetamina",
+        "mecanismo_accion": "Inhibe de forma competitiva la dihidropteroato sintasa, bloqueando la síntesis del ácido fólico bacteriano y parasitario"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción en el tracto gastrointestinal",
+        "distribucion": "Amplia distribución en tejidos corporales y excelente penetración en el líquido cefalorraquídeo y cerebro",
+        "metabolismo": "Hepático por acetilación a metabolitos inactivos",
+        "eliminacion": "Excreción renal por filtración glomerular"
+      },
+      "indicaciones": "Tratamiento de la toxoplasmosis cerebral u ocular (en combinación con pirimetamina y ácido folínico) e infecciones por Nocardia.",
+      "contraindicaciones": "Hipersensibilidad a las sulfonamidas; insuficiencia renal o hepática grave; lactantes menores de 2 meses; embarazadas a término.",
+      "precauciones": "Riesgo elevado de cristaluria e insuficiencia renal; riesgo de mielosupresión; requiere alcalinización de la orina.",
+      "advertencias": "Desarrollo potencial de reaciones cutáneas graves (Stevens-Johnson) y kernicterus en el neonato.",
+      "embarazo_lactancia": "Contraindicada a término por riesgo de kernicterus. Evitar en la lactancia en menores de 2 meses.",
+      "ajustes": {
+        "renal": "Disminuir la dosis o espaciar los intervalos si el clearance de creatinina es menor a 50 ml/min.",
+        "hepatico": "Contraindicado en insuficiencia hepática grave."
+      },
+      "interacciones": "Potencia el efecto de anticoagulantes orales y sulfonilureas; aumenta los niveles de fenitoína.",
+      "reacciones_adversas": "Cristaluria; hematuria; erupciones cutáneas; náuseas; vómitos; diarrea; leucopenia; anemia megaloblástica; fotosensibilidad.",
+      "toxicidad_sobredosis": "Cristaluria masiva, anuria, depresión de médula ósea y fiebre.",
+      "antidotos": "Ácido folínico (leucovorina) para la mielosupresión, forzar diuresis y alcalinizar la orina.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la diuresis, pH urinario, lesiones en piel y estado neurológico.",
+        "laboratorio": "Hemograma completo, creatinina, urea y sedimento urinario en búsqueda de cristales."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar función renal, hemograma basal y asegurar suplementación con ácido folínico.",
+        "durante": "Monitorear la diuresis abundante y la ausencia de erupción cutánea.",
+        "despues": "Valorar la remisión de la toxoplasmosis mediante estudios de imágenes."
+      },
+      "presentaciones": "Comprimidos de 500 mg.",
+      "dosis": {
+        "adultos": "1 g a 1,5 g cada 6 horas por vía oral (en combinación con pirimetamina).",
+        "pediatrico": "100 mg/kg a 150 mg/kg/día divididos cada 6 horas por vía oral.",
+        "geriatrico": "Ajustar dosis según la función renal basándose en la diuresis."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; tomar los comprimidos con abundante agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "500 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de cristaluria y falla renal aguda si no se mantiene abundante hidratación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar una ingesta de líquidos de al menos 2 a 3 litros diarios para prevenir la cristaluria.;",
+          "Verificar que se administre conjuntamente con ácido folínico (leucovorina) según la prescripción.;",
+          "Controlar el sedimento urinario y la aparición de erupciones en la piel.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos con un vaso lleno de agua y beber abundantes líquidos durante el día.;",
+          "Tomar sin falta el ácido folínico indicado para evitar bajones en las defensas.;",
+          "Avisar de inmediato si nota brotes en la piel, sangrados o dolor al orinar."
+        ]
+      }
     }
   ]
 }
