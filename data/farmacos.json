@@ -16004,6 +16004,73 @@
           "Avisar al personal de salud de inmediato si observa color rojizo o sangre en la orina."
         ]
       }
+    },
+    {
+      "id": "215",
+      "nombre_generico": "Ifosfamida",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Ifosfamida",
+        "clasificacion": "Antineoplásico, agente alquilante (oxazafosforina)",
+        "efecto_terapeutica": "Citotóxico amplio para el tratamiento de tumores sólidos y linfomas",
+        "mecanismo_accion": "Prodroga activada por el citocromo P450 que genera mostaza de ifosfamida y acroleína; el metabolito activo alquila las cadenas de ADN impidiendo la división celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Pasa al LCR; amplia distribución tisular y en líquidos corporales",
+        "metabolismo": "Hepático extenso por el sistema CYP3A4 y CYP2C9 produciendo cloroacetaldehído (neurotóxico) y acroleína (urotóxica)",
+        "eliminacion": "Excreción renal masiva (80% de la dosis como metabolitos)"
+      },
+      "indicaciones": "Cáncer de testículo, sarcomas de partes blandas y óseos (osteosarcoma), cáncer de ovario, de cérvix, de pulmón y linfomas no Hodgkin.",
+      "contraindicaciones": "Hipersensibilidad a la ifosfamida; cistitis hemorrágica activa; aplasia medular grave; insuficiencia renal o encefalopatía grave.",
+      "precauciones": "Riesgo muy alto de cistitis hemorrágica (exige MESNA obligatorio) y neurotoxicidad (encefalopatía por cloroacetaldehído).",
+      "advertencias": "El uso de MESNA es estrictamente obligatorio con cada dosis de ifosfamida para prevenir la toxicidad urinaria mortal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Ajustar dosis o suspender si la creatinina es mayor a 2 mg/dl o el clearance es menor a 30 ml/min.",
+        "hepatico": "Ajustar dosis en caso de disfunción hepática severa."
+      },
+      "interacciones": "Incompatible con sustancias neurodepresoras; inductores del CYP3A4 aumentan la producción de metabolitos neurotóxicos.",
+      "reacciones_adversas": "Cistitis hemorrágica; neurotoxicidad/encefalopatía (alucinaciones, somnolencia, confusión, coma); mielosupresión; alopecia; náuseas.",
+      "toxicidad_sobredosis": "Depresión del SNC grave, cistitis hemorrágica masiva y aplasia medular.",
+      "antidotos": "MESNA obligatorio para la vía urinaria; Azul de Metileno IV para el tratamiento/prevención de la encefalopatía.",
+      "monitorizacion": {
+        "clinica": "Control continuo del estado neurológico (escala de somnolencia), sedimento urinario para hematuria y diuresis.",
+        "laboratorio": "Hemograma completo, orina completa, función renal y electrolitos."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal y el estado neurológico basal; administrar MESNA previo.",
+        "durante": "Monitorear la aparición de desorientación, letargo o rastro de sangre en la orina.",
+        "despues": "Continuar la administración de MESNA horas después de terminada la infusión."
+      },
+      "presentaciones": "Frasco ampolla de 1 g y 2 g de polvo liofilizado.",
+      "dosis": {
+        "adultos": "1,2 g/m² a 2 g/m²/día IV por 5 días consecutivos; o dosis única de 5 g/m² en infusión continua de 24 horas (asociado a MESNA).",
+        "pediatrico": "1,2 g/m² a 3 g/m²/día IV en protocolos oncológicos específicos siempre con MESNA.",
+        "geriatrico": "Ajustar dosis según la función renal y evaluación neurológica."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con agua estéril y diluir en 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
+      },
+      "velocidad_infusion": "Administrar la infusión IV en 30 a 120 minutos (o infusión continua de 24 horas).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 7 días bajo refrigeración (2°C - 8°C).",
+      "concentracion": "40 mg/ml (concentración máxima en la reconstitución directa).",
+      "alarma_riesgo": "Riesgo letal de cistitis hemorrágica masiva y encefalopatía grave por cloroacetaldehído.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar obligatoriamente MESNA antes, durante y después de la infusión de ifosfamida.;",
+          "Evaluar la escala neurológica antes de cada dosis para detectar encefalopatía de forma precoz.;",
+          "Asegurar una hidratación abundante y controlar la hematuria en cada micción.;"
+        ],
+        "educacion_paciente": [
+          "Ingerir abundantes líquidos durante todo el ciclo del tratamiento.;",
+          "Informar de inmediato si siente adormecimiento, mareos, confusión o alucinaciones.;",
+          "Avisar si nota ardor al orinar o color rojizo en la orina."
+        ]
+      }
     }
   ]
 }
