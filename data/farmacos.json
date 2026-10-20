@@ -15803,6 +15803,73 @@
           "Evitar el contacto con personas enfermas o con infecciones activas durante el tratamiento.;"
         ]
       }
+    },
+    {
+      "id": "212",
+      "nombre_generico": "Busulfano",
+      "letra": "B",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Busulfano",
+        "clasificacion": "Antineoplásico, alquilsulfonato",
+        "efecto_terapeutica": "Citotóxico inmunosupresor y mieloablativo potente previo al trasplante de progenitores hematopoyéticos",
+        "mecanismo_accion": "Alquila las cadenas de ADN uniéndose covalentemente a las bases de guanina, formando enlaces cruzados que impiden la replicación y transcripción celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral; administración IV con disponibilidad inmediata del 100%",
+        "distribucion": "Pasa al LCR en concentraciones similares a las plasmáticas; amplia distribución en tejidos",
+        "metabolismo": "Hepático extenso por conjugación con glutatión (no enzimática y por glutatión S-transferasa)",
+        "eliminacion": "Excreción renal en forma de metabolitos (30% en 48 horas)"
+      },
+      "indicaciones": "Acondicionamiento previo al trasplante de progenitores hematopoyéticos (TPH) en combinación con otros citostáticos; tratamiento paliativo de la leucemia mieloide crónica (LMC).",
+      "contraindicaciones": "Hipersensibilidad al busulfano; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de mielosupresión prolongada; síndrome de oclusión sinusoidal hepática (VOD); convulsiones; fibrosis pulmonar.",
+      "advertencias": "Se requiere anticonvulsivo profiláctico (fenitoína, levetiracetam) durante la administración a dosis altas por riesgo neurotóxico.",
+      "embarazo_lactancia": "Categoría D en el embarazo; causa teratogénesis y muerte fetal. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "No suele requerir ajuste de dosis, pero se recomienda precaución.",
+        "hepatico": "Ajustar dosis o suspender si hay elevación severa de bilirrubina o disfunción hepática grave."
+      },
+      "interacciones": "El paracetamol reduce el clearance de busulfano; itraconazol aumenta sus niveles; deferasirox incrementa la exposición al fármaco.",
+      "reacciones_adversas": "Aplasia medular profunda; convulsiones; enfermedad venooclusiva hepática (VOD); mucositis; hiperpigmentación cutánea; fibrosis pulmonar.",
+      "toxicidad_sobredosis": "Pancitopenia irreversible, convulsiones y falla multiorgánica.",
+      "antidotos": "Tratamiento de soporte mieloablativo, transfusiones y trasplante de médula ósea de rescate.",
+      "monitorizacion": {
+        "clinica": "Control estricto del peso corporal diario, perímetro abdominal, convulsiones, mucositis y signos de sangrado.",
+        "laboratorio": "Hemograma diario, bilirrubina, transaminasas, creatinina y dosaje plasmático de busulfano (TDM)."
+      },
+      "parametros_valoracion": {
+        "antes": "Iniciar profilaxis anticonvulsiva 24 horas antes de la primera dosis y evaluar la función hepática basal.",
+        "durante": "Monitorear signos de retención de líquidos, ictericia y estado neurológico.",
+        "despues": "Valorar la reconstrucción hematopoyética en el área de trasplante."
+      },
+      "presentaciones": "Comprimidos de 2 mg; solución concentrada inyectable de 60 mg/10 ml.",
+      "dosis": {
+        "adultos": "Acondicionamiento TPH IV: 0,8 mg/kg cada 6 horas por 4 días (16 dosis); Oral: 1 mg/kg cada 6 horas por 4 días.",
+        "pediatrico": "Dosis ponderal según el peso corporal ajustada por área de superficie e idealmente monitorizada por farmacococinética.",
+        "geriatrico": "Ajuste individualizado basado en el peso ideal y la función orgánica."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Diluir el concentrado IV en solución fisiológica o dextrosa al 5% en volumen 10 veces superior.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 2 horas cada 6 horas.",
+      "estabilidad_soluciones": "Usar la dilución en solución fisiológica dentro de las 6 horas de su preparación.",
+      "concentracion": "0,5 mg/ml (concentración final en la solución diluida para infusión).",
+      "alarma_riesgo": "Riesgo de oclusión sinusoidal hepática (VOD) mortal y convulsiones inducidas por dosis altas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar profilaxis anticonvulsiva antes y durante las dosis mieloablativas del fármaco.;",
+          "Pesar al paciente diariamente y medir el perímetro abdominal para detectar hepatomegalia u oclusión venosa.;",
+          "Garantizar la administración por vía venosa central mediante bomba de infusión en 2 horas.;"
+        ],
+        "educacion_paciente": [
+          "Explicar la necesidad del aislamiento protector debido a la caída completa de las defensas.;",
+          "Avisar de inmediato si siente dolor de cabeza, temblores, náuseas o aumento de peso repentino.;",
+          "Cumplir con las pautas de higiene bucal para mitigar la aparición de mucositis."
+        ]
+      }
     }
   ]
 }
