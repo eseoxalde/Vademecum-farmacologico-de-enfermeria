@@ -12721,6 +12721,73 @@
           "Evitar la exposición directa al sol o lámparas UV utilizando protector solar durante el tratamiento.;"
         ]
       }
+    },
+    {
+      "id": "166",
+      "nombre_generico": "Tenofovir",
+      "letra": "T",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Tenofovir disoproxil fumarato / Tenofovir alafenamida",
+        "clasificacion": "Antiviral, inhibidor de la transcriptasa inversa análogo de los nucleótidos (ITINt)",
+        "efecto_terapeutica": "Inhibe la replicación del virus de la inmunodeficiencia humana (VIH) y del virus de la hepatitis B (VHB)",
+        "mecanismo_accion": "Inhibe competitivamente la transcriptasa inversa del VIH o la polimerasa del VHB y causa la terminación de la cadena de ADN viral tras su incorporación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Biodisponibilidad oral aproximada del 25% (fumarato) que aumenta al administrarse con alimentos grasos",
+        "distribucion": "Baja unión a proteínas plasmáticas; amplia distribución en tejidos corporales y parénquima hepático",
+        "metabolismo": "Hidrólisis intracelular a tenofovir y posterior fosforilación a tenofovir difosfato (metabolito activo)",
+        "eliminacion": "Excreción renal por filtración glomerular y secreción tubular activa"
+      },
+      "indicaciones": "Tratamiento de la infección por VIH-1 en combinación con otros antiretrovirales; tratamiento de la hepatitis B crónica.",
+      "contraindicaciones": "Hipersensibilidad al tenofovir o a cualquiera de los componentes de la formulación.",
+      "precauciones": "Riesgo de toxicidad renal (síndrome de Fanconi, insuficiencia renal) y disminución de la densidad mineral ósea.",
+      "advertencias": "Exacerbación aguda grave de la hepatitis B en pacientes coinfectados que suspenden bruscamente el tratamiento.",
+      "embarazo_lactancia": "Uso aceptable durante el embarazo bajo supervisión médica. Se recomienda evitar la lactancia en pacientes con VIH.",
+      "ajustes": {
+        "renal": "Aumentar el intervalo de administración (ej. cada 48 horas) si el clearance de creatinina es menor a 50 ml/min (para TDF).",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Aumenta los niveles de didanosina; reduce concentraciones de atazanavir; riesgo de nefrotoxicidad sumada con AINEs o aminoglucósidos.",
+      "reacciones_adversas": "Náuseas; diarrea; flatulencia; astenia; cefalea; hipofosfatemia; proteinuria; disminución de la densidad ósea.",
+      "toxicidad_sobredosis": "Acidosis láctica, hepatomegalia severa con esteatosis e insuficiencia renal aguda.",
+      "antidotos": "Tratamiento de soporte; el tenofovir se elimina eficazmente mediante hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Evaluación periódica de la función renal, salud ósea y seguimiento de la carga viral.",
+        "laboratorio": "Creatinina sérica, clearance de creatinina, fosfato sérico, proteinuria y densidad mineral ósea."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar función renal basal, glucosuria/proteinuria y descartar infección oculta por hepatitis B.",
+        "durante": "Monitorear trimestralmente la función renal y los niveles de fosfato en sangre.",
+        "despues": "Evaluar la supresión virológica y el mantenimiento de la función renal."
+      },
+      "presentaciones": "Comprimidos recubiertos de 300 mg (TDF) o 25 mg (TAF); coformulaciones combinadas.",
+      "dosis": {
+        "adultos": "300 mg una vez al día por vía oral administrados con alimentos (TDF).",
+        "pediatrico": "Dosis ponderal basada en el peso corporal en niños mayores de 2 años según indicación especializada.",
+        "geriatrico": "Dosis habitual con monitoreo estricto de la función renal y la masa ósea."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; comprimidos para administración oral directa.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad en su envase original con desecante.",
+      "concentracion": "300 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de daño renal agudo, síndrome de Fanconi y reactivación grave de la hepatitis B si se interrumpe.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la función renal y la fosfatemia antes y durante el tratamiento prolongado.;",
+          "Administrar el comprimido junto con una comida para optimizar su absorción oral.;",
+          "Asegurar la adherencia estricta para evitar el desarrollo de resistencia viral o reactivación del VHB.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento todos los días a la misma hora, de preferencia con una comida principal.;",
+          "No suspender el tratamiento sin consultar al médico por el riesgo de rebrote de la infección.;",
+          "Informar de inmediato si presenta dolores óseos, debilidad muscular o cambios en la cantidad de orina.;"
+        ]
+      }
     }
   ]
 }
