@@ -13793,6 +13793,73 @@
           "Notificar si presenta diarrea líquida e intensa durante o después del tratamiento.;"
         ]
       }
+    },
+    {
+      "id": "182",
+      "nombre_generico": "Avibactam (Ceftazidima / Avibactam)",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Avibactam (en combinación con Ceftazidima)",
+        "clasificacion": "Inhibidor de betalactamasas no betalactámico (diazabicitlooctano)",
+        "efecto_terapeutica": "Restablece y potencia la actividad bactericida de la ceftazidima contra bacilos gramnegativos multirresistentes",
+        "mecanismo_accion": "Inhibe de forma reversible las betalactamasas de clases A (incluidas KPC), C (AmpC) y algunas de clase D (OXA-48), protegiendo a la ceftazidima de la degradación enzimática"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Baja unión a proteínas plasmáticas (8%); amplia distribución en el líquido del revestimiento epitelial pulmonar y líquido extracelular",
+        "metabolismo": "No sufre metabolismo significativo a nivel hepático",
+        "eliminacion": "Excreción renal casi exclusiva (> 90%) de forma inalterada por filtración glomerular"
+      },
+      "indicaciones": "Infecciones intraabdominales complicadas, infecciones urinarias complicadas (incluida pielonefritis), neumonía intrahospitalaria y asociada a ventilación mecánica por gérmenes multirresistentes.",
+      "contraindicaciones": "Hipersensibilidad conocida a avibactam, ceftazidima, o a cualquier cefalosporina.",
+      "precauciones": "Riesgo de anafilaxia en alérgicos a penicilinas; requiere estricto ajuste posológico en falla renal para evitar neurotoxicidad.",
+      "advertencias": "Incomprobada eficacia frente a microorganismos productores de metalobetalactamasas (clase B de Ambler como NDM o VIM).",
+      "embarazo_lactancia": "Categoría B/C; usar en el embarazo solo si el beneficio supera el riesgo. Evaluar riesgo durante la lactancia.",
+      "ajustes": {
+        "renal": "Ajustar dosis si el clearance de creatinina es menor a 50 ml/min (reducir la dosis y/o cambiar la frecuencia).",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El probenecid disminuye la depuración renal de avibactam; no se recomiendan mezclas físicas con otros antibióticos en la misma vía.",
+      "reacciones_adversas": "Prueba de Coombs directa positiva; diarrea; náuseas; vómitos; cefalea; mareos; flebitis; erupción cutánea; elevación de transaminasas.",
+      "toxicidad_sobredosis": "Encefalopatía, mioclonías, estado confusional y convulsiones en fallas renales no ajustadas.",
+      "antidotos": "Tratamiento de soporte; hemodiálisis para remover ceftazidima y avibactam de la circulación.",
+      "monitorizacion": {
+        "clinica": "Control de función renal, estado neurológico, características de las deposiciones y sitio de punción IV.",
+        "laboratorio": "Clearance de creatinina, hemograma con prueba de Coombs y hepatograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal para determinar la dosis exacta y descartar alergias a cefalosporinas.",
+        "durante": "Monitorear la aparición de diarrea grave por Clostridioides difficile o cambios neuropsiquiátricos.",
+        "despues": "Valorar la resolución de la infección grave por patógenos multirresistentes."
+      },
+      "presentaciones": "Frasco ampolla inyectable con 2 g de ceftazidima y 0,5 g de avibactam (2,5 g totales).",
+      "dosis": {
+        "adultos": "2,5 g (2 g ceftazidima / 0,5 g avibactam) cada 8 horas por vía IV en infusión prolongada.",
+        "pediatrico": "Dosis ponderal calculada en mayores de 3 meses según clearance de creatinina y peso corporal.",
+        "geriatrico": "Ajustar la dosis estrictamente de acuerdo con la función renal."
+      },
+      "vias_administracion": "Intravenosa exclusiva.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con 10 ml de agua estéril y diluir en 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
+      },
+      "velocidad_infusion": "Administrar mediante infusión intravenosa prolongada durante 2 horas.",
+      "estabilidad_soluciones": "Usar dentro de las 12 horas a temperatura ambiente o 24 horas en heladera (2°C - 8°C).",
+      "concentracion": "25 mg/ml (concentración máxima combinada en la solución reconstituida).",
+      "alarma_riesgo": "Riesgo de neurotoxicidad y convulsiones en insuficiencia renal si no se corrige la dosis.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la infusión IV de forma programada durante exactamente 2 horas.;",
+          "Calcular el clearance de creatinina antes de cada dosis para ajustar el esquema posológico.;",
+          "Monitorear signos de flebitis en el catéter venoso periférico o central.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento combate bacterias de difícil tratamiento en el ámbito hospitalario.;",
+          "Informar que debe avisar inmediatamente si presenta temblores, confusión o mareos.;",
+          "Notificar al personal de enfermería en caso de picazón o deposiciones líquidas abundantes.;"
+        ]
+      }
     }
   ]
 }
