@@ -18885,6 +18885,73 @@
           "Mantener un buen ritmo intestinal consumiendo agua y fibra para evitar el estreñimiento."
         ]
       }
+    },
+    {
+      "id": "258",
+      "nombre_generico": "Vinorelbina",
+      "letra": "V",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Tartrato de vinorelbina",
+        "clasificacion": "Antineoplásico, alcaloide semisintético de la vinca (inhibidor mitótico)",
+        "efecto_terapeutica": "Citotóxico de fase M específica con mayor selectividad por los microtúbulos mitóticos que por los axonales",
+        "mecanismo_accion": "Inhibe la polimerización de la tubulina bloqueando la formación de los microtúbulos del huso mitótico durante la metafase, induciendo la destrucción cromosómica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral (biodisponibilidad del 40%); administración habitual intravenosa o en cápsulas blandas",
+        "distribucion": "Amplia penetración tisular con elevado volumen de distribución y alta fijación a plaquetas y leucocitos; no cruza la BHE",
+        "metabolismo": "Hepático extenso por el sistema CYP3A4 al metabolito activo deacetilvinorelbina",
+        "eliminacion": "Excreción biliar y fecal principal (70-80%) y renal en baja proporción (10-15%)"
+      },
+      "indicaciones": "Cáncer de pulmón no microcítico (CPNM) avanzado o metastásico y cáncer de mama metastásico.",
+      "contraindicaciones": "Hipersensibilidad a la vinorelbina u otros alcaloides de la vinca; administración por vía intratecal (FATAL); neutropenia inicial < 1.500/mm³; insuficiencia hepática grave; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de mielosupresión (neutropenia profunda limitante de la dosis); vesicante tisular potente en extravasación (vía IV); toxicidad pulmonar (broncoespasmo); neurotoxicidad periférica e íleo intestinal.",
+      "advertencias": "LA ADMINISTRACIÓN INTRATECAL ES MORTAL. Administrar exclusivamente por vía intravenosa o vía oral según la formulación.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis al 50% si la bilirrubina sérica está entre 2 y 3 mg/dl; reducir al 75% si es > 3 mg/dl."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 aumentan su toxicidad hematológica; la coadministración con mitomicina C puede provocar disnea y broncoespasmo agudo severo.",
+      "reacciones_adversas": "Mielosupresión (neutropenia severa); alopecia; náuseas; vómitos; estreñimiento; neuropatía periférica sensitiva y motora; dolor venoso y necrosis por extravasación; astenia; reacción pulmonar aguda.",
+      "toxicidad_sobredosis": "Aplasia medular irrecuperable, paralización intestinal por íleo y neurotoxicidad severa.",
+      "antidotos": "Hialuronidasa local e infusión de compresas templadas en extravasación y soporte mieloablativo con G-CSF.",
+      "monitorizacion": {
+        "clinica": "Control del recuento de neutrófilos, función respiratoria (disnea), hábito intestinal y permeabilidad venosa.",
+        "laboratorio": "Hemograma completo previo a cada dosis semanal y bilirrubina total."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar recuento de neutrófilos (≥ 1.500/mm³), perfil hepático y confirmar la vía intravenosa o la toma oral con comida.",
+        "durante": "Infundir por vía IV en 6 a 10 minutos seguidos de lavado con abundante solución fisiológica.",
+        "despues": "Valorar la aparición de tos, disnea o parestesias periféricas."
+      },
+      "presentaciones": "Frasco ampolla de 10 mg/1 ml y 50 mg/5 ml de solución inyectable; cápsulas blandas de 20 mg, 30 mg y 80 mg.",
+      "dosis": {
+        "adultos": "IV: 25 mg/m² a 30 mg/m² una vez por semana; Oral: 60 mg/m² una vez por semana por los primeros 3 ciclos, luego escalar a 80 mg/m² semanal.",
+        "pediatrico": "Uso bajo protocolos hemato-oncológicos específicos por superficie corporal.",
+        "geriatrico": "Dosis habitual adaptada al estado general y perfil hepático."
+      },
+      "vias_administracion": "Vía oral e intravenosa (PROHIBIDA LA VÍA INTRATECAL).",
+      "preparacion": {
+        "dilucion": "Diluir la dosis IV en 20 ml a 50 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV rápida en un período de 6 a 10 minutos (seguida de 250 ml de lavado con solución fisiológica).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o bajo refrigeración (2°C - 8°C) protegida de la luz.",
+      "concentracion": "10 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "ADMINISTRACIÓN INTRATECAL MORTAL. Vesicante grave y broncoespasmo agudo en combinación con mitomicina.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA administrar por vía intratecal (rotular la bolsa con advertencia explícita de uso IV exclusivo).;",
+          "Infundir por vía IV en 6 a 10 minutos e irrigar inmediatamente la vena con 250 ml de solución fisiológica para prevenir flebitis.;",
+          "Aplicar hialuronidasa y calor seco en el sitio venoso si ocurre extravasación.;"
+        ],
+        "educacion_paciente": [
+          "Tomar las cápsulas orales enteras acompañadas de agua y alimentos sin masticar ni disolver.;",
+          "Avisar inmediatamente si presenta fiebre, falta de aire repentina, tos o llagas en la boca.;",
+          "Notificar de inmediato si siente ardor o dolor en la vena durante la infusión intravenosa."
+        ]
+      }
     }
   ]
 }
