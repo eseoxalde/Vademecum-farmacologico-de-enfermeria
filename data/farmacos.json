@@ -15267,6 +15267,73 @@
           "Informar si presenta diarrea constante o inflamación vaginal tras la toma."
         ]
       }
+    },
+    {
+      "id": "204",
+      "nombre_generico": "Mupirocina",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Mupirocina",
+        "clasificacion": "Antibiótico tópico, monoxicarboxílico",
+        "efecto_terapeutica": "Bactericida tópico de amplio uso contra Staphylococcus aureus (incluidos SAMR) y Streptococcus pyogenes",
+        "mecanismo_accion": "Inhibe la síntesis de proteínas bacterianas al unirse de forma específica y reversible a la isoleucil-ARNt sintetasa"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Mínima absorción sistémica a través de la piel intacta; absorción leve si se aplica sobre quemaduras o piel denudada",
+        "distribucion": "Acción confinada a las capas epidérmicas de la piel y mucosa nasal",
+        "metabolismo": "La fracción mínima absorbida se metaboliza rápidamente en el organismo a ácido mónico inactivo",
+        "eliminacion": "Excreción renal exclusiva de la fracción mínima absorbida en forma de ácido mónico"
+      },
+      "indicaciones": "Tratamiento del impétigo, foliculitis, lesiones cutáneas traumáticas infectadas y descolonización nasal de Staphylococcus aureus meticilino-resistente (SAMR).",
+      "contraindicaciones": "Hipersensibilidad a la mupirocina o a los polietilenglicoles (macrogol) presentes en el ungüento.",
+      "precauciones": "No usar en zonas extensas de piel abierta en insuficiencia renal (por absorción del excipiente polietilenglicol); no usar en ojos ni mucosas oculares.",
+      "advertencias": "El uso prolongado puede seleccionar cepas bacterianas resistentes.",
+      "embarazo_lactancia": "Categoría B en el embarazo; uso seguro por vía tópica. Compatible con la lactancia materna (lavar zona mamaria si se aplica en pezón).",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis, pero evitar pomadas con polietilenglicol en heridas abiertas extensas si hay insuficiencia renal.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "No se conocen interacciones sistémicas significativas debido a su escasa absorción.",
+      "reacciones_adversas": "Sensación de ardor local; prurito; eritema; sequedad de piel; reacciones de hipersensibilidad cutánea.",
+      "toxicidad_sobredosis": "Toxicidad sistémica extremadamente baja.",
+      "antidotos": "Lavado con agua y jabón de la zona afectada.",
+      "monitorizacion": {
+        "clinica": "Control de la cicatrización de las lesiones cutáneas, eritema local y ausencia de irritación.",
+        "laboratorio": "Hisopado nasal de control para verificación de descolonización de SAMR si aplica."
+      },
+      "parametros_valoracion": {
+        "antes": "Limpiar suavemente la zona afectada y retirar costras o secreciones acumuladas.",
+        "durante": "Monitorear si aparece prurito o irritación intensa tras la aplicación.",
+        "despues": "Valorar la resolución completa del impétigo o lesión infectada."
+      },
+      "presentaciones": "Pomada / Ungüento dermatólogico al 2%; pomada nasal al 2%.",
+      "dosis": {
+        "adultos": "Aplicar una pequeña cantidad en la zona afectada 2 a 3 veces al día durante 5 a 10 días; Descolonización nasal: 2 aplicaciones diarias por 5 días.",
+        "pediatrico": "Misma pauta posológica que en adultos en lactantes mayores de 2 meses y niños.",
+        "geriatrico": "Misma pauta posológica que en adultos."
+      },
+      "vias_administracion": "Vía tópica dermatólogica y nasal.",
+      "preparacion": {
+        "dilucion": "Formulación lista para usar; no requiere reconstitución.",
+        "compatibilidad_iv": "Formulación tópica exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración tópica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida del calor excesivo.",
+      "concentracion": "20 mg/g (al 2%).",
+      "alarma_riesgo": "Riesgo de absorción del excipiente nefrotóxico (macrogol) si se aplica en grandes extensiones con piel abierta.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Lavarse las manos antes y después de aplicar la pomada o utilizar guantes limpios.;",
+          "Limpiar minuciosamente la zona afectada antes de colocar una capa delgada del producto.;",
+          "Evitar el contacto del medicamento con los ojos o mucosas no indicadas.;"
+        ],
+        "educacion_paciente": [
+          "Aplicar una pequeña capa sobre la herida o costra 2 a 3 veces al día según indicación.;",
+          "Se puede cubrir la zona tratada con una gasa estéril si fuera necesario.;",
+          "Consultar al médico si la infección no mejora tras 3 a 5 días de tratamiento."
+        ]
+      }
     }
   ]
 }
