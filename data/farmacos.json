@@ -18483,6 +18483,73 @@
           "Informar de inmediato si nota dolor o ardor en el sitio de colocación de la vía intravenosa."
         ]
       }
+    },
+    {
+      "id": "252",
+      "nombre_generico": "Paclitaxel",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Paclitaxel",
+        "clasificacion": "Antineoplásico, taxano (inhibidor del huso mitótico)",
+        "efecto_terapeutica": "Citotóxico que bloquea la división celular en la transición G2/M del ciclo celular",
+        "mecanismo_accion": "Promueve el ensamblaje de los microtúbulos a partir de los dímeros de tubulina y los estabiliza impidiendo su despolimerización, bloqueando la reorganización dinámica normal del citoesqueleto"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas (89-98%); amplio volumen de distribución tisular; no atraviesa la BHE adecuadamente",
+        "metabolismo": "Hepático extenso por las isoenzimas CYP2C8 y CYP3A4 a metabolitos hidroxilados inactivos",
+        "eliminacion": "Excreción biliar y fecal principal (70-80%) y renal mínima (14%)"
+      },
+      "indicaciones": "Cáncer de ovario avanzado o metastásico, cáncer de mama (adyuvante y metastásico), cáncer de pulmón no microcítico y sarcoma de Kaposi relacionado con el SIDA.",
+      "contraindicaciones": "Hipersensibilidad al paclitaxel o al Cremophor EL (aceite de ricino polioxietilado); neutropenia inicial < 1.500/mm³ (< 1.000/mm³ en Kaposi); embarazo y lactancia.",
+      "precauciones": "Riesgo de reacciones graves de hipersensibilidad (requiere premedicación obligatoria con corticoides y antihistamínicos); neuropatía periférica sensitiva; cardiotoxicidad (bradicardia, arritmias); mielosupresión.",
+      "advertencias": "Es obligatoria la premedicación con dexametasona, difenidramina y un antagonista H2 antes de iniciar la infusión para prevenir anafilaxia mortal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal.",
+        "hepatico": "Reducir la dosis si las transaminasas están elevadas o si la bilirrubina es > 1.5 mg/dl."
+      },
+      "interacciones": "Incompatibilidad posológica con derivados del platino: administrar paclitaxel antes que el cisplatino/carboplatino para evitar la disminución de su aclaramiento y mayor myelosupresión; los inhibidores/inductores de CYP2C8 o CYP3A4 alteran sus niveles.",
+      "reacciones_adversas": "Mielosupresión (neutropenia); neuropatía periférica sensitiva (parestesias en 'guante y calcetín'); alopecia completa; mialgias y artralgias; reacciones de hipersensibilidad; bradicardia; mucositis; diarrea.",
+      "toxicidad_sobredosis": "Mielosupresión grave, neurotoxicidad periférica severa y mucositis destructiva.",
+      "antidotos": "Tratamiento de soporte, antihistamínicos/corticoides y epinefrina en anafilaxia.",
+      "monitorizacion": {
+        "clinica": "Control de constantes vitales en los primeros 15-30 minutos de infusión (presión arterial, pulso), signos de neuropatía y sitio venoso.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, pruebas de función hepática y electrocardiograma si hay arritmias."
+      },
+      "parametros_valoracion": {
+        "antes": "Administrar la premedicación obligatoria (dexametasona, antihistamínicos H1 y H2) 30 a 60 minutos antes y verificar filtro en línea de 0.22 micras.",
+        "durante": "Monitorear estrictamente los primeros 15 a 30 minutos de infusión por reacciones anafilácticas.",
+        "despues": "Evaluar la presencia de mialgias o parestesias periféricas en los días posteriores."
+      },
+      "presentaciones": "Frasco ampolla de 30 mg/5 ml, 100 mg/16.7 ml y 300 mg/50 ml de solución concentrada.",
+      "dosis": {
+        "adultos": "135 mg/m² a 175 mg/m² IV en infusión de 3 horas cada 3 semanas (o 80 mg/m² IV semanal en esquemas densos de dosis).",
+        "pediatrico": "Uso bajo protocolos hemato-oncológicos específicos pediátricos.",
+        "geriatrico": "Dosis habitual evaluando la reserva hepática y la tolerancia neurológica."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir en solución fisiológica o dextrosa al 5% hasta una concentración final de 0.3 mg/ml a 1.2 mg/ml.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (utilizar obligatoriamente equipos de infusión libres de PVC y filtro en línea de 0.22 micras)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua en un período de 3 horas (o 24 horas según protocolo).",
+      "estabilidad_soluciones": "Estable durante 27 horas a temperatura ambiente tras la preparación.",
+      "concentracion": "6 mg/ml (concentración de la presentación concentrada original).",
+      "alarma_riesgo": "Riesgo de anafilaxia letal si se omite la premedicación y lixiviación de plastificantes si se usan guías con PVC.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que el paciente haya recibido la premedicación completa con dexametasona y antihistamínicos H1/H2.;",
+          "Utilizar obligatoriamente guías de infusión libres de PVC con un filtro en línea de 0.22 micras.;",
+          "Administrar paclitaxel ANTES que los platinos (cisplatino/carboplatino) cuando se coadministren en el mismo ciclo.;"
+        ],
+        "educacion_paciente": [
+          "Avisar inmediatamente durante el inicio de la inyección si siente opresión en el pecho, dificultad para respirar, calor o ronchas.;",
+          "Informar al médico si nota hormigueo, adormecimiento o dolor en las yemas de los dedos de manos o pies.;",
+          "Es normal presentar dolores musculares o articulaciones un par de días después del tratamiento."
+        ]
+      }
     }
   ]
 }
