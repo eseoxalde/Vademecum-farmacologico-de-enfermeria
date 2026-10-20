@@ -11984,6 +11984,73 @@
           "Advertir que debe suspender la toma y consultar de inmediato si presenta erupción o picazón en la piel.;"
         ]
       }
+    },
+    {
+      "id": "155",
+      "nombre_generico": "Ampicilina",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Ampicilina",
+        "clasificacion": "Antibiótico, aminopenicilina de amplio espectro",
+        "efecto_terapeutica": "Bactericida frente a bacterias grampositivas y gramnegativas susceptibles",
+        "mecanismo_accion": "Inhibe la síntesis del peptidoglicano de la pared celular bacteriana bloqueando las transpeptidasas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral incompleta reducida por alimentos; parenteral de disponibilidad rápida",
+        "distribucion": "Se distribuye ampliamente en líquidos corporales; cruza la barrera placentaria",
+        "metabolismo": "Hepático parcial (10-20%)",
+        "eliminacion": "Excreción renal por filtración y secreción tubular activa"
+      },
+      "indicaciones": "Infecciones respiratorias, urinarias, endocarditis bacteriana, meningitis bacteriana y Listeriosis.",
+      "contraindicaciones": "Hipersensibilidad previa a penicilinas o betalactámicos.",
+      "precauciones": "Ajuste de dosis en insuficiencia renal; riesgo elevado de erupción cutánea en pacientes con mononucleosis.",
+      "advertencias": "Puede causar reacciones anafilácticas graves e irrecuperables si no se tratan.",
+      "embarazo_lactancia": "Categoría B en el embarazo; de uso seguro. Se excreta en baja proporción en la leche materna.",
+      "ajustes": {
+        "renal": "Espaciar los intervalos de dosis (cada 8 a 12 horas) en insuficiencia renal moderada a severa.",
+        "hepatico": "No requiere ajuste específico."
+      },
+      "interacciones": "Incompatible en el mismo contenedor con aminoglucósidos; alopurinol incrementa el riesgo de exantema.",
+      "reacciones_adversas": "Diarrea; náuseas; exantema cutáneo maculopapular; urticaria; flebitis en el sitio de inyección.",
+      "toxicidad_sobredosis": "Excitabilidad neuromuscular y convulsiones en dosis extremadamente altas o falla renal.",
+      "antidotos": "Hemodiálisis para remoción sérica.",
+      "monitorizacion": {
+        "clinica": "Monitorear signos vitales, aparición de erupciones cutáneas y sitio de punción venosa.",
+        "laboratorio": "Hemograma, función renal y hepática en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de alergia conocida a las penicilinas o cefalosporinas.",
+        "durante": "Vigilar la tolerancia a la infusión IV y la presencia de diarrea.",
+        "despues": "Valorar la eficacia clínica y la mejoría de la infección."
+      },
+      "presentaciones": "Frascos ampolla de 500 mg y 1000 mg inyectables; comprimidos de 500 mg.",
+      "dosis": {
+        "adultos": "1 g a 2 g cada 4 a 6 horas por vía IV o IM según la gravedad de la infección.",
+        "pediatrico": "100 mg/kg a 200 mg/kg/día divididos cada 6 horas por vía parenteral.",
+        "geriatrico": "Dosis ajustada a la depuración de creatinina."
+      },
+      "vias_administracion": "Intravenosa, intramuscular y oral.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con agua destilada y diluir en 50 ml a 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica; inestable en soluciones glucosadas."
+      },
+      "velocidad_infusion": "Administración IV directa en 3 a 5 minutos o infusión en 15 a 30 minutos.",
+      "estabilidad_soluciones": "Utilizar dentro de la hora posterior a su reconstitución por su rápida degradación.",
+      "concentracion": "100 mg/ml (concentración máxima recomendada para inyección).",
+      "alarma_riesgo": "Riesgo de shock anafiláctico y desarrollo de resistencia bacteriana por mal uso.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar antecedentes de alérgenos antes de aplicar la primera dosis inyectable.;",
+          "Administrar la solución IV recién preparada para evitar la pérdida de potencia del fármaco.;",
+          "Evitar la administración conjunta en la misma guía con antibióticos aminoglucósidos.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente la importancia del cumplimiento horario de la aplicación.;",
+          "Advertir sobre la posibilidad de desarrollar sarpullido o picazón y avisar al personal de salud.;",
+          "Informar sobre la necesidad de reportar deposiciones líquidas o dolores abdominales.;"
+        ]
+      }
     }
   ]
 }
