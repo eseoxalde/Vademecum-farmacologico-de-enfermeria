@@ -16138,6 +16138,73 @@
           "Evitar la exposición directa al sol por el riesgo elevado de quemaduras en la piel."
         ]
       }
+    },
+    {
+      "id": "217",
+      "nombre_generico": "Melfalán",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Melfalán",
+        "clasificacion": "Antineoplásico, agente alquilante (derivado de la mostaza nitrogenada)",
+        "efecto_terapeutica": "Citotóxico e inmunosupresor de fase no específica del ciclo celular",
+        "mecanismo_accion": "Inhibe la síntesis del ADN y ARN al formar enlaces cruzados covalentes entre las cadenas de ADN en la posición N-7 de la guanina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral highly variable e incompleta que disminuye significativamente con los alimentos",
+        "distribucion": "Se une moderadamente a proteínas plasmáticas (60-90%); atraviesa de forma limitada la barrera hematoencefálica",
+        "metabolismo": "Degradación química espontánea en plasma a monohidroxi y dihidroxiderivados inactivos",
+        "eliminacion": "Excreción renal parcial (10-15% inalterado) y eliminación fecal"
+      },
+      "indicaciones": "Tratamiento del mieloma múltiple, adenocarcinoma ovárico avanzado, carcinoma mamario y acondicionamiento mieloablativo previo a trasplante de células madre.",
+      "contraindicaciones": "Hipersensibilidad al melfalán; mielosupresión grave preexistente; lactancia materna.",
+      "precauciones": "Riesgo extremo de mielosupresión prolongada; ajustar dosis en insuficiencia renal; potencial carcinogénico secundario (leucemia aguda).",
+      "advertencias": "La solución inyectable es muy inestable tras su reconstitución y debe administrarse en un lapso breve.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico y mutagénico severo. Contraindicado durante la lactancia.",
+      "ajustes": {
+        "renal": "Disminuir la dosis o prolongar el intervalo de administración si el clearance de creatinina es menor a 50 ml/min.",
+        "hepatico": "No requiere ajuste específico por falta de metabolismo hepático primario."
+      },
+      "interacciones": "El uso simultáneo con ciclosporina incrementa el riesgo de nefrotoxicidad severa; la nalidíxico aumenta la incidencia de enterocolitis mortal en niños.",
+      "reacciones_adversas": "Mielosupresión (leucopenia, trombocitopenia); náuseas; vómitos; alopecia; mucositis oral; neumonitis intersticial y fibrosis pulmonar.",
+      "toxicidad_sobredosis": "Aplasia medular irrecuperable, ulceración gastrointestinal grave y diarrea hemorrágica.",
+      "antidotos": "Tratamiento de soporte mieloablativo, factores de estimulación de colonias (G-CSF) y transfusiones sanguíneas.",
+      "monitorizacion": {
+        "clinica": "Control estricto de temperatura corporal, signos de sangrado, estomatitis y función respiratoria.",
+        "laboratorio": "Hemograma completo semanal con recuento de plaquetas y leucocitos; función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar recuento de neutrófilos (> 1.500/mm³), plaquetas (> 100.000/mm³) y clearance de creatinina.",
+        "durante": "Monitorear la aparición de reacciones de hipersensibilidad durante la infusión IV.",
+        "despues": "Valorar el nadir de mielosupresión a las 2 a 3 semanas post-tratamiento."
+      },
+      "presentaciones": "Comprimidos de 2 mg; frasco ampolla inyectable de 50 mg de liofilizado con diluyente.",
+      "dosis": {
+        "adultos": "Mieloma múltiple oral: 0,15 mg/kg/día por 4 a 6 días cada 6 semanas; Acondicionamiento TPH IV: 100 mg/m² a 200 mg/m² en dosis única o dividida.",
+        "pediatrico": "Dosificación según protocolos oncológicos específicos basados en la superficie corporal.",
+        "geriatrico": "Reducir dosis adaptándola a la reserva medular y clearance de creatinina."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con el diluyente proporcionado y diluir inmediatamente en solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (inestable en soluciones glucosadas)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV lenta en un lapso de 15 a 30 minutos.",
+      "estabilidad_soluciones": "Usar dentro de los 60 minutos posteriores a la reconstitución por rápida degradación por hidrólisis.",
+      "concentracion": "0,45 mg/ml (concentración máxima recomendada en la solución para infusión).",
+      "alarma_riesgo": "Riesgo de extravasación con necrosis tisular y aplasia medular grave sin monitoreo.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la solución IV preparada dentro de los 60 minutos posteriores a su dilución por su rápida inestabilidad.;",
+          "Administrar las dosis orales con el estómago vacío (1 hora antes de comer) para asegurar la absorción.;",
+          "Monitorear los recuentos de neutrófilos y plaquetas semanalmente para ajustar el esquema posológico.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos en ayunas con un vaso de agua sin masticar ni fraccionar.;",
+          "Avisar de inmediato ante fiebre, escalofríos, moratones o sangrado inusual en encías o nariz.;",
+          "Evitar el contacto con personas que tengan infecciones virales o bacterianas activas.;"
+        ]
+      }
     }
   ]
 }
