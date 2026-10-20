@@ -15669,6 +15669,73 @@
           "Consultar al médico urgente si presenta náuseas, pérdida de apetito o tinte amarillo en piel u ojos."
         ]
       }
+    },
+    {
+      "id": "210",
+      "nombre_generico": "Estreptomicina",
+      "letra": "E",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de estreptomicina",
+        "clasificacion": "Antibiótico, aminoglucósido, antituberculoso de primera línea parenteral",
+        "efecto_terapeutica": "Bactericida sobre Mycobacterium tuberculosis e infecciones por bacterias gramnegativas sensibles",
+        "mecanismo_accion": "Se une de forma irreversible a la subunidad 30S del ribosoma bacteriano, interfiriendo en la iniciación de la síntesis de proteínas e induciendo la lectura errónea del código genético"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intramuscular con absorción rápida y completa",
+        "distribucion": "Se distribuye principalmente en el líquido extracelular; penetración deficiente en LCR no inflamado",
+        "metabolismo": "No sufre metabolismo apreciable en el organismo",
+        "eliminacion": "Excreción renal inalterada (> 80%) por filtración glomerular"
+      },
+      "indicaciones": "Tratamiento de la tuberculosis activa en esquemas combinados de segunda línea o de rescate, tularemia, peste, brucelosis (asociada a doxiciclina) y endocarditis bacteriana por enterococos.",
+      "contraindicaciones": "Hipersensibilidad a la estreptomicina o a los aminoglucósidos; miastenia gravis.",
+      "precauciones": "Insuficiencia renal; trastornos vestibulares o auditivos preexistentes; ancianos.",
+      "advertencias": "Riesgo elevado de ototoxicidad (con compromiso vestibular grave e hipoacusia irreversible) y nefrotoxicidad.",
+      "embarazo_lactancia": "Categoría D en el embarazo; causa ototoxicidad y sordera congénita en el feto. Usar con precaución en lactancia.",
+      "ajustes": {
+        "renal": "Disminuir la dosis o prolongar los intervalos a cada 24-48 horas si el clearance de creatinina es menor a 50 ml/min.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Sinergismo de ototoxicidad y nefrotoxicidad con vancomicina, furosemida, cisplatino y colistina; potencia bloqueantes neuromusculares.",
+      "reacciones_adversas": "Ototoxicidad (vértigo, ataxia, tinnitus, sordera); nefrotoxicidad; parestesias peribucales; reacción de hipersensibilidad.",
+      "toxicidad_sobredosis": "Bloqueo neuromuscular con depresión respiratoria, falla renal e hipoacusia irreversible.",
+      "antidotos": "Gluconato de calcio IV para el bloqueo neuromuscular; hemodiálisis para remover el fármaco.",
+      "monitorizacion": {
+        "clinica": "Control de función vestibular (equilibrio), audiometría periódica, diuresis y tono muscular.",
+        "laboratorio": "Urea, creatinina sérica, clearance y niveles plasmáticos de estreptomicina."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar audiometría y prueba de función vestibular basal, y calcular el clearance de creatinina.",
+        "durante": "Monitorear la aparición de vértigo, inestabilidad en la marcha o disminución de la audición.",
+        "despues": "Valorar la remisión de la tuberculosis u otra infección e igual evaluación auditiva."
+      },
+      "presentaciones": "Frasco ampolla de 1 g de polvo liofilizado.",
+      "dosis": {
+        "adultos": "Tuberculosis: 15 mg/kg/día IM (habitual 1 g diario o 2 a 3 veces por semana); Brucelosis: 1 g diario IM.",
+        "pediatrico": "20 mg/kg a 40 mg/kg/día IM en dosis única diaria (máximo 1 g/día).",
+        "geriatrico": "10 mg/kg/día (máximo 500 mg a 750 mg/día) con estricto monitoreo de la función renal."
+      },
+      "vias_administracion": "Intramuscular profunda exclusiva.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con 2 ml a 4 ml de agua estéril o solución fisiológica.",
+        "compatibilidad_iv": "Uso IV no recomendado por riesgo de bloqueo neuromuscular y cardiotoxicidad."
+      },
+      "velocidad_infusion": "Administración intramuscular profunda lenta.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 7 días refrigerado (2°C - 8°C).",
+      "concentracion": "250 mg/ml a 500 mg/ml según el volumen de reconstitución.",
+      "alarma_riesgo": "Riesgo irreversible de daño vestibular (vértigo severo) y sordera permanente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Aplicar únicamente por vía intramuscular profunda en masas musculares grandes.;",
+          "Evaluar periódicamente el equilibrio y la agudeza auditiva del paciente.;",
+          "Controlar diariamente la función renal y la diuresis horaria.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que la medicación se aplica mediante inyecciones musculares diarias o semanales.;",
+          "Avisar de inmediato si siente mareos, pérdida de equilibrio o ruidos en los oídos.;",
+          "Informar al personal si nota cambios en la cantidad de orina eliminada.;"
+        ]
+      }
     }
   ]
 }
