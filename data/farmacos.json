@@ -14798,6 +14798,73 @@
           "Avisar de inmediato si presenta sarpullido en la piel, fiebre o dolor de garganta.;"
         ]
       }
+    },
+    {
+      "id": "197",
+      "nombre_generico": "Trimetoprim",
+      "letra": "T",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Trimetoprima",
+        "clasificacion": "Antibiótico, inhibidor de la dihidrofolato reductasa",
+        "efecto_terapeutica": "Bacterostático de amplio espectro sobre bacterias grampositivas y gramnegativas",
+        "mecanismo_accion": "Inhibe reversiblemente la enzima dihidrofolato reductasa bacteriana, bloqueando la conversión de ácido dihidrofólico en tetrahidrofólico"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción gastrointestinal con biodisponibilidad del 90 al 100%",
+        "distribucion": "Alta penetración en tejidos y secreciones, incluyendo próstata, pulmón, secreción bronquial y LCR",
+        "metabolismo": "Hepático leve a metabolitos inactivos (10-20%)",
+        "eliminacion": "Excreción renal principalmente inalterada por filtración y secreción tubular (60-80%)"
+      },
+      "indicaciones": "Tratamiento y profilaxis de infecciones urinarias no complicadas e infecciones respiratorias.",
+      "contraindicaciones": "Hipersensibilidad a la trimetoprima; anemia megaloblástica por deficiencia de folatos; insuficiencia renal grave.",
+      "precauciones": "Usar con cuidado en deficiencia de ácido fólico, ancianos, alcohólicos y pacientes en tratamiento anticonvulsivo.",
+      "advertencias": "Puede elevar transitoriamente los niveles de potasio sérico y la creatinina por bloqueo de su secreción tubular.",
+      "embarazo_lactancia": "Contraindicado en el primer trimestre del embarazo por efecto antifolárico y riesgo teratogénico. Usar con precaución en la lactancia.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% si el clearance de creatinina es de 15 a 30 ml/min; evitar si es menor a 15 ml/min.",
+        "hepatico": "Precaución en insuficiencia hepática grave."
+      },
+      "interacciones": "Incrementa los niveles plasmáticos de digoxina y procainamida; aumenta el riesgo de hiperpotasemia con inhibidores de la ECA; eleva toxicidad del metotrexato.",
+      "reacciones_adversas": "Prurito; exantema; náuseas; vómitos; hiperpotasemia; trombocitopenia; leucopenia; anemia megaloblástica.",
+      "toxicidad_sobredosis": "Depresión de médula ósea, confusión, náuseas y vómitos.",
+      "antidotos": "Ácido folínico (leucovorina) por vía oral o intramuscular.",
+      "monitorizacion": {
+        "clinica": "Control de signos de anafilaxia, erupción cutánea e hidratación.",
+        "laboratorio": "Hemograma completo, potasio plasmático y función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar niveles de folatos, hemograma y función renal basal.",
+        "durante": "Monitorear la aparición de signos de mielosupresión o erupciones en la piel.",
+        "despues": "Valorar la erradicación del proceso infeccioso."
+      },
+      "presentaciones": "Comprimidos de 100 mg y 200 mg (frecuentemente coformulado con sulfametoxazol).",
+      "dosis": {
+        "adultos": "100 mg cada 12 horas o 200 mg cada 24 horas por vía oral.",
+        "pediatrico": "4 mg/kg a 6 mg/kg/día divididos cada 12 horas por vía oral.",
+        "geriatrico": "Ajustar dosis según la función renal calculada."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; tomar los comprimidos con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva cuando se administra en monoterapia."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y humedad.",
+      "concentracion": "200 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de anemia megaloblástica grave en tratamientos prolongados sin suplementación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Monitorear los niveles de potasio plasmático durante el tratamiento.;",
+          "Controlar el hemograma periódico en pacientes con riesgo de deficiencia de folatos.;",
+          "Verificar el ajuste de dosis posológico si existe compromiso de la función renal.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación regularmente respetando los horarios prescritos.;",
+          "Consultar al médico ante la aparición de hematomas, cansancio extremo o palidez.;",
+          "Informar si presenta urticaria, picazón o lesiones en la boca."
+        ]
+      }
     }
   ]
 }
