@@ -12922,6 +12922,73 @@
           "Informar de inmediato si siente dolor estomacal fuerte, náuseas o vómitos.;"
         ]
       }
+    },
+    {
+      "id": "169",
+      "nombre_generico": "Emtricitabina",
+      "letra": "E",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Emtricitabina (FTC)",
+        "clasificacion": "Antiviral, inhibidor de la transcriptasa inversa análogo de los nucleósidos (ITIN)",
+        "efecto_terapeutica": "Inhibe la replicación del VIH-1, VIH-2 y del virus de la hepatitis B",
+        "mecanismo_accion": "Análogo sintético de la citidina que es fosforilado a emtricitabina 5'-trifosfato, bloqueando la transcriptasa inversa del VIH e interrumpiendo la elongación del ADN viral"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y extensa absorción oral con una biodisponibilidad del 93%; no se altera con los alimentos",
+        "distribucion": "Baja unión a proteínas plasmáticas; amplia distribución tisular y penetración en fluidos genitales",
+        "metabolismo": "Metabolismo hepático escaso por oxidación y glucuronidación",
+        "eliminacion": "Excreción renal principalmente inalterada (86%) mediante filtración y secreción tubular"
+      },
+      "indicaciones": "Tratamiento de la infección por VIH-1 en combinación con otros antiretrovirales; profilaxis preexposición (PrEP).",
+      "contraindicaciones": "Hipersensibilidad a la emtricitabina o a sus componentes.",
+      "precauciones": "Reducir la dosis en insuficiencia renal; riesgo de acidosis láctica y hepatomegalia con esteatosis.",
+      "advertencias": "Riesgo de exacerbación hepática grave en pacientes con coinfección por hepatitis B al interrumpir el tratamiento.",
+      "embarazo_lactancia": "Uso amplio y seguro durante el embarazo. La lactancia no está recomendada en mujeres con VIH.",
+      "ajustes": {
+        "renal": "Espaciar el intervalo de dosis (ej. cada 48 a 96 horas) si el clearance de creatinina es menor a 50 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "No debe coadministrarse con lamivudina por compartir el mismo perfil farmacológico y resistencia cruzada.",
+      "reacciones_adversas": "Cefalea; diarrea; náuseas; astenia; insomnio; hiperpigmentación cutánea (hiperpigmentación de palmas y plantas).",
+      "toxicidad_sobredosis": "Acidosis láctica, hepatotoxicidad grave y disfunción renal.",
+      "antidotos": "Tratamiento sintomático de soporte; la hemodiálisis elimina hasta un 30% de la dosis.",
+      "monitorizacion": {
+        "clinica": "Monitoreo de función renal, pigmentación cutánea, perfil hepático y carga viral.",
+        "laboratorio": "Clearance de creatinina, pruebas de función hepática y descarte de VHB previo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal y descartar infección por VHB antes de iniciar PrEP o tratamiento.",
+        "durante": "Monitorear la creatinina sérica y la aparición de manchas hiperpigmentadas en la piel.",
+        "despues": "Valorar el mantenimiento de la carga viral suprimida."
+      },
+      "presentaciones": "Cápsulas de 200 mg; solución oral de 10 mg/ml; coformulaciones fijas con tenofovir.",
+      "dosis": {
+        "adultos": "200 mg una vez al día por vía oral.",
+        "pediatrico": "6 mg/kg una vez al día por vía oral (hasta un máximo de 200 mg) en niños mayores de 4 meses.",
+        "geriatrico": "Dosis ajustada estrictamente a la función renal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; listo para administración oral.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "200 mg por cápsula.",
+      "alarma_riesgo": "Reactivación hepática grave al suspender el tratamiento en coinfectados por hepatitis B.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Ajustar el intervalo entre dosis en pacientes con insuficiencia renal según indicación médica.;",
+          "Verificar que no se administre conjuntamente con lamivudina.;",
+          "Controlar periódicamente la función renal y el estado hepático.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la cápsula una vez al día con o sin alimentos a la misma hora.;",
+          "Informar al paciente que la hiperpigmentación en las palmas de las manos o plantas de los pies es un efecto inofensivo.;",
+          "No interrumpir la toma sin indicación médica para evitar la resistencia del virus o daño hepático.;"
+        ]
+      }
     }
   ]
 }
