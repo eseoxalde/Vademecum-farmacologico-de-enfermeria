@@ -15401,6 +15401,73 @@
           "Avisar urgente si siente náuseas, cansancio intenso, tinte amarillo en los ojos u hormigueo en los pies."
         ]
       }
+    },
+    {
+      "id": "206",
+      "nombre_generico": "Rifampicina",
+      "letra": "R",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Rifampicina",
+        "clasificacion": "Antituberculoso de primera línea, ansamicina",
+        "efecto_terapeutica": "Bactericida de amplio espectro sobre Mycobacterium tuberculosis, micobacterias atípicas y bacterias grampositivas (SAMR)",
+        "mecanismo_accion": "Inhibe la síntesis de ARN bacteriano al unirse a la subunidad beta de la ARN polimerasa dependiente de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral con el estómago vacío; reducida fuertemente por alimentos o grasa",
+        "distribucion": "Excelente penetración en todos los tejidos corporales, órganos, saliva, lágrimas, esputo y tejido pulmonar; tiñe de rojo los fluidos",
+        "metabolismo": "Hepático extenso por desacetilación (autoinducción enzimática)",
+        "eliminacion": "Excreción biliar/fecal principalmente y renal (30%)"
+      },
+      "indicaciones": "Tratamiento de la tuberculosis activa (en esquema combinado), lepra, profilaxis de meningitis meningocócica e infecciones estafilocócicas graves.",
+      "contraindicaciones": "Hipersensibilidad a las rifamicinas; administración concomitante con inhibidores de la proteasa del VIH o antirretrovirales específicos; ictericia activa.",
+      "precauciones": "Insuficiencia hepática; consumo de alcohol; interacciones medicamentosas múltiples por inducción enzimática.",
+      "advertencias": "Potente inductor enzimático del sistema CYP450. Colorea la orina, sudor, lágrimas y heces de un color rojo-anaranjado característico.",
+      "embarazo_lactancia": "Uso autorizado durante el embarazo en esquemas antituberculosos. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajustes de dosis.",
+        "hepatico": "Ajustar o suspender si las transaminasas aumentan de forma progresiva o aparece ictericia."
+      },
+      "interacciones": "Inductor masivo de CYP3A4; disminuye drásticamente niveles de anticonceptivos orales, anticoagulantes, estatinas, azoles, corticoides y metadona.",
+      "reacciones_adversas": "Coloración anaranjada de secreciones y orina; hepatitis; síndrome gripal (flu-like) en esquemas intermitentes; náuseas; erupción cutánea; trombocitopenia.",
+      "toxicidad_sobredosis": "Síndrome del 'hombre rojo' (pigmentación anaranjada/roja de piel y mucosas), hepatomegalia, ictericia y convulsiones.",
+      "antidotos": "Tratamiento de soporte, lavados gástricos y carbón activado.",
+      "monitorizacion": {
+        "clinica": "Control de función hepática, tinte de secreciones, coloración cutánea y adherencia estricta.",
+        "laboratorio": "Transaminasas, bilirrubina total, hemograma y plaquetas de forma periódica."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función hepática basal y revisar meticulosamente la interacción con la medicación del paciente.",
+        "durante": "Monitorear el color de la orina y la aparición de náuseas o tinte amarillo en los ojos.",
+        "despues": "Valorar la negativización de los cultivos para Mycobacterium tuberculosis."
+      },
+      "presentaciones": "Cápsulas de 300 mg; jarabe de 100 mg/5 ml; coformulaciones fijas combinadas (Rifater, Rifinah).",
+      "dosis": {
+        "adultos": "Tuberculosis: 10 mg/kg/día por vía oral en ayunas (habitual 600 mg una vez al día); Profilaxis meningococo: 600 mg c/12h por 2 días.",
+        "pediatrico": "10 mg/kg a 20 mg/kg/día por vía oral en dosis única diaria en ayunas (máximo 600 mg/día).",
+        "geriatrico": "10 mg/kg/día (máximo 600 mg) con estricto monitoreo hepático."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; tomar las cápsulas con un vaso lleno de agua en ayunas.",
+        "compatibilidad_iv": "Formulación oral habitual."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "300 mg por cápsula.",
+      "alarma_riesgo": "Falla de anticonceptivos u otros fármacos por inducción hepática masiva y hepatotoxicidad.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la dosis estrictamente en ayunas (1 hora antes de las comidas o 2 horas después).;",
+          "Advertir e informar al paciente sobre la tinción roja/anaranjada de la orina, lágrimas y sudor.;",
+          "Verificar que las mujeres en edad fértil utilicen métodos anticonceptivos de barrera adicionales.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la cápsula en ayunas por la mañana con un vaso de agua.;",
+          "No asustarse si la orina, el sudor o las lágrimas se vuelven de color rojo o anaranjado.;",
+          "No usar lentes de contacto blandas durante el tratamiento porque pueden teñirse de forma permanente.;"
+        ]
+      }
     }
   ]
 }
