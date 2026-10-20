@@ -13257,6 +13257,73 @@
           "Consultar al médico si se observan alucinaciones o agitación en pacientes jóvenes.;"
         ]
       }
+    },
+    {
+      "id": "174",
+      "nombre_generico": "Albendazol",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Albendazol",
+        "clasificacion": "Antiparasitario, antihelmíntico de amplio espectro (carbamato benzimidazol)",
+        "efecto_terapeutica": "Causa la muerte del parásito inhibiendo la captación de glucosa y energía",
+        "mecanismo_accion": "Se une a la beta-tubulina del parásito inhibiendo la polimerización de los microtúbulos, alterando la estructura celular y destruyendo los helmintos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Pobre absorción oral (< 5%); aumenta sustancialmente (hasta 5 veces) administrado con comidas grasas",
+        "distribucion": "Pasa al líquido cefalorraquídeo, quistes hidatídicos y tejidos corporales en forma de sulfóxido de albendazol",
+        "metabolismo": "Hepático extenso de primer paso a sulfóxido de albendazol (metabolito activo)",
+        "eliminacion": "Biliar y renal en forma de metabolitos"
+      },
+      "indicaciones": "Infecciones helmínticas por Ascaris, Enterobius, Ancylostoma, Trichuris, Strongyloides, quiste hidatídico y neurocisticercosis.",
+      "contraindicaciones": "Hipersensibilidad a los benzimidazoles; embarazo confirmado o sospechado.",
+      "precauciones": "Riesgo de mielosupresión (leucopenia, pancitopenia) e ictericia en tratamientos prolongados; evaluar función hepática.",
+      "advertencias": "Descartar embarazo antes de iniciar el tratamiento y utilizar métodos anticonceptivos durante y un mes después.",
+      "embarazo_lactancia": "Contraindicado en el embarazo (Categoría C/D). Precaución durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Descontinuar o ajustar dosis si las transaminasas se elevan a más del doble del límite normal."
+      },
+      "interacciones": "Dexametasona, praziquantel y cimetidina aumentan los niveles plasmáticos del metabolito activo del albendazol.",
+      "reacciones_adversas": "Dolor abdominal; náuseas; vómitos; cefalea; mareos; elevación reversible de transaminasas; alopecia transitoria.",
+      "toxicidad_sobredosis": "Elevación de transaminasas, leucopenia y diarrea.",
+      "antidotos": "Tratamiento sintomático y lavados gástricos.",
+      "monitorizacion": {
+        "clinica": "Control de función hepática, recuento leucocitario y signos de hipertensión endocraneana en neurocisticercosis.",
+        "laboratorio": "Hemograma completo y enzimas hepáticas cada 2 semanas en ciclos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar prueba de embarazo previa y solicitar hemograma y hepatograma basal en tratamientos largos.",
+        "durante": "Monitorear enzimas hepáticas y tolerancia gastrointestinal.",
+        "despues": "Realizar examen coproparasitológico para verificar la eliminación del parásito."
+      },
+      "presentaciones": "Comprimidos masticables de 200 mg y 400 mg; suspensión oral de 400 mg/10 ml.",
+      "dosis": {
+        "adultos": "400 mg dosis única en intestinales; 400 mg cada 12 horas con comidas grasas en hidatidosis/neurocisticercosis.",
+        "pediatrico": "400 mg dosis única en mayores de 2 años (200 mg en niños de 1 a 2 años).",
+        "geriatrico": "Dosis habitual controlando periódicamente la función hepática."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos pueden masticarse, tragarse o triturarse.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente en lugar seco.",
+      "concentracion": "400 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de aplasia medular o hepatotoxicidad en tratamientos sistémicos prolongados.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar con alimentos ricos en grasas para aumentar la absorción en infecciones sistémicas (hidatidosis).;",
+          "Administrar en ayunas si se busca tratar únicamente parasitosis de la luz intestinal.;",
+          "Controlar el hemograma y perfil hepático en esquemas terapéuticos extendidos.;"
+        ],
+        "educacion_paciente": [
+          "Masticar o triturar los comprimidos antes de tragar con un vaso de agua.;",
+          "Confirmar que no se encuentra embarazada antes de tomar este medicamento.;",
+          "Notificar al médico si presenta fiebre, moretones o coloración amarillenta en la piel.;"
+        ]
+      }
     }
   ]
 }
