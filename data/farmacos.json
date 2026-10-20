@@ -18751,6 +18751,73 @@
           "Avisar de inmediato si presenta diarrea frecuente (más de 4 deposiciones al día) o sangre en la orina."
         ]
       }
+    },
+    {
+      "id": "256",
+      "nombre_generico": "Vincristina",
+      "letra": "V",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de vincristina",
+        "clasificacion": "Antineoplásico, alcaloide de la vinca (inhibidor del huso mitótico)",
+        "efecto_terapeutica": "Citotóxico de fase M específica que detiene la división celular en la metafase",
+        "mecanismo_accion": "Se une de forma específica a la tubulina inhibiendo la formación de los microtúbulos del huso mitótico y provocando la cristalización del microtúbulo y la muerte celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral intravenosa exclusiva (reacción fatal por vía intratecal)",
+        "distribucion": "Rápida fijación tisular con amplio volumen de distribución; alta unión a plaquetas; no cruza la BHE significativamente",
+        "metabolismo": "Hepático extenso por el sistema CYP3A4 a metabolitos inactivos",
+        "eliminacion": "Excreción biliar y fecal principal (80%) y renal mínima (10-20%)"
+      },
+      "indicaciones": "Leucemia linfoblástica aguda (LLA), linfoma de Hodgkin y no Hodgkin, neuroblastoma, rhabdomiosarcoma, tumor de Wilms y púrpura trombocitopénica idiopática.",
+      "contraindicaciones": "Hipersensibilidad a la vincristina o alcaloides de la vinca; administración por vía intratecal (FATAL); síndrome de Charcot-Marie-Tooth; embarazo y lactancia.",
+      "precauciones": "Neurotoxicidad periférica dosis-dependiente y acumulativa (pérdida de reflejos osteotendinosos, íleo paralítico, parestesias); vesicante tisular potente en extravasación; estreñimiento severo.",
+      "advertencias": "LA ADMINISTRACIÓN INTRATECAL ES MORTAL. Administrar únicamente por vía intravenosa diluida en bolsa de infusión para evitar confusiones de vía.",
+      "embarazo_lactancia": "Categoría D en el embarazo; teratogénico y genotóxico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis al 50% si la bilirrubina directa es > 3 mg/dl o si las transaminasas están severamente elevadas."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 o itraconazol/fluconazol aumentan drásticamente la neurotoxicidad severa e íleo paralítico; la digoxina y fenitoína ven reducida su eficacia.",
+      "reacciones_adversas": "Neurotoxicidad periférica (parestesias, arreflexia, marcha atáxica, caída de pie); estreñimiento grave e íleo paralítico; alopecía; dolor mandibular; neuropatía craneal (ptosis palpebral); necrosis por extravasación.",
+      "toxicidad_sobredosis": "Neurotoxicidad periférica y autónoma grave, íleo paralítico, convulsiones y aplasia medular.",
+      "antidotos": "Hialuronidasa local e infusión de compresas templadas/tibias en extravasación; ácido folínico y piridoxina (investigacional).",
+      "monitorizacion": {
+        "clinica": "Control de reflejos osteotendinosos, ritmo intestinal (uso de laxantes preventivos), dolor neurológico, pares craneales y sitio venoso.",
+        "laboratorio": "Hemograma completo previo, bilirrubina y transaminasas."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar que la jeringa/bolsa esté etiquetada 'EXCLUSIVAMENTE VÍA INTRAVENOSA' y verificar que el paciente no tenga estreñimiento severo.",
+        "durante": "Infundir en una vía con flujo libre verificando el retorno venoso continuo.",
+        "despues": "Instaurar medidas dietéticas y medicamentosas para prevenir el estreñimiento e íleo."
+      },
+      "presentaciones": "Frasco ampolla de 1 mg/1 ml y 2 mg/2 ml de solución inyectable.",
+      "dosis": {
+        "adultos": "1.4 mg/m² IV una vez por semana (Dosis máxima única limitada a 2 mg por dosis para prevenir neurotoxicidad grave).",
+        "pediatrico": "1.5 mg/m² a 2 mg/m² IV una vez por semana (en < 10 kg: 0.05 mg/kg una vez por semana).",
+        "geriatrico": "Dosis máxima de 2 mg con estricta vigilancia de la función motora e intestinal."
+      },
+      "vias_administracion": "Intravenosa exclusiva (PROHIBIDA LA VÍA INTRATECAL).",
+      "preparacion": {
+        "dilucion": "Diluir la dosis prescrita en una bolsa pequeña de 50 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 5 a 10 minutos (o inyección lenta en y de tubuladura en flujo libre).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o bajo refrigeración (2°C - 8°C) protegida de la luz.",
+      "concentracion": "1 mg/ml (concentración de la presentación inyectable original).",
+      "alarma_riesgo": "ADMINISTRACIÓN INTRATECAL MORTAL. Vesicante potente y riesgo de íleo paralítico por acumulación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA administrar por vía intratecal (rotular en bolsa 'SOLO PARA USO INTRAVENOSO - MORTAL SI SE ADMINISTRA POR OTRA VÍA').;",
+          "Limitar la dosis máxima individual a 2 mg independientemente de la superficie corporal salvo protocolo específico.;",
+          "Infundir verificando la permeabilidad de la vía IV y aplicar hialuronidasa más calor local en caso de extravasación.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato ante falta de deposiciones, dolor abdominal fuerte o vientre hinchado (usar laxantes previstos).;",
+          "Informar si siente hormigueo, adormecimiento en dedos, dificultad para abrocharse la ropa o debilidad al caminar.;",
+          "Notificar al personal de inmediato si siente ardor o dolor en la zona donde ingresa el remedio por la vena."
+        ]
+      }
     }
   ]
 }
