@@ -11515,6 +11515,73 @@
           "Instruir sobre las medidas preventivas ante nuevos encuentros con fauna ponzoñosa.;"
         ]
       }
+    },
+    {
+      "id": "148",
+      "nombre_generico": "Suero Antiarácnido",
+      "letra": "S",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Inmunoglobulinas equinas purificadas específicas contra veneno de araña (Loxosceles laeta y/o Phoneutria nigriventer)",
+        "clasificacion": "Antídoto, suero hiperinmune heterólogo",
+        "efecto_terapeutica": "Neutraliza las toxinas dermonecróticas y neurotóxicas del veneno de arañas ponzoñosas",
+        "mecanismo_accion": "Los anticuerpos específicos se unen a los componentes activos del veneno arácnido, neutralizando su acción hemolítica, necrótica y neurotóxica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa directa con biodisponibilidad sistémica inmediata",
+        "distribucion": "Distribución en el espacio intravascular y líquidos corporales",
+        "metabolismo": "Catabolismo proteico normal de inmunoglobulinas",
+        "eliminacion": "Excreción renal y catabolismo sistémico prolongado"
+      },
+      "indicaciones": "Tratamiento del loxoscelismo (lesión cutánea necrótica y/o lisis hemolítica sistémica) o teléfono-telefonismo según gravedad.",
+      "contraindicaciones": "Hipersensibilidad conocida a las inmunoglobulinas de origen equino.",
+      "precauciones": "Riesgo de reacciones anafilácticas agudas; disponer de adrenalina y soporte respiratorio.",
+      "advertencias": "Su administración debe ser lo más precoz posible para evitar la progresión de la placa dermonecrótica en el loxoscelismo.",
+      "embarazo_lactancia": "El riesgo vital y sistémico del envenenamiento justifica su uso durante el embarazo.",
+      "ajustes": {
+        "renal": "Monitorizar función renal estrictamente ante el riesgo de insuficiencia renal por hemólisis masiva.",
+        "hepatico": "No requiere ajuste específico en insuficiencia hepática."
+      },
+      "interacciones": "Interfiere con la respuesta inmune a vacunas de virus vivos atenuados.",
+      "reacciones_adversas": "Reacción anafilactoide; urticaria; fiebre; hipotensión; enfermedad del suero tardía.",
+      "toxicidad_sobredosis": "Reacciones de hipersensibilidad sistémica severa.",
+      "antidotos": "Adrenalina (epinefrina) intramuscular y antihistamínicos.",
+      "monitorizacion": {
+        "clinica": "Control de signos vitales, evolución de la lesión cutánea, hemólisis y función renal.",
+        "laboratorio": "Hemograma completo, recuento de plaquetas, función renal y perfil de hemólisis."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la gravedad del cuadro (loxoscelismo cutáneo o cutáneo-visceral sistémico).",
+        "durante": "Monitorear la aparición de signos de reacción alérgica durante la infusión inicial.",
+        "despues": "Valorar la detención de la necrosis local y la estabilidad hematológica."
+      },
+      "presentaciones": "Viales de solución inyectable o liofilizado antiarácnido específico.",
+      "dosis": {
+        "adultos": "Dosis según la gravedad clínica del envenenamiento (generalmente 2 a 5 viales) diluidos en solución fisiológica.",
+        "pediatrico": "Cantidad de viales indicada por protocolo nacional adaptada según severidad clínica.",
+        "geriatrico": "Dosis según severidad clínica evaluando la tolerancia hemodinámica."
+      },
+      "vias_administracion": "Infusión intravenosa exclusiva diluida.",
+      "preparacion": {
+        "dilucion": "Diluir los viales indicados en 100 ml a 250 ml de solución fisiológica estéril.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica."
+      },
+      "velocidad_infusion": "Goteo inicial lento durante los primeros 15 minutos, luego incrementar según tolerancia hasta completar en 1 hora.",
+      "estabilidad_soluciones": "Conservar refrigerado entre 2°C y 8°C; utilizar inmediatamente tras su dilución.",
+      "concentracion": "Concentración máxima estandarizada por unidades neutralizantes de veneno de araña.",
+      "alarma_riesgo": "Riesgo de shock anafiláctico por administración rápida o sensibilidad a proteínas equinas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Preparar adrenalina al 1:1000 y equipo de soporte vital antes de iniciar la administración del suero.;",
+          "Vigilar estrechamente al paciente durante los primeros 15 minutos de la infusión intravenosa.;",
+          "Controlar la evolución de la lesión necrótica local y vigilar la aparición de signos de hemólisis sistemática.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente la importancia de recibir el suero específico para neutralizar el veneno de la araña.;",
+          "Advertir sobre la posibilidad de presentar reacciones alérgicas tardías en los días siguientes.;",
+          "Educar sobre medidas de prevención domiciliaria frente a la presencia de arácnidos.;"
+        ]
+      }
     }
   ]
 }
