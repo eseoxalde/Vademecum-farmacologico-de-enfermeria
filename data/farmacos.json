@@ -11046,6 +11046,73 @@
           "Brindar contención emocional al paciente y sus familiares tras el episodio crítico.;"
         ]
       }
+    },
+    {
+      "id": "141",
+      "nombre_generico": "Fomepizol",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fomepizol",
+        "clasificacion": "Antídoto, inhibidor de la alcohol deshidrogenasa",
+        "efecto_terapeutica": "Bloquea la formación de metabolitos tóxicos derivados de la ingestión de metanol y etilenglicol",
+        "mecanismo_accion": "Inhibe competitivamente la enzima alcohol deshidrogenasa hepática, impidiendo la oxidación del metanol y el etilenglicol a sus ácidos tóxicos (ácido fórmico y ácido oxálico)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravenosa directa con biodisponibilidad sistémica completa",
+        "distribucion": "Se distribuye de manera rápida en el agua corporal total",
+        "metabolismo": "Hepático mediante oxidación a metabolitos inactivos",
+        "eliminacion": "Renal y por metabolismo hepático"
+      },
+      "indicaciones": "Tratamiento confirmado o presunto de intoxicación aguda por metanol o etilenglicol.",
+      "contraindicaciones": "Hipersensibilidad al fomepizol o a otros derivados de los piratoles.",
+      "precauciones": "Administrar con precaución en pacientes con alteración de la función hepática, ya que puede generar elevación transitoria de enzimas hepáticas.",
+      "advertencias": "Debe iniciarse de forma precoz para evitar la acumulación de metabolitos altamente tóxicos causantes de acidosis y daño ocular o renal.",
+      "embarazo_lactancia": "No existen estudios adecuados en humanos, pero debido a la gravedad vital de la intoxicación, su uso está plenamente justificado.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal, pero se debe complementar con sesiones de hemodiálisis si los niveles de tóxico son muy elevados.",
+        "hepatico": "Precaución y monitorización estrecha en pacientes con insuficiencia hepática preexistente."
+      },
+      "interacciones": "Disminuye el metabolismo del etanol y viceversa cuando se emplean de manera conjunta.",
+      "reacciones_adversas": "Cefalea; náuseas; mareos; mal sabor de boca; elevación transitoria de transaminasas hepáticas; ardor en el sitio de inyección.",
+      "toxicidad_sobredosis": "Somnolencia intensa, mareos y alteración transitoria de las pruebas de función hepática.",
+      "antidotos": "Medidas de soporte general y depuración extrarrenal (hemodiálisis).",
+      "monitorizacion": {
+        "clinica": "Control neurológico estricto, estado ácido-base y función visual en intoxicación por metanol.",
+        "laboratorio": "Gasometría arterial, anion gap, osmolaridad sérica, enzimas hepáticas y niveles séricos de alcoholes tóxicos."
+      },
+      "parametros_valoracion": {
+        "antes": "Valorar antecedentes de ingesta de alcoholes industriales o anticongelantes y grado de acidosis metabólica.",
+        "durante": "Monitorear la corrección del estado ácido-base y la tolerancia a la infusión intravenosa.",
+        "despues": "Evaluar la normalización de los parámetros de laboratorio y la ausencia de secuelas visuales o renales."
+      },
+      "presentaciones": "Viales de solución inyectable de concentración estándar institucional.",
+      "dosis": {
+        "adultos": "Dosis de carga inicial de 15 mg/kg por vía intravenosa, seguida de 10 mg/kg cada 12 horas durante 4 dosis, y posteriormente ajustes según evolución o diálisis.",
+        "pediatrico": "Misma dosis ponderal calculada en mg/kg por vía intravenosa según protocolos toxicológicos pediátricos específicos.",
+        "geriatrico": "Ajustar según la función renal y el estado clínico general del paciente."
+      },
+      "vias_administracion": "Infusión intravenosa exclusiva diluida.",
+      "preparacion": {
+        "dilucion": "Diluir cada dosis calculada en al menos 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% en bolsas de infusión."
+      },
+      "velocidad_infusion": "Administrar en infusión intravenosa lenta durante un período no menor a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas tras su dilución en condiciones refrigeradas o ambientales.",
+      "concentracion": "Concentración máxima inferior a 25 mg/ml en la solución diluida para infusión.",
+      "alarma_riesgo": "Riesgo de tromboflebitis periférica si se administra sin la dilución adecuada o de forma directa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Garantizar la correcta dilución del fármaco en 100 ml de solución parenteral antes de su administración.;",
+          "Controlar el sitio de punción venosa para prevenir reacciones locales, irritación o flebitis.;",
+          "Monitorear los signos vitales y los resultados de la gasometría arterial de manera seriada.;"
+        ],
+        "educacion_paciente": [
+          "Informar al paciente sobre la necesidad de mantener la vía venosa permeable y la perfusión prolongada.;",
+          "Educar sobre la importancia de evitar el consumo de sustancias tóxicas o solventes industriales.;",
+          "Brindar orientación y apoyo psicológico interdisciplinario tras la resolución del cuadro agudo de intoxicación.;"
+        ]
+      }
     }
   ]
 }
