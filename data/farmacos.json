@@ -15535,6 +15535,73 @@
           "Saber que el medicamento teñirá la orina, piel o sudor de color anaranjado."
         ]
       }
+    },
+    {
+      "id": "208",
+      "nombre_generico": "Etambutol",
+      "letra": "E",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de etambutol",
+        "clasificacion": "Antituberculoso de primera línea",
+        "efecto_terapeutica": "Bacterostático específico sobre Mycobacterium tuberculosis que previene la aparición de resistencias",
+        "mecanismo_accion": "Inhibe la enzima arabinosil transferasa, bloqueando la síntesis de arabinogalactano, un componente estructural clave de la pared celular micobacteriana"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral (70-80%); no se altera de forma relevante por los alimentos",
+        "distribucion": "Amplia distribución en tejidos corporales, pulmón y eritrocitos; baja penetración a LCR no inflamado",
+        "metabolismo": "Hepático parcial (10-20%) a derivados de ácido dicarboxílico",
+        "eliminacion": "Excreción renal inalterada por filtración y secreción tubular (50-70%)"
+      },
+      "indicaciones": "Tratamiento de la tuberculosis pulmonar y extrapulmonar en combinación con otros fármacos antituberculosos.",
+      "contraindicaciones": "Neuritis óptica preexistente; hipersensibilidad al etambutol; niños pequeños o pacientes incapaces de apreciar cambios en la visión.",
+      "precauciones": "Insuficiencia renal; gota o hiperuricemia; evaluar agudeza visual y visión de colores antes y durante el tratamiento.",
+      "advertencias": "Riesgo de neuritis óptica retrobulbar dependiente de la dosis y la duración (disminución de agudeza visual y ceguera para el color rojo-verde).",
+      "embarazo_lactancia": "Uso seguro y autorizado durante el embarazo en la pauta antituberculosa. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "Espaciar el intervalo de dosis a 3 veces por semana (20 mg/kg a 25 mg/kg) si el clearance de creatinina es menor a 30 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Los antiácidos con hidróxido de aluminio disminuyen la absorción gastrointestinal de etambutol.",
+      "reacciones_adversas": "Neuritis óptica (disminución de agudeza visual, discromatopsia rojo-verde); hiperuricemia; gota; artralgias; erupción cutánea; mareos.",
+      "toxicidad_sobredosis": "Neuritis óptica severa y neuropatía periférica.",
+      "antidotos": "Tratamiento de soporte y descontinuación inmediata del fármaco.",
+      "monitorizacion": {
+        "clinica": "Evaluación mensual de la agudeza visual y discriminación del color rojo-verde, articulaciones y función renal.",
+        "laboratorio": "Uricemia, creatinina sérica y examen oftalmológico especializado mensual."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar evaluación oftalmológica basal (agudeza visual y visión cromática) y medir creatinina.",
+        "durante": "Interrogar al paciente mensualmente sobre cambios o visión borrosa al leer.",
+        "despues": "Valorar la supresión de Mycobacterium tuberculosis."
+      },
+      "presentaciones": "Comprimidos de 400 mg; coformulaciones fijas antituberculosas.",
+      "dosis": {
+        "adultos": "15 mg/kg a 25 mg/kg/día por vía oral en dosis única diaria (habitual 800 mg a 1200 mg/día).",
+        "pediatrico": "15 mg/kg a 25 mg/kg/día por vía oral en dosis única diaria (usar con precaución por dificultad para evaluar visión).",
+        "geriatrico": "Ajustar la dosis posológica de acuerdo a la función renal calculada."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; tomar los comprimidos enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "400 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de ceguera irreversible si no se detecta y suspende a tiempo ante la neuritis óptica.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Preguntar activamente al paciente si observa visión borrosa o dificultad para distinguir el color verde del rojo.;",
+          "Ajustar los intervalos de administración si el paciente padece insuficiencia renal.;",
+          "Asegurar la realización del control oftalmológico mensual durante el tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis indicada una vez al día con agua, alejada de antiácidos con aluminio.;",
+          "Avisar inmediatamente al médico si nota que ve borroso, pierde agudeza visual o confunde los colores.;",
+          "Asistir puntualmente a los controles de la vista programados cada mes."
+        ]
+      }
     }
   ]
 }
