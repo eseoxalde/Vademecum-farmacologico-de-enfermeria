@@ -14463,6 +14463,73 @@
           "Informar si nota cambios en el volumen o color de la orina."
         ]
       }
+    },
+    {
+      "id": "192",
+      "nombre_generico": "Daptomicina",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Daptomicina",
+        "clasificacion": "Antibiótico, lipopéptido cíclico",
+        "efecto_terapeutica": "Bactericida rápido sobre bacterias grampositivas multirresistentes (SAMR, ERV, S. epidermidis)",
+        "mecanismo_accion": "Se une a las membranas bacterianas en presencia de calcio provocando la despolarización rápida del potencial de membrana, inhibiendo la síntesis de ADN, ARN y proteínas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas (92%); baja penetración en parénquima pulmonar inactivada por el surfactante",
+        "metabolismo": "No sufre metabolismo hepático significativo por el sistema CYP450",
+        "eliminacion": "Excreción renal principalmente inalterada (78%)"
+      },
+      "indicaciones": "Infecciones complicadas de piel y tejidos blandos, bacteriemia por Staphylococcus aureus y endocarditis infecciosa derecha.",
+      "contraindicaciones": "Hipersensibilidad a la daptomicina.",
+      "precauciones": "Riesgo de miopatía y rabdomiólisis; ineficaz en el tratamiento de la neumonía (inactivada por el surfactante pulmonar).",
+      "advertencias": "Riesgo de neumonitis eosinofílica; controlar niveles de creatina fosfocinasa (CPK) semanalmente.",
+      "embarazo_lactancia": "Categoría B en el embarazo; utilizar solo si es estrictamente necesario. Evaluar riesgo en la lactancia.",
+      "ajustes": {
+        "renal": "Aumentar el intervalo de dosificación a cada 48 horas si el clearance de creatinina es menor a 30 ml/min o en hemodiálisis.",
+        "hepatico": "No requiere ajuste de dosis en insuficiencia hepática leve a moderada."
+      },
+      "interacciones": "Aumento del riesgo de miopatía al coadministrarse con estatinas (atorvastatina, simvastatina); suspender estatinas temporalmente.",
+      "reacciones_adversas": "Elevación de CPK; dolores musculares (mialgias); debilidad; cefalea; diarrea; náuseas; erupción cutánea; neumonitis eosinofílica.",
+      "toxicidad_sobredosis": "Miopatía severa, rabdomiólisis e insuficiencia renal aguda por mioglobinuria.",
+      "antidotos": "Tratamiento de soporte e hidratación parenteral; no es eliminada eficientemente por hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control de dolor o debilidad muscular, síntomas respiratorios (tos, fiebre) y sitio de venoclisis.",
+        "laboratorio": "Niveles de CPK sérica semanalmente (o más frecuente si hay insuficiencia renal), función renal y eosinófilos."
+      },
+      "parametros_valoracion": {
+        "antes": "Dosar CPK basal, evaluar función renal y suspender el tratamiento con estatinas.",
+        "durante": "Monitorear dolores musculares y aumento de CPK por encima de 5 veces el límite superior normal.",
+        "despues": "Valorar la resolución de la bacteriemia o infección tisular."
+      },
+      "presentaciones": "Frasco ampolla de 350 mg y 500 mg de polvo liofilizado.",
+      "dosis": {
+        "adultos": "Piel/tejidos blandos: 4 mg/kg cada 24 horas IV; Bacteriemia/Endocarditis: 6 mg/kg a 10 mg/kg cada 24 horas IV.",
+        "pediatrico": "5 mg/kg a 10 mg/kg cada 24 horas IV según la edad y peso corporal.",
+        "geriatrico": "Dosis habitual ajustada según la función renal calculada."
+      },
+      "vias_administracion": "Intravenosa (infusión o inyección lenta).",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con solución fisiológica y diluir en 50 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica y Ringer Lactato (incompatible con soluciones glucosadas)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en 30 minutos o inyección IV directa en 2 minutos.",
+      "estabilidad_soluciones": "Estable durante 12 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C).",
+      "concentracion": "20 mg/ml (concentración máxima en inyección directa).",
+      "alarma_riesgo": "Riesgo de rabdomiólisis grave e ineficacia absoluta en infecciones pulmonares.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir utilizando exclusivamente solución fisiológica (nunca diluir en dextrosa).;",
+          "Verificar que las estatinas hayan sido suspendidas durante el tratamiento.;",
+          "Controlar la CPK semanalmente y suspender ante dolor muscular con CPK elevada.;"
+        ],
+        "educacion_paciente": [
+          "Explicar la función del antibiótico hospitalario para bacterias resistentes.;",
+          "Informar de inmediato si presenta dolores, calambres o debilidad en los músculos.;",
+          "Avisar al personal si presenta fiebre, tos o dificultad para respirar."
+        ]
+      }
     }
   ]
 }
