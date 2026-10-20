@@ -13324,6 +13324,73 @@
           "Notificar al médico si presenta fiebre, moretones o coloración amarillenta en la piel.;"
         ]
       }
+    },
+    {
+      "id": "175",
+      "nombre_generico": "Mebendazol",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Mebendazol",
+        "clasificacion": "Antiparasitario, antihelmíntico de amplio espectro (benzimidazol)",
+        "efecto_terapeutica": "Provoca la depleción de glucógeno y muerte del parásito intraluminal",
+        "mecanismo_accion": "Inhibe selectivamente la polimerización de tubulina en los microtúbulos de las células intestinales del parásito, bloqueando la captación de glucosa y nutrientes"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Pobre absorción oral (aproximadamente 5 al 10%); se eleva al administrarse con alimentos grasos",
+        "distribucion": "Unión proteica del 90 a 95%; escasa penetración en tejidos sistémicos",
+        "metabolismo": "Hepático de primer paso a metabolitos inactivos",
+        "eliminacion": "Excreción fecal inalterada (> 90%) y en menor medida por orina"
+      },
+      "indicaciones": "Tratamiento de enterobiasis (oxiurometría), ascariasis, trichuriasis, anquilostomiasis e infecciones helmínticas mixtas.",
+      "contraindicaciones": "Hipersensibilidad al mebendazol o benzimidazoles; embarazo.",
+      "precauciones": "No recomendado en niños menores de 1 año por riesgo de convulsiones.",
+      "advertencias": "Se desaconseja el uso concomitante con metronidazol por el riesgo de síndrome de Stevens-Johnson.",
+      "embarazo_lactancia": "Contraindicado en el embarazo (Categoría C). Precaución y bajo riesgo en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática grave."
+      },
+      "interacciones": "La cimetidina aumenta las concentraciones plasmáticas de mebendazol; la carbamazepina y fenitoína las disminuyen.",
+      "reacciones_adversas": "Dolor abdominal transitorio; diarrea; náuseas; exantema cutáneo; elevación leve de enzimas hepáticas.",
+      "toxicidad_sobredosis": "Gastroenteritis, náuseas, vómitos y neutropenia en dosis muy elevadas.",
+      "antidotos": "Tratamiento de soporte e inducción de vómito/lavado gástrico.",
+      "monitorizacion": {
+        "clinica": "Evaluación de molestias gastrointestinales y control parasitológico.",
+        "laboratorio": "No requiere monitorización analítica de rutina en tratamientos cortos."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar embarazo y constatar la presencia del parásito mediante síntomas o estudios.",
+        "durante": "Monitorear la expulsión de parásitos en las heces y la tolerancia abdominal.",
+        "despues": "Repetir la dosis a las 2 o 3 semanas en enterobiasis para evitar reinfecciones."
+      },
+      "presentaciones": "Comprimidos de 100 mg y 500 mg; suspensión oral de 100 mg/5 ml.",
+      "dosis": {
+        "adultos": "Enterobiasis: 100 mg dosis única (repetir a las 2 semanas); Ascariasis/Trichuriasis: 100 mg c/12h por 3 días o 500 mg dosis única.",
+        "pediatrico": "Misma dosis que en adultos en niños mayores de 1 año.",
+        "geriatrico": "Dosis habitual sin modificaciones."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; los comprimidos se pueden masticar o mezclar con alimentos.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "100 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de síndrome de Stevens-Johnson al asociar con metronidazol.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que no se administre conjuntamente con metronidazol.;",
+          "Asegurar la repetición del tratamiento a las dos semanas en caso de oxiuros.;",
+          "Facilitar la ingesta permitiendo masticar o triturar el comprimido.;"
+        ],
+        "educacion_paciente": [
+          "Tratar a todo el grupo familiar en caso de infestación por oxiuros (Enterobius).;",
+          "Lavar con agua caliente la ropa de cama y pijamas para erradicar los huevos.;",
+          "Mantener una estricta higiene de manos y uñas para prevenir la autoinfección.;"
+        ]
+      }
     }
   ]
 }
