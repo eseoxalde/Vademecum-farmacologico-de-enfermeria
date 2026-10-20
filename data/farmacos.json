@@ -14396,6 +14396,73 @@
           "Informar si nota una disminución significativa en la cantidad de orina."
         ]
       }
+    },
+    {
+      "id": "191",
+      "nombre_generico": "Tobramicina",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de tobramicina",
+        "clasificacion": "Antibiótico, aminoglucósido",
+        "efecto_terapeutica": "Bactericida con alta actividad específica frente a Pseudomonas aeruginosa",
+        "mecanismo_accion": "Inhibe la síntesis de proteínas en la bacteria al unirse a la subunidad 30S del ribosoma, alterando la fidelidad de la transcripción genética"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Parenteral exclusiva con absorción completa IV/IM; baja absorción sistémica por vía inhalatoria",
+        "distribucion": "Se distribuye en el líquido extracelular y secreciones bronquiales; mala penetración en SNC",
+        "metabolismo": "No se metaboliza",
+        "eliminacion": "Excreción renal inalterada por filtración glomerular (> 90%)"
+      },
+      "indicaciones": "Infecciones graves por Pseudomonas aeruginosa, sepsis, infecciones respiratorias en fibrosis quística (vía inhalatoria), pielonefritis e infecciones intraabdominales.",
+      "contraindicaciones": "Hipersensibilidad a la tobramicina o a los aminoglucósidos.",
+      "precauciones": "Insuficiencia renal; trastornos auditivos o vestibulares; miastenia gravis; parkinsonismo.",
+      "advertencias": "Riesgo de ototoxicidad coclear/vestibular y nefrotoxicidad; riesgo de broncoespasmo con la forma inhalatoria.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de ototoxicidad fetal. Usar con precaución en lactancia.",
+      "ajustes": {
+        "renal": "Disminuir la dosis o prolongar los intervalos posológicos según clearance de creatinina y niveles séricos.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Aumento del riesgo nefro y ototóxico con vancomicina, furosemida, colistina y cisplatino; potencia miorrelajantes.",
+      "reacciones_adversas": "Ototoxicidad; nefrotoxicidad; broncoespasmo (inhalada); mareos; exantema; elevación de transaminasas.",
+      "toxicidad_sobredosis": "Bloqueo neuromuscular, insuficiencia renal e hipoacusia irreversible.",
+      "antidotos": "Gluconato de calcio IV y hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control de la función respiratoria (en inhalada), audición, diuresis y equilibrio.",
+        "laboratorio": "Urea, creatinina, clearance y dosaje de niveles plasmáticos de tobramicina."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal, audiometría y mecánica respiratoria basal.",
+        "durante": "Monitorear broncoespasmo tras la inhalación o alteración de la orina en IV.",
+        "despues": "Valorar el control de la infección pseudomónica."
+      },
+      "presentaciones": "Ampollas inyectables de 80 mg/2 ml; solución para nebulización de 300 mg/5 ml.",
+      "dosis": {
+        "adultos": "Parenteral: 3 mg/kg a 5 mg/kg/día IV divididos cada 8 horas o dosis única diaria; Inhalatoria: 300 mg c/12h en ciclos de 28 días.",
+        "pediatrico": "Parenteral: 6 mg/kg a 7,5 mg/kg/día IV divididos cada 8 horas.",
+        "geriatrico": "Ajustar la dosis parenteral según el clearance de creatinina."
+      },
+      "vias_administracion": "Intravenosa, intramuscular e inhalatoria (nebulización).",
+      "preparacion": {
+        "dilucion": "Diluir la ampolla inyectable en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "1 mg/ml (concentración usual en solución para infusión).",
+      "alarma_riesgo": "Riesgo de daño auditivo irreversible y broncoespasmo agudo en administración inhalatoria.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV en 30 a 60 minutos de manera programada.;",
+          "Administrar broncodilatadores antes de la nebulización si está indicado en fibrosis quística.;",
+          "Monitorear periódicamente los niveles de creatinina y niveles séricos de la droga.;"
+        ],
+        "educacion_paciente": [
+          "Instruir sobre la técnica correcta de nebulización utilizando el equipo adecuado.;",
+          "Avisar al médico de inmediato si siente silbidos en el pecho, falta de aire o zumbidos en los oídos.;",
+          "Informar si nota cambios en el volumen o color de la orina."
+        ]
+      }
     }
   ]
 }
