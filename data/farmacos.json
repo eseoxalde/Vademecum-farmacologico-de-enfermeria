@@ -15602,6 +15602,73 @@
           "Asistir puntualmente a los controles de la vista programados cada mes."
         ]
       }
+    },
+    {
+      "id": "209",
+      "nombre_generico": "Pirazinamida",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Pirazinamida (PZA)",
+        "clasificacion": "Antituberculoso de primera línea, análogo sintético de la nicotinamida",
+        "efecto_terapeutica": "Bactericida esterilizante sobre Mycobacterium tuberculosis intracelular en medio ácido (fagolisosomas)",
+        "mecanismo_accion": "Prodroga convertida por la pirazinamidasa micobacteriana en ácido pirazinoico, el cual altera el pH intracelular, despolariza la membrana e inhibe la síntesis de ácidos grasos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción oral; no se afecta por los alimentos",
+        "distribucion": "Excelente y amplia distribución tisular, penetrando en pulmón, hígado, tejido caseoso y LCR con o sin inflamación",
+        "metabolismo": "Hepático extenso por desamidación a ácido pirazinoico y posterior hidroxilación",
+        "eliminacion": "Excreción renal de metabolitos y fármaco inalterado (70%)"
+      },
+      "indicaciones": "Tratamiento de la fase inicial intensiva de la tuberculosis pulmonar y extrapulmonar (combinado con Isoniazida, Rifampicina y Etambutol).",
+      "contraindicaciones": "Hipersensibilidad a la pirazinamida; daño hepático severo preexistente; gota aguda.",
+      "precauciones": "Hiperuricemia secundaria; insuficiencia renal; consumo de alcohol; pacientes diabéticos.",
+      "advertencias": "Es el antituberculoso más hepatotóxico de la pauta de primera línea. Inhibe la excreción de ácido úrico provocando artralgias.",
+      "embarazo_lactancia": "Uso autorizado y seguro en la pauta de tratamiento antituberculoso según normativas internacionales y nacionales. Compatible con la lactancia.",
+      "ajustes": {
+        "renal": "Espaciar el intervalo a 3 veces por semana (25 mg/kg a 35 mg/kg) si el clearance de creatinina es menor a 30 ml/min.",
+        "hepatico": "Contraindicado en enfermedad hepática activa; suspender si hay ictericia o elevación marcada de transaminasas."
+      },
+      "interacciones": "Incompatible con el consumo de alcohol; altera los niveles de alopurinol o probenecid exigiendo ajustes en la gota.",
+      "reacciones_adversas": "Hiperuricemia; artralgias (dolores articulares); hepatotoxicidad; náuseas; vómitos; erupción cutánea; fotosensibilidad.",
+      "toxicidad_sobredosis": "Fallo hepático severo, hiperuricemia aguda y síntomas gastrointestinales graves.",
+      "antidotos": "Tratamiento sintomático de soporte, protección hepática e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control de función hepática, dolor articular en pequeñas y grandes articulaciones y tinte ictérico.",
+        "laboratorio": "Transaminasas, bilirrubina total, ácido úrico en sangre y hemograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Solicitar pruebas de función hepática y niveles de ácido úrico basales.",
+        "durante": "Monitorear dolor articular, náuseas o coloración amarillenta en los ojos.",
+        "despues": "Valorar la fase de esterilización del esputo a los 2 meses de tratamiento."
+      },
+      "presentaciones": "Comprimidos de 500 mg; coformulaciones fijas combinadas (Rifater).",
+      "dosis": {
+        "adultos": "20 mg/kg a 30 mg/kg/día por vía oral durante la fase inicial de 2 meses (habitual 1500 mg a 2000 mg/día).",
+        "pediatrico": "30 mg/kg a 40 mg/kg/día por vía oral en dosis única diaria (máximo 2000 mg/día).",
+        "geriatrico": "Ajustar posología según la función renal y monitorear estrictamente el perfil hepático."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; tomar los comprimidos con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "500 mg por comprimido.",
+      "alarma_riesgo": "Elevada hepatotoxicidad y desarrollo de crisis gotosas agudas por retención de ácido úrico.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Monitorear periódicamente las pruebas de función hepática y suspender ante ictericia.;",
+          "Controlar los niveles de ácido úrico y evaluar si el paciente refiere dolores en las articulaciones.;",
+          "Verificar que se cumplan los 2 meses de la fase intensiva inicial del esquema antituberculoso.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos todos los días a la misma hora con un vaso lleno de agua.;",
+          "Informar de inmediato si siente dolores fuertes en las articulaciones o hinchazón en el dedo gordo del pie.;",
+          "Consultar al médico urgente si presenta náuseas, pérdida de apetito o tinte amarillo en piel u ojos."
+        ]
+      }
     }
   ]
 }
