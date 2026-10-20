@@ -12305,7 +12305,7 @@
       },
       "velocidad_infusion": "Administrar por infusión IV en un período de 60 minutos.",
       "estabilidad_soluciones": "Usar dentro de las 24 horas a temperatura ambiente.",
-      "concentracion": "2 mg/ml en la solución diluida para infusión.",
+      "concentracion": "2 mg/ml (concentración máxima recomendada en solución para infusión intravenosa).",
       "alarma_riesgo": "Riesgo grave de interacción farmacológica tóxica y arritmias ventriculares.",
       "cuidados_enfermeria": {
         "cuidados": [
