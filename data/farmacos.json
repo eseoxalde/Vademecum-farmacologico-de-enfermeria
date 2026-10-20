@@ -17813,6 +17813,73 @@
           "Avisar urgentemente ante cualquier episodio de fiebre, escalofríos, mareos o sangrados."
         ]
       }
+    },
+    {
+      "id": "242",
+      "nombre_generico": "Valrubicina",
+      "letra": "V",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Valrubicina",
+        "clasificacion": "Antineoplásico, antibiótico antracíclico semisintético para uso intravesical",
+        "efecto_terapeutica": "Citotóxico local sobre el urotelio vesical con absorción sistémica mínima",
+        "mecanismo_accion": "Inhibe la incorporación de nucleósidos en el ADN y ARN, interfiere con la topoisomerasa II y altera la configuración cromatínica en las células del cáncer de vejiga"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración intravesical exclusiva; la absorción sistémica es prácticamente nula en mucosas vesicales intactas",
+        "distribucion": "Penetra en la pared de la vejiga y capa mucosa vesical sin distribución sistémica relevante",
+        "metabolismo": "Metabolización sistémica insignificante de la fracción mínima eventualmente absorbida",
+        "eliminacion": "Excreción vesical casi total al evacuar la solución retenida mediante la micción"
+      },
+      "indicaciones": "Tratamiento del carcinoma in situ (CIS) de vejiga urinaria no invasivo refractario a la terapia con BCG en pacientes que no son candidatos a cistectomía.",
+      "contraindicaciones": "Hipersensibilidad a la valrubicina u otras antraciclinas; perforación vesical o compromiso de la integridad de la mucosa; infección activa del tracto urinario; incontinencia urinaria o vejiga de pequeña capacidad.",
+      "precauciones": "Riesgo de irritación vesical severa (disuria, polaquiuria, hematuria); peligro de absorción sistémica grave si existe perforación de la pared vesical.",
+      "advertencias": "No administrar por vía intravenosa ni intramuscular; uso estrictamente intravesical por sonda.",
+      "embarazo_lactancia": "Categoría C en el embarazo; usar solo si es claramente necesario. Se desaconseja la lactancia durante el tratamiento.",
+      "ajustes": {
+        "renal": "No requiere ajustes de dosis por falta de absorción sistémica significativa.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "No se han reportado interacciones sistémicas relevantes debido a su escasa disponibilidad en sangre.",
+      "reacciones_adversas": "Disuria; polaquiuria; urgencia miccional; hematuria; espasmo vesical; incontinencia; dolor pélvico; tinción roja de la orina.",
+      "toxicidad_sobredosis": "Cistitis hemorrágica sintomática e irritación vesical severa.",
+      "antidotos": "Vaciamiento inmediato de la vejiga por sonda e irrigación con solución fisiológica.",
+      "monitorizacion": {
+        "clinica": "Control de los síntomas urinarios irritativos (disuria, polaquiuria), sangrado en la orina e integridad vesical.",
+        "laboratorio": "Examen de orina completa y urocultivo previo a cada instilación."
+      },
+      "parametros_valoracion": {
+        "antes": "Sondear al paciente para vaciar completamente la vejiga e instruir la restricción de líquidos previa.",
+        "durante": "Garantizar la retención de la instilación en la vejiga durante exactamente 2 horas.",
+        "despues": "Asegurar la evacuación de la solución tras las 2 horas de permanencia."
+      },
+      "presentaciones": "Frasco ampolla de 800 mg/20 ml de solución concentrada para instilación.",
+      "dosis": {
+        "adultos": "800 mg instilados por sonda intravesical una vez por semana durante 6 semanas consecutivas.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual observando la continencia urinaria del paciente."
+      },
+      "vias_administracion": "Intravesical exclusiva (mediante sonda vesical).",
+      "preparacion": {
+        "dilucion": "Diluir los 800 mg (20 ml) en 55 ml de solución fisiológica hasta un volumen final de 75 ml.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica para la dilución de la instilación."
+      },
+      "velocidad_infusion": "Instilación lenta por gravedad a través del catéter vesical.",
+      "estabilidad_soluciones": "Utilizar la dilución inmediatamente tras su preparación.",
+      "concentracion": "40 mg/ml (concentración del concentrado inyectable original).",
+      "alarma_riesgo": "Riesgo de absorción sistémica tóxica si se instila en vejiga perforada o tras traumatismo por sondaje.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "No administrar por vía intravenosa (vía de administración exclusivamente intravesical).;",
+          "Asegurar que el paciente retenga la instilación en la vejiga durante 2 horas rotando de posición.;",
+          "Confirmar que no existan signos de infección urinaria ni traumatismo vesical antes de instilar.;"
+        ],
+        "educacion_paciente": [
+          "Evitar beber líquidos durante las 4 horas previas a la instilación para facilitar la retención del remedio.;",
+          "Retener el medicamento dentro de la vejiga durante 2 horas e ir cambiando de postura cada 15 minutos.;",
+          "Avisar si presenta ardor intenso al orinar, fiebre, incapacidad para orinar u orina de color rojo oscuro."
+        ]
+      }
     }
   ]
 }
