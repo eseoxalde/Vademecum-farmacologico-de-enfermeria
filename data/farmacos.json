@@ -17076,6 +17076,73 @@
           "Avisar si nota sangrados espontáneos o puntos rojos en la piel."
         ]
       }
+    },
+    {
+      "id": "231",
+      "nombre_generico": "Azacitidina",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Azacitidina",
+        "clasificacion": "Antineoplásico, agente hipometilante del ADN, análogo de la pirimidina",
+        "efecto_terapeutica": "Antineoplásico e inductor de la diferenciación y apoptosis celular en células hematopoyéticas anormales",
+        "mecanismo_accion": "Se incorpora al ARN y al ADN inhibiendo de forma irreversible la ADN metiltransferasa, lo que provoca la hipometilación del ADN y la reexpresión de genes supresores tumorales silenciados"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía subcutánea o intravenosa",
+        "distribucion": "Amplio volumen de distribución tisular; unión baja a proteínas plasmáticas",
+        "metabolismo": "Desaminación espontánea rápida y enzimática por citidindeaminasa a metabolitos inactivos",
+        "eliminacion": "Excreción renal casi exclusiva (85% en forma de metabolitos)"
+      },
+      "indicaciones": "Tratamiento de síndromes mielodisplásicos (SMD) de riesgo intermedio-2 y alto, leucemia mieloide aguda (LMA) y leucemia mielomonocítica crónica.",
+      "contraindicaciones": "Hipersensibilidad a la azacitidina; tumores hepáticos malignos avanzados; embarazo y lactancia.",
+      "precauciones": "Riesgo elevado de mielosupresión (neutropenia, trombocitopenia); insuficiencia renal o hepática severa; reacciones en el sitio de inyección subcutánea.",
+      "advertencias": "Se requiere una premedicación antiemética y un monitoreo estricto del hemograma por la neutropenia profunda.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis o retrasar ciclos si hay elevación rápida de urea o creatinina sérica.",
+        "hepatico": "Contraindicado en tumores hepáticos metastásicos avanzados o disfunción severa."
+      },
+      "interacciones": "Toxicidad hematológica aditiva con otros fármacos mielosupresores.",
+      "reacciones_adversas": "Mielosupresión (trombocitopenia, neutropenia, anemia); náuseas; vómitos; reacciones en el sitio de inyección (eritema, dolor); diarrea; fatiga; estreñimiento.",
+      "toxicidad_sobredosis": "Mielosupresión severa, náuseas, vómitos y diarrea profusa.",
+      "antidotos": "Tratamiento de soporte, factores de crecimiento hematopoyético y transfusiones sanguíneas.",
+      "monitorizacion": {
+        "clinica": "Control de signos de infección, fiebre, sangrados, tolerancia digestiva e integridad del sitio de inyección subcutánea.",
+        "laboratorio": "Hemograma completo periódico (semanal o previo a cada ciclo), función renal y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar el recuento hematológico basal y función renal antes de iniciar el ciclo de 7 días.",
+        "durante": "Rotar rigurosamente los sitios de inyección subcutánea para minimizar la inflamación local.",
+        "despues": "Valorar la respuesta hematológica tras completar varios ciclos de tratamiento."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg de polvo liofilizado para suspensión.",
+      "dosis": {
+        "adultos": "75 mg/m² al día por vía subcutánea o intravenosa durante 7 días consecutivos cada 28 días (mínimo 6 ciclos).",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual adaptada según la función renal y la tolerancia hematológica."
+      },
+      "vias_administracion": "Subcutánea e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con agua estéril para formar una suspensión turbia homogénea.",
+        "compatibilidad_iv": "Compatible con agua estéril para inyección en suspensión subcutánea."
+      },
+      "velocidad_infusion": "Administración subcutánea profunda o infusión IV lenta según indicación médica.",
+      "estabilidad_soluciones": "La suspensión reconstituida puede conservarse hasta 45 minutos a temperatura ambiente o 8 horas refrigerada (2°C - 8°C).",
+      "concentracion": "25 mg/ml (concentración de la suspensión reconstituida).",
+      "alarma_riesgo": "Riesgo de neutropenia febril grave e infecciones sistémicas oportunistas por inmunosupresión.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Rotar los sitios de aplicación subcutánea (muslo, abdomen, brazo) para prevenir necrosis y dolor local.;",
+          "Preparar la suspensión de forma rápida y administrarla antes de los 45 minutos de su reconstitución.;",
+          "Monitorear los recuentos de leucocitos y plaquetas antes de iniciar cada ciclo de 7 días.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que el tratamiento se administra durante 7 días seguidos cada mes en ciclos repetidos.;",
+          "Avisar de inmediato ante fiebre, escalofríos, mareos o hematomas espontáneos.;",
+          "Informar si nota enrojecimiento, bultos o dolor intenso en el lugar donde se le aplicó la inyección."
+        ]
+      }
     }
   ]
 }
