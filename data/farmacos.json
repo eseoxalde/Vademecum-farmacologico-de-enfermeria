@@ -13525,6 +13525,73 @@
           "Tratar a la pareja sexual en infecciones por Trichomonas vaginalis para evitar reinfección.;"
         ]
       }
+    },
+    {
+      "id": "178",
+      "nombre_generico": "Tinidazol",
+      "letra": "T",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Tinidazol",
+        "clasificacion": "Antiparasitario, antiprotozoario (nitroimidazol)",
+        "efecto_terapeutica": "Bactericida y amebicida con mayor vida media que el metronidazol",
+        "mecanismo_accion": "Ingresa por difusión a la célula, donde es reducido dañando la estructura del ADN e inhibiendo su síntesis"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción oral; biodisponibilidad del 100%",
+        "distribucion": "Amplia distribución en todos los tejidos corporales; cruza la barrera hematoencefálica y la placenta",
+        "metabolismo": "Hepático mediante el sistema CYP3A4 a metabolitos activos e inactivos",
+        "eliminacion": "Renal (35-40% inalterado) y biliar/fecal"
+      },
+      "indicaciones": "Trichomoniasis, giardiasis, amebiasis (intestinal y absceso hepático) y vaginosis bacteriana.",
+      "contraindicaciones": "Hipersensibilidad a nitroimidazoles; primer trimestre del embarazo; trastornos neurológicos orgánicos.",
+      "precauciones": "Prohibición de la ingesta de alcohol; riesgo de discrasias sanguíneas y neurotoxicidad.",
+      "advertencias": "Efecto disulfiram potente con el alcohol; no usar durante la lactancia materna.",
+      "embarazo_lactancia": "Contraindicado en el primer trimestre (Categoría C). Suspender la lactancia hasta 3 días después de la última dosis.",
+      "ajustes": {
+        "renal": "No suele requerir ajuste de dosis; administrar una dosis suplementaria tras la hemodiálisis.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática severa."
+      },
+      "interacciones": "Reacción tipo disulfiram con alcohol; incrementa efectos de anticoagulantes orales; inductores enzimáticos reducen su concentración.",
+      "reacciones_adversas": "Sabor metálico; náuseas; anorexia; mareos; cefalea; orina oscura; calambres abdominales; urticaria.",
+      "toxicidad_sobredosis": "Neuropatía periférica, convulsiones y síntomas gastrointestinales severos.",
+      "antidotos": "Tratamiento sintomático de soporte e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control de tolerancia digestiva, signos neurológicos y control parasitológico.",
+        "laboratorio": "Hemograma completo si se requiere tratamiento repetido."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar embarazo e instruir sobre la abstención absoluta de bebidas alcohólicas.",
+        "durante": "Monitorear vómitos o malestar estomacal.",
+        "despues": "Confirmar la curación clínica y microbiológica."
+      },
+      "presentaciones": "Comprimidos de 500 mg y 1000 mg.",
+      "dosis": {
+        "adultos": "Trichomoniasis/Giardiasis: 2 g en dosis única; Amebiasis: 2 g una vez al día por 3 a 5 días con alimentos.",
+        "pediatrico": "50 mg/kg de peso en dosis única (hasta 2 g máximo) en mayores de 3 años.",
+        "geriatrico": "Dosis habitual con precaución en hepatopatías."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; tomar los comprimidos durante o después de las comidas.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "1000 mg por comprimido.",
+      "alarma_riesgo": "Reacción tipo disulfiram grave al interactuar con bebidas alcohólicas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar los comprimidos durante o después de las comidas para mitigar las náuseas.;",
+          "Asegurar la abstención de alcohol durante el tratamiento y hasta 72 horas posteriores.;",
+          "Vigilar posibles reacciones de hipersensibilidad o alteración neurológica.;"
+        ],
+        "educacion_paciente": [
+          "No consumir absolutamente nada de alcohol hasta 3 días después de haber finalizado el tratamiento.;",
+          "Tomar la dosis única junto con la comida principal para tolerar mejor el remedio.;",
+          "Tratar simultáneamente a la pareja en casos de infección de transmisión sexual.;"
+        ]
+      }
     }
   ]
 }
