@@ -12788,6 +12788,73 @@
           "Informar de inmediato si presenta dolores óseos, debilidad muscular o cambios en la cantidad de orina.;"
         ]
       }
+    },
+    {
+      "id": "167",
+      "nombre_generico": "Abacavir",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de abacavir",
+        "clasificacion": "Antiviral, inhibidor de la transcriptasa inversa análogo de los nucleósidos (ITIN)",
+        "efecto_terapeutica": "Inhibe de forma selectiva la replicación del virus de la inmunodeficiencia humana (VIH-1 y VIH-2)",
+        "mecanismo_accion": "Se convierte intracelularmente al metabolito activo carbovir trifosfato, que compite con el sustrato natural dGTP e inhibe la transcriptasa inversa del VIH causando la terminación de la cadena de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y buena absorción oral con una biodisponibilidad del 83%; no se afecta por la ingesta de alimentos",
+        "distribucion": "Buena penetración en el líquido cefalorraquídeo y espacio extracelular",
+        "metabolismo": "Hepático extenso por alcohol deshidrogenasa y glucuronidación (no involucra citocromo P450)",
+        "eliminacion": "Excreción renal (83% en forma de metabolitos) y biliar/fecal"
+      },
+      "indicaciones": "Tratamiento de la infección por VIH en adultos y niños en combinación con otros fármacos antiretrovirales.",
+      "contraindicaciones": "Portadores del alelo HLA-B*5701; presencia de reacción de hipersensibilidad previa a abacavir; insuficiencia hepática moderada o severa.",
+      "precauciones": "Riesgo de acidosis láctica y hepatomegalia grave con esteatosis; evaluar riesgo cardiovascular preexistente.",
+      "advertencias": "Reacción de hipersensibilidad potencialmente mortal. Es obligatorio realizar la prueba genética de HLA-B*5701 antes de iniciar el tratamiento.",
+      "embarazo_lactancia": "Uso aceptable durante el embarazo si está indicado. La lactancia no está recomendada en mujeres con VIH.",
+      "ajustes": {
+        "renal": "No requiere ajustes de dosis en insuficiencia renal.",
+        "hepatico": "Reducir la dosis a 200 mg cada 12 horas en insuficiencia hepática leve; contraindicado en insuficiencia moderada o severa."
+      },
+      "interacciones": "El consumo concomitante de etanol incrementa el área bajo la curva de abacavir en un 41%; la rifampicina puede reducir sus niveles.",
+      "reacciones_adversas": "Fiebre; erupción cutánea; náuseas; vómitos; diarrea; astenia; cefalea; mialgias; tos; disnea.",
+      "toxicidad_sobredosis": "Acidosis láctica, disfunción hepática y exacerbación de síntomas gastrointestinales.",
+      "antidotos": "Tratamiento de soporte sintomático; no se elimina de forma significativa por hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Monitoreo diario de signos de reacción de hipersensibilidad (fiebre, rash, síntomas respiratorios o digestivos).",
+        "laboratorio": "Tamizaje genético HLA-B*5701 previo, pruebas de función hepática y lactato sérico."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar obligatoriamente el resultado negativo de la prueba genotípica HLA-B*5701.",
+        "durante": "Monitorear estrechamente la presencia de cualquier combinación de fiebre, erupción, síntomas digestivos o respiratorios.",
+        "despues": "Evaluar la supresión de la carga viral del VIH."
+      },
+      "presentaciones": "Comprimidos recubiertos de 300 mg; solución oral de 20 mg/ml; coformulaciones combinadas.",
+      "dosis": {
+        "adultos": "600 mg una vez al día o 300 mg cada 12 horas por vía oral.",
+        "pediatrico": "8 mg/kg cada 12 horas por vía oral (hasta un máximo de 600 mg al día) en niños mayores de 3 meses.",
+        "geriatrico": "Dosis habitual con precaución por comorbilidades cardíacas o hepáticas."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; solución oral lista para usar o comprimidos enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "300 mg por comprimido.",
+      "alarma_riesgo": "Reacción de hipersensibilidad mortal si se reexpone a un paciente sintomático o HLA-B*5701 positivo.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar el resultado negativo de HLA-B*5701 registrado en la historia clínica antes de dar la primera dosis.;",
+          "Vigilar la aparición simultánea de fiebre, erupción cutánea y malestar digestivo o respiratorio.;",
+          "Registrar de forma permanente en la ficha del paciente si presenta una reacción alérgica a abacavir.;"
+        ],
+        "educacion_paciente": [
+          "Llevar consigo la tarjeta de advertencia sobre la reacción de hipersensibilidad al abacavir.;",
+          "Suspender la medicación y consultar urgentemente al médico si presenta fiebre, brote en la piel o tos.;",
+          "Nunca volver a tomar abacavir si se ha suspendido previamente por sospecha de reacción alérgica.;"
+        ]
+      }
     }
   ]
 }
