@@ -11314,6 +11314,73 @@
           "Educar sobre los cuidados de la zona de punción para evitar complicaciones locales.;"
         ]
       }
+    },
+    {
+      "id": "145",
+      "nombre_generico": "Deferoxamina",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Mesilato de deferoxamina",
+        "clasificacion": "Antídoto, agente quelante de hierro",
+        "efecto_terapeutica": "Se une al hierro libre formando ferrioxamina, un complejo hidrosoluble que se excreta por la orina y las heces",
+        "mecanismo_accion": "Quelata selectivamente el hierro férrico libre en el torrente sanguíneo y los depósitos tisulares intracelulares (ferritina y hemosiderina), impidiendo su acción oxidante tóxica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Baja absorción oral; administración principal por vía intravenosa o subcutánea",
+        "distribucion": "Se distribuye en el espacio extracelular con unión moderada a proteínas plasmáticas",
+        "metabolismo": "Metabolización enzimática rápida en plasma y tejidos a metabolitos inactivos",
+        "eliminacion": "Excreción renal casi exclusiva en forma de complejo ferrioxamina, otorgando un color rojizo a la orina"
+      },
+      "indicaciones": "Tratamiento de la intoxicación aguda grave por hierro y sobrecarga crónica de hierro.",
+      "contraindicaciones": "Hipersensibilidad al mesilato de deferoxamina; anuria o insuficiencia renal grave sin soporte de diálisis.",
+      "precauciones": "Puede causar hipotensión arterial severa y colapso circulatorio si se administra en infusión intravenosa rápida.",
+      "advertencias": "El tratamiento prolongado puede asociarse con toxicidad ocular (visión borrosa) y auditiva (hipoacusia).",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo-beneficio vital materno. Suspender la lactancia durante el tratamiento.",
+      "ajustes": {
+        "renal": "Reducir la velocidad y dosis en insuficiencia renal; puede requerir hemodiálisis para eliminar el complejo quelado.",
+        "hepatico": "Precaución en insuficiencia hepática por alteración metabólica secundaria."
+      },
+      "interacciones": "Incompatible con la administración simultánea de vitamina C en dosis altas sin estabilidad comprobada; puede alterar la compatibilidad con soluciones parenterales.",
+      "reacciones_adversas": "Hipotensión arterial; taquicardia; urticaria; dolor abdominal; coloración rojiza de la orina; alteraciones visuales y auditivas en tratamientos crónicos.",
+      "toxicidad_sobredosis": "Hipotensión profunda, shock, sibilancias, visión borrosa y daño renal agudo.",
+      "antidotos": "Soporte hemodinámico intensivo y líquidos parenterales.",
+      "monitorizacion": {
+        "clinica": "Monitoreo continuo de la presión arterial, frecuencia cardíaca, diuresis y agudeza visual/auditiva en terapias prolongadas.",
+        "laboratorio": "Ferritina sérica, sideremia total, gases en sangre y función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal, niveles séricos de hierro y estado hemodinámico.",
+        "durante": "Controlar estrictamente la presión arterial durante la infusión intravenosa para evitar colapso.",
+        "despues": "Valorar la normalización de los niveles de hierro y la desaparición de la cromaturia."
+      },
+      "presentaciones": "Frascos ampolla liofilizados de 500 mg.",
+      "dosis": {
+        "adultos": "Infusión intravenosa continua de 15 mg/kg/hora, sin superar una dosis diaria máxima de 80 mg/kg según protocolos toxicológicos.",
+        "pediatrico": "15 mg/kg/hora por vía intravenosa continua bajo estricto monitoreo hemodinámico.",
+        "geriatrico": "Ajustar dosis según función renal y estado cardiovascular basal."
+      },
+      "vias_administracion": "Infusión intravenosa continua o infusión subcutánea.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con agua estéril y diluir en solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Infusión intravenosa continua a una velocidad máxima recomendada de 15 mg/kg/hora para prevenir hipotensión.",
+      "estabilidad_soluciones": "Utilizar inmediatamente tras su reconstitución y dilución para infusión.",
+      "concentracion": "Concentración máxima recomendada de 25 mg/ml en la solución para infusión.",
+      "alarma_riesgo": "Riesgo de hipotensión arterial severa y shock si se administra en bolo intravenoso rápido.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar la presión arterial de forma continua durante la infusión intravenosa para detectar hipotensión precoz.;",
+          "Monitorear el volumen urinario y alertar al equipo médico ante la presencia de cromaturia (orina roja).;",
+          "Asegurar el uso de una bomba de infusión programada para mantener la velocidad exacta de 15 mg/kg/hora.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente que la coloración rojiza de la orina es un signo de la eliminación del complejo de hierro y es inocua.;",
+          "Advertir sobre la necesidad de reportar cualquier cambio en la visión o en la audición durante tratamientos prolongados.;",
+          "Brindar contención y explicar la importancia de los controles de laboratorio seriados.;"
+        ]
+      }
     }
   ]
 }
