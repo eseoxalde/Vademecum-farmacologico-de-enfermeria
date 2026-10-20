@@ -12319,6 +12319,73 @@
           "Instruir que informe de inmediato si presenta palpitaciones, dolor abdominal o tinte amarillo en piel.;"
         ]
       }
+    },
+    {
+      "id": "160",
+      "nombre_generico": "Eritromicina",
+      "letra": "E",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Eritromicina",
+        "clasificacion": "Antibiótico, macrólido (procinético a bajas dosis)",
+        "efecto_terapeutica": "Bacterostático o bactericida según la concentración; estimula la motilidad gastrointestinal",
+        "mecanismo_accion": "Inhibe la síntesis proteica al unirse a la subunidad 50S del ribosoma bacteriano; actúa como agonista de los receptores de motilina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Inactivada por el ácido gástrico; las sales entéricas o estearatos mejoran su absorción oral",
+        "distribucion": "Amplia distribución en tejidos exceptuando el sistema nervioso central",
+        "metabolismo": "Hepático extenso por CYP3A4",
+        "eliminacion": "Excreción principalmente biliar y fecal; mínima excreción renal"
+      },
+      "indicaciones": "Infecciones respiratorias, de piel y tejidos blandos, tos convulsa (tos ferina), difteria, gastroparesia.",
+      "contraindicaciones": "Hipersensibilidad a macrólidos; uso concomitante con astemizol, terfenadina, cisaprida, pimozida o ergotamina.",
+      "precauciones": "Insuficiencia hepática; prolongación del intervalo QT; miastenia gravis.",
+      "advertencias": "Puede causar ictericia colestásica (especialmente el estolato de eritromicina) y estenosis hipertrófica del píloro en neonatos.",
+      "embarazo_lactancia": "Categoría B en el embarazo; se considera de uso seguro. Se excreta en la leche materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve a moderada; dosis máxima 2 g/día en falla renal severa.",
+        "hepatico": "Reducir la dosis o evitar en insuficiencia hepática grave."
+      },
+      "interacciones": "Inhibidor de CYP3A4; aumenta concentraciones de teofilina, carbamazepina, ciclosporina, warfarina y estatinas.",
+      "reacciones_adversas": "Dolor abdominal; náuseas; vómitos; diarrea; ototoxicidad transitoria a dosis altas; flebitis IV.",
+      "toxicidad_sobredosis": "Pérdida de audición reversible, náuseas y vómitos severos.",
+      "antidotos": "Tratamiento sintomático.",
+      "monitorizacion": {
+        "clinica": "Control de tolerancia digestiva, signos de flebitis y perfil hepático.",
+        "laboratorio": "Enzimas hepáticas y electrocardiograma en pacientes con riesgo de arritmia."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar función hepática y revisar interacciones farmacológicas.",
+        "durante": "Monitorear la aparición de dolor abdominal severo o diarrea.",
+        "despues": "Valorar la remisión de la infección o la mejoría de la motilidad gástrica."
+      },
+      "presentaciones": "Comprimidos de 500 mg; suspensión oral de 250 mg/5 ml; frasco ampolla de 1 g.",
+      "dosis": {
+        "adultos": "500 mg cada 6 horas por vía oral; o 15 mg/kg a 20 mg/kg/día IV en infusión continua.",
+        "pediatrico": "30 mg/kg a 50 mg/kg/día divididos cada 6 horas por vía oral.",
+        "geriatrico": "Dosis habitual con precaución por hepatotoxicidad u ototoxicidad."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con agua estéril y diluir en 250 ml a 500 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica."
+      },
+      "velocidad_infusion": "Administrar por infusión IV lenta durante 60 minutos para evitar dolor y flebitis.",
+      "estabilidad_soluciones": "Utilizar dentro de las 8 horas a temperatura ambiente.",
+      "concentracion": "5 mg/ml (concentración máxima para infusión IV).",
+      "alarma_riesgo": "Riesgo de arritmias severas e intensa irritación venosa local.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Diluir adecuadamente e infundir lentamente por vía IV para prevenir flebitis severa.;",
+          "Evaluar la función auditiva en tratamientos con dosis elevadas.;",
+          "Monitorear la aparición de ictericia o coloración oscura en la orina.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación con un vaso lleno de agua y preferentemente con alimentos si hay malestar gástrico.;",
+          "Completar la totalidad del tratamiento indicado sin interrupciones.;",
+          "Notificar al médico si presenta náuseas intensas, diarrea o pérdida temporal de la audición.;"
+        ]
+      }
     }
   ]
 }
