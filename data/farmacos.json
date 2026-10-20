@@ -14731,6 +14731,73 @@
           "Avisar al médico si presenta náuseas intensas, mareos o sarpullido."
         ]
       }
+    },
+    {
+      "id": "196",
+      "nombre_generico": "Sulfametoxazol",
+      "letra": "S",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Sulfametoxazol",
+        "clasificacion": "Antibiótico, sulfonamida",
+        "efecto_terapeutica": "Bacterostático sobre bacterias grampositivas y gramnegativas al asociarse con trimetoprima",
+        "mecanismo_accion": "Inhibe de forma competitiva la enzima dihidropteroato sintasa, bloqueando la síntesis del ácido fólico bacteriano"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y buena absorción oral no afectada significativamente por los alimentos",
+        "distribucion": "Amplia distribución en tejidos y líquidos corporales, atravesando la barrera hematoencefálica y la placenta",
+        "metabolismo": "Hepático extenso por acetilación y glucuronidación a metabolitos inactivos",
+        "eliminacion": "Excreción renal por filtración glomerular y secreción tubular"
+      },
+      "indicaciones": "Infecciones del tracto urinario, neumonía por Pneumocystis jirovecii, nocardiosis y exacerbación de bronquitis crónica (en combinación con trimetoprima).",
+      "contraindicaciones": "Hipersensibilidad a las sulfonamidas; insuficiencia renal o hepática grave; lactantes menores de 2 meses de edad; anemia megaloblástica por deficiencia de folatos.",
+      "precauciones": "Riesgo de cristaluria; mantener hidratación abundante; precaución en pacientes con deficiencia de G6PD y ancianos.",
+      "advertencias": "Riesgo de reacciones cutáneas graves potencialmente mortales como el síndrome de Stevens-Johnson y la necrólisis epidérmica tóxica.",
+      "embarazo_lactancia": "Contraindicado en el tercer trimestre del embarazo por riesgo de kernicterus en el recién nacido. Contraindicado en la lactancia si el lactante tiene menos de 2 meses.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% si el clearance de creatinina se encuentra entre 15 y 30 ml/min; evitar si es menor a 15 ml/min.",
+        "hepatico": "Contraindicado en insuficiencia hepática grave."
+      },
+      "interacciones": "Potencia el efecto de los anticoagulantes orales y sulfonilureas; incrementa los niveles de fenitoína y la toxicidad del metotrexato.",
+      "reacciones_adversas": "Erupciones cutáneas; náuseas; vómitos; hiperpotasemia; cristaluria; discrasias sanguíneas (leucopenia, trombocitopenia); fotosensibilidad.",
+      "toxicidad_sobredosis": "Depresión de médula ósea, cristaluria, hematuria, náuseas y vómitos intensos.",
+      "antidotos": "Tratamiento de soporte, forzar diuresis e ingesta de ácido folínico en depresión medular.",
+      "monitorizacion": {
+        "clinica": "Monitoreo de reacciones cutáneas, estado de hidratación y signos de sangrado o infección.",
+        "laboratorio": "Hemograma completo, función renal y potasio sérico en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal y antecedentes de alergias a las sulfonamidas o tiazidas.",
+        "durante": "Monitorear la aparición de erupción cutánea o disminución en la diuresis.",
+        "despues": "Valorar la resolución de la infección y la estabilidad hematológica."
+      },
+      "presentaciones": "Comprimidos y suspensión oral coformulados con trimetoprima; ampollas inyectables en combinación.",
+      "dosis": {
+        "adultos": "800 mg de sulfametoxazol (combinado con 160 mg de trimetoprima) cada 12 horas por vía oral.",
+        "pediatrico": "20 mg/kg a 30 mg/kg/día divididos cada 12 horas por vía oral.",
+        "geriatrico": "Ajustar la dosis rigurosamente según el clearance de creatinina."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Diluir la ampolla inyectable en 125 ml a 250 ml de dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con dextrosa al 5% (incompatible con solución fisiológica)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 60 a 90 minutos.",
+      "estabilidad_soluciones": "Utilizar la solución diluida dentro de las 2 a 6 horas de su preparación.",
+      "concentracion": "4,8 mg/ml (concentración máxima de la combinación en infusión).",
+      "alarma_riesgo": "Riesgo de síndrome de Stevens-Johnson e hiperpotasemia severa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar un aporte hídrico adecuado durante el tratamiento para prevenir cristaluria.;",
+          "Diluir las presentaciones parenterales exclusivamente en dextrosa al 5%.;",
+          "Suspender inmediatamente la administración ante la primera aparición de erupción en la piel.;"
+        ],
+        "educacion_paciente": [
+          "Beber abundante cantidad de agua diariamente mientras tome la medicación.;",
+          "Evitar la exposición prolongada al sol utilizando protector solar por riesgo de fotosensibilidad.;",
+          "Avisar de inmediato si presenta sarpullido en la piel, fiebre o dolor de garganta.;"
+        ]
+      }
     }
   ]
 }
