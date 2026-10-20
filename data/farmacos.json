@@ -18416,6 +18416,73 @@
           "Avisar si nota enrojecimiento o ardor en el sitio de aplicación venosa."
         ]
       }
+    },
+    {
+      "id": "251",
+      "nombre_generico": "Tenipósido",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Tenipósido (VM-26)",
+        "clasificacion": "Antineoplásico, inhibidor de la topoisomerasa II (derivado semisintético de la podofilotoxina)",
+        "efecto_terapeutica": "Citotóxico de fase S y G2 específica del ciclo celular, activo en neoplasias hematológicas y del SNC",
+        "mecanismo_accion": "Se une a la enzima topoisomerasa II y al ADN impidiendo la ligadura de las hebras cortadas, induciendo la ruptura de la doble cadena de ADN y bloqueando la mitosis"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta unión a proteínas plasmáticas (> 99%); atraviesa la barrera hematoencefálica en concentraciones superiores al etopósido",
+        "metabolismo": "Hepático extenso por el sistema CYP3A4 a metabolitos activos e inactivos",
+        "eliminacion": "Excreción renal (10-20%) y biliar/fecal (40%)"
+      },
+      "indicaciones": "Leucemia linfoblástica aguda (LLA) refractaria o en recaída en pediatría, neuroblastoma, linfomas de Hodgkin y no Hodgkin, y tumores cerebrales.",
+      "contraindicaciones": "Hipersensibilidad al tenipósido o al aceite de ricino polioxietilado (Cremophor EL); mielosupresión grave; embarazo y lactancia.",
+      "precauciones": "Riesgo severo de hipotensión por infusión rápida; reacciones anafilactoides graves por el excipiente Cremophor EL; mielosupresión profunda.",
+      "advertencias": "No administrar por inyección IV rápida. La infusión debe prolongarse al menos 30 a 60 minutos para evitar colapso hemodinámico.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis si existe insuficiencia renal severa.",
+        "hepatico": "Reducir la dosis en caso de disfunción hepática grave o hiperbilirrubinemia."
+      },
+      "interacciones": "Aumento del riesgo de mielosupresión con otros antineoplásicos; los anticonvulsivantes inductores del CYP3A4 (fenitoína, fenobarbital) incrementan su aclaramiento disminuyendo su eficacia.",
+      "reacciones_adversas": "Mielosupresión (neutropenia, trombocitopenia); hipotensión (asociada a infusión rápida); reacciones anafilactoides (urticaria, broncoespasmo); alopecia; náuseas; vómitos; mucositis.",
+      "toxicidad_sobredosis": "Pancitopenia severa, hipotensión refractaria e inflamación gastrointestinal grave.",
+      "antidotos": "Tratamiento de soporte, antihistamínicos/corticoides en anafilaxia y factores hematopoyéticos.",
+      "monitorizacion": {
+        "clinica": "Control continuo de la presión arterial durante la infusión, signos de anafilaxia, temperatura corporal y mucosas.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, función renal y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar presión arterial basal y controlar que la dilución no presente precipitados ni opalescencia.",
+        "durante": "Monitorear la PA cada 15 minutos durante la infusión IV lenta de 30-60 minutos.",
+        "despues": "Valorar el nadir hematológico a los 7-14 días post-tratamiento."
+      },
+      "presentaciones": "Ampollas o frasco ampolla de 50 mg/5 ml de solución concentrada inyectable.",
+      "dosis": {
+        "adultos": "100 mg/m² a 165 mg/m²/día IV 1 a 2 veces por semana o en esquemas combinados de 50 mg/m² a 100 mg/m²/día por 5 días.",
+        "pediatrico": "130 mg/m² a 150 mg/m² IV una vez por semana o en combinación según protocolos hemato-oncológicos específicos.",
+        "geriatrico": "Ajustar dosis según la función renal, hepática y la estabilidad cardiovascular."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis calculada en solución fisiológica o dextrosa al 5% hasta lograr una concentración final de 0.1 mg/ml a 0.4 mg/ml.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (utilizar recipientes y sistemas de infusión no contengan PVC)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua en un período no menor a 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a concentración de 0.1 mg/ml o 4 horas a 0.4 mg/ml a temperatura ambiente.",
+      "concentracion": "10 mg/ml (concentración de la presentación inyectable original).",
+      "alarma_riesgo": "Riesgo de colapso hemodinámico por hipotensión aguda si se infunde rápidamente y reacciones anafilácticas por Cremophor EL.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir diluido en no menos de 30 a 60 minutos utilizando guías e infusores libres de PVC.;",
+          "Monitorear la presión arterial de forma estrecha durante toda la infusión IV.;",
+          "Tener disponible equipo de reanimación y medicación ante el riesgo de reacciones anafilácticas.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato durante la infusión si siente mareos, sensación de desmayo, opresión en el pecho o calor.;",
+          "Notificar al personal de salud ante la aparición de fiebre, escalofríos, sangrados o aftas en la boca.;",
+          "Informar de inmediato si nota dolor o ardor en el sitio de colocación de la vía intravenosa."
+        ]
+      }
     }
   ]
 }
