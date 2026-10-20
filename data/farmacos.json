@@ -16205,6 +16205,73 @@
           "Evitar el contacto con personas que tengan infecciones virales o bacterianas activas.;"
         ]
       }
+    },
+    {
+      "id": "218",
+      "nombre_generico": "Temozolomida",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Temozolomida",
+        "clasificacion": "Antineoplásico, agente alquilante (imidazotetrazina)",
+        "efecto_terapeutica": "Citotóxico e inhibidor de la replicación del ADN en tumores primarios del sistema nervioso central",
+        "mecanismo_accion": "Se hidroliza espontáneamente a pH fisiológico a su metabolito activo MTIC, el cual metila la posición O-6 y N-7 de la guanina, fragmentando el ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción oral; biodisponibilidad cercana al 100%; disminuye con alimentos grasos",
+        "distribucion": "Atraviesa eficazmente la barrera hematoencefálica alcanzando concentraciones terapéuticas en LCR y tejido cerebral",
+        "metabolismo": "Hidrólisis química no enzimática a pH fisiológico produciendo MTIC y AIC",
+        "eliminacion": "Excreción renal (5-10% inalterado y metabolitos) y pulmonar mínima"
+      },
+      "indicaciones": "Glioblastoma multiforme recién diagnosticado (conradioterapia) y astrocitoma anaplásico recurrente o progresivo.",
+      "contraindicaciones": "Hipersensibilidad a la temozolomida o dacarbazina; mielosupresión grave; embarazo y lactancia.",
+      "precauciones": "Requiere profilaxis contra Pneumocystis jirovecii durante el esquema concomitante con radioterapia; monitorizar hepatotoxicidad.",
+      "advertencias": "Riesgo de trombocitopenia y neutropenia graves; mayor incidencia de náuseas y vómitos en mujeres y ancianos.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve a moderada; usar con precaución en insuficiencia severa.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada."
+      },
+      "interacciones": "El ácido valproico disminuye levemente el clearance de temozolomida; aumento de la mielotoxicidad con otros antineoplásicos.",
+      "reacciones_adversas": "Trombocitopenia; neutropenia; náuseas; vómitos; estreñimiento; anorexia; cefalea; astenia; convulsiones; erupción cutánea.",
+      "toxicidad_sobredosis": "Pancitopenia grave, infecciones oportunistas y falla multiorgánica.",
+      "antidotos": "Tratamiento de soporte, factores de estimulación de colonias transfusionales y antibioticoterapia.",
+      "monitorizacion": {
+        "clinica": "Control del estado neurológico, náuseas, vómitos y signos de infección o hemorragia.",
+        "laboratorio": "Hemograma completo semanal durante el ciclo concomitante y previo a cada ciclo en monoterapia; pruebas hepáticas."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar recuento de neutrófilos (≥ 1.500/mm³) y plaquetas (≥ 100.000/mm³); administrar antiemético profiláctico.",
+        "durante": "Monitorear la tolerancia digestiva e instaurar la profilaxis contra Pneumocystis jirovecii.",
+        "despues": "Valorar el nadir hemático entre los días 21 y 28 del ciclo."
+      },
+      "presentaciones": "Cápsulas de 5 mg, 20 mg, 100 mg, 140 mg, 180 mg y 250 mg; frasco ampolla IV de 100 mg.",
+      "dosis": {
+        "adultos": "Concomitante con RDT: 75 mg/m²/día IV u oral por 42 días; Monoterapia: 150 mg/m² a 200 mg/m²/día por 5 días cada 28 días.",
+        "pediatrico": "150 mg/m² a 200 mg/m²/día por 5 días cada 28 días en mayores de 3 años.",
+        "geriatrico": "Dosis habitualmente ajustada según tolerancia hematológica."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla inyectable con agua estéril y diluir en 250 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 90 minutos mediante bomba de infusión.",
+      "estabilidad_soluciones": "La solución IV es estable durante 14 horas a temperatura ambiente.",
+      "concentracion": "0,4 mg/ml (concentración máxima recomendada en la bolsa de infusión).",
+      "alarma_riesgo": "Riesgo de trombocitopenia profunda y neumonía por Pneumocystis jirovecii si se omite la profilaxis.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la presentación IV en exactamente 90 minutos mediante bomba de infusión en vía exclusiva.;",
+          "Administrar profilaxis antiemética previa para prevenir vómitos severos.;",
+          "Verificar que las cápsulas se ingieran enteras sin abrir, masticar ni disolver.;"
+        ],
+        "educacion_paciente": [
+          "Tomar las cápsulas en ayunas o al acostarse con un vaso de agua para reducir las náuseas.;",
+          "Tragar las cápsulas completas; no romperlas ni inhalar su contenido bajo ninguna circunstancia.;",
+          "Consultar inmediatamente ante fiebre, hematomas espontáneos, puntos rojos en la piel o tos seca."
+        ]
+      }
     }
   ]
 }
