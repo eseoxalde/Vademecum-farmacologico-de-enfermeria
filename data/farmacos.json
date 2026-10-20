@@ -12855,6 +12855,73 @@
           "Nunca volver a tomar abacavir si se ha suspendido previamente por sospecha de reacción alérgica.;"
         ]
       }
+    },
+    {
+      "id": "168",
+      "nombre_generico": "Lamivudina",
+      "letra": "L",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Lamivudina (3TC)",
+        "clasificacion": "Antiviral, inhibidor de la transcriptasa inversa análogo de los nucleósidos (ITIN)",
+        "efecto_terapeutica": "Bloquea la replicación del VIH-1, VIH-2 y del virus de la hepatitis B (VHB)",
+        "mecanismo_accion": "Es fosforilada intracelularmente a lamivudina trifosfato, la cual compite con la citidina e inhibe competitivamente la transcriptasa inversa viral, provocando la terminación de la cadena de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción gastrointestinal con una biodisponibilidad del 80 al 85%; independiente de las comidas",
+        "distribucion": "Amplia distribución corporal; pasa al líquido cefalorraquídeo en proporciones moderadas",
+        "metabolismo": "Metabolismo hepático escaso (< 10%)",
+        "eliminacion": "Excreción renal inalterada en más del 70% mediante secreción tubular activa"
+      },
+      "indicaciones": "Tratamiento de la infección por VIH en combinación con otros antiretrovirales; tratamiento de la hepatitis B crónica.",
+      "contraindicaciones": "Hipersensibilidad conocida a la lamivudina.",
+      "precauciones": "Ajuste estricto en insuficiencia renal; riesgo de pancreatitis en pediatría; riesgo de acidosis láctica.",
+      "advertencias": "La interrupción del tratamiento en pacientes coinfectados con VHB puede desencadenar una exacerbación severa de la hepatitis.",
+      "embarazo_lactancia": "Fármaco seguro y ampliamente utilizado en el embarazo. Evitar la lactancia materna en pacientes con VIH.",
+      "ajustes": {
+        "renal": "Reducir la dosis o ajustar el intervalo según el clearance de creatinina si es menor a 50 ml/min.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "El cotrimoxazol (trimetoprima/sulfametoxazol) incrementa los niveles plasmáticos de lamivudina; inalcanzable compatibilidad con emtricitabina.",
+      "reacciones_adversas": "Cefalea; náuseas; fatiga; malestar general; diarrea; insomnio; tos; neuropatía periférica; alopecia.",
+      "toxicidad_sobredosis": "Acidosis láctica, hepatomegalia severa con esteatosis y falla renal.",
+      "antidotos": "Tratamiento sintomático de soporte; la hemodiálisis continua ayuda a eliminar el fármaco.",
+      "monitorizacion": {
+        "clinica": "Monitoreo del estado neurológico, signos de pancreatitis, función renal y carga viral.",
+        "laboratorio": "Clearance de creatinina, amilasa, lipasa, enzimas hepáticas y perfil lipídico."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal y descartar coinfección no tratada por el virus de la hepatitis B.",
+        "durante": "Monitorear la función renal y la aparición de dolor abdominal (sospecha de pancreatitis en niños).",
+        "despues": "Valorar el control virológico de la enfermedad."
+      },
+      "presentaciones": "Comprimidos de 150 mg y 300 mg; solución oral de 10 mg/ml; coformulaciones fijas.",
+      "dosis": {
+        "adultos": "300 mg una vez al día o 150 mg cada 12 horas por vía oral para VIH; 100 mg una vez al día para Hepatitis B.",
+        "pediatrico": "4 mg/kg a 5 mg/kg cada 12 horas por vía oral en niños mayores de 3 meses.",
+        "geriatrico": "Dosis ajustada según la función renal estimada."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; listo para su administración oral.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "150 mg o 300 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de pancreatitis aguda en niños y reactivación de hepatitis B tras la suspensión.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Ajustar la dosis prescrita de acuerdo con el clearance de creatinina del paciente.;",
+          "Vigilar la presencia de dolor abdominal severo o náuseas en pacientes pediátricos para descartar pancreatitis.;",
+          "Garantizar la administración continua del fármaco para prevenir resistencias virales.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento todos los días regularmente con o sin alimentos.;",
+          "No suspender el tratamiento sin autorización médica para evitar un rebrote de la hepatitis B.;",
+          "Informar de inmediato si siente dolor estomacal fuerte, náuseas o vómitos.;"
+        ]
+      }
     }
   ]
 }
