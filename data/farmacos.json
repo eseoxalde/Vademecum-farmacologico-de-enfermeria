@@ -12051,6 +12051,73 @@
           "Informar sobre la necesidad de reportar deposiciones líquidas o dolores abdominales.;"
         ]
       }
+    },
+    {
+      "id": "156",
+      "nombre_generico": "Penicilina Benzatínica",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Penicilina G benzatínica",
+        "clasificacion": "Antibiótico, penicilina natural de acción prolongada",
+        "efecto_terapeutica": "Bactericida sostenido frente a microorganismos altamente sensibles",
+        "mecanismo_accion": "Inhibe la síntesis de la pared celular bacteriana al unirse a las proteínas PBP, logrando concentraciones plasmáticas prolongadas pero bajas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción extremadamente lenta desde el depósito intramuscular",
+        "distribucion": "Ampliamente distribuida por los tejidos con baja penetración en barreras no inflamadas",
+        "metabolismo": "Hepático leve por hidrólisis liberando penicilina G",
+        "eliminacion": "Excreción renal lenta durante semanas"
+      },
+      "indicaciones": "Tratamiento de la sífilis (primaria, secundaria y latente), profilaxis de fiebre reumática y faringitis estreptocócica.",
+      "contraindicaciones": "Hipersensibilidad a la penicilina o a la procaína/benzatínicos.",
+      "precauciones": "Contraindicada de forma absoluta por vía intravenosa por riesgo de embolia y paro cardíaco.",
+      "advertencias": "Puede desencadenar la reacción de Jarisch-Herxheimer durante el tratamiento inicial de la sífilis.",
+      "embarazo_lactancia": "Tratamiento de elección para la sífilis en el embarazo. Segura durante la lactancia.",
+      "ajustes": {
+        "renal": "No suele requerir ajustes por ser dosis únicas de liberación lenta.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "El probenecid bloquea su secreción tubular prolongando aún más los niveles plasmáticos.",
+      "reacciones_adversas": "Dolor indurado en el sitio de inyección; reacción anafiláctica; síndrome de Hoigné; fiebre.",
+      "toxicidad_sobredosis": "Miopatía e inflamación severa local.",
+      "antidotos": "Adrenalina IM e hidrocortisona en caso de anafilaxia.",
+      "monitorizacion": {
+        "clinica": "Control de signos de anafilaxia post-inyección y monitoreo del sitio de aplicación.",
+        "laboratorio": "Pruebas treponémicas y no treponémicas (VDRL/RPR) para control de cura."
+      },
+      "parametros_valoracion": {
+        "antes": "Preguntar de forma obligatoria por alergias a penicilinas y constatar la indicación médica.",
+        "durante": "Aspirar antes de inyectar para asegurar no haber punzado un vaso sanguíneo.",
+        "despues": "Observar al paciente en la guardia durante al menos 30 minutos post-aplicación."
+      },
+      "presentaciones": "Frasco ampolla con polvo para suspensión inyectable de 1.200.000 UI y 2.400.000 UI.",
+      "dosis": {
+        "adultos": "1.200.000 UI a 2.400.000 UI por vía intramuscular profunda en dosis única o semanal según indicación.",
+        "pediatrico": "50.000 UI/kg (hasta un máximo de 1.200.000 UI) por vía intramuscular profunda.",
+        "geriatrico": "2.400.000 UI por vía intramuscular adaptada a la masa muscular."
+      },
+      "vias_administracion": "Intramuscular profunda exclusiva (cuadrante superior externo del glúteo).",
+      "preparacion": {
+        "dilucion": "Reconstituir el polvo con el diluyente ampolla (agua estéril) agitando vigorosamente.",
+        "compatibilidad_iv": "Totalmente contraindicada su administración por vía IV."
+      },
+      "velocidad_infusion": "Inyección intramuscular lenta y constante.",
+      "estabilidad_soluciones": "Administrar inmediatamente después de ser reconstituida la suspensión.",
+      "concentracion": "2.400.000 UI por ampolla reconstituida.",
+      "alarma_riesgo": "Muerte por embolia pulmonar o paro cardíaco si se administra por vía intravenosa accidentalmente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Aplicar únicamente por vía intramuscular profunda en glúteo mediante la técnica de Z.;",
+          "Aspirar la jeringa antes de inyectar para descartar el ingreso involuntario a un vaso sanguíneo.;",
+          "Mantener en observación al paciente durante 30 minutos por riesgo de shock anafiláctico.;"
+        ],
+        "educacion_paciente": [
+          "Advertir sobre el dolor local e induración en el glúteo que puede durar varios días.;",
+          "Explicar que no debe masajear la zona de la inyección post-aplicación.;",
+          "Instruir sobre los signos de alarma alérgicos para consultar a urgencias.;"
+        ]
+      }
     }
   ]
 }
