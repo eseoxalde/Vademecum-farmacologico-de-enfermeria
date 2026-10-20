@@ -16473,6 +16473,73 @@
           "Notificar si siente hormigueo o adormecimiento en las manos o pies."
         ]
       }
+    },
+    {
+      "id": "222",
+      "nombre_generico": "Carboplatino",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Carboplatino",
+        "clasificacion": "Antineoplásico, analógico del cisplatino (complejo de platino de segunda generación)",
+        "efecto_terapeutica": "Citotóxico amplio no específico del ciclo celular con menor nefrotoxicidad y emetogenicidad que el cisplatino",
+        "mecanismo_accion": "Inhibe la síntesis de ADN mediante la formación de enlaces cruzados intracadena e intercadena en las hebras de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Baja unión a proteínas en fase inicial (se incrementa progresivamente); amplia distribución tisular",
+        "metabolismo": "Aclaramiento por hidrólisis química lenta hacia especies reactivas de platino",
+        "eliminacion": "Excreción renal casi exclusiva por filtración glomerular (65-80% inalterado en 24 horas)"
+      },
+      "indicaciones": "Carcinoma de ovario avanzado, cáncer de pulmón microcítico y no microcítico, carcinoma epidermoide de cabeza y cuello, de cérvix y retinoblastoma.",
+      "contraindicaciones": "Hipersensibilidad al carboplatino u otros platinos; mielosupresión grave preexistente; sangrado severo activo.",
+      "precauciones": "Riesgo elevado de mielosupresión (especialmente trombocitopenia dosis dependiente); ajustar por fórmula de Calvert basada en el clearance renal.",
+      "advertencias": "La toxicidad limitante de la dosis es la trombocitopenia. Presenta menor nefro, oto y neurotoxicidad que el cisplatino.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Calcular la dosis individual mediante la fórmula de Calvert [Dosis = AUC x (Clearance de Creatinina + 25)].",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Sinergismo de mielosupresión con otros antineoplásicos; nefrotoxicidad potenciada si se combina con aminoglucósidos.",
+      "reacciones_adversas": "Trombocitopenia; leucopenia; anemia; náuseas; vómitos; alopecia; neuropatía periférica leve; elevación de transaminasas e hipomagnesemia.",
+      "toxicidad_sobredosis": "Mielosupresión profunda irrecuperable (hemorragias e infecciones) y nefrotoxicidad.",
+      "antidotos": "Tratamiento de soporte mieloablativo, transfusiones de plaquetas y glóbulos rojos, y factores de estimulación (G-CSF).",
+      "monitorizacion": {
+        "clinica": "Control de signos de sangrado (petequias, epistaxis), fiebre, náuseas y sitio venoso.",
+        "laboratorio": "Hemograma completo semanal (recuento de plaquetas), clearance de creatinina, magnesio y potasio."
+      },
+      "parametros_valoracion": {
+        "antes": "Calcular la dosis individual basada en el clearance de creatinina (fórmula de Calvert) y verificar plaquetas ≥ 100.000/mm³.",
+        "durante": "Monitorear la infusión por vía intravenosa por posibles reacciones anafilácticas.",
+        "despues": "Valorar el nadir de plaquetas y leucocitos a los 14-21 días post-tratamiento."
+      },
+      "presentaciones": "Frasco ampolla de 50 mg/5 ml, 150 mg/15 ml y 450 mg/45 ml de solución inyectable.",
+      "dosis": {
+        "adultos": "Dosificación según Calvert (AUC 4 a 6) IV cada 3 a 4 semanas; o dosis fija aproximada de 300 mg/m² a 400 mg/m².",
+        "pediatrico": "300 mg/m² a 560 mg/m² IV cada 3 a 4 semanas o cálculo según fórmula de Calvert modificada.",
+        "geriatrico": "Ajustar dosis obligatoriamente según el clearance de creatinina calculado por la edad."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis calculada en solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 15 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o refrigerado (2°C - 8°C) protegido de la luz.",
+      "concentracion": "10 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de hemorragia grave por trombocitopenia severa si no se calcula la dosis con la función renal real.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que la dosis haya sido calculada utilizando la fórmula de Calvert y el clearance de creatinina.;",
+          "Controlar la recuento de plaquetas y neutrófilos antes de iniciar cada ciclo.;",
+          "Monitorear signos de anafilaxia o broncoespasmo en ciclos avanzados.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que la medicación se aplica por vía intravenosa cada 3 o 4 semanas.;",
+          "Avisar de inmediato ante sangrado por nariz o encías, moretones espontáneos o puntos rojos en la piel.;",
+          "Consultar urgentemente si presenta fiebre o signos de infección."
+        ]
+      }
     }
   ]
 }
