@@ -14597,6 +14597,73 @@
           "Informar si presenta dificultad para respirar o disminución en la orina."
         ]
       }
+    },
+    {
+      "id": "194",
+      "nombre_generico": "Linezolid",
+      "letra": "L",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Linezolid",
+        "clasificacion": "Antibiótico, oxazolidinona",
+        "efecto_terapeutica": "Bacterostático (bactericida frente a estreptococos) activo contra bacterias grampositivas multirresistentes (SAMR, ERV)",
+        "mecanismo_accion": "Se une al sitio 23S del ARN ribosómico de la subunidad 50S, impidiendo la formación del complejo de iniciación 70S y bloqueando la síntesis proteica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y completa absorción oral con biodisponibilidad del 100%; independiente de los alimentos",
+        "distribucion": "Excelente penetración tisular en pulmón, piel, hueso y líquido cefalorraquídeo",
+        "metabolismo": "Hepático no enzimático a metabolitos inactivos",
+        "eliminacion": "Excreción renal (30% inalterado y metabolitos) y fecal"
+      },
+      "indicaciones": "Neumonía intrahospitalaria y adquirida en la comunidad, infecciones complicadas de piel y tejidos blandos por grampositivos resistentes (SAMR, ERV).",
+      "contraindicaciones": "Hipersensibilidad al linezolid; uso concomitante con inhibidores de la MAO o dentro de las 2 semanas de su suspensión.",
+      "precauciones": "Mielosupresión reversible (trombocitopenia, anemia); neuropatía óptica y periférica en tratamientos > 28 días; acidosis láctica.",
+      "advertencias": "Riesgo de síndrome serotoninérgico al combinarse con antidepresivos serotoninérgicos (ISRS) o simpaticomiméticos.",
+      "embarazo_lactancia": "Categoría C en el embarazo; usar solo si el beneficio justifica el riesgo. Evitar durante la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal o hemodiálisis.",
+        "hepatico": "No requiere ajuste de dosis en insuficiencia hepática leve a moderada."
+      },
+      "interacciones": "Riesgo de síndrome serotoninérgico con ISRS; crisis hipertensivas con alimentos ricos en tiramina, pseudoefedrina o dopamina.",
+      "reacciones_adversas": "Trombocitopenia; anemia; leucopenia; diarrea; náuseas; cefalea; disgeusia; neuropatía periférica y óptica (uso prolongado).",
+      "toxicidad_sobredosis": "Mielosupresión severa, síntomas serotoninérgicos y acidosis láctica.",
+      "antidotos": "Tratamiento de soporte; la hemodiálisis elimina aproximadamente el 30% de la dosis.",
+      "monitorizacion": {
+        "clinica": "Control de hemograma semanal, agudeza visual en tratamientos prolongados y signos de síndrome serotoninérgico.",
+        "laboratorio": "Hemograma completo con recuento de plaquetas semanal."
+      },
+      "parametros_valoracion": {
+        "antes": "Solicitar hemograma basal y revisar medicación concomitante (antidepresivos o vasopresores).",
+        "durante": "Monitorear plaquetas semanalmente y evaluar aparición de parestesias o visión borrosa.",
+        "despues": "Valorar la resolución de la infección y la recuperación hematológica."
+      },
+      "presentaciones": "Comprimidos de 600 mg; solución para infusión de 600 mg/300 ml; suspensión oral de 100 mg/5 ml.",
+      "dosis": {
+        "adultos": "600 mg cada 12 horas por vía oral o IV durante 10 a 28 días.",
+        "pediatrico": "10 mg/kg cada 8 horas por vía oral o IV en menores de 12 años.",
+        "geriatrico": "Dosis habitual de 600 mg cada 12 horas sin necesidad de ajustes."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Presentación IV lista para usar en bolsa de infusión; no requiere dilución.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 120 minutos.",
+      "estabilidad_soluciones": "Conservar la bolsa en su envoltura protectora a temperatura ambiente protegida de la luz.",
+      "concentracion": "2 mg/ml (solución lista para infusión).",
+      "alarma_riesgo": "Riesgo grave de trombocitopenia severa y síndrome serotoninérgico potencialmente fatal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la bolsa de solución IV protegida de la luz durante 30 a 120 minutos.;",
+          "Controlar el recuento de plaquetas y hemograma completo una vez por semana.;",
+          "Verificar que el paciente no reciba antidepresivos serotoninérgicos concomitantes.;"
+        ],
+        "educacion_paciente": [
+          "Evitar el consumo abundante de alimentos o bebidas ricas en tiramina (quesos curados, vino tinto, cerveza).;",
+          "Avisar de inmediato si nota sangrados inusuales, hematomas, visión borrosa u hormigueo.;",
+          "Tomar la versión oral con o sin alimentos a intervalos regulares de 12 horas."
+        ]
+      }
     }
   ]
 }
