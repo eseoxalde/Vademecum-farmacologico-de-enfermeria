@@ -12587,6 +12587,73 @@
           "Informar la necesidad de reportar dolor abdominal fuerte o deposiciones líquidas.;"
         ]
       }
+    },
+    {
+      "id": "164",
+      "nombre_generico": "Ciprofloxacino",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Ciprofloxacino",
+        "clasificacion": "Antibiótico, fluoroquinolona de 2ª generación",
+        "efecto_terapeutica": "Bactericida de amplio espectro con elevada actividad frente a bacilos gramnegativos, incluyendo Pseudomonas aeruginosa",
+        "mecanismo_accion": "Inhibe las enzimas bacterianas ADN girasa (topoisomerasa II) y topoisomerasa IV, bloqueando la replicación y transcripción del ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral con biodisponibilidad del 70-80%; reducida significativamente por cationes polivalentes",
+        "distribucion": "Amplia distribución en tejidos y líquidos corporales; altas concentraciones en próstata, riñón y pulmón",
+        "metabolismo": "Hepático moderado a metabolitos menos activos",
+        "eliminacion": "Renal (40-50% inalterado) y biliar/fecal"
+      },
+      "indicaciones": "Infecciones urinarias complicadas, prostatitis, infecciones gastrointestinales, fiebres tifoideas, osteomielitis e infecciones por Pseudomonas.",
+      "contraindicaciones": "Hipersensibilidad a las quinolonas; administración concomitante con tizanidina.",
+      "precauciones": "Riesgo de tendinitis y ruptura tendinosa; exacerbación de miastenia gravis; prolongación del intervalo QT; aneurisma de aorta.",
+      "advertencias": "Riesgo de efectos sobre el sistema nervioso central (convulsiones, psicosis); fotoalergia y neuropatía periférica.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evitar por riesgo de artropatía en cartílagos de crecimiento. Evitar durante la lactancia.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% o ajustar según clearance si es menor a 50 ml/min.",
+        "hepatico": "No requiere ajuste salvo en insuficiencia hepática grave combinada con renal."
+      },
+      "interacciones": "Quelación con calcio, hierro, aluminio y magnesio reduciendo absorción oral; aumenta niveles de teofilina, tizanidina y anticoagulantes.",
+      "reacciones_adversas": "Náuseas; diarrea; cefalea; mareos; insomnio; erupción cutánea; artralgias; fototoxicidad.",
+      "toxicidad_sobredosis": "Toxicidad renal, alucinaciones, agitación y convulsiones.",
+      "antidotos": "Tratamiento de soporte, hidratación y administración de antiácidos con calcio/magnesio para reducir absorción si fue reciente.",
+      "monitorizacion": {
+        "clinica": "Control de dolor tendinoso, signos neurológicos central, función renal e hidratación.",
+        "laboratorio": "Función renal, glucemia e ionograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal, antecedentes de tendinopatías o miastenia gravis y medicamentos concomitantes.",
+        "durante": "Vigilar dolor en el tendón de Aquiles, alteraciones del sensorio o convulsiones.",
+        "despues": "Valorar el control de la infección y la ausencia de secuelas neurológicas/tendinosas."
+      },
+      "presentaciones": "Comprimidos de 250 mg, 500 mg y 750 mg; frasco ampolla inyectable de 200 mg/100 ml y 400 mg/200 ml.",
+      "dosis": {
+        "adultos": "250 mg a 750 mg cada 12 horas por vía oral; o 200 mg a 400 mg cada 12 horas IV.",
+        "pediatrico": "Uso restringido; 10 mg/kg a 20 mg/kg cada 12 horas por vía oral o 6 mg/kg a 10 mg/kg cada 12 horas IV.",
+        "geriatrico": "Ajustar dosis estrictamente de acuerdo con la función renal."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Presentación lista para usar en solución para infusión; si se requiere diluir, usar solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 60 minutos (evita molestias locales y reacción hipotensiva).",
+      "estabilidad_soluciones": "Conservar protegido de la luz a temperatura ambiente.",
+      "concentracion": "2 mg/ml (solución lista para infusión).",
+      "alarma_riesgo": "Riesgo de ruptura del tendón de Aquiles y alteraciones severas del sistema nervioso central.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la solución IV en un período no menor a 60 minutos y en una vena de buen calibre.;",
+          "Evitar la administración simultánea con leche, antianémicos u antiácidos por vía oral.;",
+          "Suspender la administración e informar de inmediato ante el inicio de dolor en tendones.;"
+        ],
+        "educacion_paciente": [
+          "Evitar tomar lácteos, calcio o antiácidos dos horas antes o después de tomar el comprimido.;",
+          "Suspender el ejercicio y avisar si siente dolor, inflamación o molestias en el talón o articulaciones.;",
+          "Usar protector solar y evitar la exposición prolongada al sol por el riesgo de manchas o quemaduras.;"
+        ]
+      }
     }
   ]
 }
