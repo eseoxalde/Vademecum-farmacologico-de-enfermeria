@@ -13123,6 +13123,73 @@
           "Informar de inmediato si nota cambios en la cantidad de orina, mareos o alucinaciones.;"
         ]
       }
+    },
+    {
+      "id": "172",
+      "nombre_generico": "Valaciclovir",
+      "letra": "V",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de valaciclovir",
+        "clasificacion": "Antiviral, prodroga análoga de nucleósido",
+        "efecto_terapeutica": "Inhibe la replicación del virus herpes simplex (VHS-1, VHS-2) y virus varicela-zóster (VVZ)",
+        "mecanismo_accion": "Prodroga del aciclovir que se convierte rápidamente en aciclovir activo por hidrólisis hepática, bloqueando competitivamente la ADN polimerasa viral e interrumpiendo la síntesis de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción gastrointestinal; biodisponibilidad oral del 54% (3 a 5 veces superior al aciclovir oral)",
+        "distribucion": "Amplia distribución en tejidos y fluidos corporales, incluyendo líquido cefalorraquídeo",
+        "metabolismo": "Hepático extenso de primer paso convertido casi totalmente en aciclovir y L-valina",
+        "eliminacion": "Excreción renal principalmente como aciclovir inalterado (> 80%)"
+      },
+      "indicaciones": "Tratamiento de herpes zóster, herpes labial, tratamiento y prevención de herpes genital e infecciones mucocutáneas por VHS.",
+      "contraindicaciones": "Hipersensibilidad al valaciclovir, aciclovir o a cualquiera de los excipientes.",
+      "precauciones": "Ajustar dosis en insuficiencia renal; mantener hidratación adecuada para prevenir cristaluria; precaución en pacientes ancianos.",
+      "advertencias": "Riesgo de púrpura trombocitopénica trombótica o síndrome urémico hemolítico en pacientes inmunocomprometidos graves a dosis elevadas.",
+      "embarazo_lactancia": "Categoría B en el embarazo; utilizar si el beneficio justifica el riesgo. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis o aumentar los intervalos entre tomas si el clearance de creatinina es menor a 50 ml/min.",
+        "hepatico": "No requiere ajuste de dosis en insuficiencia hepática leve a moderada."
+      },
+      "interacciones": "El probenecid y la cimetidina disminuyen la eliminación renal del aciclovir aumentando su concentración plasmática.",
+      "reacciones_adversas": "Cefalea; náuseas; mareos; dolor abdominal; vómitos; exantema cutáneo; elevación transitoria de enzimas hepáticas.",
+      "toxicidad_sobredosis": "Insuficiencia renal aguda, confusión, alucinaciones, agitación y coma.",
+      "antidotos": "Tratamiento sintomático de soporte e hidratación parenteral; la hemodiálisis remueve eficazmente el fármaco.",
+      "monitorizacion": {
+        "clinica": "Monitoreo de la función renal, estado de hidratación y signos neurológicos en ancianos o renales.",
+        "laboratorio": "Creatinina sérica, urea y análisis de orina completa."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal e iniciar el tratamiento precozmente dentro de las 48-72 horas del brote.",
+        "durante": "Monitorear el volumen de diuresis y la tolerancia digestiva.",
+        "despues": "Valorar la cicatrización completa de las lesiones vesiculares."
+      },
+      "presentaciones": "Comprimidos de 500 mg y 1000 mg.",
+      "dosis": {
+        "adultos": "Herpes zóster: 1000 mg cada 8 horas por 7 días; Herpes genital: 500 mg a 1000 mg cada 12 horas por 3 a 10 días.",
+        "pediatrico": "Uso en mayores de 12 años a dosis de adultos; 20 mg/kg cada 8 horas en niños con varicela según indicación.",
+        "geriatrico": "Ajustar la dosis según el clearance de creatinina y mantener hidratación abundante."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución ni dilución por ser comprimidos orales.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente en lugar seco.",
+      "concentracion": "1000 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de neurotoxicidad y fallo renal agudo en pacientes deshidratados o con falla renal no ajustada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar un aporte hídrico suficiente durante el tratamiento para prevenir daño renal.;",
+          "Verificar la función renal basal del paciente para ajustar la pauta posológica.;",
+          "Controlar la aparición de signos de confusión o alucinaciones en adultos mayores.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos con abundante agua a intervalos regulares según lo prescrito.;",
+          "Comenzar el tratamiento tan pronto como aparezcan los primeros síntomas del brote herpético.;",
+          "Informar de inmediato si nota cambios en el volumen de orina o mareos intensos.;"
+        ]
+      }
     }
   ]
 }
