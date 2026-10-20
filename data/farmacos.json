@@ -17947,6 +17947,73 @@
           "Notificar la aparición de oscurecimiento o cambios en la piel y uñas."
         ]
       }
+    },
+    {
+      "id": "244",
+      "nombre_generico": "Dactinomicina",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Dactinomicina (Actinomicina D)",
+        "clasificacion": "Antineoplásico, antibiótico citotóxico (cromopéptido)",
+        "efecto_terapeutica": "Citotóxico e inhibidor de la transcripción de ARN de alta potencia en tumores pediátricos y ginecológicos",
+        "mecanismo_accion": "Se intercala de forma específica entre los pares de bases guanina-citocina del ADN, bloqueando el avance de la ARN polimerasa e inhibiendo la síntesis de ARN y proteínas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Extenso volumen de distribución con acumulación en tejidos nucleados; no cruza la barrera hematoencefálica de manera significativa",
+        "metabolismo": "Metabolización hepática insignificante",
+        "eliminacion": "Excreción biliar/fecal principal (50%) y renal (30%) en forma inalterada con vida media prolongada"
+      },
+      "indicaciones": "Tumor de Wilms, rabdomiosarcoma, tumor de Ewing, coriocarcinoma y neoplasia trofoblástica gestacional, sarcoma de Kaposi y carcinoma testicular no seminomatoso.",
+      "contraindicaciones": "Hipersensibilidad a la dactinomicina; infección activa grave por varicela o zóster (riesgo de infección sistémica mortal); embarazo y lactancia.",
+      "precauciones": "Agente vesicante extremadamente potente (riesgo de necrosis tisular por extravasación); mielosupresión grave; hepatotoxicidad con enfermedad venooclusiva (VOD); radiosensibilizador severo.",
+      "advertencias": "Potencia notablemente las reacciones por radioterapia (fenómeno de reactivación de la radiación o 'radiation recall').",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico y embriotóxico grave. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Disminuir dosis en insuficiencia renal severa.",
+        "hepatico": "Reducir la dosis al 50% en presencia de insuficiencia hepática o elevación importante de bilirrubina."
+      },
+      "interacciones": "Aumento drástico de la toxicidad tisular con radioterapia concomitante; disminuye la respuesta inmune a vacunas a virus vivos.",
+      "reacciones_adversas": "Mielosupresión (neutropenia, trombocitopenia); alopecia; mucositis severa; náuseas; vómitos; hepatotoxicidad (enfermedad venooclusiva); eritema en zonas previamente irradiadas; necrosis por extravasación.",
+      "toxicidad_sobredosis": "Mielosupresión irrecuperable, mucositis ulcerosa masiva, falla hepática y muerte.",
+      "antidotos": "Tratamiento de soporte, profilaxis/manejo de VOD con defibrotida y medidas locales heladas en extravasación.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la zona de venoclisis, hepatometría, peso corporal diario (retención hídrica por VOD), estomatitis y temperatura.",
+        "laboratorio": "Hemograma completo diario o trisemanario, bilirrubina, transaminasas y pruebas renales."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la vía venosa central o la permeabilidad venosa de un brazo con retorno venoso claro; controlar la función hepática.",
+        "durante": "Administrar por infusión en Y mientras fluye solución fisiológica para diluir la concentración vascular.",
+        "despues": "Monitorear la aparición de ictericia o aumento del perímetro abdominal."
+      },
+      "presentaciones": "Frasco ampolla de 0.5 mg (500 mcg) de polvo liofilizado.",
+      "dosis": {
+        "adultos": "15 mcg/kg/día (o 400 a 600 mcg/m²/día) IV durante 5 días consecutivos cada 3 a 4 semanas.",
+        "pediatrico": "15 mcg/kg/día (o 400 a 600 mcg/m²/día) IV por 5 días en protocolos oncológicos pediátricos (ajustar por peso en lactantes).",
+        "geriatrico": "Reducir la dosis según la reserva hematológica y función hepática."
+      },
+      "vias_administracion": "Intravenosa exclusiva en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril (sin conservantes) y diluir en 50 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 10 a 15 minutos o inyección directa en tubuladura con flujo libre.",
+      "estabilidad_soluciones": "Usar la solución reconstituida inmediatamente tras su preparación.",
+      "concentracion": "0.5 mg (500 mcg) por frasco ampolla.",
+      "alarma_riesgo": "Vesicante extremo con riesgo de necrosis tisular profunda si se extravasa y enfermedad venooclusiva hepática.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar el retorno venoso continuo durante la infusión por ser un vesicante de extrema peligrosidad.;",
+          "Controlar la función hepática y el peso corporal para detectar tempranamente enfermedad venooclusiva.;",
+          "Evitar la administración en extremidades o zonas que hayan recibido radioterapia reciente.;"
+        ],
+        "educacion_paciente": [
+          "Notificar de inmediato cualquier sensación de dolor, ardor o hinchazón en la vena durante la inyección.;",
+          "Avisar si nota tinte amarillo en los ojos, aumento de tamaño del abdomen o llagas dolorosas en la boca.;",
+          "Avisar si la piel previamente irradiada se pone roja o inflamada."
+        ]
+      }
     }
   ]
 }
