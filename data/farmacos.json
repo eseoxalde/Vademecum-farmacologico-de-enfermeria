@@ -13994,6 +13994,73 @@
           "Notificar al personal de enfermería si presenta picazón o enrojecimiento en la piel."
         ]
       }
+    },
+    {
+      "id": "185",
+      "nombre_generico": "Cefazolina",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Cefazolina",
+        "clasificacion": "Antibiótico, cefalosporina de 1ª generación",
+        "efecto_terapeutica": "Bactericida de amplio uso profiláctico con alta actividad sobre Staphylococcus aureus (sensible a meticelina) y Streptococcus",
+        "mecanismo_accion": "Inhibe la síntesis de la pared celular bacteriana por unión competitiva a las proteínas fijadoras de penicilina (PBP)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía IV o IM con disponibilidad completa",
+        "distribucion": "Amplia distribución en tejidos corporales, hueso, vesícula biliar y líquido sinovial; no cruza la barrera hematoencefálica",
+        "metabolismo": "No sufre metabolismo significativo",
+        "eliminacion": "Excreción renal inalterada por filtración glomerular y secreción tubular (> 80%)"
+      },
+      "indicaciones": "Profilaxis quirúrgica perioperatoria, infecciones de piel y tejidos blandos, infecciones osteoarticulares, profilaxis de endocarditis y bacteriemia por Staphylococcus sensible.",
+      "contraindicaciones": "Hipersensibilidad a la cefazolina, cefalosporinas o antecedentes de anafilaxia a penicilinas.",
+      "precauciones": "Ajustar dosis en insuficiencia renal; precaución en pacientes con historia de colitis ulcerosa o enteritis.",
+      "advertencias": "Riesgo de sensibilidad cruzada con otros betalactámicos y desarrollo de colitis pseudomembranosa.",
+      "embarazo_lactancia": "Categoría B en el embarazo; uso muy seguro e indicado profilácticamente. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "Espaciar el intervalo a cada 12 horas si el clearance de creatinina es de 10-30 ml/min; cada 24 horas si es menor a 10 ml/min.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "El probenecid bloquea su secreción tubular aumentando sus niveles; potencia el efecto neurotóxico o nefrotóxico de aminoglucósidos.",
+      "reacciones_adversas": "Flebitis en el sitio de inyección; erupción cutánea; náuseas; vómitos; diarrea; eosinofilia; elevación leve de transaminasas.",
+      "toxicidad_sobredosis": "Neurotoxicidad, mioclonías, mareos y convulsiones en fallas renales graves.",
+      "antidotos": "Tratamiento sintomático de soporte y hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control de signos de anafilaxia, sitio de inyección o catéter venoso y respuesta a la profilaxis.",
+        "laboratorio": "Función renal y hemograma en tratamientos de más de 10 días."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar antecedentes de anafilaxia a penicilinas y administrar la profilaxis 30-60 minutos antes de la incisión quirúrgica.",
+        "durante": "Monitorear la aparición de urticaria o hipotensión durante la infusión IV.",
+        "despues": "Valorar la ausencia de infecciones del sitio quirúrgico."
+      },
+      "presentaciones": "Frasco ampolla inyectable de 500 mg, 1000 mg y 2000 mg.",
+      "dosis": {
+        "adultos": "Infecciones: 1 g a 2 g cada 8 horas IV o IM; Profilaxis quirúrgica: 1 g a 2 g IV 30-60 min antes de la cirugía.",
+        "pediatrico": "25 mg/kg a 50 mg/kg/día divididos cada 6 u 8 horas por vía IV o IM.",
+        "geriatrico": "Ajustar la dosis posológica según la función renal."
+      },
+      "vias_administracion": "Intravenosa e intramuscular.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla y diluir en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar la infusión IV en 20 a 30 minutos (o bolo directo en 3 a 5 minutos).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 10 días bajo refrigeración (2°C - 8°C).",
+      "concentracion": "100 mg/ml (concentración máxima recomendada para inyección).",
+      "alarma_riesgo": "Riesgo de shock anafiláctico en pacientes con alergia no declarada a betalactámicos.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la dosis profiláctica quirúrgica exactamente entre 30 y 60 minutos antes de la incisión de piel.;",
+          "Rotar y evaluar el sitio de punción venosa periférica para prevenir la aparición de flebitis.;",
+          "Confirmar que el paciente no posea antecedentes de anafilaxia a las penicilinas.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento se aplica en el quirófano para prevenir infecciones de la herida quirúrgica.;",
+          "Avisar de inmediato si presenta dificultad para respirar, mareos o picazón en el cuerpo.;",
+          "Informar si presenta náuseas o molestias en la zona de la inyección."
+        ]
+      }
     }
   ]
 }
