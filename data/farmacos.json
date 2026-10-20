@@ -17344,6 +17344,73 @@
           "Informar de inmediato si presenta fiebre, escalofríos, llagas en la boca o dificultad para respirar."
         ]
       }
+    },
+    {
+      "id": "235",
+      "nombre_generico": "6-Mercaptopurina",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Mercaptopurina (6-MP)",
+        "clasificacion": "Antineoplásico e inmunosupresor, antimetabolito análogo de la purina",
+        "efecto_terapeutica": "Citotóxico e inmunosupresor de fase S específica del ciclo celular en leucemias y patologías inflamatorias",
+        "mecanismo_accion": "Prodroga convertida intracelularmente en nucleótidos de tIoguanina (TGN), los cuales se incorporan al ADN y ARN e inhiben la síntesis de purinas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral variable e incompleta (biodisponibilidad media del 50%); los alimentos disminuyen su absorción",
+        "distribucion": "Amplia distribución tisular; baja penetración a través de la barrera hematoencefálica",
+        "metabolismo": "Hepático e intestinal extenso por la xantino oxidasa (XO) y la tiopurina metiltransferasa (TPMT) a metabolitos inactivos",
+        "eliminacion": "Excreción renal en forma de metabolitos inactivos (50% en 24 horas)"
+      },
+      "indicaciones": "Mantenimiento de la remisión en leucemia linfoblástica aguda (LLA), leucemia mieloide crónica y enfermedades inflamatorias intestinales graves (enfermedad de Crohn, colitis ulcerosa).",
+      "contraindicaciones": "Hipersensibilidad a la mercaptopurina; insuficiencia hepática o medular severa; embarazo y lactancia en uso oncológico.",
+      "precauciones": "Riesgo de mielosupresión grave; toxicidad incrementada en pacientes con polimorfismos o deficiencia de la enzima TPMT (tiopurina metiltransferasa); hepatotoxicidad.",
+      "advertencias": "El alopurinol inhibe la xantino oxidasa, requiriendo una reducción obligatoria del 75% en la dosis de 6-mercaptopurina para evitar una sobredosis mortal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis en insuficiencia renal moderada a severa.",
+        "hepatico": "Reducir la dosis o suspender en insuficiencia hepática grave o ictericia."
+      },
+      "interacciones": "El alopurinol y el febuxostat bloquean su metabolismo elevando su toxicidad un 400% (exigen reducir la dosis); los aminosalicilatos (mesalazina) inhiben la TPMT aumentando la mielosupresión.",
+      "reacciones_adversas": "Mielosupresión (leucopenia, trombocitopenia, anemia); hepatotoxicidad (ictericia colestásica, elevación de transaminasas); náuseas; vómitos; anorexia; estomatitis; exantema.",
+      "toxicidad_sobredosis": "Mielosupresión profunda, disfunción hepática severa y sangrado gastrointestinal.",
+      "antidotos": "Tratamiento de soporte mieloablativo, transfusiones y factores hematopoyéticos.",
+      "monitorizacion": {
+        "clinica": "Control de signos de sangrado, ictericia, fiebre, infecciones y tolerancia digestiva.",
+        "laboratorio": "Hemograma completo semanal (recuento de plaquetas y leucocitos), perfil hepático y actividad de TPMT previa."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función hepática, hemograma basal y considerar la determinación del fenotipo/genotipo de la enzima TPMT.",
+        "durante": "Monitorear la caída de los leucocitos para ajustar la dosis de mantenimiento.",
+        "despues": "Valorar la remisión hematológica de la leucemia."
+      },
+      "presentaciones": "Comprimidos de 50 mg.",
+      "dosis": {
+        "adultos": "Oncológico: 1.5 mg/kg a 2.5 mg/kg/día por vía oral (habitual 50 mg a 100 mg diarios).",
+        "pediatrico": "50 mg/m²/día por vía oral en dosis única diaria (ajustando según tolerancia leucocitaria).",
+        "geriatrico": "Dosis inicial reducida adaptada a la reserva medular."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "50 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de toxicidad medular mortal si se coadministra con alopurinol sin reducir el 75% de la dosis.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar rigurosamente si el paciente recibe alopurinol para asegurar que la dosis de 6-MP se reduzca al 25% de la habitual.;",
+          "Controlar semanalmente el hemograma completo para vigilar la leucopenia y ajustar posología.;",
+          "Vigilar la aparición de ictericia, coluria o elevación de enzimas hepáticas.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación por vía oral a la misma hora todos los días con el estómago vacío (1 hora antes o 2 horas después de comer).;",
+          "Informar de inmediato si nota coloración amarillenta en la piel u ojos, orina oscura o heces pálidas.;",
+          "Avisar urgente ante fiebre, escalofríos, puntos rojos en la piel o sangrados inusuales."
+        ]
+      }
     }
   ]
 }
