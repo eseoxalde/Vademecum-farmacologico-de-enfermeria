@@ -13659,6 +13659,73 @@
           "Avisar de inmediato si aparece sarpullido en la piel, fiebre o adormecimiento en los pies.;"
         ]
       }
+    },
+    {
+      "id": "180",
+      "nombre_generico": "Nifurtimox",
+      "letra": "N",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Nifurtimox",
+        "clasificacion": "Antiparasitario, tripanosomicida (nitrofurano)",
+        "efecto_terapeutica": "Reducción y eliminación del Trypanosoma cruzi en la enfermedad de Chagas",
+        "mecanismo_accion": "Sufre reducción biorreductiva generando anión superóxido, peróxido de hidrógeno y radicales libres que provocan toxicidad oxidativa celular en el parásito"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción oral; su biodisponibilidad aumenta si se administra con alimentos",
+        "distribucion": "Amplia distribución por los tejidos corporales",
+        "metabolismo": "Hepático extenso de primer paso produciendo metabolitos reactivos",
+        "eliminacion": "Renal (menos del 1% inalterado) y fecal"
+      },
+      "indicaciones": "Tratamiento de la enfermedad de Chagas (infección por Trypanosoma cruzi) como alternativa al benznidazol.",
+      "contraindicaciones": "Hipersensibilidad al nifurtimox; enfermedad psiquiátrica severa; afecciones del sistema nervioso central o epilepsia; embarazo.",
+      "precauciones": "Alta frecuencia de efectos adversos digestivos, neurológicos y psiquiátricos; requiere estricto control de peso.",
+      "advertencias": "Puede desencadenar o agravar transtornos psiquiátricos, convulsiones, polineuropatías y pérdida de peso severa.",
+      "embarazo_lactancia": "Contraindicado en el embarazo. Se desaconseja la lactancia materna durante el tratamiento.",
+      "ajustes": {
+        "renal": "Precaución y monitorización en insuficiencia renal.",
+        "hepatico": "Precaución en insuficiencia hepática."
+      },
+      "interacciones": "El consumo de alcohol aumenta la frecuencia y gravedad de las reacciones adversas centrales.",
+      "reacciones_adversas": "Anorexia; pérdida de peso marcada; náuseas; vómitos; insomnio; vértigo; excitabilidad; polineuropatía periférica; mialgias.",
+      "toxicidad_sobredosis": "Neurotoxicidad central y periférica severa, convulsiones y alteración psiquiátrica grave.",
+      "antidotos": "Suspender el fármaco y aplicar medidas sintomáticas de soporte.",
+      "monitorizacion": {
+        "clinica": "Control semanal de peso corporal, estado psiquiátrico, examen neurológico y piel.",
+        "laboratorio": "Hemograma completo, transaminasas y análisis de orina periódicos."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar evaluación neurológica y psiquiátrica previa, peso corporal basal y descartar embarazo.",
+        "durante": "Controlar el peso semanalmente y la presencia de temblores o insomnio severo.",
+        "despues": "Valorar el estado nutricional y realizar pruebas serológicas de Chagas."
+      },
+      "presentaciones": "Comprimidos de 120 mg.",
+      "dosis": {
+        "adultos": "8 mg/kg a 10 mg/kg/día divididos en 3 tomas diarias tras las comidas por 60 a 90 días.",
+        "pediatrico": "10 mg/kg a 15 mg/kg/día divididos en 3 a 4 tomas diarias por 60 días en niños y adolescentes.",
+        "geriatrico": "Evaluación cuidadosa del estado neurológico y tolerancia."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; tomar los comprimidos enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente en lugar fresco y seco.",
+      "concentracion": "120 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de desnutrición por anorexia intensa, psicosis transitoria y convulsiones.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Pesar al paciente semanalmente para detectar pérdidas de peso significativas.;",
+          "Administrar los comprimidos inmediatamente después de las comidas para mejorar la tolerancia.;",
+          "Monitorear la aparición de insomnio, cambios de conducta o parestesias.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación tres veces al día con los alimentos principales.;",
+          "Prohibido el consumo de bebidas alcohólicas durante el tratamiento.;",
+          "Avisar al equipo de salud si presenta inapetencia severa, mareos o temblores.;"
+        ]
+      }
     }
   ]
 }
