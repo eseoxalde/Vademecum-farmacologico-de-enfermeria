@@ -17545,6 +17545,73 @@
           "Notificar al médico si presenta falta de aire al acostarse, hinchazón en los pies o palpitaciones."
         ]
       }
+    },
+    {
+      "id": "238",
+      "nombre_generico": "Doxorrubicina Liposomal",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de doxorrubicina liposomal pegilada",
+        "clasificacion": "Antineoplásico, antibiótico antracíclico en formulación de liposomas pegilados",
+        "efecto_terapeutica": "Citotóxico de liberación prolongada y penetración tumoral selectiva mediante vasculatura permeable",
+        "mecanismo_accion": "Encapsulada en liposomas pegilados que evitan su detección por el sistema reticuloendotelial, aumentando su tiempo en circulación y concentrándose en el tejido tumoral"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución muy reducido confined al espacio vascular; penetra preferentemente en endotelios tumorales hiperpermeables",
+        "metabolismo": "Liberación lenta del fármaco libre desde el liposoma y metabolismo hepático posterior a doxorrubicinol",
+        "eliminacion": "Aclaramiento plasmático muy lento; excreción biliar de la fracción libre"
+      },
+      "indicaciones": "Cáncer de mama metastásico con riesgo cardíaco, cáncer de ovario avanzado recurrente, sarcoma de Kaposi relacionado con el SIDA y mieloma múltiple (con bortezomib).",
+      "contraindicaciones": "Hipersensibilidad al clorhidrato de doxorrubicina o a los componentes liposomales; embarazo y lactancia.",
+      "precauciones": "Riesgo elevado de síndrome mano-pie (eritroditesia palmo-plantar); reacciones agudas asociadas a la infusión (rubor, broncoespasmo, hipotensión); mielosupresión.",
+      "advertencias": "Presenta menor cardiotoxicidad que la doxorrubicina convencional, pero mantiene el riesgo de insuficiencia cardíaca a dosis acumulativas elevadas.",
+      "embarazo_lactancia": "Categoría D en el embarazo; teratogénico y fetotóxico. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis al 50% si la bilirrubina sérica está entre 1.2 y 3 mg/dl; reducir al 75% si es > 3 mg/dl."
+      },
+      "interacciones": "Evitar la mezcla con otros fármacos en la misma vía; menor interacción cardiotóxica comparada con la presentación convencional.",
+      "reacciones_adversas": "Síndrome mano-pie (descamación, eritema en palmas y plantas); estomatitis; náuseas; astenia; reacción infusional aguda; mielosupresión; alopecía leve.",
+      "toxicidad_sobredosis": "Eritroditesia palmo-plantar severa, mucositis e inmunosupresión.",
+      "antidotos": "Tratamiento de soporte, suspensión temporal de la infusión en reacciones agudas y corticoides.",
+      "monitorizacion": {
+        "clinica": "Control de reacción infusional en los primeros minutos, lesiones cutáneas en manos y pies, mucositis y FEVI.",
+        "laboratorio": "Ecocardiograma (FEVI) periódico, hemograma completo y bilirrubina total."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar que la dilución se realice únicamente en dextrosa al 5% y administrar premedicación si hay antecedente de reacción.",
+        "durante": "Iniciar la infusión a velocidad muy lenta (1 mg/min) para prevenir reacciones agudas asociadas.",
+        "despues": "Valorar la aparición de eritema o dolor en manos y plantas de los pies."
+      },
+      "presentaciones": "Frasco ampolla de 20 mg/10 ml y 50 mg/25 ml de suspensión liposomal.",
+      "dosis": {
+        "adultos": "Ovario/Mama: 50 mg/m² IV cada 4 semanas; Sarcoma de Kaposi: 20 mg/m² IV cada 2 a 3 semanas.",
+        "pediatrico": "Uso no establecido formalmente en pediatría.",
+        "geriatrico": "Dosis habitual monitoreando la tolerancia cutánea e infusional."
+      },
+      "vias_administracion": "Intravenosa en infusión (prohibido administrar en bolo o sin diluir).",
+      "preparacion": {
+        "dilucion": "Diluir la dosis requerida en 250 ml a 500 ml de solución de dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible exclusivamente con dextrosa al 5% (incompatible con solución fisiológica o filtros en línea menores a 1.2 micras)."
+      },
+      "velocidad_infusion": "Iniciar a 1 mg/minut para minimizar reacciones profilácticas; si se tolera, completar en 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas refrigerada (2°C - 8°C).",
+      "concentracion": "2 mg/ml (concentración de la presentación liposomal original).",
+      "alarma_riesgo": "Precipitación e inestabilidad liposomal si se diluye en solución fisiológica y reacciones anafilactoides asociadas a la infusión rápida.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Diluir exclusivamente en dextrosa al 5% (el cloruro de sodio precipita la formulación liposomal).;",
+          "Iniciar la infusión de forma muy lenta (1 mg/minuto) para prevenir reacciones pseudoalérgicas.;",
+          "No utilizar filtros en línea de poro menor a 1.2 micras durante la infusión.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato si siente sofoco, dolor en el pecho, opresión en la garganta o mareos durante la infusión.;",
+          "Aplicar cremas hidratantes en manos y pies y evitar el agua caliente o la fricción para prevenir ampollas.;",
+          "Informar si nota llagas dolorosas en la boca o enrojecimiento en las palmas."
+        ]
+      }
     }
   ]
 }
