@@ -14664,6 +14664,73 @@
           "Tomar la versión oral con o sin alimentos a intervalos regulares de 12 horas."
         ]
       }
+    },
+    {
+      "id": "195",
+      "nombre_generico": "Tedizolid",
+      "letra": "T",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Fosfato de tedizolid",
+        "clasificacion": "Antibiótico, oxazolidinona de 2ª generación",
+        "efecto_terapeutica": "Bacterostático y bactericida potente contra cocos grampositivos multirresistentes (SAMR, ERV)",
+        "mecanismo_accion": "Prodroga convertida a tedizolid que se une a la subunidad 50S del ribosoma bacteriano, inhibiendo la síntesis proteica con mayor potencia que el linezolid"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción oral con biodisponibilidad del 91%; independiente de los alimentos",
+        "distribucion": "Extensa distribución tisular con elevada unión a proteínas plasmáticas (70 a 90%)",
+        "metabolismo": "Hepático mediante sulfotransferasas a metabolitos inactivos (no usa sistema CYP450)",
+        "eliminacion": "Excreción biliar/fecal (82%) y renal (18%)"
+      },
+      "indicaciones": "Infecciones bacterianas agudas de la piel y estructuras de la piel (IBAPP) causadas por microorganismos grampositivos sensibles (SAMR, Streptococcus).",
+      "contraindicaciones": "Hipersensibilidad al fosfato de tedizolid o componentes de la fórmula.",
+      "precauciones": "Mielosupresión (menor riesgo que con linezolid en tratamientos de corta duración); neuropatía en uso prolongado.",
+      "advertencias": "Inhibidor reversible de la monoaminooxidasa (MAO) in vitro, aunque con menor interacción clínica que linezolid.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo-beneficio. Se desconoce si se excreta en la leche materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en ningún grado de insuficiencia renal o hemodiálisis.",
+        "hepatico": "No requiere ajuste de dosis en insuficiencia hepática."
+      },
+      "interacciones": "Inhibidor de transportadores BCRP; precaución teórica con serotoninérgicos o vasopresores a dosis altas.",
+      "reacciones_adversas": "Náuseas; cefalea; diarrea; vómitos; mareos; exantema; trombocitopenia o anemia leves.",
+      "toxicidad_sobredosis": "Síntomas gastrointestinales y mielosupresión transitoria.",
+      "antidotos": "Tratamiento sintomático de soporte; la hemodiálisis no elimina significativamente el fármaco.",
+      "monitorizacion": {
+        "clinica": "Control del sitio de venoclisis, tolerancia digestiva y hemograma en esquemas prolongados.",
+        "laboratorio": "Hemograma completo previo y posterior al tratamiento."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar hemograma basal y características de la lesión cutánea.",
+        "durante": "Monitorear la tolerancia digestiva durante el tratamiento corto de 6 días.",
+        "despues": "Valorar la curación clínica de la infección de piel."
+      },
+      "presentaciones": "Comprimidos de 200 mg; frasco ampolla inyectable de 200 mg de liofilizado.",
+      "dosis": {
+        "adultos": "200 mg una vez al día por vía oral o IV durante 6 días.",
+        "pediatrico": "Uso en mayores de 12 años a dosis de 200 mg una vez al día.",
+        "geriatrico": "Dosis habitual de 200 mg una vez al día sin necesidad de ajustes."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con 4 ml de agua estéril y diluir en 250 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (incompatible con soluciones con dextrosa)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o refrigerado (2°C - 8°C).",
+      "concentracion": "0,8 mg/ml (concentración máxima en la solución diluida para infusión).",
+      "alarma_riesgo": "Incompatibilidad física y precipitación al diluir en soluciones que contengan dextrosa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Reconstituir e infundir la solución IV utilizando únicamente solución fisiológica.;",
+          "Administrar la infusión en un lapso continuo de 60 minutos.;",
+          "Garantizar la toma única diaria durante los 6 días prescritos.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el comprimido una vez al día a la misma hora con o sin alimentos.;",
+          "Completar los 6 días de tratamiento aunque observe mejoría en la piel antes.;",
+          "Avisar al médico si presenta náuseas intensas, mareos o sarpullido."
+        ]
+      }
     }
   ]
 }
