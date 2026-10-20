@@ -16741,6 +16741,73 @@
           "Avisar al médico de inmediato ante fiebre, tos seca, moratones o sangre al cepillarse las encías."
         ]
       }
+    },
+    {
+      "id": "226",
+      "nombre_generico": "Estreptozocina",
+      "letra": "E",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Estreptozocina",
+        "clasificacion": "Antineoplásico, nitrosourea alquilante glucosídica (específica del páncreas)",
+        "efecto_terapeutica": "Citotóxico selectivo para las células beta de los islotes pancreáticos",
+        "mecanismo_accion": "Inhibe la síntesis de ADN mediante la alquilación y generación de enlaces cruzados, afectando selectivamente las células beta del páncreas por su estructura acoplada a glucosamina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Se distribuye en hígado, riñones, páncreas e intraparenquimatosamente; baja penetración a LCR",
+        "metabolismo": "Hepático y renal acelerado a metabolitos inactivos",
+        "eliminacion": "Excreción renal masiva de metabolitos (60-70%) y respiratoria leve"
+      },
+      "indicaciones": "Tratamiento de tumores neuroendócrinos pancreáticos (insulinoma, glucagonoma metastásico u operables avanzados).",
+      "contraindicaciones": "Hipersensibilidad a la estreptozocina; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de nefrotoxicidad severa e insidiosa; hipoglucemia aguda por liberación masiva de insulina; náuseas graves.",
+      "advertencias": "Monitorear la función renal antes y durante el tratamiento debido a su elevada nefrotoxicidad acumulativa.",
+      "embarazo_lactancia": "Categoría D en el embarazo; mutagénico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis al 50% o suspender si la creatinina o la proteinuria aumentan de forma significativa.",
+        "hepatico": "Ajustar dosis en caso de disfunción hepática severa."
+      },
+      "interacciones": "Sinergismo de nefrotoxicidad con aminoglucósidos, anfotericina B y cisplatino; altera el metabolismo de la fenitoína.",
+      "reacciones_adversas": "Nefrotoxicidad (proteinuria, glucosuria, acidosis tubular renal); náuseas y vómitos severos; hipoglucemia aguda; hepatotoxicidad; diarrea.",
+      "toxicidad_sobredosis": "Nefrotoxicidad irreversible, necrosis tubular renal, coma hipoglucémico y mielosupresión.",
+      "antidotos": "Tratamiento de soporte, solución glucosada hipertónica IV e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control riguroso de la glucemia capilar, diuresis, proteinuria mediante tira reactiva y náuseas.",
+        "laboratorio": "Urea, creatinina, proteinuria de 24 horas, glucemia en ayunas, ionograma y hepatograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (proteinuria y creatinina) e instaurar hidratación parenteral preventiva.",
+        "durante": "Monitorear la glucemia para detectar de forma temprana episodios de hipoglucemia severa.",
+        "despues": "Valorar la reducción de la masa tumoral neuroendócrina y la función renal."
+      },
+      "presentaciones": "Frasco ampolla de 1 g (1000 mg) de liofilizado.",
+      "dosis": {
+        "adultos": "500 mg/m²/día IV por 5 días consecutivos cada 6 semanas; o 1000 mg/m² semanales por 2 semanas consecutivas.",
+        "pediatrico": "Uso bajo esquemas neuroendócrinos específicos pediátricos.",
+        "geriatrico": "Ajustar posología según la función renal basal e insulinemia."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con solución fisiológica o dextrosa al 5% y diluir en 250 ml a 500 ml de la misma solución.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 12 horas a temperatura ambiente o 24 horas refrigerado (2°C - 8°C).",
+      "concentracion": "2 mg/ml (concentración sugerida en la bolsa para infusión).",
+      "alarma_riesgo": "Riesgo muy alto de insuficiencia renal irreversible e hipoglucemia aguda sintomática.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV con adecuada hidratación y monitoreo de proteinuria por tira reactiva.;",
+          "Controlar la glucemia de forma seriada durante y después de la infusión por riesgo de hipoglucemia.;",
+          "Administrar premedicación antiemética potente antes de comenzar el tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Avisar inmediatamente si siente mareos, sudoración fría, temblores o palpitaciones (signos de azúcar baja).;",
+          "Informar si nota disminución en la cantidad de orina o hinchazón en las piernas.;",
+          "Consumir líquidos abundantes en su domicilio durante los días del tratamiento."
+        ]
+      }
     }
   ]
 }
