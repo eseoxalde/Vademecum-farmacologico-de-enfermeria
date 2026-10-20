@@ -14932,6 +14932,73 @@
           "Informar si nota urticaria o picazón en la piel durante la administración."
         ]
       }
+    },
+    {
+      "id": "199",
+      "nombre_generico": "Piperacilina - Tazobactam",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Piperacilina sódica / Tazobactam sódico",
+        "clasificacion": "Antibiótico, penicilina ureidopenicilina asociada a inhibidor de betalactamasas",
+        "efecto_terapeutica": "Bactericida de muy amplio espectro contra bacterias grampositivas, gramnegativas (incluyendo Pseudomonas aeruginosa) y anaerobias",
+        "mecanismo_accion": "La piperacilina inhibe la síntesis de la pared celular bacteriana; el tazobactam inhibe las betalactamasas (clase A de Ambler), protegiéndola de la degradación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa con biodisponibilidad del 100%",
+        "distribucion": "Amplia distribución en tejidos corporales, pulmón, bilis, músculo y líquido peritoneal; baja penetración a LCR no inflamado",
+        "metabolismo": "Hepático menor a metabolitos inactivos",
+        "eliminacion": "Excreción renal por filtración y secreción tubular (60-80% inalterado)"
+      },
+      "indicaciones": "Neumonía intrahospitalaria o asociada a ventilación, infecciones intraabdominales complicadas, infecciones urinarias complicadas, neutropenia febril e infecciones complicadas de piel y tejidos blandos.",
+      "contraindicaciones": "Hipersensibilidad a la piperacilina, a cualquier betalactámico o a inhibidores de betalactamasas.",
+      "precauciones": "Ajustar dosis en insuficiencia renal; riesgo de sangrado por disfunción plaquetaria a dosis elevadas; restricción de sodio.",
+      "advertencias": "Incremento de la nefrotoxicidad cuando se combina con vancomicina; riesgo de reacciones de hipersensibilidad graves.",
+      "embarazo_lactancia": "Categoría B en el embarazo; utilizar solo si es claramente necesario. Se excreta en baja cantidad en la leche materna.",
+      "ajustes": {
+        "renal": "Ajustar dosis y/o prolongar el intervalo entre dosis si el clearance de creatinina es menor a 50 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Aumenta la nefrotoxicidad en combinación con vancomicina; el probenecid eleva sus niveles plasmáticos; prolonga la acción del vecuronio.",
+      "reacciones_adversas": "Diarrea; náuseas; vómitos; exantema cutáneo; insomnio; elevación de transaminasas; trombocitopenia; leucopenia; flebitis.",
+      "toxicidad_sobredosis": "Excitabilidad neuromuscular y convulsiones en fallas renales no ajustadas.",
+      "antidotos": "Tratamiento de soporte; la hemodiálisis elimina el compuesto.",
+      "monitorizacion": {
+        "clinica": "Control de signos de anafilaxia, diuresis, características de las deposiciones y sitio venoso.",
+        "laboratorio": "Función renal, recuento de plaquetas, coagulograma e ionograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal y descartar antecedentes de alergia a penicilinas o cefalosporinas.",
+        "durante": "Monitorear la respuesta clínica y la diuresis durante las infusiones.",
+        "despues": "Valorar la resolución de la infección grave."
+      },
+      "presentaciones": "Frasco ampolla inyectable de 2,25 g (2 g piperacilina / 0,25 g tazobactam) y 4,5 g (4 g piperacilina / 0,5 g tazobactam).",
+      "dosis": {
+        "adultos": "3,375 g a 4,5 g cada 6 horas por vía IV (o infusión extendida de 3,375 g en 4 horas cada 8 horas).",
+        "pediatrico": "80 mg/10 mg/kg cada 6 u 8 horas por vía IV en mayores de 2 meses.",
+        "geriatrico": "Ajustar la dosis rigurosamente según el clearance de creatinina."
+      },
+      "vias_administracion": "Intravenosa exclusiva.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla y diluir en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (incompatible con aminoglucósidos y Ringer Lactato en algunas marcas)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en 30 minutos (o infusión extendida de 3 a 4 horas).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C).",
+      "concentracion": "200 mg/ml (concentración máxima de piperacilina en reconstitución directa).",
+      "alarma_riesgo": "Riesgo de nefrotoxicidad aguda combinada con vancomicina y reacciones anafilácticas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV en 30 minutos o según esquema de infusión extendida en 3 a 4 horas.;",
+          "No mezclar en el mismo sachet o vía de infusión con aminoglucósidos.;",
+          "Monitorear la función renal cuidadosamente si se coadministra con vancomicina.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que el medicamento combate infecciones graves en el ámbito hospitalario.;",
+          "Informar de inmediato si presenta dificultad para respirar, ronchas o mareos.;",
+          "Notificar al personal si presenta deposiciones líquidas frecuentes."
+        ]
+      }
     }
   ]
 }
