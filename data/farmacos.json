@@ -13726,6 +13726,73 @@
           "Avisar al equipo de salud si presenta inapetencia severa, mareos o temblores.;"
         ]
       }
+    },
+    {
+      "id": "181",
+      "nombre_generico": "Aztreonam",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Aztreonam",
+        "clasificacion": "Antibiótico, monobactámico",
+        "efecto_terapeutica": "Bactericida de amplio espectro exclusivo contra bacterias aerobias gramnegativas, incluyendo Pseudomonas aeruginosa",
+        "mecanismo_accion": "Se une selectivamente a la proteína fijadora de penicilina 3 (PBP-3) de bacterias gramnegativas aerobias, inhibiendo la síntesis de la pared celular y provocando la lisis bacteriana"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa o intramuscular con disponibilidad completa",
+        "distribucion": "Amplia distribución en tejidos corporales, bronquios, vesícula biliar y líquido cefalorraquídeo con meninges inflamadas",
+        "metabolismo": "Hepático menor por hidrólisis (6-16%)",
+        "eliminacion": "Excreción renal inalterada por filtración glomerular y secreción tubular (60-70%)"
+      },
+      "indicaciones": "Infecciones graves del tracto urinario, respiratorio inferior, intraabdominales, ginecológicas, septicemia e infecciones de piel y tejidos blandos por bacilos gramnegativos aeróbicos.",
+      "contraindicaciones": "Hipersensibilidad al aztreonam o a cualquier componente de la formulación.",
+      "precauciones": "Usar con precaución en pacientes con antecedentes de alergias a betalactámicos (aunque presenta baja reactividad cruzada con penicilinas y cefalosporinas, excepto ceftazidima).",
+      "advertencias": "Ajustar dosis en caso de insuficiencia renal; riesgo de sobreinfección por microorganismos no sensibles (grampositivos o hongos).",
+      "embarazo_lactancia": "Categoría B en el embarazo; se considera de uso seguro cuando es necesario. Se excreta en baja cantidad en la leche materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis a la mitad si el clearance de creatinina se encuentra entre 10 y 30 ml/min; un cuarto de la dosis si es menor a 10 ml/min.",
+        "hepatico": "No suele requerir ajuste inicial de dosis, pero se recomienda monitoreo en hepatopatía grave."
+      },
+      "interacciones": "El probenecid y la furosemida pueden aumentar ligeramente los niveles plasmáticos de aztreonam; sinergismo positivo con aminoglucósidos.",
+      "reacciones_adversas": "Flebitis en el sitio de inyección; erupción cutánea; náuseas; vómitos; diarrea; elevación transitoria de transaminasas.",
+      "toxicidad_sobredosis": "Irritabilidad neuromuscular, convulsiones y alteración de la función renal.",
+      "antidotos": "Tratamiento de soporte e hidratación parenteral; la hemodiálisis y diálisis peritoneal remueven eficientemente el fármaco.",
+      "monitorizacion": {
+        "clinica": "Control de signos de anafilaxia, sitio de inyección venosa y frecuencia de deposiciones.",
+        "laboratorio": "Función renal, enzimas hepáticas y hemograma en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal basal y descartar antecedentes de hipersensibilidad a betalactámicos.",
+        "durante": "Monitorear la aparición de erupciones en la piel, diarrea o flebitis en el acceso venoso.",
+        "despues": "Valorar la remisión de los signos clínicos de infección."
+      },
+      "presentaciones": "Frasco ampolla inyectable de 500 mg, 1000 mg y 2000 mg.",
+      "dosis": {
+        "adultos": "1 g a 2 g cada 8 a 12 horas por vía IV o IM según la gravedad de la infección (máximo 8 g/día).",
+        "pediatrico": "30 mg/kg a 50 mg/kg cada 6 u 8 horas por vía IV en niños mayores de 9 meses.",
+        "geriatrico": "Ajustar la dosis de acuerdo con la función renal calculada."
+      },
+      "vias_administracion": "Intravenosa e intramuscular.",
+      "preparacion": {
+        "dilucion": "Reconstituir el frasco ampolla con agua estéril y diluir en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 20 a 60 minutos (o inyección IV directa en 3 a 5 minutos).",
+      "estabilidad_soluciones": "Estable durante 48 horas a temperatura ambiente o 7 días refrigerado (2°C - 8°C).",
+      "concentracion": "20 mg/ml (concentración máxima recomendada para infusión IV).",
+      "alarma_riesgo": "Riesgo de sobreinfección por bacterias grampositivas u hongos en terapias prolongadas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV lentamente en un período de 20 a 60 minutos.;",
+          "Rotar los sitios de punción venosa periférica para prevenir flebitis.;",
+          "Controlar la función renal antes y durante el tratamiento para ajustar la dosis.;"
+        ],
+        "educacion_paciente": [
+          "Explicar al paciente que el medicamento se aplica por vía intravenosa a intervalos regulares.;",
+          "Informar de inmediato si nota picazón, erupción en la piel o dificultad para respirar.;",
+          "Notificar si presenta diarrea líquida e intensa durante o después del tratamiento.;"
+        ]
+      }
     }
   ]
 }
