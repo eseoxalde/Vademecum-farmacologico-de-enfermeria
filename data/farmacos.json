@@ -13458,6 +13458,73 @@
           "Informar si presenta mareos intensos o brotes alérgicos en la piel.;"
         ]
       }
+    },
+    {
+      "id": "177",
+      "nombre_generico": "Metronidazol",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Metronidazol",
+        "clasificacion": "Antiparasitario, antiprotozoario y antibacteriano (nitroimidazol)",
+        "efecto_terapeutica": "Bactericida y amebicida sobre bacterias anaerobias y protozoos",
+        "mecanismo_accion": "Se reduce intracelularmente en organismos sensibles produciendo metabolitos intermedios inestables que dañan el ADN y causan la muerte celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral (> 80%); administración IV con biodisponibilidad del 100%",
+        "distribucion": "Excelente distribución por todos los tejidos y fluidos corporales (SNC, saliva, abscesos)",
+        "metabolismo": "Hepático extenso por oxidación y glucuronidación",
+        "eliminacion": "Renal (60-80%) y biliar/fecal; otorga un color pardo-rojizo a la orina"
+      },
+      "indicaciones": "Amebiasis, giardiasis, trichomoniasis, vaginitis bacteriana, infecciones anaerobias intraabdominales, ginecológicas y profilaxis quirúrgica.",
+      "contraindicaciones": "Hipersensibilidad a los nitroimidazoles; primer trimestre del embarazo en trichomoniasis; consumo de alcohol.",
+      "precauciones": "Enfermedades del sistema nervioso central; insuficiencia hepática severa; discrasias sanguíneas.",
+      "advertencias": "Reacción tipo disulfiram con la ingesta de alcohol; riesgo de neurotoxicidad (encefalopatía, neuropatía periférica) en dosis altas.",
+      "embarazo_lactancia": "Categoría B en embarazo; evitar en el 1° trimestre. Excreción en leche materna; suspender la lactancia temporalmente.",
+      "ajustes": {
+        "renal": "No suele requerir ajuste de dosis; suplementar dosis poshemodiálisis.",
+        "hepatico": "Reducir la dosis al 50% en insuficiencia hepática grave."
+      },
+      "interacciones": "Efecto disulfiram con alcohol; incrementa niveles de warfarina, litio y busulfán; fenobarbital disminuye su eficacia.",
+      "reacciones_adversas": "Sabor metálico; náuseas; anorexia; orina oscura; cefalea; mareos; neuropatía periférica en uso prolongado.",
+      "toxicidad_sobredosis": "Ataxia, convulsiones, neuropatía periférica grave y vómitos.",
+      "antidotos": "Tratamiento sintomático de soporte.",
+      "monitorizacion": {
+        "clinica": "Control del estado neurológico, parestesias, función hepática y dolor abdominal.",
+        "laboratorio": "Hemograma completo y enzimas hepáticas en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función hepática y advertir sobre la estricta prohibición del alcohol.",
+        "durante": "Monitorear la aparición de hormigueo en extremidades o mareos.",
+        "despues": "Valorar la erradicación del parásito o resolución de la infección."
+      },
+      "presentaciones": "Comprimidos de 250 mg y 500 mg; suspensión oral de 250 mg/5 ml; frasco ampolla inyectable de 500 mg/100 ml; óvulos de 500 mg.",
+      "dosis": {
+        "adultos": "Oral: 500 mg cada 8 horas por 7 a 10 días; IV: 500 mg cada 8 horas en infusión.",
+        "pediatrico": "30 mg/kg a 50 mg/kg/día divididos cada 8 horas por vía oral o IV.",
+        "geriatrico": "Reducir la dosis si existe insuficiencia hepática asociada."
+      },
+      "vias_administracion": "Vía oral, intravenosa, vaginal y tópica.",
+      "preparacion": {
+        "dilucion": "Presentación IV lista para infusión; no requiere reconstitución.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar la infusión IV lentamente en un período de 30 a 60 minutos.",
+      "estabilidad_soluciones": "Conservar protegido de la luz a temperatura ambiente; no refrigerar.",
+      "concentracion": "5 mg/ml (solución lista para infusión).",
+      "alarma_riesgo": "Reacción severa tipo disulfiram (colapso, sofoco, taquicardia) si se consume alcohol.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV lenta en no menos de 30 a 60 minutos.;",
+          "Advertir sobre el oscurecimiento inofensivo de la orina.;",
+          "Descontinuar de inmediato si el paciente manifiesta parestesias o adormecimiento en manos o pies.;"
+        ],
+        "educacion_paciente": [
+          "Evitar por completo bebidas alcohólicas durante el tratamiento y hasta 48 horas después.;",
+          "Tomar la medicación con las comidas para reducir el sabor metálico y las náuseas.;",
+          "Tratar a la pareja sexual en infecciones por Trichomonas vaginalis para evitar reinfección.;"
+        ]
+      }
     }
   ]
 }
