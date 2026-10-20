@@ -17009,6 +17009,73 @@
           "Evitar el consumo de alcohol y suspender la toma consultando al médico ante cualquier signo de infección."
         ]
       }
+    },
+    {
+      "id": "230",
+      "nombre_generico": "Gemcitabina",
+      "letra": "G",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de gemcitabina",
+        "clasificacion": "Antineoplásico, antimetabolito análogo de la pirimidina",
+        "efecto_terapeutica": "Citotóxico e inhibidor de la síntesis de ADN de fase específica (fase S)",
+        "mecanismo_accion": "Metabolizado intracelularmente a difosfato y trifosfato activo; el difosfato inhibe la ribonucleótidoreductasa bloqueando la síntesis de desoxirribonucleótidos, y el trifosfato se incorpora al ADN finalizando la cadena"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Bajo volumen de distribución tisular; penetración moderada en tejidos y tercer espacio",
+        "metabolismo": "Inactivación rápida por la enzima citidindeaminasa tisular y plasmática a su metabolito inactivo dFdU",
+        "eliminacion": "Excreción renal casi exclusiva en forma de metabolito inactivo (92-98% en una semana)"
+      },
+      "indicaciones": "Cáncer de páncreas avanzado, cáncer de pulmón no microcítico, cáncer de mama metastásico (con paclitaxel), cáncer de vejiga y de ovario.",
+      "contraindicaciones": "Hipersensibilidad a la gemcitabina; mielosupresión grave; embarazo y lactancia.",
+      "precauciones": "Riesgo de toxicidad pulmonar grave (neumonitis, edema pulmonar); síndrome urémico hemolítico (SUH); mielosupresión (neutropenia y trombocitopenia).",
+      "advertencias": "La velocidad de infusión influye directamente en la toxicidad; no exceder los 60 minutos de infusión para evitar eventos adversos graves.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Precaución en insuficiencia renal leve a moderada; ajustar intervalo si existe alteración funcional.",
+        "hepatico": "Precaución en insuficiencia hepática o antecedentes de metástasis hepáticas."
+      },
+      "interacciones": "Radioterapia concomitante incrementa la toxicidad tisular severa (radiosensibilizador potente); mielotoxicidad aditiva con otros quimioterápicos.",
+      "reacciones_adversas": "Mielosupresión; náuseas; vómitos; elevación de transaminasas y fosfatasa alcalina; proteinuria y hematuria; edema periférico; alopecia; rash cutáneo y prurito.",
+      "toxicidad_sobredosis": "Mielosupresión grave con riesgo infeccioso, dificultad respiratoria y toxicidad hepática.",
+      "antidotos": "Tratamiento de soporte, factores estimulantes hematopoyéticos (G-CSF) y transfusiones.",
+      "monitorizacion": {
+        "clinica": "Control de función respiratoria (disnea, tos), edema periférico, estado general y signos de sangrado.",
+        "laboratorio": "Hemograma completo previo a cada dosis (plaquetas y leucocitos), función renal y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar recuento de neutrófilos (≥ 1.500/mm³) y plaquetas (≥ 100.000/mm³).",
+        "durante": "Monitorear la infusión por vía intravenosa controlando la permeabilidad venosa.",
+        "despues": "Valorar la aparición de edemas, fiebre o dificultad para respirar en los días posteriores."
+      },
+      "presentaciones": "Frasco ampolla de liofilizado de 200 mg y 1000 mg.",
+      "dosis": {
+        "adultos": "1000 mg/m² a 1250 mg/m² administrados en infusión IV de 30 minutos los días 1, 8 y 15 de un ciclo de 28 días (o cada 21 días según indicación).",
+        "pediatrico": "Uso bajo protocolos oncológicos específicos pediátricos.",
+        "geriatrico": "Dosis habitual ajustada según la tolerancia hematológica."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con solución fisiológica y diluir en 250 ml a 500 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible con solución fisiológica."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de exactamente 30 minutos (no exceder 60 minutos para evitar aumentar la toxicidad).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "40 mg/ml (concentración máxima recomendada en reconstitución directa).",
+      "alarma_riesgo": "Riesgo de toxicidad pulmonar severa y edema generalizado si se prolonga indebidamente la infusión.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Controlar que la infusión IV dure exactamente 30 minutos sin superar los 60 minutos reglamentarios.;",
+          "Verificar los recuentos hematológicos de neutrófilos y plaquetas antes de cada aplicación semanal.;",
+          "Vigilar la aparición de dificultad respiratoria, tos o edemas en miembros inferiores.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que la medicación se aplica generalmente una vez por semana durante varias semanas seguidas.;",
+          "Informar de inmediato si presenta falta de aire, tos seca, fiebre, escalofríos o hinchazón en las piernas.;",
+          "Avisar si nota sangrados espontáneos o puntos rojos en la piel."
+        ]
+      }
     }
   ]
 }
