@@ -15870,6 +15870,73 @@
           "Cumplir con las pautas de higiene bucal para mitigar la aparición de mucositis."
         ]
       }
+    },
+    {
+      "id": "213",
+      "nombre_generico": "Clorambucilo",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorambucilo",
+        "clasificacion": "Antineoplásico, agente alquilante (derivado de la mostaza nitrogenada)",
+        "efecto_terapeutica": "Citotóxico de acción lenta sobre linfocitos no malignos y malignos",
+        "mecanismo_accion": "Inhibe la replicación del ADN celular mediante la formación de enlaces cruzados covalentes entre las dos cadenas de ADN en la posición N-7 de la guanina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral; reducida ligeramente si se administra con alimentos ricos en grasa",
+        "distribucion": "Alta unión a proteínas plasmáticas (99%); metabolismo intracelular",
+        "metabolismo": "Hepático extenso transformándose en su metabolito activo mostaza del ácido fenilacético",
+        "eliminacion": "Excreción renal casi exclusiva en forma de metabolitos (< 1% inalterado)"
+      },
+      "indicaciones": "Tratamiento de la leucemia linfocítica crónica (LLC), enfermedad de Hodgkin y linfoma no Hodgkin.",
+      "contraindicaciones": "Hipersensibilidad al clorambucilo o a otros alquilantes; embarazo y lactancia.",
+      "precauciones": "Mielosupresión (leucopenia, trombocitopenia); convulsiones en niños con síndrome nefrótico; riesgo de leucemia secundaria.",
+      "advertencias": "Es un agente mutagénico y carcinogénico que puede provocar infertilidad permanente en ambos sexos.",
+      "embarazo_lactancia": "Categoría D en el embarazo; de alto riesgo teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis, pero se recomienda cautela en insuficiencia renal grave.",
+        "hepatico": "Reducir la dosis si existe disfunción hepática grave."
+      },
+      "interacciones": "Aumento del riesgo de mielosupresión en combinación con otros citostáticos o radioterapia.",
+      "reacciones_adversas": "Mielosupresión (dosis dependiente y reversible); náuseas; vómitos; exantema; convulsiones; fibrosis pulmonar; amenorrea; azoospermia.",
+      "toxicidad_sobredosis": "Pancitopenia severa, toxicidad neuronal central y convulsiones.",
+      "antidotos": "Tratamiento sintomático, transfusiones e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control de signos de sangrado, fiebre, infecciones y tolerancia digestiva.",
+        "laboratorio": "Hemograma completo con recuento diferencial de leucocitos y plaquetas semanal."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función medular basal y realizar recuento completo de plaquetas y leucocitos.",
+        "durante": "Monitorear la caída gradual de las series sanguíneas.",
+        "despues": "Valorar la remisión hematológica de la enfermedad."
+      },
+      "presentaciones": "Comprimidos recubiertos de 2 mg.",
+      "dosis": {
+        "adultos": "LLC: 0,1 mg/kg/día a 0,2 mg/kg/día por vía oral durante 3 a 6 semanas; o esquemas intermitentes de 0,4 mg/kg a 0,8 mg/kg cada 3 a 4 semanas.",
+        "pediatrico": "0,1 mg/kg a 0,2 mg/kg/día en niños con linfomas bajo protocolo oncológico.",
+        "geriatrico": "Dosis iniciales menores ajustadas a la reserva medular."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos deben ingerirse enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar refrigerado en heladera entre 2°C y 8°C.",
+      "concentracion": "2 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de aplasia medular grave si no se ajusta ante leucopenia o trombocitopenia.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Mantener los comprimidos en heladera (2°C - 8°C) hasta el momento de su administración.;",
+          "Manipular los comprimidos recubiertos con guantes sin partir ni triturar.;",
+          "Monitorear los recuentos sanguíneos semanales para ajustar o suspender la dosis.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el comprimido entero con un vaso de agua con el estómago vacío (1 hora antes de comer).;",
+          "Conservar el frasco en la heladera pero sin congelar.;",
+          "Informar de inmediato la aparición de fiebre, moratones, sangrados o tos seca."
+        ]
+      }
     }
   ]
 }
