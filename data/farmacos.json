@@ -12386,6 +12386,73 @@
           "Notificar al médico si presenta náuseas intensas, diarrea o pérdida temporal de la audición.;"
         ]
       }
+    },
+    {
+      "id": "161",
+      "nombre_generico": "Cefalexina",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Cefalexina",
+        "clasificacion": "Antibiótico, cefalosporina de 1ª generación",
+        "efecto_terapeutica": "Bactericida sobre bacterias grampositivas (Staphylococcus aureus, Streptococcus) y algunas gramnegativas",
+        "mecanismo_accion": "Inhibe la síntesis de la pared celular bacteriana por unión a las proteínas fijadoras de penicilina (PBP)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción en el tracto gastrointestinal; retrasada levemente por los alimentos",
+        "distribucion": "Buena penetración en hueso, articulaciones y tejidos blandos; no atraviesa la barrera hematoencefálica",
+        "metabolismo": "No sufre metabolismo apreciable",
+        "eliminacion": "Excreción renal por filtración glomerular y secreción tubular de forma inalterada (> 90%)"
+      },
+      "indicaciones": "Infecciones de piel y tejidos blandos, faringoamigdalitis estreptocócica, otitis media, infecciones urinarias no complicadas e infecciones osteoarticulares.",
+      "contraindicaciones": "Hipersensibilidad a la cefalexina, cefalosporinas o antecedentes de anafilaxia a penicilinas.",
+      "precauciones": "Ajustar dosis en insuficiencia renal; precaución en pacientes con antecedentes de enfermedades gastrointestinales (colitis).",
+      "advertencias": "Riesgo de sensibilidad cruzada en pacientes alérgicos a la penicilina; riesgo de colitis pseudomembranosa.",
+      "embarazo_lactancia": "Categoría B en el embarazo; uso seguro. Se excreta en pequeñas cantidades en la leche materna.",
+      "ajustes": {
+        "renal": "Disminuir la dosis o aumentar el intervalo de administración si el clearance de creatinina es menor a 30 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El probenecid disminuye la excreción renal de cefalexina; puede potenciar el efecto de anticoagulantes orales.",
+      "reacciones_adversas": "Náuseas; vómitos; diarrea; dispepsia; exantema cutáneo; urticaria; candidiasis vaginal.",
+      "toxicidad_sobredosis": "Emesis, diarrea, molestias epigástricas y hematuria.",
+      "antidotos": "Tratamiento de soporte e hidratación; hemodiálisis en casos graves.",
+      "monitorizacion": {
+        "clinica": "Control de signos de hipersensibilidad, características de las deposiciones y evolución de la infección.",
+        "laboratorio": "Función renal y hemograma en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Indagar alergias previas a penicilinas y cefalosporinas.",
+        "durante": "Monitorear la aparición de erupción cutánea o diarrea.",
+        "despues": "Evaluar la resolución del cuadro infeccioso."
+      },
+      "presentaciones": "Comprimidos de 500 mg y 1000 mg; suspensión oral de 250 mg/5 ml y 500 mg/5 ml.",
+      "dosis": {
+        "adultos": "500 mg a 1000 mg cada 6 horas por vía oral.",
+        "pediatrico": "25 mg/kg a 50 mg/kg/día divididos cada 6 horas por vía oral (hasta 100 mg/kg/día en infecciones graves).",
+        "geriatrico": "Ajustar la dosis de acuerdo a la función renal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "Reconstituir el polvo para suspensión agregando agua potable hasta la marca del frasco.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "La suspensión reconstituida se conserva durante 14 días bajo refrigeración (2°C - 8°C).",
+      "concentracion": "100 mg/ml (suspensión al 10%).",
+      "alarma_riesgo": "Riesgo de reacción anafiláctica por alergia cruzada con penicilinas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar que el paciente no tenga antecedentes de reacciones alérgicas severas a betalactámicos.;",
+          "Agitar bien la suspensión antes de medir la dosis pediátrica.;",
+          "Mantener la suspensión reconstituida en heladera.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento a intervalos regulares para mantener niveles sanguíneos constantes.;",
+          "Informar que puede tomarse con los alimentos si produce malestar estomacal.;",
+          "Consultar al médico inmediatamente si presenta erupción en la piel o diarrea líquida e intensa.;"
+        ]
+      }
     }
   ]
 }
