@@ -15334,6 +15334,73 @@
           "Consultar al médico si la infección no mejora tras 3 a 5 días de tratamiento."
         ]
       }
+    },
+    {
+      "id": "205",
+      "nombre_generico": "Isoniazida",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Isoniazida (HIN)",
+        "clasificacion": "Antituberculoso de primera línea, hidrazida del ácido nicotínico",
+        "efecto_terapeutica": "Bactericida potente sobre Mycobacterium tuberculosis en fase de multiplicación activa",
+        "mecanismo_accion": "Prodroga activada por la enzima KatG micobacteriana que inhibe la síntesis de ácidos micólicos, componentes esenciales de la pared celular micobacteriana"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y completa absorción oral; disminuye sustancialmente al administrarse con alimentos",
+        "distribucion": "Excelente distribución por todos los órganos, tejidos y líquidos corporales, incluyendo LCR y cavernas tuberculosas",
+        "metabolismo": "Hepático extenso por la N-acetiltransferasa 2 (diferenciando acetiladores lentos y rápidos)",
+        "eliminacion": "Excreción renal de metabolitos y fármaco inalterado (20-30%)"
+      },
+      "indicaciones": "Tratamiento de la tuberculosis activa (asociado a otros antituberculosos) y profilaxis/tratamiento de la infección tuberculosa latente.",
+      "contraindicaciones": "Hipersensibilidad a la isoniazida; enfermedad hepática grave o antecedentes de hepatitis inducida por isoniazida.",
+      "precauciones": "Consumo de alcohol; neuropatía periférica (coadministrar piridoxina/vitamina B6); acetiladores lentos; ancianos.",
+      "advertencias": "Riesgo de hepatotoxicidad severa y potencialmente fatal. Monitorear síntomas de hepatitis (ictericia, náuseas, astenia).",
+      "embarazo_lactancia": "Uso indicado durante el embarazo si se requiere tratamieto antituberculoso (asociado a piridoxina suplementaria). Compatible con la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajustes en insuficiencia renal salvo en insuficiencia renal severa bajo diálisis.",
+        "hepatico": "Suspender o ajustar si las transaminasas superan 3 a 5 veces el límite normal o aparece ictericia."
+      },
+      "interacciones": "Inhibidor de CYP450; eleva los niveles plasmáticos de fenitoína, carbamazepina y teofilina; reacción disulfiram con alcohol.",
+      "reacciones_adversas": "Hepatitis; elevación transitoria de transaminasas; neuropatía periférica (parestesias); neuritis óptica; erupción cutánea.",
+      "toxicidad_sobredosis": "Neurotoxicidad grave, convulsiones refractarias, coma, acidosis láctica y fallo hepático.",
+      "antidotos": "Piridoxina (Vitamina B6) por vía intravenosa dosis gramo por gramo de isoniazida ingerida.",
+      "monitorizacion": {
+        "clinica": "Control de síntomas de hepatitis, función hepática, sensibilidad periférica en manos/pies y adherencia.",
+        "laboratorio": "Pruebas de función hepática (GOT, GPT, bilirrubina) mensuales y hemograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar pruebas de función hepática basales y evaluar factores de riesgo para neuropatía.",
+        "durante": "Monitorear la presencia de náuseas, fatiga extrema, dolor en hipocondrio derecho u hormigueos.",
+        "despues": "Valorar la negativización de las baciloscopías de control."
+      },
+      "presentaciones": "Comprimidos de 100 mg y 300 mg; coformulaciones fijas antituberculosas.",
+      "dosis": {
+        "adultos": "Tratamiento: 5 mg/kg/día por vía oral (habitual 300 mg una vez al día); Profilaxis: 300 mg diarios por 6 a 9 meses.",
+        "pediatrico": "10 mg/kg a 15 mg/kg/día por vía oral en dosis única diaria (máximo 300 mg/día).",
+        "geriatrico": "Dosis de 300 mg/día controlando minuciosamente la función hepática."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; tomar los comprimidos con agua en ayunas.",
+        "compatibilidad_iv": "Formulación oral habitual."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "300 mg por comprimido.",
+      "alarma_riesgo": "Riesgo elevado de hepatitis tóxica potencialmente letal y neuropatía si no se aporta piridoxina.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la dosis en ayunas (1 hora antes o 2 horas después de las comidas) para favorecer su absorción.;",
+          "Asegurar la administración conjunta de piridoxina (vitamina B6) para prevenir la neuropatía periférica.;",
+          "Descontinuar e informar de inmediato ante signos de hepatotoxicidad o ictericia.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el comprimido en ayunas a primera hora de la mañana con un vaso lleno de agua.;",
+          "Prohibida la ingesta de bebidas alcohólicas durante todo el tratamiento.;",
+          "Avisar urgente si siente náuseas, cansancio intenso, tinte amarillo en los ojos u hormigueo en los pies."
+        ]
+      }
     }
   ]
 }
