@@ -20627,6 +20627,73 @@
           "Informar de inmediato si presenta náuseas o vómitos a pesar del uso del medicamento."
         ]
       }
+    },
+    {
+      "id": "284",
+      "nombre_generico": "Aprepitant",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Aprepitant",
+        "clasificacion": "Antiemético, antagonista selectivo de los receptores de la neurocinina 1 (NK1)",
+        "efecto_terapeutica": "Prevención superior de las náuseas y vómitos agudos y tardíos inducidos por quimioterapia altamente emetógena",
+        "mecanismo_accion": "Bloquea selectivamente con alta afinidad los receptores de la neurocinina 1 (NK1) en el sistema nervioso central, impidiendo la unión de la sustancia P y modulando el centro del vómito"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral con una biodisponibilidad del 60-65% no afectada por los alimentos",
+        "distribucion": "Alta unión a proteínas plasmáticas (95%); atraviesa la barrera hematoencefálica",
+        "metabolismo": "Hepático extenso principalmente por la isoenzima CYP3A4 (y en menor grado CYP1A2 y CYP2C19) a metabolitos débilmente activos",
+        "eliminacion": "Excreción biliar y fecal principal (86%) y renal en menor proporción (5%) con vida media de 9 a 13 horas"
+      },
+      "indicaciones": "Prevención de náuseas y vómitos agudos y tardíos asociados a esquemas de quimioterapia antineoplásica altamente o moderadamente emetógena (en combinación con un 5-HT3 y dexametasona).",
+      "contraindicaciones": "Hipersensibilidad al aprepitant; administración concomitante con pimozida, terfenadina, astemizol o cisaprida; embarazo y lactancia.",
+      "precauciones": "Es un sustrato, modulador e inhibidor/inductor moderado del sistema CYP3A4, generando múltiples interacciones con citostáticos, anticoagulantes y anticonceptivos.",
+      "advertencias": "Reduce la eficacia de los anticonceptivos hormonales durante su uso y hasta 28 días después de la última dosis.",
+      "embarazo_lactancia": "Categoría B en el embarazo; usar solo si el beneficio supera claramente el riesgo. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada; no estudiado en severa."
+      },
+      "interacciones": "Requiere reducir al 50% la dosis de dexametasona oral por inhibición del CYP3A4; reduce el RIN con warfarina; inductores potentes del CYP3A4 (rifampicina) disminuyen su nivel.",
+      "reacciones_adversas": "Hipo; astenia; fatiga; estreñimiento; diarrea; cefalea; mareos; elevación de transaminasas; anovulación secundaria por falla anticonceptiva.",
+      "toxicidad_sobredosis": "Drowsiness, cefalea intensa y mareos incapacitantes.",
+      "antidotos": "Tratamiento sintomático de soporte.",
+      "monitorizacion": {
+        "clinica": "Control de la respuesta antiemética, tolerancia digestiva, nivel de sedación y controles de coagulación si usa anticoagulantes.",
+        "laboratorio": "Pruebas de función hepática y control del RIN si se administra con antivitaminas K."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la reducción de la dosis concomitante de dexametasona oral y aconsejar métodos anticonceptivos de barrera.",
+        "durante": "Garantizar la toma del esquema de 3 días (125 mg el día 1, 80 mg los días 2 y 3).",
+        "despues": "Valorar la ausencia de vómitos tardíos tras finalizar el ciclo."
+      },
+      "presentaciones": "Cápsulas duras de 80 mg y 125 mg (disponible en kit de tripack 1x125 mg + 2x80 mg).",
+      "dosis": {
+        "adultos": "Esquema de 3 días: 125 mg por vía oral 1 hora antes de la quimioterapia el Día 1, y 80 mg por la mañana los Días 2 y 3.",
+        "pediatrico": "Uso en mayores de 12 años o según suspensión oral en pediatría por mg/kg según protocolo.",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste específico por edad."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; las cápsulas se ingieren enteras.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "125 mg o 80 mg por cápsula.",
+      "alarma_riesgo": "Riesgo de embarazo no planificado por fallo de anticonceptivos orales y alteración grave del RIN con warfarina.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar que la primera dosis (125 mg) se tome 1 hora antes de iniciar la infusión de quimioterapia.;",
+          "Confirmar que la dosis de dexametasona oral se haya reducido a la mitad cuando se coadministre con aprepitant.;",
+          "Advierte sobre la necesidad de usar métodos anticonceptivos no hormonales adicionales.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la primera cápsula de 125 mg 1 hora antes del tratamiento y las cápsulas de 80 mg por la mañana los 2 días siguientes.;",
+          "Usar preservativo u otro método de barrera si usa anticonceptivos orales durante el ciclo y el mes posterior.;",
+          "Avisar si presenta hipo persistente, cansancio extremo o estreñimiento."
+        ]
+      }
     }
   ]
 }
