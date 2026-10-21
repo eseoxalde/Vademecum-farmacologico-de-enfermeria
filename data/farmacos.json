@@ -5972,84 +5972,68 @@
     },
     {
       "id": "74",
-      "nombre_generico": "Valproato; ácido valproico.",
+      "nombre_generico": "Valproato",
       "letra": "V",
       "alto_riesgo": true,
       "farmacodinamia": {
-        "principio_activo": "Valproato sódico, según la presentación farmacéutica.",
-        "clasificacion": "Antiepiléptico; anticonvulsivante; estabilizador del estado de ánimo en las indicaciones autorizadas para determinados productos.",
-        "efecto_terapeutica": "Control de crisis epilépticas generalizadas y parciales; tratamiento de crisis de ausencia, mioclónicas y tónico-clónicas; tratamiento de episodios maníacos en las presentaciones autorizadas para esta indicación.",
-        "mecanismo_accion": "Potencia la acción inhibitoria del ácido gamma-aminobutírico (GABA) en el sistema nervioso central; modifica la excitabilidad neuronal y contribuye a reducir la actividad convulsiva. El mecanismo exacto no está completamente establecido."
+        "principio_activo": "Valproato de sodio / Ácido valproico / Divalproato de sodio",
+        "clasificacion": "Antiepiléptico, anticonvulsivante y modulador / estabilizador del estado de ánimo",
+        "efecto_terapeutica": "Disminución de la frecuencia y severidad de las crisis epilépticas y estabilización del afecto en fase maníaca del trastorno bipolar",
+        "mecanismo_accion": "Inhibe la enzima GABA transaminasa y la reabsorción de GABA, aumentando sus niveles cerebrales; bloquea los canales de sodio dependientes de voltaje e inhibe los canales de calcio tipo T en las neuronas"
       },
       "farmacocinetica_adme": {
-        "absorcion": "Por vía oral, la absorción es prácticamente completa; el tiempo hasta alcanzar la concentración plasmática máxima depende de la formulación.",
-        "distribucion": "Se distribuye principalmente en el espacio extracelular; presenta unión a proteínas plasmáticas dependiente de la concentración; atraviesa la barrera hematoencefálica y la placenta; pasa a la leche materna.",
-        "metabolismo": "Principalmente hepático; mediante glucuronidación y otras vías metabólicas; produce metabolitos que se eliminan principalmente por vía renal.",
-        "eliminacion": "Principalmente por vía renal en forma de metabolitos; la semivida plasmática suele situarse aproximadamente entre 8 y 20 horas, con variaciones según la edad y los tratamientos concomitantes."
+        "absorcion": "Buena y rápida absorción por vía oral con biodisponibilidad cercana al 90-100%",
+        "distribucion": "Alta unión a proteínas plasmáticas (80-95%, saturable a concentraciones tóxicas); atraviesa la BHE, la placenta y la leche materna",
+        "metabolismo": "Hepático extenso por glucuronidación (50%) y beta-oxidación mitocondrial (40%) a metabolitos activos e inactivos",
+        "eliminacion": "Excreción renal en forma de metabolitos (menos del 3% inalterado) con una vida media de 8 a 17 horas"
       },
-      "indicaciones": "Epilepsias generalizadas primarias convulsivas y no convulsivas; crisis de ausencia; crisis mioclónicas; crisis tónico-clónicas; epilepsias parciales con o sin generalización secundaria; formas mixtas y determinadas epilepsias generalizadas secundarias; episodios maníacos en trastorno bipolar cuando la presentación esté autorizada para esta indicación; tratamiento intravenoso temporal cuando no sea posible administrar la formulación oral, según la ficha técnica del producto.",
-      "contraindicaciones": "Hipersensibilidad al valproato o a los excipientes; enfermedad hepática activa o antecedentes personales o familiares de hepatitis grave relacionada con medicamentos; porfiria hepática; trastornos del ciclo de la urea; determinados trastornos mitocondriales asociados a mutaciones del gen POLG; deficiencia primaria de carnitina no corregida; embarazo para el tratamiento de la epilepsia o del trastorno bipolar, salvo que no exista una alternativa adecuada y se cumplan las condiciones estrictas de la ficha técnica; mujeres en edad fértil que no cumplan las condiciones del Plan de Prevención de Embarazos.",
-      "precauciones": "Insuficiencia renal; antecedentes de enfermedad hepática; niños pequeños, especialmente menores de 3 años; politerapia antiepiléptica; trastornos metabólicos; riesgo de hiperamonemia; hipocarnitinemia; alteraciones de la coagulación; trombocitopenia; aumento de peso; riesgo de pancreatitis; tratamiento concomitante con medicamentos hepatotóxicos.",
-      "advertencias": "Puede causar insuficiencia hepática grave, especialmente durante los primeros seis meses de tratamiento y en pacientes con factores de riesgo.\nPuede provocar pancreatitis grave, potencialmente mortal.\nPuede producir hiperamonemia y encefalopatía incluso sin alteraciones importantes de las pruebas hepáticas.\nTiene un elevado potencial teratógeno y puede asociarse a trastornos del neurodesarrollo tras la exposición durante el embarazo.\nEn mujeres y niñas con posibilidad de embarazo, el uso está sujeto a restricciones y medidas específicas de prevención del embarazo.\nEn varones, se recomienda informar sobre la posible asociación entre la exposición paterna durante los tres meses previos a la concepción y alteraciones del neurodesarrollo; la evidencia disponible es inconsistente.\nNo suspender bruscamente el tratamiento antiepiléptico sin indicación médica.",
-      "embarazo_lactancia": "Embarazo: el valproato está asociado a un riesgo elevado de malformaciones congénitas y trastornos del neurodesarrollo. Está contraindicado durante el embarazo para el trastorno bipolar y, en epilepsia, salvo que no exista una alternativa terapéutica adecuada y se cumplan las condiciones de la ficha técnica. No suspender por cuenta propia; consultar urgentemente al especialista si se produce o se planifica un embarazo.\nLactancia: pasa a la leche materna. Valorar individualmente los beneficios de la lactancia y los posibles riesgos para el lactante; vigilar signos de alteraciones hematológicas cuando corresponda.",
+      "indicaciones": "Epilepsias generalizadas primarias (ausencias, mioclónicas, tónico-clónicas), epilepsias parciales, tratamiento de episodios maníacos asociados al trastorno bipolar y profilaxis de la migraña.",
+      "contraindicaciones": "Hipersensibilidad al valproato; enfermedad o disfunción hepática grave activa; antecedentes de hepatotoxicidad familiar por fármacos; trastornos del ciclo de la urea; trastornos mitocondriales (mutaciones POLG); porfiria; embarazo (salvo ausencia de alternativas en epilepsia bajo estricto plan).",
+      "precauciones": "Riesgo de hepatotoxicidad fatal (máximo en < 3 años en politerapia); pancreatitis hemorrágica mortal; encefalopatía por hiperamonemia; trombocitopenia y coagulopatías; aumento de peso importante.",
+      "advertencias": "Alto potencial teratogénico (malformaciones congénitas y trastornos del neurodesarrollo). Prohibido durante el embarazo para bipolaridad y severamente restringido para epilepsia.",
+      "embarazo_lactancia": "Categoría D/X en el embarazo; riesgo elevado de espina bífida, anomalías craneofaciales y retraso cognitivo. Pasa a la leche materna en pequeñas cantidades (precaución).",
       "ajustes": {
-        "renal": "Puede ser necesario reducir la dosis en pacientes con insuficiencia renal; el valproato es dializable; ajustar según la respuesta clínica y la tolerancia, ya que la concentración plasmática total puede no reflejar adecuadamente la fracción libre.",
-        "hepatico": "Está contraindicado en pacientes con enfermedad hepática activa o disfunción hepática grave según la ficha técnica consultada; realizar evaluación clínica y pruebas de función hepática antes del tratamiento y durante el seguimiento; no existe una pauta universal de ajuste para pacientes con hepatopatía."
+        "renal": "Disminuir la dosis inicial si el clearance de creatinina es bajo; monitorear la fracción libre ya que la unión a proteínas disminuye en uremia.",
+        "hepatico": "Contraindicado en insuficiencia hepática o disfunción hepática grave."
       },
-      "interacciones": "Carbapenémicos; fenitoína; fenobarbital; primidona; carbamazepina; lamotrigina; anticoagulantes; ácido acetilsalicílico y otros salicilatos; topiramato; zonisamida; propofol; benzodiacepinas; antidepresivos; antipsicóticos; medicamentos que afectan la coagulación. Los carbapenémicos pueden reducir marcadamente las concentraciones de valproato; la combinación debe evitarse cuando sea posible. El valproato puede aumentar la concentración o toxicidad de otros medicamentos.",
-      "reacciones_adversas": "Náuseas; vómitos; dolor abdominal; diarrea; temblor; somnolencia; mareos; aumento de peso; caída del cabello; alteraciones menstruales; trombocitopenia; alteraciones de la coagulación; elevación de enzimas hepáticas; hiperamonemia; edema. Reacciones graves: insuficiencia hepática; pancreatitis; encefalopatía hiperamonémica; reacciones cutáneas graves; alteraciones hematológicas.",
-      "toxicidad_sobredosis": "Puede causar depresión del sistema nervioso central; somnolencia intensa; hipotonía; disminución de los reflejos; miosis; depresión respiratoria; hipotensión; acidosis metabólica; hiperamonemia; edema cerebral; coma y colapso circulatorio.\nAnte una sobredosis, solicitar atención médica urgente; controlar vía aérea, respiración, circulación, ECG y estado neurológico; evaluar concentraciones plasmáticas, amonio y alteraciones metabólicas según indicación médica. En casos graves puede requerirse tratamiento hospitalario especializado y hemodiálisis.",
-      "antidotos": "No existe un antídoto específico. Puede utilizarse L-carnitina por vía intravenosa en determinadas intoxicaciones, especialmente cuando existe hiperamonemia, bajo indicación médica; el tratamiento general es de soporte.",
+      "interacciones": "La coadministración con antibióticos carbapenémicos (meropenem, imipenem) reduce drásticamente las concentraciones de valproato anulando su efecto; inhibe el metabolismo de lamotrigina (riesgo de síndrome de Stevens-Johnson); induce o inhibe CYP450.",
+      "reacciones_adversas": "Náuseas; vómitos; dolor abdominal; diarrea; temblor fino de manos; somnolencia; mareos; astenia; alopecia transitoria; aumento de peso; trombocitopenia; hiperamonemia; elevación de transaminasas.",
+      "toxicidad_sobredosis": "Somnolencia profunda, miosis, hipotonía, depresión respiratoria, acidosis metabólica, hiperamonemia, edema cerebral y coma.",
+      "antidotos": "Naloxona IV para la depresión del SNC; L-carnitina IV en toxicidad hepática o encefalopatía por hiperamonemia; hemodiálisis.",
       "monitorizacion": {
-        "clinica": "Estado de conciencia; frecuencia y características de las crisis; respuesta terapéutica; aparición de somnolencia o confusión; dolor abdominal intenso; vómitos persistentes; signos de hepatotoxicidad; signos de pancreatitis; hematomas o sangrado; cambios de peso; síntomas compatibles con hiperamonemia.",
-        "laboratorio": "Función hepática; hemograma completo y plaquetas; pruebas de coagulación, incluido tiempo de protrombina cuando esté indicado; concentración plasmática de valproato cuando se requiera; amonio ante sospecha de hiperamonemia; función renal; lipasa o amilasa ante sospecha de pancreatitis."
+        "clinica": "Frecuencia de crisis, nivel de conciencia, aparición de vómitos o dolor abdominal intenso, signos de hepatotoxicidad o ictericia y control de peso.",
+        "laboratorio": "Pruebas de función hepática, hemograma con recuento de plaquetas, coagulograma, nivel de amonio plasmático y nivieles plasmáticos de valproato (rango: 50-100 mcg/ml)."
       },
       "parametros_valoracion": {
-        "antes": "Indicación y dosis prescrita; peso; antecedentes de enfermedad hepática o pancreática; antecedentes de trastornos metabólicos; medicación concomitante; función hepática; hemograma y plaquetas; pruebas de coagulación según indicación; función renal; posibilidad de embarazo y cumplimiento de las medidas preventivas correspondientes.",
-        "durante": "Respuesta clínica; frecuencia de las crisis; nivel de conciencia; somnolencia; vómitos; dolor abdominal; signos de sangrado; signos de hepatotoxicidad; presión arterial y estado hemodinámico durante la administración intravenosa; resultados de laboratorio según indicación.",
-        "despues": "Control de las crisis o de los síntomas de la indicación tratada; estado neurológico; tolerancia al medicamento; presencia de dolor abdominal o vómitos; aparición de sangrado; evolución de la función hepática y del hemograma; concentraciones plasmáticas cuando estén indicadas; necesidad de ajuste de dosis por indicación médica."
+        "antes": "Evaluar la función hepática, recuento de plaquetas, coagulación, prueba de embarazo en mujeres en edad fértil e historia familiar de hepatopatías.",
+        "durante": "Monitorear la sedación, control de la función hepática periódica y descartar hiperamonemia si hay letargia.",
+        "despues": "Valorar el control de las crisis o la estabilidad del afecto."
       },
-      "presentaciones": "Comprimidos gastrorresistentes de 200 mg y 500 mg; solución oral de 200 mg/ml; polvo y disolvente para solución inyectable de 400 mg por vial, que tras reconstitución proporciona 100 mg/ml; solución inyectable y para perfusión de 100 mg/ml en presentaciones específicas. La disponibilidad depende de la marca y del mercado.",
+      "presentaciones": "Comprimidos y cápsulas de 200 mg, 250 mg y 500 mg; comprimidos de liberación prolongada de 500 mg; jarabe / solución oral de 200 mg/ml; frasco ampolla de 400 mg y 500 mg de polvo liofilizado para solución inyectable.",
       "dosis": {
-        "adultos": "Vía oral: la dosis debe individualizarse según la indicación, el peso, la respuesta y la tolerancia. Para epilepsia, la ficha técnica consultada indica una dosis diaria media de 20–30 mg/kg; realizar incrementos graduales según necesidad clínica.\nVía intravenosa: en pacientes que ya reciben valproato oral, algunas fichas técnicas permiten mantener la misma dosis diaria mediante perfusión intravenosa temporal. Para iniciar tratamiento intravenoso con Depakine 100 mg/ml, la ficha técnica describe 15 mg/kg mediante inyección intravenosa lenta durante 3–5 minutos, seguido de perfusión continua o repetida de 1 mg/kg/h; dosis diaria recomendada de 20–30 mg/kg. Estas pautas son específicas del producto y del contexto hospitalario.",
-        "pediatrico": "Vía oral: la ficha técnica consultada indica una dosis diaria media de aproximadamente 30 mg/kg para lactantes y niños de 28 días a 11 años; ajustar gradualmente según respuesta y tolerancia.\nVía intravenosa: para niños de hasta 10 años que inician tratamiento con Depakine 100 mg/ml, la ficha técnica describe habitualmente 20–30 mg/kg mediante inyección intravenosa lenta, seguida de perfusión continua o repetida de 1 mg/kg/h. El uso en menores de 3 años requiere especial precaución por el riesgo de hepatotoxicidad y pancreatitis.",
-        "geriatrico": "La ficha técnica consultada indica una dosis diaria media de 15–20 mg/kg en pacientes de 65 años o más; ajustar según respuesta clínica, tolerancia, comorbilidades y medicación concomitante."
+        "adultos": "Oral: Iniciar con 10 a 15 mg/kg/día divididos en 2 o 3 tomas; incrementar progresivamente hasta 20 a 30 mg/kg/día (Dosis máxima: 60 mg/kg/día); IV: Misma dosis diaria total en infusión lenta o bolo en 3-5 minutos.",
+        "pediatrico": "15 a 30 mg/kg/día divididos en 2 o 3 tomas (hasta 45 mg/kg/día según respuesta).",
+        "geriatrico": "Iniciar con 10 a 15 mg/kg/día con incrementos más lentos por menor aclaramiento y mayor sedación."
       },
-      "vias_administracion": "Oral; intravenosa mediante inyección lenta o perfusión, exclusivamente para las presentaciones autorizadas para esa vía. La administración intravenosa se reserva para situaciones en las que la vía oral no es posible temporalmente o cuando la ficha técnica contempla una situación urgente.",
+      "vias_administracion": "Vía oral e intravenosa.",
       "preparacion": {
-        "dilucion": "Vía oral: la solución de 200 mg/ml puede administrarse según las instrucciones del producto; para Depakine, puede mezclarse con agua no carbonatada.\nVía intravenosa: para Depakine 100 mg/ml en polvo y disolvente, reconstituir con 3,8 ml de agua para preparaciones inyectables según la ficha técnica, obteniendo una concentración de 100 mg/ml. Para perfusión, diluir la cantidad necesaria en 500 ml de una solución autorizada por esa ficha técnica. No extrapolar estas instrucciones a otras marcas.",
-        "compatibilidad_iv": "Para Depakine 100 mg/ml en polvo y disolvente, la ficha técnica describe dilución en solución de cloruro de sodio al 0,9 %; soluciones de glucosa especificadas en la ficha; solución de glucosa al 2,5 % con cloruro de sodio al 0,45 %; bicarbonato sódico en la concentración indicada; o solución de trometamol especificada. No mezclar con otros medicamentos y utilizar una vía intravenosa diferente si se administran otros fármacos en perfusión. Confirmar siempre la ficha técnica de la presentación disponible."
+        "dilucion": "Diluir el frasco ampolla reconstituido en al menos 50 ml a 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
       },
-      "velocidad_infusion": "Para Depakine 100 mg/ml en polvo y disolvente, la dosis inicial descrita de 15 mg/kg se administra mediante inyección intravenosa lenta durante 3–5 minutos, seguida de perfusión continua o repetida de 1 mg/kg/h. Las velocidades y pautas deben verificarse con la ficha técnica de la marca y el protocolo institucional.",
-      "estabilidad_soluciones": "Para Depakine 100 mg/ml en polvo y disolvente, la ficha técnica indica estabilidad fisicoquímica de la solución reconstituida de hasta 24 horas a 25 °C en posición vertical; desde el punto de vista microbiológico, se recomienda uso inmediato salvo que la reconstitución se haya realizado en condiciones que excluyan contaminación. Las soluciones para perfusión deben utilizarse dentro de las 24 horas indicadas por la ficha técnica; desechar cualquier porción no utilizada. No extrapolar estos tiempos a otras presentaciones.",
-      "concentracion": "Concentración comercial oral: solución de 200 mg/ml; comprimidos gastrorresistentes de 200 mg y 500 mg, según la presentación.\nConcentración de la presentación intravenosa: 100 mg/ml después de la reconstitución para Depakine 100 mg/ml en polvo y disolvente; algunas presentaciones inyectables se comercializan como solución de 100 mg/ml.\nConcentración máxima de administración: la ficha técnica consultada no establece una concentración máxima universal aplicable a todas las presentaciones de valproato; respetar las instrucciones de reconstitución y dilución específicas de la marca y no administrar el concentrado intravenoso sin seguir esas instrucciones.",
-      "alarma_riesgo": "Medicamento de alto riesgo; hepatotoxicidad grave; pancreatitis potencialmente mortal; hiperamonemia y encefalopatía; alteraciones hematológicas y de coagulación; elevado riesgo fetal durante el embarazo; interacciones farmacológicas importantes; la administración intravenosa requiere preparación y monitorización según la ficha técnica.",
+      "velocidad_infusion": "Inyección IV directa lenta en 3 a 5 minutos (máximo 20 mg/minuto) o en infusión continua a 1 a 2 mg/kg/hora.",
+      "estabilidad_soluciones": "La solución reconstituida e infundida es estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "100 mg/ml (concentración de la solución inyectable reconstituida).",
+      "alarma_riesgo": "Riesgo de hepatotoxicidad fulminante, pancreatitis mortal, malformaciones fetales graves y pérdida de efecto por uso simultáneo de carbapenémicos.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Verificar la prescripción, la indicación, la dosis, el peso, la vía y la presentación antes de administrar.",
-          "Confirmar si la prescripción corresponde a valproato sódico, ácido valproico o una formulación específica, y comprobar las equivalencias indicadas en la ficha técnica.",
-          "Revisar las alergias, los antecedentes hepáticos y pancreáticos, los trastornos metabólicos y la medicación concomitante.",
-          "Verificar los resultados de función hepática, hemograma y plaquetas antes de iniciar el tratamiento, según la indicación clínica.",
-          "Controlar la aparición de dolor abdominal intenso, vómitos persistentes o signos compatibles con pancreatitis.",
-          "Vigilar somnolencia intensa, confusión, alteración de conciencia o vómitos que puedan indicar hiperamonemia.",
-          "Observar signos de hepatotoxicidad, como ictericia, letargo, pérdida de apetito o dolor abdominal.",
-          "Vigilar hematomas, sangrado espontáneo y otros signos de alteración de la coagulación.",
-          "En administración intravenosa, comprobar la reconstitución, la dilución, la compatibilidad y la estabilidad según la ficha técnica específica.",
-          "No mezclar la solución intravenosa con otros medicamentos y utilizar una vía separada cuando corresponda.",
-          "Controlar la respuesta clínica y los resultados de laboratorio durante el tratamiento.",
-          "Registrar dosis, vía, hora de administración, respuesta clínica y reacciones adversas."
+          "No administrar juntamente con antibióticos carbapenémicos (meropenem, imipenem) por caída drástica del nivel plasmático del valproato.;",
+          "Monitorear estrictamente el recuento de plaquetas y el perfil hepático antes y durante el tratamiento.;",
+          "Vigilar la presencia de vómitos recurrentes, dolor en epigastrio o somnolencia extrema como signos de pancreatitis o hiperamonemia.;"
         ],
         "educacion_paciente": [
-          "No suspender ni modificar el tratamiento sin indicación médica.",
-          "Tomar el medicamento según la dosis y los horarios prescritos.",
-          "Evitar el consumo de alcohol durante el tratamiento.",
-          "Informar inmediatamente si aparecen dolor abdominal intenso, vómitos persistentes, ictericia, somnolencia marcada, confusión, hematomas o sangrado inexplicados.",
-          "Consultar antes de iniciar o suspender otros medicamentos, suplementos o productos herbales.",
-          "Si existe posibilidad de embarazo, consultar al especialista antes de iniciar el tratamiento y utilizar las medidas anticonceptivas indicadas; no suspender el valproato por cuenta propia.",
-          "Si se planifica un embarazo o se sospecha uno, contactar de inmediato con el especialista para revisar el tratamiento.",
-          "Los pacientes varones que planeen concebir deben consultar con su especialista sobre los riesgos potenciales y las recomendaciones anticonceptivas durante el tratamiento y durante los tres meses posteriores a su interrupción.",
-          "Mantener los controles clínicos y de laboratorio indicados.",
-          "Informar al equipo tratante si aparecen cambios importantes del estado de ánimo o pensamientos de autolesión."
+          "Tomar la medicación con los alimentos para reducir la irritación gástrica o usar formas de liberación prolongada.;",
+          "Utilizar métodos anticonceptivos eficaces de barrera/no hormonales durante todo el tratamiento.;",
+          "Avisar de inmediato ante dolor abdominal fuerte, color amarillo en ojos o piel, somnolencia inusual o sangrado de encías.;"
         ]
       }
     },
