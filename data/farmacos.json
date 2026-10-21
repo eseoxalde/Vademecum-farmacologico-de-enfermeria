@@ -20828,6 +20828,73 @@
           "Avanzar o levantarse despacio de la cama para prevenir mareos por bajadas de presión arterial."
         ]
       }
+    },
+    {
+      "id": "287",
+      "nombre_generico": "Alopurinol",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Alopurinol",
+        "clasificacion": "Antigotoso, inhibidor de la xantino oxidasa (hipouricemiante)",
+        "efecto_terapeutica": "Reducción marcada de la producción de ácido úrico y prevención del síndrome de lisis tumoral",
+        "mecanismo_accion": "Inhibe de forma competitiva la enzima xantino oxidasa y se metaboliza a oxipurinol (inhibidor no competitivo), bloqueando la conversión de hipoxantina a xantina y de xantina a ácido úrico"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral (biodisponibilidad cercana al 80%)",
+        "distribucion": "Baja unión a proteínas plasmáticas; se distribuye en todos los tejidos salvo en el cerebro",
+        "metabolismo": "Hepático extenso por la xantino oxidasa al metabolito activo oxipurinol (vida media larga de 18 a 30 horas)",
+        "eliminacion": "Excreción renal del oxipurinol por filtración y reabsorción tubular (70%) y eliminación fecal (20%)"
+      },
+      "indicaciones": "Prevención y tratamiento de la hiperuricemia inducida por quimioterapia en hemopatías malignas (síndrome de lisis tumoral), profilaxis de nefropatía por ácido úrico y tratamiento de la gota primaria o secundaria.",
+      "contraindicaciones": "Hipersensibilidad grave al alopurinol; ataque agudo de gota (al inicio del tratamiento en gota crónica); embarazo y lactancia.",
+      "precauciones": "Riesgo de síndrome de hipersensibilidad al alopurinol (SJS/NET, DRESS) potencialmente mortal; requiere ajuste de dosis en insuficiencia renal; riesgo de depósitos de xantina si no hay hiperhidratación.",
+      "advertencias": "La aparición de cualquier erupción cutánea o exantema exige la suspensión inmediata e irreversible del alopurinol.",
+      "embarazo_lactancia": "Categoría C en el embarazo; usar solo si no hay alternativa segura. Pasa a la leche materna; contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "Disminuir la dosis en insuficiencia renal: 100 mg/día si clearance es 10-20 ml/min; 100 mg cada 48 horas si clearance es < 10 ml/min.",
+        "hepatico": "Reducir la dosis si existe insuficiencia hepática grave."
+      },
+      "interacciones": "REDUCCIÓN OBLIGATORIA DEL 75% en la dosis de 6-mercaptopurina o azatioprina por inhibición de su degradación metabólica; potencia warfarina y amoxicilina (aumenta rash).",
+      "reacciones_adversas": "Erupción cutánea y exantema; síndrome de hipersensibilidad (SJS/NET, síndrome DRESS); náuseas; vómitos; diarrea; elevación de transaminasas; vasculitis; leucopenia.",
+      "toxicidad_sobredosis": "Náuseas, vómitos, diarrea, mareos y falla renal aguda por cristalización de xantinas.",
+      "antidotos": "Tratamiento de soporte, hiperhidratación y hemodiálisis si es necesario.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la piel (rash, lesiones mucosas), diuresis, temperatura y signos de toxicidad hepática o renal.",
+        "laboratorio": "Uricemia sérica, urea, creatinina, pruebas de función hepática y hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance) para ajustar la dosis e iniciar hidratación abundante previa a la quimioterapia.",
+        "durante": "Monitorear la uricemia y suspender inmediatamente si aparece cualquier mancha o erupción en la piel.",
+        "despues": "Valorar la normalización del ácido úrico en sangre y orina."
+      },
+      "presentaciones": "Comprimidos de 100 mg y 300 mg.",
+      "dosis": {
+        "adultos": "Lisis tumoral: 300 mg a 600 mg/día por vía oral divididos en 2 o 3 tomas empezando 24-48 horas antes de la quimioterapia.",
+        "pediatrico": "10 mg/kg/día VO divididos en 2 o 3 tomas (máximo 400 mg/día) en niños con neoplasias con alto riesgo de lisis.",
+        "geriatrico": "Usar la dosis mínima eficaz ajustada estrictamente según el clearance de creatinina."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros después de las comidas.",
+        "compatibilidad_iv": "Formulación oral exclusiva (existen presentaciones IV en otros países no comunes)."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "300 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de síndrome de Stevens-Johnson / NET letal y sobredosis mortal de azatioprina o 6-mercaptopurina si no se ajusta.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar la reducción obligatoria del 75% en la dosis de 6-mercaptopurina o azatioprina si se coadministran.;",
+          "Ajustar la dosis posológica en función de la función renal (clearance de creatinina).;",
+          "Garantizar la hidratación abundante del paciente (2-3 litros/día) para favorecer la eliminación de xantinas.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos preferentemente después de las comidas con un vaso grande de agua.;",
+          "Suspender de inmediato el medicamento y consultar urgente si nota picazón, manchas rojas o llagas en la piel o boca.;",
+          "Beber abundante cantidad de agua u otros líquidos durante todo el tratamiento."
+        ]
+      }
     }
   ]
 }
