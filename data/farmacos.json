@@ -24089,6 +24089,73 @@
           "Lavar gorros, bufandas y fundas de almohada con agua muy caliente."
         ]
       }
+    },
+    {
+      "id": "336",
+      "nombre_generico": "Butóxido de piperonilo",
+      "letra": "B",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Butóxido de piperonilo",
+        "clasificacion": "Sinérgico de pesticidas / ectoparasiticidas (inhibidor enzimático microsomal)",
+        "efecto_terapeutica": "Potenciación masiva de la acción ectoparasiticida de piretrinas y piretroides sintéticos",
+        "mecanismo_accion": "Inhibe de forma irreversible el sistema enzimático del citocromo P450 (polisulfato oxidasas) del parásito, impidiendo la destoxificación y degradación metabólica del piretroide/piretrina y multiplicando su neurotoxicidad sobre el artrópodo"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción cutánea sistémica ínfima tras la aplicación tópica sobre la piel intacta",
+        "distribucion": "Permanece y actúa localmente sobre la superficie epidérmica y pilosa",
+        "metabolismo": "En caso de escasa absorción sistémica, se metaboliza rápidamente en el hígado por hidroxilación cleavage a metabolitos inactivos",
+        "eliminacion": "Excreción renal y fecal de metabolitos con vida media de pocas horas"
+      },
+      "indicaciones": "Coadyuvante sinérgico en formulaciones tópicas combinadas para el tratamiento de la pediculosis y escabiosis (combinado con piretrinas, aletrina, tetrametrina o fenotrina).",
+      "contraindicaciones": "Hipersensibilidad al butóxido de piperonilo o a sus componentes; niños menores de 2 años; heridas abiertas o piel gravemente inflamada.",
+      "precauciones": "Irritación ocular o dérmica; no utilizar en mucosas; precaución en pacientes asmáticos cuando se aplica en formulación aerosolizada.",
+      "advertencias": "No posee efecto insecticida relevante por sí solo; actúa exclusivamente aumentando la potencia del antiparasitario asociado.",
+      "embarazo_lactancia": "Categoría B/C; evaluar si el beneficio supera los riesgos durante la gestación y la lactancia por falta de datos extensos.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Inhibe fuertemente el metabolismo de las piretrinas y piretroides sintéticos en el parásito (interacción sinérgica deseada).",
+      "reacciones_adversas": "Prurito; sensación de quemazón o ardor en el cuero cabelludo; eritema local; dermatitis de contacto; irritación ocular.",
+      "toxicidad_sobredosis": "Por vía tópica es prácticamente atóxico. La ingesta masiva accidental provoca náuseas, vómitos, mareos e irritación gástrica.",
+      "antidotos": "Tratamiento sintomático de soporte y enjuague masivo con agua.",
+      "monitorizacion": {
+        "clinica": "Control de reacción cutánea local y eritema en el área de aplicación.",
+        "laboratorio": "No requiere exámenes de laboratorio."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar que se aplique en combinación con un piretroide o piretrina activa.",
+        "durante": "Supervisar el tiempo de permanencia del producto sobre el cuero cabelludo.",
+        "despues": "Lavar minuciosamente con abundante agua."
+      },
+      "presentaciones": "Lociones, geles o sprays combinados (concentraciones entre 1.5% a 4% asociado a piretroides).",
+      "dosis": {
+        "adultos": "Pediculosis: Aplicar la loción o spray combinado suficiente para impregnar todo el cabello, dejar actuar durante 10 a 30 minutos (según la pauta del compuesto principal piretroide) y lavar con agua. Repetir a los 7 días.",
+        "pediatrico": "Mayores de 2 años: misma pauta de aplicación protegiendo la cara.",
+        "geriatrico": "Dosis habitual no requiriendo ajuste por la edad sola."
+      },
+      "vias_administracion": "Vía tópica exclusiva.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; se usa directo de la formulación comercial.",
+        "compatibilidad_iv": "TOTALMENTE PROHIBIDA SU ADMINISTRACIÓN PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y el calor excesivo.",
+      "concentracion": "1.5% a 4% (15 mg/g a 40 mg/g) en formulaciones antipediculicidas combinadas.",
+      "alarma_riesgo": "Irritación conjuntival por contacto directo con los ojos e ineficacia si se usa sin un piretroide asociado.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que la formulación contenga también el fármaco ectoparasiticida activo (piretrina/piretroide).;",
+          "Evitar estrictamente la entrada del producto en los ojos o párpados del paciente.;",
+          "Respetar el tiempo de permanencia pautado para evitar irritación dermatológica indebida.;"
+        ],
+        "educacion_paciente": [
+          "Aplicar en el cabello de forma pareja y dejar actuar únicamente el tiempo indicado en el envase.;",
+          "Aclarar con abundante agua tibia y evitar el contacto con los ojos durante el lavado.;",
+          "Volver a aplicar a los 7 o 10 días según las indicaciones del médico o farmacéutico."
+        ]
+      }
     }
   ]
 }
