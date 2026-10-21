@@ -1766,64 +1766,64 @@
       "letra": "R",
       "alto_riesgo": false,
       "farmacodinamia": {
-        "principio_activo": "Ranitidina",
-        "clasificacion": "Antagonista de receptores H2 de histamina [43]",
-        "efecto_terapeutica": "Inhibe la secreción de ácido gástrico basal y estimulada [43]",
-        "mecanismo_accion": "Bloquea competitivamente los receptores H2 en células parietales del estómago [43, 44]"
+        "principio_activo": "Clorhidrato de ranitidina",
+        "clasificacion": "Antiulceroso, antagonista competitivo de los receptores de histamina H2",
+        "efecto_terapeutica": "Reducción potente de la secreción de ácido gástrico basal y estimulada por alimentos",
+        "mecanismo_accion": "Bloquea de forma competitiva y reversible los receptores H2 localizados en la membrana basolateral de las células parietales gástricas, reduciendo el volumen y la concentración de la acidez gástrica"
       },
       "farmacocinetica_adme": {
-        "absorcion": "Rápida IM; inmediata IV [45]",
-        "distribucion": "Baja unión a proteínas (15%); cruza placenta [45]",
-        "metabolismo": "Parcial hepático [45]",
-        "eliminacion": "Principalmente renal; vida media 2-3h [45]"
+        "absorcion": "Buena absorción oral con biodisponibilidad del 50% por efecto de primer paso; rápida por vía intramuscular",
+        "distribucion": "Baja unión a proteínas plasmáticas (10-19%); cruza la placenta y se excreta en la leche materna",
+        "metabolismo": "Hepático menor (menos del 30% de la dosis) a metabolitos N-óxido, S-óxido y desmetilranitidina",
+        "eliminacion": "Excreción renal principal por filtración glomerular y secreción tubular (30% inalterado por VO, 70% por vía IV) con vida media de 2 a 3 horas"
       },
-      "indicaciones": "Úlceras, ERGE, prevención de úlceras por estrés y hemorragia digestiva [44]",
-      "contraindicaciones": "Hipersensibilidad [44]",
-      "precauciones": "Ajustar en insuficiencia renal; administrar lento vía IV [46]",
-      "advertencias": "Descartar cáncer gástrico antes de iniciar (enmascara síntomas) [46]",
-      "embarazo_lactancia": "Embarazo: Solo si beneficio supera riesgo. Lactancia: Se excreta en leche [46]",
+      "indicaciones": "Tratamiento y prevención de la úlcera gástrica y duodenal, enfermedad por reflujo gastroesofágico (ERGE), esofagitis erosiva, síndrome de Zollinger-Ellison y profilaxis de hemorragia digestiva por úlceras de estrés.",
+      "contraindicaciones": "Hipersensibilidad a la ranitidina o a otros antagonistas H2; porfiria aguda intermitente; embarazo y lactancia.",
+      "precauciones": "Riesgo de confusión mental, agitación o alucinaciones en ancianos y pacientes con insuficiencia renal severa; puede enmascarar los síntomas sintomatológicos de un adenocarcinoma gástrico.",
+      "advertencias": "Su comercialización ha sido suspendida o restringida drásticamente en múltiples agencias internacionales de medicamentos por la presencia de impurezas nitrosaminas (NDMA) carcinógenas.",
+      "embarazo_lactancia": "Categoría B en el embarazo; cruza la placenta pero no se han demostrado efectos teratogénicos claros. Se excreta en la leche materna; contraindicada o evaluar uso prudente.",
       "ajustes": {
-        "renal": "Reducir dosis o aumentar intervalo [47]",
-        "hepatico": "Controlar respuesta clínica [47]"
+        "renal": "Reducir la dosis a la mitad o aumentar el intervalo a cada 24 horas si el clearance de creatinina es inferior a 50 ml/min.",
+        "hepatico": "Usar con precaución en insuficiencia hepática grave por alteración metabólica."
       },
-      "interacciones": "Antiácidos disminuyen su absorción (separar tomas) [48]",
-      "reacciones_adversas": "Cefalea, mareos, estreñimiento o diarrea, confusión (en ancianos) [48]",
-      "toxicidad_sobredosis": "Hipotensión, mareos, alteraciones del ritmo cardíaco [49]",
-      "antidotos": "No existe; tratamiento sintomático [50]",
+      "interacciones": "Los antiácidos disminuyen la absorción oral de ranitidina (espaciar al menos 1-2 horas); a diferencia de la cimetidina, no inhibe significativamente el sistema citocromo P450.",
+      "reacciones_adversas": "Cefalea; mareos; estreñimiento o diarrea; dolor abdominal; fatiga; bradicardia (por infusión IV rápida); elevación transitoria de transaminasas; confusión mental (en ancianos o falla renal).",
+      "toxicidad_sobredosis": "Hipotensión ortostática, mareos intensos, alteraciones del ritmo cardíaco y trastornos neurológicos.",
+      "antidotos": "Tratamiento sintomático de soporte y lavado gástrico si la ingesta oral es reciente.",
       "monitorizacion": {
-        "clinica": "Síntomas digestivos y sangrado [50]",
-        "laboratorio": "Función renal (urea/creatinina) [50]"
+        "clinica": "Control de síntomas digestivos, signos de hemorragia digestiva (melena, hematemesis), frecuencia cardíaca y estado de conciencia.",
+        "laboratorio": "Urea, creatinina sérica y perfil de función hepática."
       },
       "parametros_valoracion": {
-        "antes": "Alergias y dolor abdominal [51]",
-        "durante": "Vigilar efectos neurológicos y ritmo cardíaco [51]",
-        "despues": "Respuesta terapéutica [51]"
+        "antes": "Evaluar la función renal (clearance) antes de ajustar la posología y descartar patología neoplásica gástrica.",
+        "durante": "Monitorear la velocidad de infusión IV para prevenir bradicardia o hipotensión.",
+        "despues": "Valorar la mejoría clínica de la pirosis o el cese del sangrado digestivo."
       },
-      "presentaciones": "Comprimidos, Jarabe, Solución inyectable [52]",
+      "presentaciones": "Comprimidos de 150 mg y 300 mg; jarabe o solución oral (15 mg/ml); ampolla inyectable de 50 mg/2 ml.",
       "dosis": {
-        "adultos": "150 mg cada 12h o 300 mg/día VO [52]",
-        "pediatrico": "2-4 mg/kg/día en 2 dosis [52]",
-        "geriatrico": "Evaluar función renal (riesgo de confusión) [53]"
+        "adultos": "Oral: 150 mg cada 12 horas o 300 mg una vez al día por la noche; IV/IM: 50 mg cada 6 a 8 horas en infusión lenta.",
+        "pediatrico": "2 mg/kg a 4 mg/kg al día divididos en dos tomas (vías oral o intravenosa).",
+        "geriatrico": "Ajustar rigurosamente la dosis según la función renal por mayor riesgo de efectos neurológicos secundarios."
       },
-      "vias_administracion": "Oral, Intravenosa, Intramuscular [51]",
+      "vias_administracion": "Vía oral, intravenosa e intramuscular.",
       "preparacion": {
-        "dilucion": "IV: diluir según fabricante en SF o Dx5% [54]",
-        "compatibilidad_iv": "SF 0.9%, Dx5% [54]"
+        "dilucion": "Diluir la ampolla de 50 mg en 20 ml a 100 ml de solución fisiológica o dextrosa al 5% para infusión intravenosa.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
       },
-      "velocidad_infusion": "Administrar lentamente en 15 a 20 minutos [54]",
-      "estabilidad_soluciones": "Conservar en envase original; desechar si cambia de color [55]",
-      "concentracion": "50 mg en 2 mL (ampolla) [53]",
-      "alarma_riesgo": "Uso restringido o descontinuado en algunos mercados; precaución especial en renales [56]",
+      "velocidad_infusion": "Administrar por infusión IV lenta en un período de no menos de 15 a 20 minutos (evitar bolo rápido).",
+      "estabilidad_soluciones": "Conservar en su envase original protegido de la luz y la humedad; desechar soluciones con cambio de coloración.",
+      "concentracion": "25 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de bradicardia severa, hipotensión por administración IV rápida y restricción por impurezas nitrosaminas.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Respetar los 5 correctos",
-          "Administración IV muy lenta para evitar bradicardia",
-          "Vigilar estado mental en adultos mayores"
+          "Administrar la medicación intravenosa de forma lenta (en 15 a 20 minutos) para evitar bradicardia o hipotensión.;",
+          "Ajustar la pauta posológica de acuerdo con el clearance de creatinina del paciente con disfunción renal.;",
+          "Vigilar el estado mental y la aparición de confusión o desorientación en pacientes adultos mayores.;"
         ],
         "educacion_paciente": [
-          "No automedicarse con antiácidos simultáneamente",
-          "Informar heces oscuras o vómitos con sangre",
-          "No suspender sin consulta médica"
+          "No automedicarse con antiácidos de forma simultánea sin espaciarlos al menos de 1 a 2 horas.;",
+          "Informar inmediatamente al médico si observa heces oscuras, alquitranadas o vómitos con sangre.;",
+          "No suspender la medicación por cuenta propia sin la debida consulta profesional."
         ]
       }
     },
