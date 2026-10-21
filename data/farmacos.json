@@ -19086,6 +19086,73 @@
           "Informar si nota inflamación dolorosa alrededor de las uñas o sequedad extrema en la piel."
         ]
       }
+    },
+    {
+      "id": "261",
+      "nombre_generico": "Trastuzumab",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Trastuzumab",
+        "clasificacion": "Antineoplásico, anticuerpo monoclonal humanizado IgG1 anti-HER2 (ERBB2)",
+        "efecto_terapeutica": "Inhibidor de la proliferación tumoral e inductor de citotoxicidad celular dependiente de anticuerpos (ADCC)",
+        "mecanismo_accion": "Se une selectivamente con alta afinidad al dominio extracelular de la proteína HER2, bloqueando la dimerización de receptores, la activación de cascasas de señalización e induciendo la degradación del receptor"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa o subcutánea (según formulación específica)",
+        "distribucion": "Volumen de distribución moderado confinado al espacio vascular y fluido intersticial",
+        "metabolismo": "Degradación proteica intracelular a aminoácidos pequeños en el sistema reticuloendotelial",
+        "eliminacion": "Aclaramiento lineal y no lineal con vida media de eliminación de 28 a 30 días"
+      },
+      "indicaciones": "Cáncer de mama precoz y metastásico con sobreexpresión de HER2 (IHC 3+ o FISH positivo) y adenocarcinoma gástrico o de la unión esofagogástrica metastásico HER2 positivo.",
+      "contraindicaciones": "Hipersensibilidad al trastuzumab o a proteínas de ovario de hámster chino (CHO); dispnea de reposo grave por complicación tumoral; embarazo y lactancia.",
+      "precauciones": "Riesgo elevado de cardiotoxicidad (disfunción ventricular izquierda, insuficiencia cardíaca congestiva), especialmente al combinarse con antraciclinas; reacciones asociadas a la infusión; neumonitis.",
+      "advertencias": "Se debe evaluar la fracción de eyección del ventrículo izquierdo (FEVI) antes de iniciar y periódicamente durante todo el tratamiento.",
+      "embarazo_lactancia": "Categoría D en el embarazo; provoca oligohidramnios grave y muerte fetal. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El uso simultáneo o previo con antraciclinas (doxorrubicina, epirrubicina) o taxanos incrementa sustancialmente el riesgo de cardiotoxicidad severa.",
+      "reacciones_adversas": "Disminución de la FEVI e insuficiencia cardíaca; reacciones infucionales (fiebre, escalofríos); astenia; mialgias; náuseas; diarrea; erupción cutánea; cefalea; mayor susceptibilidad a infecciones.",
+      "toxicidad_sobredosis": "Cardiotoxicidad aguda y reacciones alérgicas/infusionales de mayor intensidad.",
+      "antidotos": "Tratamiento de soporte, manejo médico de la insuficiencia cardíaca (IECA, betabloqueantes) e interrupción temporal o definitiva.",
+      "monitorizacion": {
+        "clinica": "Control del estado cardiovascular (signos de insuficiencia cardíaca), tolerancia a la infusión y función respiratoria.",
+        "laboratorio": "Evaluación de la FEVI por ecocardiograma o MUGA basal y cada 3 meses durante el tratamiento; confirmación de sobreexpresión de HER2."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar la sobreexpresión de HER2 positiva y verificar que la FEVI basal sea normal (≥ 50-55%).",
+        "durante": "Monitorear la infusión inicial en 90 minutos por probables reacciones pseudofebriles o escalofríos.",
+        "despues": "Continuar con el seguimiento ecocardiográfico trimestral post-tratamiento."
+      },
+      "presentaciones": "Frasco ampolla de 150 mg y 440 mg de polvo liofilizado para solución IV; solución SC fija de 600 mg.",
+      "dosis": {
+        "adultos": "Carga IV: 8 mg/kg administrados en 90 minutos; Mantenimiento IV: 6 mg/kg cada 3 semanas en 30 minutos (o 4 mg/kg de carga y 2 mg/kg semanales). Dosis fija SC: 600 mg cada 3 semanas.",
+        "pediatrico": "Uso no establecido en población pediátrica.",
+        "geriatrico": "Dosis habitual con estrecho control de la función cardíaca."
+      },
+      "vias_administracion": "Intravenosa en infusión y subcutánea (según la forma farmacéutica).",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril o agua bacteriostática y diluir la dosis requerida en 250 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (incompatible con soluciones de dextrosa)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en 90 minutos para la dosis de carga inicial; si se tolera bien, las dosis de mantenimiento pueden administrarse en 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas refrigerado (2°C - 8°C) o a temperatura ambiente tras la dilución final.",
+      "concentracion": "21 mg/ml (concentración tras la reconstitución del liofilizado).",
+      "alarma_riesgo": "Riesgo de insuficiencia cardíaca irreversible si se combina desmedidamente con antraciclinas y oligohidramnios fetal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Diluir el trastuzumab exclusivamente en bolsas de solución fisiológica (nunca en glucosadas).;",
+          "Verificar el resultado de la FEVI ecocardiográfica antes de administrar cada ciclo trimestral.;",
+          "Infundir la primera dosis en 90 minutos vigilando la aparición de fiebre, escalofríos o hipotensión.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato si nota falta de aire al caminar o acostarse, hinchazón en tobillos o piernas, o palpitaciones.;",
+          "Informar durante la aplicación si siente escalofríos, mareo, fiebre o temblor en el cuerpo.;",
+          "Cumplir con los estudios ecocardiográficos periódicos programados por su médico."
+        ]
+      }
     }
   ]
 }
