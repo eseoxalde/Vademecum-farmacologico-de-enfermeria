@@ -22414,6 +22414,73 @@
           "Consultar inmediatamente si presenta fiebre, moretons sin causa, dolor de garganta o cansancio extremo."
         ]
       }
+    },
+    {
+      "id": "311",
+      "nombre_generico": "Famciclovir",
+      "letra": "F",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Famciclovir",
+        "clasificacion": "Antiviral sistémico, prodroga oral del penciclovir (análogo nucleósido)",
+        "efecto_terapeutica": "Inhibición de la síntesis de ADN y replicación de los virus Herpes Simplex (HSV-1, HSV-2) y Varicela-Zóster (VZV)",
+        "mecanismo_accion": "Se transforma velozmente in vivo en penciclovir; este es fosforilado por la timidina quinasa viral a penciclovir trifosfato, el cual inhibe de forma competitiva la ADN polimerasa viral bloqueando la elongación de la cadena de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y buena absorción oral con una biodisponibilidad del 77% (no alterada significativamente por los alimentos)",
+        "distribucion": "Baja unión a proteínas plasmáticas (< 20%); amplia distribución tisular",
+        "metabolismo": "Rápida desacetilación e oxidación hepática e intestinal de primer paso a penciclovir activo",
+        "eliminacion": "Excreción renal principal del penciclovir por filtración y secreción (más del 60-80%) con vida media de 2 a 3 horas (vida media intracelular muy prolongada de 10 a 20 horas)"
+      },
+      "indicaciones": "Tratamiento del herpes zóster (zona) en adultos inmunocompetentes e inmunodeprimidos, tratamiento y prevención de recaídas del herpes genital agudo y herpes labial recurrente.",
+      "contraindicaciones": "Hipersensibilidad al famciclovir, penciclovir o sus excipientes; embarazo y lactancia.",
+      "precauciones": "Insuficiencia renal (requiere ajuste obligatorio de dosis); intolerancia a la galactosa o deficiencia de lactasa; precaución en ancianos.",
+      "advertencias": "Iniciar el tratamiento lo antes posible tras la aparición de los primeros síntomas o lesiones (idealmente dentro de las primeras 72 horas en zóster y 24 horas en herpes genital).",
+      "embarazo_lactancia": "Categoría B en el embarazo; usar solo si el beneficio supera claramente los riesgos potenciales. Desaconsejado durante la lactancia.",
+      "ajustes": {
+        "renal": "Ajustar dosis según clearance: ClCr 30-59 ml/min (250 mg c/12h o 500 mg c/24h en zóster); ClCr 10-29 ml/min (250 mg c/24h); ClCr < 10 ml/min (250 mg post-diálisis).",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada."
+      },
+      "interacciones": "El probenecid y la cimetidina pueden aumentar los niveles plasmáticos de penciclovir; la coadministración con raloxifeno puede inhibir la conversión a penciclovir.",
+      "reacciones_adversas": "Cefalea; náuseas; vómitos; diarrea; mareos; somnolencia; erupción cutánea; prurito; elevación transitoria de enzimas hepáticas.",
+      "toxicidad_sobredosis": "Incoordinación, confusiones, somnolencia y falla renal aguda en pacientes con compromiso renal previo sin ajuste.",
+      "antidotos": "Tratamiento de soporte e inducción de hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Evolución de las lesiones cutáneas, dolor neuropático (neuralgia posherpética), mareos y función renal.",
+        "laboratorio": "Clearance de creatinina sérica e ionograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance) y determinar el tiempo transcurrido desde el inicio de las lesiones.",
+        "durante": "Monitorear la tolerancia digestiva y cefalea.",
+        "despues": "Valorar la cicatrización vesicular y la disminución del dolor."
+      },
+      "presentaciones": "Comprimidos recubiertos de 125 mg, 250 mg y 500 mg.",
+      "dosis": {
+        "adultos": "Herpes Zóster: 500 mg VO cada 8 horas durante 7 días (o 750 mg una vez al día); Herpes Genital: 250 mg VO cada 8 horas durante 5 días.",
+        "pediatrico": "Uso no establecido formalmente en niños.",
+        "geriatrico": "Ajustar la dosis en función de la función renal calculada."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "250 mg o 500 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de fallo renal agudo si no se ajusta la dosis según la función renal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Ajustar la dosis según el clearance de creatinina previo al inicio del tratamiento.;",
+          "Asegurar el inicio precoz del tratamiento dentro de las primeras 72 horas del brote de zóster.;",
+          "Mantener una hidratación adecuada al paciente durante todo el ciclo terapéutico.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis prescrita con o sin alimentos acompañada de un vaso de agua.;",
+          "Iniciar las tomas ante los primeros síntomas de ardor, picazón o aparición de ampollas.;",
+          "Avisar al médico si presenta mareos intensos, dolor de cabeza o cambios en la frecuencia urinaria."
+        ]
+      }
     }
   ]
 }
