@@ -24357,6 +24357,73 @@
           "No tomar suplementos ni cambiar la dosis sin estricta indicación médica."
         ]
       }
+    },
+    {
+      "id": "340",
+      "nombre_generico": "Sildenafilo",
+      "letra": "S",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Citrato de sildenafilo",
+        "clasificacion": "Vasodilatador periférico, inhibidor selectivo de la fosfodiesterasa tipo 5 (PDE5)",
+        "efecto_terapeutica": "Relajación del músculo liso vascular con facilitación de la erección peneana y vasodilatación arterial pulmonar",
+        "mecanismo_accion": "Inhibe competitivamente la enzima PDE5 responsable de la degradación del GMP cíclico (GMPc) en los cuerpos cavernosos del pene y la vasculatura pulmonar; al potenciar la vía del óxido nítrico/GMPc, incrementa la relajación vascular y el flujo sanguíneo"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción oral (biodisponibilidad del 40%); la ingesta con comidas grasas retrasa el picos plasmático en 60 minutos",
+        "distribucion": "Alta unión a proteínas plasmáticas (96%); amplia distribución en tejidos corporales",
+        "metabolismo": "Hepático extenso por la isoenzima CYP3A4 (vía principal) y CYP2C9 a su metabolito activo N-desmetil sildenafilo",
+        "eliminacion": "Excreción fecal principal de metabolitos (80%) y eliminación renal menor (13%) con una vida media de 3 a 5 horas"
+      },
+      "indicaciones": "Tratamiento de la disfunción eréctil en hombres adultos y tratamiento de la hipertensión arterial pulmonar (HAP) en adultos y pediatría para mejorar la capacidad de ejercicio.",
+      "contraindicaciones": "CONTRAINDICACIÓN ABSOLUTA CON NITRATOS: Uso concomitante con donantes de óxido nítrico, nitratos (nitroglicerina, isosorbide) o estimuladores de la guanilato ciclasa (riociguat); hipotensión arterial grave (< 90/50 mmHg); infarto agudo de miocardio o ACV reciente; pérdida de visión por neuropatía óptica isquémica anterior no arterítica (NOIANA); insuficiencia hepática grave.",
+      "precauciones": "Riesgo de hipotensión arterial severa (especialmente combinado con alfabloqueantes como tamsulosina); priapismo (erección dolorosa > 4 horas); pérdida repentina de la audición o visión; deformaciones anatómicas del pene.",
+      "advertencias": "PROHIBIDA SU COMBINACIÓN CON NITROGLICERINA O DINITRATO DE ISOSORBIDE. Puede provocar un colapso cardiovascular mortal.",
+      "embarazo_lactancia": "Categoría B en el embarazo; indicado en gestantes exclusivamente para hipertensión arterial pulmonar. Desaconsejado durante la lactancia.",
+      "ajustes": {
+        "renal": "Iniciar con 25 mg si el clearance de creatinina es < 30 ml/min en disfunción eréctil.",
+        "hepatico": "Iniciar con 25 mg en insuficiencia hepática leve a moderada (Child-Pugh A/B); contraindicado si es grave."
+      },
+      "interacciones": "INTERACCIÓN MORTAL CON NITRATOS (hipotensión colapsante); los inhibidores potentes de CYP3A4 (ketoconazol, ritonavir, claritromicina) aumentan marcadamente sus niveles plasmáticos (reducir dosis a 25 mg); hipotensión con alfabloqueantes.",
+      "reacciones_adversas": "Cefalea; rubor facial (sofacos); dispepsia; congestión nasal; mareos; alteración visual de los colores (cloropsia/cianopsia o visión azulada); lumbalgia; mialgias; priapismo.",
+      "toxicidad_sobredosis": "Hipotensión arterial severa, mareos intensos, priapismo y alteraciones visuales agudas.",
+      "antidotos": "Tratamiento de soporte, elevación de miembros e inyección intracavernosa de simpaticomiméticos (fenilefrina) si hay priapismo.",
+      "monitorizacion": {
+        "clinica": "Presión arterial, frecuencia cardíaca, capacidad de ejercicio (en HAP), función visual y duración de la erección.",
+        "laboratorio": "Pruebas de función hepática y renal basales."
+      },
+      "parametros_valoracion": {
+        "antes": "VERIFICAR QUE EL PACIENTE NO TOME NITRATOS (nitroglicerina, dinitrato/mononitrato de isosorbide) ni parches coronarios.",
+        "durante": "Tomar aproximadamente 1 hora antes de la actividad sexual (para disfunción eréctil) o cada 8 horas (en HAP).",
+        "despues": "Valorar la presencia de hipotensión o erección prolongada."
+      },
+      "presentaciones": "Comprimidos recubiertos o masticables de 25 mg, 50 mg y 100 mg (para disfunción eréctil); comprimidos de 20 mg (Revatio - para hipertensión pulmonar); ampolla IV.",
+      "dosis": {
+        "adultos": "Disfunción eréctil: 50 mg por vía oral administrados aproximadamente 1 hora antes de la actividad sexual (rango 25 a 100 mg; máximo 1 toma al día); Hipertensión Arterial Pulmonar: 20 mg VO cada 8 horas.",
+        "pediatrico": "Hipertensión Pulmonar en > 1 año: 10 mg a 20 mg VO cada 8 horas (según peso corporal).",
+        "geriatrico": "Iniciar con la dosis reducida de 25 mg en mayores de 65 años."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución oral; los comprimidos masticables o recubiertos se toman con agua.",
+        "compatibilidad_iv": "Formulación oral habitual (IV reservada para uso hospitalario directo en HAP)."
+      },
+      "velocidad_infusion": "Bolo IV lento si se usa forma inyectable.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "50 mg o 100 mg por comprimido habitual.",
+      "alarma_riesgo": "CONTRAINDICACIÓN MORTAL CON NITRATOS (colapso cardiovascular) y riesgo de daño tisular por priapismo (> 4 horas).",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "VERIFICAR obligatoriamente que el paciente no tenga prescritos nitratos orales, sublinguales o en parches (nitroglicerina).;",
+          "Monitorizar la presión arterial antes y después de la administración en pacientes con tratamiento alfabloqueante.;",
+          "Advertir al paciente que acuda a la urgencia si presenta una erección que persiste por más de 4 horas (priapismo).;"
+        ],
+        "educacion_paciente": [
+          "NUNCA tomar este medicamento si está usando parches o comprimidos de nitroglicerina para el dolor de pecho.;",
+          "Tomar el comprimido aproximadamente 1 hora antes de la relación sexual (requiere estimulación sexual previa).;",
+          "Consultar inmediatamente al médico si siente dolor de pecho, mareo intenso o una erección que dura más de 4 horas."
+        ]
+      }
     }
   ]
 }
