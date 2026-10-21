@@ -19287,6 +19287,73 @@
           "Notificar inmediatamente ante cualquier sangrado significativo como sangre al toser, epistaxis u orina oscura."
         ]
       }
+    },
+    {
+      "id": "264",
+      "nombre_generico": "Panitumumab",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Panitumumab",
+        "clasificacion": "Antineoplásico, anticuerpo monoclonal 100% humano IgG2 anti-EGFR",
+        "efecto_terapeutica": "Inhibidor de la supervivencia y proliferación tumoral en neoplasias EGFR positivas",
+        "mecanismo_accion": "Se une con alta afinidad al receptor del factor de crecimiento epidérmico (EGFR), bloqueando la fosforilación inducida por ligandos y la cascada de señalización intracelular en tumores con gen RAS nativo"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución confinado al espacio vascular y fluido extracelular",
+        "metabolismo": "Degradación proteica catabólica no enzimática por el sistema reticuloendotelial",
+        "eliminacion": "Aclaramiento saturable no lineal con vida media de eliminación de aproximadamente 7.5 días"
+      },
+      "indicaciones": "Tratamiento del cáncer colorrectal metastásico con gen RAS nativo (wild-type) en primera línea (con FOLFOX/FOLFIRI) o en monoterapia tras fracaso terapéutico.",
+      "contraindicaciones": "Hipersensibilidad al panitumumab; cáncer colorrectal con mutaciones en los genes KRAS o NRAS; neumonitis intersticial o fibrosis pulmonar previa; embarazo y lactancia.",
+      "precauciones": "Riesgo de dermatotoxicidad severa (exantema acneiforme, fisuras, infección); hipomagnesemia e hipocalcemia severas; reacciones infusionales graves; toxicidad ocular.",
+      "advertencias": "Confirmar mediante prueba molecular el estado no mutado (wild-type) de los codones de KRAS y NRAS antes de la indicación.",
+      "embarazo_lactancia": "Categoría C en el embarazo; el IgG2 atraviesa la placenta causando aborto y toxicidad embrionaria. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El uso combinado con IFL o esquemas con bevacizumab eleva la toxicidad y disminuye la supervivencia libre de progresión.",
+      "reacciones_adversas": "Toxicidad cutánea (erupción acneiforme, eritema, prurito, sequedad); paroniquia; hipomagnesemia; hipocalcemia; fatiga; diarrea; náuseas; vómitos; estomatitis; alteración de las pestañas.",
+      "toxicidad_sobredosis": "Dermatotoxicidad severa, hipomagnesemia sintomática e inflamación mucocutánea.",
+      "antidotos": "Tratamiento de soporte, reposición electrolítica IV y corticoides/antibióticos tópicos u orales.",
+      "monitorizacion": {
+        "clinica": "Control del estado de la piel y uñas, evaluación ocular, signos de dificultad respiratoria y reacciones infusionales.",
+        "laboratorio": "Niveles séricos de magnesio, calcio y potasio antes y hasta 8 semanas post-tratamiento; estado mutacional de RAS."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la prueba genética de gen RAS nativo y medir magnesio e ionograma sérico.",
+        "durante": "Infundir en 60 minutos (o 90 minutos si la dosis es elevada) mediante filtro en línea de 0.2 micras.",
+        "despues": "Iniciar profilaxis cutánea con emolientes y fotoprotección solar."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg/5 ml y 400 mg/20 ml de solución concentrada (20 mg/ml).",
+      "dosis": {
+        "adultos": "6 mg/kg de peso corporal administrados por infusión IV cada 14 días.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual observando la tolerancia cutánea y electrolítica."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis requerida en solución fisiológica hasta un volumen final de 100 ml (dosis < 1000 mg) o 150 ml (dosis > 1000 mg).",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (utilizar filtro de línea de 0.2 micras)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en 60 minutos (dosis ≤ 1000 mg) o en 90 minutos (dosis > 1000 mg).",
+      "estabilidad_soluciones": "Usar dentro de las 6 horas a temperatura ambiente o hasta 24 horas refrigerado (2°C - 8°C).",
+      "concentracion": "20 mg/ml (concentración de la solución concentrada original).",
+      "alarma_riesgo": "Riesgo de erupción cutánea grave sobreinfectada e hipomagnesemia profunda asintomática inicial.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir exclusivamente en solución fisiológica utilizando un filtro en línea de 0.2 micras.;",
+          "Controlar periódicamente los niveles de magnesio y calcio séricos antes de cada ciclo.;",
+          "Monitorear la aparición de reacciones infusionales o broncoespasmo durante la aplicación.;"
+        ],
+        "educacion_paciente": [
+          "Usar protector solar de alto factor, sombrero y ropa protectora al salir al aire libre.;",
+          "Humectar la piel diariamente con cremas hidratantes y avisar si nota pústulas o dolor alrededor de las uñas.;",
+          "Informar de inmediato si siente calambres musculares, adormecimiento o fatiga extrema."
+        ]
+      }
     }
   ]
 }
