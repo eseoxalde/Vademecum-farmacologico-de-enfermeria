@@ -23017,6 +23017,73 @@
           "Utilizar protector solar y ropa adecuada por el riesgo de sensibilidad en la piel tras la exposición al sol."
         ]
       }
+    },
+    {
+      "id": "320",
+      "nombre_generico": "Amodiaquina",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de amodiaquina",
+        "clasificacion": "Antimalárico / Antipalúdico sistémico (4-aminoquinolina del grupo de la cloroquina)",
+        "efecto_terapeutica": "Efecto esquizonticida sanguíneo rápido frente a formas eritrocíticas de Plasmodium falciparum y vivax",
+        "mecanismo_accion": "Se concentra en la vacuola digestiva del parásito de la malaria e inhibe la polimerización del hemo tóxico en hemozoína inerte, provocando la acumulación de complejos de hemo libres destructivos que lisan la membrana del parásito"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y buena absorción oral (biodisponibilidad del 60 al 80%)",
+        "distribucion": "Amplia distribución tisular con elevada fijación hepática; unión a proteínas del 80%",
+        "metabolismo": "Hepático extenso por la isoenzima CYP2C8 al metabolito activo desetilamodiaquina",
+        "eliminacion": "Excreción renal y fecal lenta de sus metabolitos con una vida media de eliminación terminal de 1 a 3 semanas"
+      },
+      "indicaciones": "Tratamiento de la malaria o paludismo no complicado por Plasmodium falciparum (exclusivamente administrado en terapia combinada a base de artemisinina - TCA, como artesunato + amodiaquina).",
+      "contraindicaciones": "Hipersensibilidad a la amodiaquina o 4-aminoquinolinas; antecedentes de daño hepático o agranulocitosis por amodiaquina; profilaxis continua de la malaria; embarazo (primer trimestre); lactancia.",
+      "precauciones": "Riesgo de hepatotoxicidad severa y agranulocitosis / neutropenia mortal (razón por la cual está prohibida como monoterapia o profilaxis continua); prolongación del intervalo QT; retinopatía en usos prolongados.",
+      "advertencias": "PROHIBIDA SU ADMINISTRACIÓN EN PROFILAXIS O EN MONOTERAPIA debido a la alta incidencia de agranulocitosis y necrosis hepática.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evitar en el primer trimestre salvo falta de alternativas. Pasa a la leche materna; desaconsejado en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste en esquemas cortos de 3 días.",
+        "hepatico": "Contraindicada en pacientes con hepatopatía activa grave."
+      },
+      "interacciones": "La combinación con efavirenz o cotrimoxazol aumenta el riesgo de hepatotoxicidad o neutropenia; los fármacos inhibidores de CYP2C8 (gemfibrozilo) aumentan sus niveles tóxicos.",
+      "reacciones_adversas": "Náuseas; vómitos; dolor abdominal; diarrea; astenia; mareos; prurito; agranulocitosis / leucopenia (grave); hepatotoxicidad y elevación de transaminasas; involuntarios movimientos oculares.",
+      "toxicidad_sobredosis": "Arritmias cardíacas, colapso cardiovascular, síncope, convulsiones y daño hepático agudo.",
+      "antidotos": "Tratamiento sintomático de soporte, lavados gástricos y soporte hemodinámico.",
+      "monitorizacion": {
+        "clinica": "Signos de infección (fiebre, odinofagia por agranulocitosis), ictericia, dolor en hipocondrio derecho y electrocardiograma.",
+        "laboratorio": "Hemograma completo con recuento leucocitario y pruebas de función hepática (AST/ALT/Bilirrubina)."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar el diagnóstico de malaria mediante frotis/gota gruesa y descartar hepatopatías previas.",
+        "durante": "Monitorear la ingesta del tratamiento combinado en el esquema corto de 3 días.",
+        "despues": "Valorar el aclaramiento del parásito y la recuperación clínica."
+      },
+      "presentaciones": "Comprimidos co-formulados combinados con artesunato (ej. 153.1 mg de amodiaquina base + 50 mg de artesunato).",
+      "dosis": {
+        "adultos": "Tratamiento combinado: 10 mg base/kg/día por vía oral administrados una vez al día durante 3 días consecutivos (combinado con artesunato).",
+        "pediatrico": "Misma dosis ponderal de 10 mg base/kg/día por vía oral durante 3 días en terapia combinada.",
+        "geriatrico": "Dosis habitual observando la tolerancia digestiva y hepática."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se tragan con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "153.1 mg de amodiaquina base (equivalentes a 200 mg de clorhidrato) por comprimido en combinación.",
+      "alarma_riesgo": "Riesgo de agranulocitosis fulminante y fallo hepático fatal si se utiliza como tratamiento profiláctico o prolongado.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA administrar como profilaxis continua o semanal (prohibido por toxicidad medular y hepática).;",
+          "Garantizar que se administre conjuntamente con artesunato dentro de la terapia combinada oficial.;",
+          "Vigilar la aparición de fiebre repentina, dolor de garganta o ictericia en las semanas posteriores al tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Completar estrictamente el esquema de 3 días prescrito sin interrumpir la toma.;",
+          "Tomar la dosis acompañada de alimentos para reducir el malestar digestivo o las náuseas.;",
+          "Consultar de urgencia si presenta fiebre persistente, llagas en la boca o tinte amarillo en los ojos o piel."
+        ]
+      }
     }
   ]
 }
