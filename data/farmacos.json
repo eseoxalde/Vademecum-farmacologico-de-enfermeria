@@ -21431,6 +21431,73 @@
           "Avisar al médico ante calambres en las manos, hormigueo en la boca o disminución en la cantidad de orina."
         ]
       }
+    },
+    {
+      "id": "296",
+      "nombre_generico": "Denosumab",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Denosumab",
+        "clasificacion": "Inhibidor de la resorción ósea, anticuerpo monoclonal humano IgG2 anti-RANKL",
+        "efecto_terapeutica": "Reducción marcada de la resorción ósea, disminución de complicaciones esqueléticas y control de la destrucción tumoral del hueso",
+        "mecanismo_accion": "Se une con alta afinidad y especificidad al ligando del receptor activador del factor nuclear kappa-B (RANKL), impidiendo la activación de su receptor RANK en la superficie de los osteoclastos e inhibiendo su formación, función y supervivencia"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía subcutánea (biodisponibilidad cercana al 62%)",
+        "distribucion": "Volumen de distribución proporcional al volumen plasmático sin acumulación tisular directa en la matriz ósea",
+        "metabolismo": "Depuración catabólica proteica no enzimática a través del sistema reticuloendotelial",
+        "eliminacion": "Aclaramiento no renal con una vida media de eliminación aproximada de 25 a 28 días"
+      },
+      "indicaciones": "Prevención de eventos relacionados con el esqueleto en adultos con metástasis óseas de tumores sólidos o mieloma múltiple, tumor de células gigantes del hueso, hipercalcemia tumoral refractaria a bisfosfonatos y tratamiento de la osteoporosis de alto riesgo.",
+      "contraindicaciones": "Hipersensibilidad al denosumab; hipocalcemia grave no corregida; lesiones no cicatrizadas por cirugía oral o dental; embarazo y lactancia.",
+      "precauciones": "Riesgo muy alto de hipocalcemia severa (requiere suplementación obligatoria con calcio y vitamina D); osteonecrosis de la mandíbula (ONM); fracturas femorales atípicas; riesgo de fracturas vertebrales por efecto rebote tras la suspensión abrupta.",
+      "advertencias": "No administrar por vía intravenosa, intramuscular o intraarterial. Es obligatorio corregir la hipocalcemia antes de iniciar el tratamiento.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de daño fetal, alteración del crecimiento óseo y muerte perinatal. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis; sin embargo, aumenta el riesgo de hipocalcemia severa en insuficiencia renal grave o diálisis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El uso simultáneo con inmunosupresores o corticoides puede aumentar el riesgo de infecciones graves; no se han descrito interacciones metabólicas por CYP450.",
+      "reacciones_adversas": "Hipocalcemia; dolor musculoesquelético; artralgias; disnea; diarrea; osteonecrosis de la mandíbula; infecciones cutáneas (celulitis); hipofosfatemia.",
+      "toxicidad_sobredosis": "Hipocalcemia sintomática profunda (parestesias, espasmos musculares, tetania y arritmias).",
+      "antidotos": "Administración de gluconato de calcio por vía IV e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control del estado bucodental, signos de hipocalcemia (Chvostek/Trousseau), dolor óseo o femoral inusual y revisión del sitio de aplicación.",
+        "laboratorio": "Calcio corregido, fósforo, magnesio y creatinina sérica antes de cada dosis."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar niveles de calcio sérico normales, asegurar la evaluación odontológica previa y confirmar la suplementación con calcio y vitamina D.",
+        "durante": "Inyectar la solución subcutánea en brazo, muslo o abdomen.",
+        "despues": "Monitorear la aparición de dolor en la mandíbula o signos de parestesias."
+      },
+      "presentaciones": "Jeringa prellenada de 120 mg/1.7 ml (indicación oncológica) y de 60 mg/1 ml (indicación en osteoporosis).",
+      "dosis": {
+        "adultos": "Oncología: 120 mg SC cada 4 semanas en el muslo, abdomen o parte superior del brazo (con dosis adicionales de 120 mg los días 8 y 15 el primer mes en tumor de células gigantes); Osteoporosis: 60 mg SC cada 6 meses.",
+        "pediatrico": "Uso en adolescentes con esqueleto maduro en tumor de células gigantes del hueso (120 mg SC).",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste específico por edad sola."
+      },
+      "vias_administracion": "Subcutánea exclusiva.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución ni dilución; viene listo para su uso en jeringa prellenada.",
+        "compatibilidad_iv": "PROHIBIDA LA VÍA INTRAVENOSA O INTRAMUSCULAR."
+      },
+      "velocidad_infusion": "Inyección subcutánea directa del contenido de la jeringa.",
+      "estabilidad_soluciones": "Conservar y transportar refrigerado (2°C - 8°C); puede mantenerse a temperatura ambiente (hasta 25°C) por un máximo de 30 días en el empaque original.",
+      "concentracion": "70 mg/ml (en presentación de 120 mg/1.7 ml).",
+      "alarma_riesgo": "Riesgo de hipocalcemia mortal y de fracturas vertebrales múltiples por rebote si se interrumpe sin terapia de reemplazo.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar únicamente por vía subcutánea en abdomen, muslos o parte posterior del brazo.;",
+          "Confirmar que los niveles de calcio sérico sean normales antes de aplicar cada dosis.;",
+          "Garantizar que el paciente reciba diariamente los suplementos prescritos de calcio y vitamina D.;"
+        ],
+        "educacion_paciente": [
+          "Acudir al dentista antes de iniciar el tratamiento y evitar procedimientos dentales invasivos durante el mismo.;",
+          "Tomar sin falta los suplementos diarios de calcio y vitamina D según la prescripción médica.;",
+          "Avisar de inmediato si presenta calambres musculares, hormigueo en labios/dedos o dolor en la mandíbula."
+        ]
+      }
     }
   ]
 }
