@@ -21833,6 +21833,73 @@
           "Avisar si presenta imposibilidad para orinar, taquicardia o sequedad extrema de la boca."
         ]
       }
+    },
+    {
+      "id": "302",
+      "nombre_generico": "Clorfeniramina",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Maleato de clorfeniramina",
+        "clasificacion": "Antihistamínico H1 de primera generación (derivado de las propilaminas)",
+        "efecto_terapeutica": "Alivio de manifestaciones alérgicas e inhibición de la permeabilidad capilar e inflamación mediada por histamina",
+        "mecanismo_accion": "Compite de manera reversible y antagónica con la histamina por los sitios de enlace en los receptores H1 del músculo liso, capilares y SNC; además presenta marcada actividad anticolinérgica y sedante central"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral con concentraciones plasmáticas picas a las 2 a 3 horas (biodisponibilidad del 25 al 50% por efecto de primer paso)",
+        "distribucion": "Alta unión a proteínas plasmáticas (70%); atraviesa fácilmente la barrera hematoencefálica y la placenta",
+        "metabolismo": "Hepático extenso por desmetilación mediante isoenzimas del citocromo P450 a metabolitos monodesmetilados y didesmetilados",
+        "eliminacion": "Excreción renal principal (18% inalterado y metabolitos) con una vida media de 14 a 25 horas"
+      },
+      "indicaciones": "Tratamiento sintomático del rinitis alérgica, urticaria, angioedema, conjuntivitis alérgica, reacciones pruriginosas, prevención y tratamiento de reacciones alérgicas por transfusiones o fármacos.",
+      "contraindicaciones": "Hipersensibilidad a la clorfeniramina o antihistamínicos similares; crisis asmática aguda; uso concomitante con inhibidores de la MAO; glaucoma de ángulo cerrado; embarazo y lactancia.",
+      "precauciones": "Efecto sedante importante e hipotensión ortostática; retención urinaria e hipertrofia prostática; estreñimiento o íleo; aumento de la viscosidad de secreciones bronquiales en cuadros respiratorios.",
+      "advertencias": "Produce somnolencia intensa. Evitar el consumo simultáneo de alcohol o tranquilizantes.",
+      "embarazo_lactancia": "Categoría B en el embarazo; evitar durante el tercer trimestre por riesgo de convulsiones o irritabilidad en el neonato. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Usar con precaución en insuficiencia renal grave.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática grave."
+      },
+      "interacciones": "Aumento significativo de la sedación con alcohol, benzodiazepinas, opioides y depresores del SNC; los IMAO prolongan e intensifican sus efectos anticolinérgicos.",
+      "reacciones_adversas": "Somnolencia; sedación; mareos; incoordinación motora; sequedad de boca, nariz y garganta; espesamiento de secreciones bronquiales; retención urinaria; visión borrosa; estreñimiento.",
+      "toxicidad_sobredosis": "Depresión del SNC alternada con estimulación (convulsiones), hipotensión, paro respiratorio y efectos atropínicos severos.",
+      "antidotos": "Tratamiento sintomático de soporte, anticonvulsivantes e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control de la presión arterial, nivel de somnolencia, hábito miccional e hidratación de mucosas.",
+        "laboratorio": "No requiere exámenes de laboratorio específicos de rutina."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de asma, glaucoma o retención urinaria y determinar la presión arterial basal.",
+        "durante": "Monitorear la sedación y el alivio de la reacción alérgica.",
+        "despues": "Asegurar que el paciente no realice actividades de riesgo."
+      },
+      "presentaciones": "Comprimidos de 4 mg; jarabe / solución oral (2 mg/5 ml); ampolla inyectable de 10 mg/1 ml.",
+      "dosis": {
+        "adultos": "Oral: 4 mg cada 4 a 6 horas (Máximo: 24 mg/día); IV/IM/SC: 10 mg a 20 mg en dosis única lenta para reacciones agudas (Máximo: 40 mg/día).",
+        "pediatrico": "2 a 6 años: 1 mg cada 4-6 horas; 6 a 12 años: 2 mg cada 4-6 horas (Máximo: 12 mg/día).",
+        "geriatrico": "Iniciar con 2 mg cada 6 a 8 horas por mayor susceptibilidad a mareos y retención urinaria."
+      },
+      "vias_administracion": "Vía oral, intravenosa, intramuscular y subcutánea.",
+      "preparacion": {
+        "dilucion": "Para administración IV, diluir la ampolla en 10 ml de solución fisiológica para bolo lento o en 50 ml para infusión corta.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por inyección IV directa lenta en no menos de 1 minuto.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "4 mg por comprimido o 10 mg/ml en ampolla.",
+      "alarma_riesgo": "Riesgo de somnolencia profunda con accidentes y colapso respiratorio si se combina con alcohol o depresores.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV de forma muy lenta (al menos en 1 minuto) para evitar hipotensión o mareo agudo.;",
+          "Vigilar la diuresis y la presencia de globo vesical por sus marcados efectos anticolinérgicos.;",
+          "Garantizar la seguridad del paciente mediante barandillas si presenta sedación profunda.;"
+        ],
+        "educacion_paciente": [
+          "No consumir bebidas alcohólicas ni medicamentos sedantes mientras tome este fármaco.;",
+          "Evitar conducir vehículos o manejar herramientas de riesgo por la somnolencia y pérdida de reflejos.;",
+          "Ingerir caramelos sin azúcar o beber agua si presenta sequedad molesta en la boca."
+        ]
+      }
     }
   ]
 }
