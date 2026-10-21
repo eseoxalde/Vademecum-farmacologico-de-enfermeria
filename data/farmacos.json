@@ -19756,6 +19756,73 @@
           "Informar si presenta ampollas o enrojecimiento doloroso en las palmas de las manos o plantas de los pies."
         ]
       }
+    },
+    {
+      "id": "271",
+      "nombre_generico": "Palbociclib",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Palbociclib",
+        "clasificacion": "Antineoplásico, inhibidor selectivo de las quinasas dependientes de ciclinas 4 y 6 (CDK4/6)",
+        "efecto_terapeutica": "Inhibidor de la progresión del ciclo celular y de la proliferación de células tumorales con receptores hormonales positivos",
+        "mecanismo_accion": "Inhibe selectivamente las quinasas CDK4 y CDK6 bloqueando la fosforilación de la proteína del retinoblastoma (Rb), lo que detiene la transición de la fase G1 a la fase S del ciclo celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral progresiva; la administración con alimentos reduce la variabilidad entre pacientes (especialmente en cápsulas)",
+        "distribucion": "Alta unión a proteínas plasmáticas (85%); amplio volumen de distribución tisular",
+        "metabolismo": "Hepático extenso por la isoenzima CYP3A4 y la sulfotransferasa SULT2A1 a metabolitos inactivos",
+        "eliminacion": "Excreción fecal principal (74%) y renal (17%) con vida media de 29 horas"
+      },
+      "indicaciones": "Tratamiento del cáncer de mama localmente avanzado o metastásico con receptor hormonal (HR) positivo y receptor 2 del factor de crecimiento epidérmico humano (HER2) negativo en combinación con un inhibidor de la aromatasa o fulvestrant.",
+      "contraindicaciones": "Hipersensibilidad al palbociclib; administración concomitante con hierba de San Juan; embarazo y lactancia.",
+      "precauciones": "Riesgo severo de neutropenia (no febril en su mayoría, rápidamente reversible tras el descanso); enfermedad pulmonar intersticial (EPI) / neumonitis; infecciones oportunistas.",
+      "advertencias": "Realizar un hemograma completo antes de iniciar, al comienzo de cada ciclo y el día 15 de los primeros dos ciclos.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve, moderada o severa no hemodialítica.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada (Child-Pugh A y B); reducir la dosis a 75 mg en Child-Pugh C."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 (itraconazol, claritromicina) elevan marcadamente sus niveles plasmáticos; los inductores potentes (rifampicina) reducen su efectividad; evita el jugo de toronja.",
+      "reacciones_adversas": "Neutropenia; leucopenia; anemia; trombocitopenia; infecciones; fatiga; náuseas; estomatitis; alopecia; diarrea; erupción cutánea; disminución del apetito.",
+      "toxicidad_sobredosis": "Neutropenia profunda y aplasia medular reversible.",
+      "antidotos": "Tratamiento de soporte, suspensión o retraso del ciclo e incorporación de G-CSF si se requiere.",
+      "monitorizacion": {
+        "clinica": "Control de signos de infección, fiebre, cansancio extremo, función respiratoria (tos, disnea) y mucosa bucal.",
+        "laboratorio": "Hemograma completo los días 1 y 15 de los primeros 2 ciclos, y luego el día 1 de cada ciclo posterior."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar recuento absoluto de neutrófilos (≥ 1.000/mm³) para iniciar el ciclo.",
+        "durante": "Monitorear el recuento el día 15 del ciclo para decidir suspensión o ajuste.",
+        "despues": "Asegurar el cumplimiento del período de descanso de 7 días al finalizar cada ciclo."
+      },
+      "presentaciones": "Cápsulas duras o comprimidos recubiertos de 75 mg, 100 mg y 125 mg.",
+      "dosis": {
+        "adultos": "125 mg una vez al día por vía oral durante 21 días consecutivos seguidos de 7 días de descanso (ciclo de 28 días) combinado con terapia hormonal.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual no requiriendo ajuste automático por edad."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; las cápsulas o comprimidos se ingieren enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "125 mg por cápsula o comprimido.",
+      "alarma_riesgo": "Riesgo de neutropenia profunda e infección sistémica si no se respeta la pausa de descanso o los controles de laboratorio.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Tomar la dosis diaria a la misma hora con alimentos (las cápsulas exigen comida; los comprimidos pueden tomarse con o sin alimentos).;",
+          "Controlar el hemograma completo los días 1 y 15 de los primeros ciclos para evaluar la neutropenia.;",
+          "Confirmar que el paciente cumpla estrictamente los 7 días de descanso al término de los 21 días de toma.;"
+        ],
+        "educacion_paciente": [
+          "Tragar las cápsulas enteras acompañadas de comida; no masticar, abrir ni aplastar.;",
+          "Avisar de inmediato ante cualquier síntoma de fiebre (≥ 38°C), escalofríos o signos de infección.;",
+          "Evitar el consumo de pomelo (toronja) y sus jugos durante todo el tratamiento."
+        ]
+      }
     }
   ]
 }
