@@ -20158,6 +20158,73 @@
           "Informar la presencia de sofocos intensos, dolores en las articulaciones o fatiga."
         ]
       }
+    },
+    {
+      "id": "277",
+      "nombre_generico": "Anastrozol",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Anastrozol",
+        "clasificacion": "Antineoplásico, inhibidor selectivo no esteroideo de la aromatasa (de tercera generación)",
+        "efecto_terapeutica": "Supresión profunda de los niveles de estrógenos circulantes en mujeres posmenopáusicas",
+        "mecanismo_accion": "Inhibe de forma potente y altamente selectiva la enzima aromatasa, bloqueando la conversión periférica de androstenediona y testosterona en estrone y estradiol en los tejidos periféricos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y completa absorción oral; las concentraciones máximas se alcanzan dentro de las 2 horas (los alimentos no alteran la extensión)",
+        "distribucion": "Unión moderada a proteínas plasmáticas (40%); amplio volumen de distribución",
+        "metabolismo": "Hepático extenso por N-desalquilación, hidroxilación y glucuronidación a metabolitos inactivos (triazol)",
+        "eliminacion": "Excreción renal de metabolitos y menos del 10% inalterado en orina con vida media de 40 a 50 horas"
+      },
+      "indicaciones": "Tratamiento adyuvante y de primera/segunda línea del cáncer de mama avanzado en mujeres posmenopáusicas con receptores hormonales positivos (RE+).",
+      "contraindicaciones": "Hipersensibilidad al anastrozol; mujeres premenopáusicas; embarazo y lactancia; insuficiencia hepática o renal severa.",
+      "precauciones": "Riesgo de reducción de la densidad mineral ósea (osteoporosis, fracturas); hipercolesterolemia; artralgias y rigidez articular; eventos isquémicos cardiovasculares en personas con cardiopatía previa.",
+      "advertencias": "No indicado en mujeres con función ovárica conservada debido a la falta de eficacia supresora ovárica aislada.",
+      "embarazo_lactancia": "Categoría X en el embarazo; produce daño y muerte fetal. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve a moderada; no recomendado en severa.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada; uso no recomendado en severa."
+      },
+      "interacciones": "Los estrógenos o las terapias de reemplazo hormonal anulan su efecto terapéutico; el tamoxifeno no debe coadministrarse por reducir los niveles plasmáticos de anastrozol.",
+      "reacciones_adversas": "Sofocos; artralgias; rigidez articular; astenia; cefalea; náuseas; erupción cutánea; osteopenia; osteoporosis; sequedad vaginal; hipercolesterolemia.",
+      "toxicidad_sobredosis": "Muy baja toxicidad directa; exacerbación de los síntomas climatéricos.",
+      "antidotos": "Tratamiento de soporte e inducción del vómito o lavado si es reciente.",
+      "monitorizacion": {
+        "clinica": "Control de la densidad mineral ósea (Densitometría - DEXA), dolor articular y rigidez, y perfil de lípidos.",
+        "laboratorio": "Densitometría ósea previa y periódica, perfil lipídico sérico y enzimas hepáticas."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar el estado posmenopáusico de la paciente y realizar una densitometría ósea basal.",
+        "durante": "Monitorear la aparición de dolor en las articulaciones o fracturas patológicas.",
+        "despues": "Valorar el mantenimiento de la densidad ósea e incorporar bifosfonatos o denosumab de ser necesario."
+      },
+      "presentaciones": "Comprimidos recubiertos de 1 mg.",
+      "dosis": {
+        "adultos": "1 mg una vez al día por vía oral durante un período habitual de 5 años.",
+        "pediatrico": "Uso no recomendado de rutina en población pediátrica.",
+        "geriatrico": "Dosis habitual sin requerir ajuste por la edad sola."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "1 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de osteoporosis acelerada con fracturas de cadera/columna y falta de efecto en premenopáusicas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que la paciente sea posmenopáusica confirmada antes de iniciar el tratamiento.;",
+          "Administrar un comprimido de 1 mg al día a la misma hora con o sin alimentos.;",
+          "Asegurar el control de la densidad mineral ósea mediante densitometría antes y durante el tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Tomar un comprimido entero cada día a la misma hora con un vaso de agua.;",
+          "Consumir suplementos de calcio y vitamina D según indicación médica para proteger los huesos.;",
+          "Informar si presenta dolor articular persistente, rigidez en las manos o síntomas de descalcificación."
+        ]
+      }
     }
   ]
 }
