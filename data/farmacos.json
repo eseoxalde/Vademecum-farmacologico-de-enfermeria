@@ -20560,6 +20560,73 @@
           "Consumir agua y alimentos ricos en fibra por el riesgo de estreñimiento provocado por la medicación."
         ]
       }
+    },
+    {
+      "id": "283",
+      "nombre_generico": "Granisetrón",
+      "letra": "G",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de granisetrón",
+        "clasificacion": "Antiemético y antinauseoso, antagonista potente y selectivo de receptores 5-HT3",
+        "efecto_terapeutica": "Prevención y tratamiento duradero de náuseas y vómitos inducidos por quimioterapia o radioterapia",
+        "mecanismo_accion": "Bloquea de forma altamente selectiva los receptores serotoninérgicos 5-HT3 en las neuronas vagales periféricas y en la zona quimiorreceptora del área postrema central"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral (biodisponibilidad del 60%); absorción sostenida tras la aplicación del parche transdérmico",
+        "distribucion": "Amplio volumen de distribución con rápida penetración tisular; unión a proteínas plasmáticas del 65%",
+        "metabolismo": "Hepático extenso por la isoenzima CYP3A4 mediante N-desmetilación e hidroxilación",
+        "eliminacion": "Excreción renal en forma de metabolitos (12% inalterado) y eliminación fecal con vida media de 9 a 12 horas"
+      },
+      "indicaciones": "Prevención y tratamiento de las náuseas y vómitos agudos y tardíos causados por quimioterapia citotóxica emetógena, radioterapia corporal o abdominal y vómitos posoperatorios.",
+      "contraindicaciones": "Hipersensibilidad al granisetrón u otros antagonistas 5-HT3; embarazo y lactancia.",
+      "precauciones": "Riesgo de suboclusión intestinal por disminución de la motilidad digestiva; leve prolongación del intervalo QT; arritmias cardíacas preexistentes.",
+      "advertencias": "El parche transdérmico debe aplicarse 24 a 48 horas antes del inicio de la quimioterapia para asegurar concentraciones terapéuticas.",
+      "embarazo_lactancia": "Categoría B en el embarazo; usar solo si es estrictamente necesario. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Inhibidores o inductores potentes del CYP3A4 pueden modificar ligeramente su aclaramiento; no muestra interacciones clínicamente significativas relevantes.",
+      "reacciones_adversas": "Cefalea; estreñimiento; astenia; elevación transitoria de transaminasas; somnolencia; eritema cutáneo local (con el parche transdérmico).",
+      "toxicidad_sobredosis": "Cefalea intensa, estreñimiento severo y cambios menores en el electrocardiograma.",
+      "antidotos": "Tratamiento de soporte sintomático.",
+      "monitorizacion": {
+        "clinica": "Control del hábito intestinal, cefalea, signos de oclusión digestiva e integridad cutánea si se usa parche.",
+        "laboratorio": "Transaminasas y electrocardiograma si existe antecedente cardiovascular."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la motilidad intestinal previa y limpiar la piel sana si se usará el sistema transdérmico.",
+        "durante": "Monitorear la inyección IV en 30 segundos o infusión corta en 5 minutos.",
+        "despues": "Valorar la respuesta antiemética durante y después del ciclo de quimioterapia."
+      },
+      "presentaciones": "Comprimidos de 1 mg y 2 mg; ampolla inyectable de 1 mg/1 ml y 3 mg/3 ml; sistema transdérmico (parche) de 3.1 mg/24 horas.",
+      "dosis": {
+        "adultos": "IV: 1 mg a 3 mg diluidos antes de la quimioterapia; Oral: 1 mg a 2 mg al día; Parche: 1 parche (34.3 mg) aplicado 24-48 horas antes y mantenido por hasta 7 días.",
+        "pediatrico": "10 mcg/kg a 40 mcg/kg (máximo 3 mg) IV en infusión antes de la quimioterapia.",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste específico por edad sola."
+      },
+      "vias_administracion": "Vía oral, intravenosa y transdérmica.",
+      "preparacion": {
+        "dilucion": "Diluir la ampolla inyectable en 20 ml a 50 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar la inyección IV directa en 30 segundos o la infusión IV corta en 5 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente tras su dilución.",
+      "concentracion": "1 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de íleo paralítico en pacientes con tendencia al estreñimiento no monitoreados.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la infusión IV 30 minutos antes del comienzo de los agentes quimioterápicos.;",
+          "Si se utiliza el parche transdérmico, colocarlo en piel limpia, seca e intacta del brazo o abdomen 24-48 horas antes.;",
+          "Controlar la deposición diaria del paciente por la elevada incidencia de constipación.;"
+        ],
+        "educacion_paciente": [
+          "No retirar el parche transdérmico durante los baños o duchas y evitar exponerlo a fuentes directas de calor.;",
+          "Avisar al personal de salud si siente dolor de cabeza persistente o constipación de varios días.;",
+          "Informar de inmediato si presenta náuseas o vómitos a pesar del uso del medicamento."
+        ]
+      }
     }
   ]
 }
