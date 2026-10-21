@@ -20493,6 +20493,73 @@
           "Informar si nota sed excesiva, ganas muy frecuentes de orinar o cansancio extremo."
         ]
       }
+    },
+    {
+      "id": "282",
+      "nombre_generico": "Ondansetrón",
+      "letra": "O",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de ondansetrón",
+        "clasificacion": "Antiemético y antinauseoso, antagonista selectivo de los receptores de serotonina (5-HT3)",
+        "efecto_terapeutica": "Prevención y control eficaz de las náuseas y vómitos inducidos por quimioterapia, radioterapia o cirugía",
+        "mecanismo_accion": "Inhibe selectivamente los receptores 5-HT3 periféricos en las neuronas vagales del aparato digestivo y centrales en la zona gatillo quimiorreceptora de la área postrema"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral con biodisponibilidad de un 60%; la vía parenteral ofrece disponibilidad inmediata",
+        "distribucion": "Unión moderada a proteínas plasmáticas (70-76%); se distribuye ampliamente en tejidos corporales",
+        "metabolismo": "Hepático extenso por múltiples vías enzimáticas (CYP3A4, CYP1A2, CYP2D6) por hidroxilación y conjugación",
+        "eliminacion": "Excreción renal principal (menos del 5% inalterado) y fecal con vida media de 3 a 5 horas"
+      },
+      "indicaciones": "Prevención y tratamiento de náuseas y vómitos inducidos por quimioterapia citotóxica altamente o moderadamente emetógena, radioterapia y emesis posoperatoria.",
+      "contraindicaciones": "Hipersensibilidad al ondansetrón u otros antagonistas 5-HT3; uso concomitante con apomorfina (hipotensión severa y pérdida de conciencia); embarazo en el primer trimestre.",
+      "precauciones": "Riesgo de prolongación del intervalo QT del electrocardiograma y arritmias graves (Torsades de Pointes); estreñimiento o íleo subagudo; hipocalemia e hipomagnesemia no corregidas.",
+      "advertencias": "La dosis máxima individual por vía IV en adultos no debe superar los 16 mg debido al riesgo de prolongación del QT.",
+      "embarazo_lactancia": "Categoría B3/C en el embarazo; ligero aumento de riesgo de hendiduras orofaciales en el primer trimestre. Precaución en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No superar una dosis total diaria de 8 mg en pacientes con insuficiencia hepática grave (Child-Pugh C)."
+      },
+      "interacciones": "La apomorfina está totalmente contraindicada; el tramadol ve reducido su efecto analgésico; inductores potentes del CYP3A4 (rifampicina, fenitoína) reducen su concentración plasmática.",
+      "reacciones_adversas": "Cefalea; sensación de calor o sofocos; estreñimiento; elevación transitoria de enzimas hepáticas; prolongación del intervalo QT; reacciones en el sitio de inyección.",
+      "toxicidad_sobredosis": "Prolongación severa del intervalo QT, visión borrosa, hipotensión arterial y estreñimiento grave.",
+      "antidotos": "Tratamiento sintomático de soporte e interrupción de la medicación.",
+      "monitorizacion": {
+        "clinica": "Control de frecuencia cardíaca, deposiciones (estreñimiento), cefalea y signos de arritmias.",
+        "laboratorio": "Electrocardiograma (intervalo QTc) en pacientes con riesgo, electrolitos séricos (K+, Mg2+) y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar niveles de potasio y magnesio, ECG previo en pacientes de riesgo y verificar la función hepática.",
+        "durante": "Infundir por vía IV en al menos 15 minutos para evitar cambios en el ritmo cardíaco.",
+        "despues": "Valorar la efectividad antiemética y el tránsito intestinal."
+      },
+      "presentaciones": "Comprimidos de 4 mg y 8 mg; comprimidos orodispersables de 4 mg y 8 mg; ampolla inyectable de 4 mg/2 ml y 8 mg/4 ml.",
+      "dosis": {
+        "adultos": "Quimioterapia: 8 mg a 16 mg IV o VO 30 minutos antes de la quimioterapia (máximo 16 mg por dosis IV); Posoperatorio: 4 mg IV o VO.",
+        "pediatrico": "5 mg/m² o 0.15 mg/kg IV (máximo 8 mg) antes de la quimioterapia, seguido de vía oral cada 12 horas.",
+        "geriatrico": "Se recomienda no superar los 8 mg IV en mayores de 75 años inyectados en no menos de 15 minutos."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Diluir las ampollas inyectables en 50 ml a 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
+      },
+      "velocidad_infusion": "Administrar la infusión IV diluida en un período de no menos de 15 minutos (o bolo lento en no menos de 2 a 5 minutos).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o bajo refrigeración (2°C - 8°C).",
+      "concentracion": "2 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de Torsades de Pointes por prolongación del intervalo QT si se administra rápidamente o a dosis elevadas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir diluido en no menos de 15 minutos para prevenir prolongación del intervalo QT y arritmias.;",
+          "No administrar en dosis intravenosas individuales superiores a 16 mg por infusión.;",
+          "Respetar el límite máximo de 8 mg diarios en pacientes con cirrosis o falla hepática grave.;"
+        ],
+        "educacion_paciente": [
+          "Tomar o recibir el medicamento antes de iniciar la quimioterapia para prevenir eficazmente los vómitos.;",
+          "Avisar al médico de inmediato si siente palpitaciones, mareos intensos o latidos irregulares del corazón.;",
+          "Consumir agua y alimentos ricos en fibra por el riesgo de estreñimiento provocado por la medicación."
+        ]
+      }
     }
   ]
 }
