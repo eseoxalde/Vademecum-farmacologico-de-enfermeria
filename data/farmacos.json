@@ -22615,6 +22615,73 @@
           "No usar lentes de contacto durante todo el tratamiento y consultar si nota visión borrosa o dolor persistente."
         ]
       }
+    },
+    {
+      "id": "314",
+      "nombre_generico": "Foscarnet",
+      "letra": "F",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Foscarnet sódico (ácido fosfonofórmico)",
+        "clasificacion": "Antiviral sistémico, análogo de pirofosfato no nucleósido",
+        "efecto_terapeutica": "Inhibición directa de la replicación de virus del grupo herpes (CMV, HSV, VZV) y retrovirus",
+        "mecanismo_accion": "Inhibe de forma reversible y directa el sitio de unión del pirofosfato en la ADN polimerasa viral y en la transcriptasa inversa del VIH, impidiendo el alargamiento de la cadena de ADN sin requerir fosforilación intracelular previa"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa (biodisponibilidad oral muy pobre)",
+        "distribucion": "Baja unión a proteínas plasmáticas (< 15-20%); amplia distribución tisular con elevada fijación a la matriz ósea (alrededor del 20-30%) y penetración variable al LCR",
+        "metabolismo": "No sufre metabolización hepática ni enzimática en el organismo",
+        "eliminacion": "Excreción renal masiva por filtración glomerular y secreción tubular (80-90% inalterado en orina) con vida media plasmática de 3 a 8 horas (y fase lenta de liberación ósea de varios días)"
+      },
+      "indicaciones": "Tratamiento de la retinitis por Citomegalovirus (CMV) en pacientes con SIDA y tratamiento de infecciones mucocutáneas por Virus Herpes Simplex (HSV) resistentes a aciclovir o ganciclovir en pacientes inmunocomprometidos.",
+      "contraindicaciones": "Hipersensibilidad conocida al foscarnet sódico o sus componentes; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de nefrotoxicidad severa e insuficiencia renal aguda; alteraciones electrolíticas graves e hipocalcemia/hipomagnesemia sintomáticas (por quelación del calcio ionizado); riesgo de convulsiones y arritmias cardíacas; ulceración peneana/vulvar por excreción en orina.",
+      "advertencias": "Requiere hidratación con solución fisiológica pre y post-infusión obligatoria para reducir el riesgo de falla renal aguda e intensivo monitoreo electrolítico.",
+      "embarazo_lactancia": "Categoría C en el embarazo; se fija al hueso fetal y produce anomalías esqueléticas. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Ajustar obligatoriamente la dosis y la velocidad según el clearance de creatinina exacto en cada ciclo posológico mediante las tablas del laboratorio.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Uso concomitante con otros fármacos nefrotóxicos (aminoglucósidos, anfotericina B, vancomicina, aciclovir) o quelantes de calcio (pentamidina) aumenta drásticamente el riesgo de insuficiencia renal e hipocalcemia grave.",
+      "reacciones_adversas": "Nefrotoxicidad (elevación de urea y creatinina); alteración electrolítica (hipocalcemia, hipofosfatemia o hiperfosfatemia, hipomagnesemia, hipocalemia); fiebre; náuseas; vómitos; anemia; granulocitopenia; cefalea; convulsiones; parestesias; ulceración genital.",
+      "toxicidad_sobredosis": "Falla renal aguda, convulsiones, tetania por hipocalcemia aguda, arritmias ventriculares y coma.",
+      "antidotos": "Tratamiento de soporte, reposición rápida intravenosa de gluconato de calcio, corrección electrolítica y hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Diuresis horaria, estado de conciencia, parestesias circumorales/digitales (signo de hipocalcemia), ulceraciones genitales y ritmo cardíaco.",
+        "laboratorio": "Creatinina sérica, urea, calcio ionizado, fósforo, magnesio, potasio y hemograma completo 2 a 3 veces por semana."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance de creatinina) e iniciar hidratación intravenosa con 500 a 1000 ml de solución fisiológica.",
+        "durante": "Monitorear la infusión IV lenta mediante bomba de infusión en no menos de 1 a 2 horas.",
+        "despues": "Garantizar la continuidad de la hidratación y la higiene perianal/genital tras cada micción."
+      },
+      "presentaciones": "Frasco ampolla / bolsa de solución para infusión de 24 mg/ml (6000 mg en 250 ml).",
+      "dosis": {
+        "adultos": "Retinitis por CMV (Inducción): 60 mg/kg IV cada 8 horas o 90 mg/kg IV cada 12 horas durante 14 a 21 días; Mantenimiento: 90 mg/kg a 120 mg/kg IV una vez al día; Herpes resistente: 40 mg/kg IV cada 8 a 12 horas por 14 a 21 días.",
+        "pediatrico": "Misma pauta de dosificación ajustada por mg/kg bajo estricto monitoreo nefrológico en especialista.",
+        "geriatrico": "Ajustar estrictamente según la función renal calculada."
+      },
+      "vias_administracion": "Intravenosa en infusión (vía periférica diluida o vía central directa).",
+      "preparacion": {
+        "dilucion": "Si se administra por vía periférica, diluir la solución de 24 mg/ml a una concentración de 12 mg/ml con solución fisiológica o dextrosa al 5%. Por vía central puede usarse sin diluir.",
+        "compatibilidad_iv": "Compatible con solución fisiológica al 0.9% y dextrosa al 5% (INCOMPATIBLE en la misma vía con soluciones que contengan calcio o glucosadas ricas)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua mediante bomba en un tiempo NO MENOR a 1 hora (para dosis de 60 mg/kg) o 2 horas (para dosis de 90 mg/kg).",
+      "estabilidad_soluciones": "Estable a temperatura ambiente (15°C - 30°C); no refrigerar por riesgo de precipitación de cristales.",
+      "concentracion": "24 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de nefrotoxicidad severa e hipocalcemia mortal por infusión rápida sin pre-hidratación adecuada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Garantizar la pre-hidratación parenteral con 500 a 1000 ml de solución fisiológica previa a cada infusión.;",
+          "Infundir exclusivamente mediante bomba de infusión en un tiempo no menor a 1 a 2 horas para evitar tetania o choque.;",
+          "Realizar un estricto balance hídrico y controlar los niveles de calcio ionizado y creatinina antes de cada dosis.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato si siente hormigueo en los labios, adormecimiento en manos, calambres o espasmos musculares.;",
+          "Lavarse la zona genital con abundante agua tras cada micción para evitar la irritación y ulceración causada por la orina.;",
+          "Notificar la presencia de náuseas, temblores o disminución acentuada en la cantidad de orina diaria."
+        ]
+      }
     }
   ]
 }
