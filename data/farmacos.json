@@ -21029,6 +21029,73 @@
           "Ingerir abundante cantidad de líquidos durante todo el día para proteger la vejiga."
         ]
       }
+    },
+    {
+      "id": "290",
+      "nombre_generico": "Dexrazoxano",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de dexrazoxano",
+        "clasificacion": "Cardioprotector antineoplásico, antídoto de extravasación de antraciclinas (derivado de la bisdioxopiperazina)",
+        "efecto_terapeutica": "Prevención de la cardiotoxicidad acumulativa por antraciclinas y tratamiento antídoto de la extravasación de antraciclinas",
+        "mecanismo_accion": "Ingresa a las células y se hidroliza a un quelante bidentado del hierro que previene la formación de complejos hierro-antraciclina y la generación de radicales libres de oxígeno; además inhibe la topoisomerasa II impidiendo el daño tisular por extravasación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Baja unión a proteínas plasmáticas; se distribuye ampliamente en los tejidos corporales",
+        "metabolismo": "Hepático y tisular mediante hidrólisis progresiva a sus metabolitos abiertamente quelantes (ADR-925)",
+        "eliminacion": "Excreción renal principal (42% inalterado y metabolitos) con una vida media de 2 a 4 horas"
+      },
+      "indicaciones": "Prevención de la cardiotoxicidad crónica acumulativa en pacientes con cáncer de mama avanzado que han recibido dosis acumulativas elevadas de doxorrubicina o epirrubicina, y tratamiento de la extravasación accidental de antraciclinas.",
+      "contraindicaciones": "Hipersensibilidad al dexrazoxano; uso concomitante con vacunas a virus vivos; embarazo y lactancia.",
+      "precauciones": "Riesgo de potenciación de la mielosupresión provocada por el esquema de quimioterapia; posible reducción de la tasa de respuesta tumoral si se administra al inicio del tratamiento con antraciclinas.",
+      "advertencias": "En indicación cardioprotectora, debe administrarse en una proporción 10:1 (dexrazoxano:doxorrubicina) estrictamente 30 minutos antes de la antracilina.",
+      "embarazo_lactancia": "Categoría C/D en el embarazo; riesgo de toxicidad y malformación fetal. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis cardioprotectora al 50% si el clearance de creatinina es < 40 ml/min.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Incrementa la mielosupresión (neutropenia y trombocitopenia) provocada por los citostáticos.",
+      "reacciones_adversas": "Mielosupresión (neutropenia, anemia, trombocitopenia); náuseas; vómitos; alopecia; reacción en el sitio de inyección; elevación transitoria de transaminasas.",
+      "toxicidad_sobredosis": "Mielosupresión profunda y molestias gastrointestinales graves.",
+      "antidotos": "Tratamiento sintomático de soporte e hidratación.",
+      "monitorizacion": {
+        "clinica": "Control del sitio de extravasación (dolor, eritema), signos de infección y función cardíaca.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, recuento absoluto de neutrófilos, transaminasas y clearance de creatinina."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar que la infusión finalice 30 minutos antes de la antraciclina en profilaxis o iniciar dentro de las primeras 6 horas post-extravasación.",
+        "durante": "Monitorear la infusión IV continua en 15 a 30 minutos.",
+        "despues": "Valorar la recuperación medular y la evolución de la zona extravasada."
+      },
+      "presentaciones": "Frasco ampolla de 500 mg de polvo liofilizado.",
+      "dosis": {
+        "adultos": "Cardioprotección: Proporción 10:1 respecto a doxorrubicina (ej. 500 mg/m² de dexrazoxano por 50 mg/m² de doxorrubicina) IV en 15 minutos 30 minutos antes de la antraciclina; Extravasación: 1000 mg/m² los Días 1 y 2, y 500 mg/m² el Día 3.",
+        "pediatrico": "Uso bajo protocolos hemato-oncológicos específicos ajustado a la dosis de antraciclina.",
+        "geriatrico": "Dosis habitual con estricto ajuste según la función renal."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir con el diluyente específico (agua estéril) y diluir en 250 ml a 500 ml de Ringer Lactato o solución fisiológica.",
+        "compatibilidad_iv": "Compatible con Ringer Lactato y solución fisiológica (incompatible con soluciones ácidas)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 15 a 30 minutos.",
+      "estabilidad_soluciones": "Usar dentro de las 4 horas tras la reconstitución y dilución.",
+      "concentracion": "10 mg/ml (concentración tras la reconstitución inicial del vial).",
+      "alarma_riesgo": "Riesgo de fallo terapéutico si se administra fuera de la ventana de 30 minutos previa a la antraciclina.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la dosis de cardioprotección exactamente 30 minutos antes de iniciar la antraciclina.;",
+          "En caso de extravasación, iniciar el tratamiento con dexrazoxano dentro de las primeras 6 horas del accidente.;",
+          "Ajustar la dosis posológica en un 50% si el clearance de creatinina es inferior a 40 ml/min.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato si nota dolor, enrojecimiento o ardor en el sitio donde se extravasó el medicamento.;",
+          "Informar si presenta fiebre, escalofríos o síntomas de infección en los días posteriores a la aplicación.;",
+          "Comprender que este fármaco se utiliza para proteger al corazón o neutralizar la quemadura de la quimioterapia."
+        ]
+      }
     }
   ]
 }
