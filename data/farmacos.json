@@ -22079,6 +22079,73 @@
           "Avisar de urgencia a la familia o al médico si presenta dificultad respiratoria o somnolencia extrema."
         ]
       }
+    },
+    {
+      "id": "306",
+      "nombre_generico": "Valproato / Verapamilo (Interacción Farmacológica)",
+      "letra": "V",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Valproato sódico + Clorhidrato de verapamilo",
+        "clasificacion": "Asociación / Interacción de Antiepiléptico-Estabilizador del ánimo con Calcioantagonista-Antiarrítmico",
+        "efecto_terapeutica": "Aumento indeseado de las concentraciones plasmáticas de valproato con incremento severo del riesgo de toxicidad hepática, neurológica y cardiovascular",
+        "mecanismo_accion": "El verapamilo inhibe la isoenzima CYP3A4 y los sistemas de transporte hepáticos (como la glicoproteína P), disminuyendo el aclaramiento metabólico del valproato y elevando de forma impredecible sus niveles séricos libres y totales"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Ambos fármacos se absorben bien por vía oral; la presencia simultánea de verapamilo disminuye el metabolismo de primer paso hepático del valproato",
+        "distribucion": "La competencia por la unión a proteínas plasmáticas puede desplazar la fracción libre de valproato, aumentando su penetración en la barrera hematoencefálica",
+        "metabolismo": "Inhibición del metabolismo hepático del valproato por el verapamilo, con retención de metabolitos activos e hiperamonémicos",
+        "eliminacion": "Aclaramiento sistémico del valproato significativamente reducido con prolongación de su vida media de eliminación"
+      },
+      "indicaciones": "Uso simultáneo excepcional bajo estricta indicación psiquiátrica/neurológica y cardiológica sin alternativas terapéuticas sustitutivas.",
+      "contraindicaciones": "Hipersensibilidad a cualquiera de los componentes; hepatopatía activa grave; bloqueo AV sin marcapasos; insuficiencia cardíaca descompensada; embarazo.",
+      "precauciones": "Riesgo muy alto de somnolencia extrema, ataxia, hiperamonemia, encefalopatía, bradicardia sinusal y hepatotoxicidad acentuada.",
+      "advertencias": "La coadministración requiere un ajuste a la baja en la dosis de valproato y el monitoreo frecuente de sus niveles séricos (dosaje de valproemia).",
+      "embarazo_lactancia": "Categoría D/X en el embarazo. Riesgo acumulado de malformaciones fetales graves y complicaciones cardiovasculares fetales. Contraindicado.",
+      "ajustes": {
+        "renal": "Ajustar ambos fármacos según el clearance de creatinina e intensificar la vigilancia de hipotensión o sedación.",
+        "hepatico": "Combinación totalmente desaconsejada en insuficiencia hepática grave por fallo metabólico doble."
+      },
+      "interacciones": "La adición de verapamilo eleva los niveles de valproato. Si a esto se suman carbapenémicos, el valproato cae; si se suman betabloqueantes o digoxina con verapamilo, se desencadena bradicardia severa o colapso cardiovascular.",
+      "reacciones_adversas": "Hipotensión arterial; bradicardia; sedación profunda; confusión; temblor fino; náuseas; vómitos; estreñimiento; hiperamonemia con letargia; trombocitopenia; elevación de transaminasas.",
+      "toxicidad_sobredosis": "Depresión respiratoria y del SNC, miosis, coma, hipotensión profunda, bradicardia severa, bloqueos AV y acidosis metabólica.",
+      "antidotos": "Naloxona IV para depresión del SNC, L-carnitina IV para la hiperamonemia por valproato, y Gluconato de calcio IV con soporte inotrópico para la toxicidad por verapamilo.",
+      "monitorizacion": {
+        "clinica": "Control estricto del nivel de conciencia, frecuencia cardíaca, presión arterial, dolor abdominal y coordinación motora.",
+        "laboratorio": "Valproemia (niveles séricos de valproato), amonio plasmático, perfil de función hepática (AST/ALT/Bilirrubina), hemograma (plaquetas) y electrocardiograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Medir la valproemia basal, controlar electrocardiograma (intervalo PR/QT) y función hepática previa antes de iniciar verapamilo en un paciente que ya recibe valproato.",
+        "durante": "Monitorear la aparición de mareos, hipotensión, bradicardia o somnolencia inusual.",
+        "despues": "Reajustar las dosis al retirar cualquiera de los dos medicamentos para evitar fallos de tratamiento o toxicidades de rebote."
+      },
+      "presentaciones": "Administración combinada de presentaciones orales o IV independientes de Valproato (200 mg, 500 mg) y Verapamilo (80 mg, 120 mg, 240 mg).",
+      "dosis": {
+        "adultos": "Si la combinación es inevitable: Administrar las dosis prescritas de forma individualizada, reduciendo en un 20-30% la dosis inicial de valproato y guiándose por la valproemia objetivo (50-100 mcg/ml).",
+        "pediatrico": "Combinación no recomendada en pediatría.",
+        "geriatrico": "Extrema precaución; iniciar con las dosis mínimas posibles de ambos fármacos por el riesgo de caídas, confusión y bradicardia."
+      },
+      "vias_administracion": "Vía oral e intravenosa (según las presentaciones individuales utilizadas).",
+      "preparacion": {
+        "dilucion": "Si se usan formas IV: Valproato diluido en solución fisiológica o dextrosa al 5%; Verapamilo en bolo IV muy lento o infusión diluida independiente.",
+        "compatibilidad_iv": "NUNCA mezclar físicamente en la misma bolsa o guía intravenosa."
+      },
+      "velocidad_infusion": "Verapamilo IV: bolo en no menos de 2 a 3 minutos; Valproato IV: bolo lento en 3 a 5 minutos o infusión continua.",
+      "estabilidad_soluciones": "Respetar la estabilidad individual de cada fármaco preparado independientemente.",
+      "concentracion": "Depende de las presentaciones comerciales utilizadas en la terapia combinada.",
+      "alarma_riesgo": "Riesgo de intoxicación por valproato (encefalopatía/hepatotoxicidad) e hipotensión/bradicardia severa por verapamilo.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "No administrar juntos en la misma vía IV ni mezclar las soluciones de ambos medicamentos.;",
+          "Monitorear la presión arterial y la frecuencia cardíaca antes de cada dosis por riesgo de hipotensión y bradicardia.;",
+          "Vigilar estrechamente la aparición de somnolencia excesiva, marcha inestable o confusión que sugieran intoxicación por valproato.;"
+        ],
+        "educacion_paciente": [
+          "Informar de inmediato si siente cansancio o somnolencia extrema, mareos al levantarse o latidos de corazón muy lentos.;",
+          "No tomar jugo de pomelo (toronja), ya que puede aumentar aún más los niveles de los medicamentos en sangre.;",
+          "Acudir puntualmente a realizarse los análisis de sangre programados para medir el nivel del medicamento y la función del hígado."
+        ]
+      }
     }
   ]
 }
