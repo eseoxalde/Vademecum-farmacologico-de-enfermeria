@@ -23352,6 +23352,73 @@
           "Notificar si presenta sarpullido en la piel, náuseas intensas o diarrea."
         ]
       }
+    },
+    {
+      "id": "325",
+      "nombre_generico": "Dihidroartemisinina",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Dihidroartemisinina (DHA)",
+        "clasificacion": "Antimalárico / Antipalúdico sistémico, esquizonticida sanguíneo rápido (derivado lactona de sesquiterpeno de la artemisinina)",
+        "efecto_terapeutica": "Aclaramiento ultra-rápido de las formas asexuales de Plasmodium falciparum en sangre y cese acelerado de la fiebre",
+        "mecanismo_accion": "El puente endoperóxido de su estructura reacciona con el hierro del grupo hemo intrastitial del parásito, generando radicales libres reactivos que alquilan e inactivan proteínas vitales y la bomba SERCA del parásito"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción por vía oral alcanzando el pico plasmático a las 1 a 2 horas",
+        "distribucion": "Moderada unión a proteínas plasmáticas (55 a 80%); amplia distribución en tejidos y glóbulos rojos parasitados",
+        "metabolismo": "Hepático extenso mediado por glucuronidación (UGT1A9) a metabolitos glucurónidos inactivos",
+        "eliminacion": "Excreción renal y fecal en forma de metabolitos, con una vida media plasmática muy corta (45 a 60 minutos)"
+      },
+      "indicaciones": "Tratamiento de primera línea de la malaria o paludismo no complicado por Plasmodium falciparum o Plasmodium vivax, exclusivamente en terapia combinada a base de artemisinina (TCA) junto con piperaquina.",
+      "contraindicaciones": "Hipersensibilidad a la dihidroartemisinina o derivados de la artemisinina; primer trimestre del embarazo (salvo falta absoluta de alternativas); lactancia.",
+      "precauciones": "Riesgo de anemia hemolítica diferida o tardía (post-artemisinina) que puede aparecer a las 1 a 3 semanas del tratamiento; prolongación del intervalo QTc debido al socio de combinación (piperaquina).",
+      "advertencias": "PROHIBIDA SU ADMINISTRACIÓN COMO MONOTERAPIA para prevenir la inducción de resistencias parasitarias.",
+      "embarazo_lactancia": "Categoría C en el embarazo; contraindicada en el primer trimestre por embriototoxicidad y reabsorción fetal en estudios. Contraindicada en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal leve a moderada.",
+        "hepatico": "Usar con precaución en hepatopatías severas."
+      },
+      "interacciones": "El uso simultáneo con fármacos que prolongan el intervalo QT (macrólidos, quinolonas, antiarrítmicos) debe evitarse debido a la piperaquina acompañante; los inductores potentes (rifampicina) reducen su eficacia.",
+      "reacciones_adversas": "Cefalea; mareos; náuseas; vómitos; dolor abdominal; anorexia; tos; anemia; reticulocitopenia; leucopenia; elevación de transaminasas; anemia hemolítica tardía.",
+      "toxicidad_sobredosis": "Trastornos gastrointestinales, reticulocitopenia transitoria y cardiotoxicidad por el fármaco asociado.",
+      "antidotos": "Tratamiento de soporte sintomático.",
+      "monitorizacion": {
+        "clinica": "Control del aclaramiento de la fiebre y parasitemia, vigilancia de signos de anemia (palidez, fatiga) hasta 1 mes post-tratamiento y electrocardiograma.",
+        "laboratorio": "Hemograma completo con recuento de reticulocitos y examen de gota gruesa / frotis sanguíneo."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar el diagnóstico de malaria y verificar que se prescriba en combinación fija con piperaquina.",
+        "durante": "Administrar una vez al día con agua en ayunas o lejos de comidas muy grasas.",
+        "despues": "Monitorear la hemoglobina a las 2 y 4 semanas post-tratamiento por riesgo de hemólisis tardía."
+      },
+      "presentaciones": "Comprimidos de combinación fija de Dihidroartemisinina / Piperaquina (40 mg / 320 mg).",
+      "dosis": {
+        "adultos": "Tratamiento combinado: Dosis diaria según rango de peso corporal (ej. 24 a < 36 kg: 2 comp/día; 36 a < 60 kg: 3 comp/día; 60 a 100 kg: 4 comp/día) por vía oral una vez al día durante 3 días consecutivos.",
+        "pediatrico": "Dosis ponderal calculada según franjas de peso corporal (ej. 11 a < 17 kg: 1 comp/día de presentación pediátrica 20/160 mg) durante 3 días.",
+        "geriatrico": "Dosis habitual monitoreando la función cardiovascular por la piperaquina."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren con agua en ayunas (al menos 3 horas antes o después de las comidas).",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "40 mg de dihidroartemisinina por comprimido combinado.",
+      "alarma_riesgo": "Riesgo de anemia hemolítica tardía post-tratamiento e ineficacia por uso en monoterapia.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar que la administración se realice de forma continua durante los 3 días completos prescritos.;",
+          "Administrar preferentemente en ayunas o con agua, evitando la ingesta simultánea de alimentos con abundante grasa.;",
+          "Vigilar la aparición de signos de anemia tardía (palidez de mucosas, fatiga) en las semanas posteriores al alta.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis una vez al día durante exactamente 3 días a la misma hora.;",
+          "Evitar tomar el medicamento con comidas muy grasas para garantizar una correcta acción.;",
+          "Consultar de inmediato si días después de curarse nota palidez marcada, cansancio extremo u orina oscura."
+        ]
+      }
     }
   ]
 }
