@@ -23218,6 +23218,73 @@
           "Tomar la dosis oral con comida para evitar el ardor o malestar estomacal."
         ]
       }
+    },
+    {
+      "id": "323",
+      "nombre_generico": "Mefloquina",
+      "letra": "M",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de mefloquina",
+        "clasificacion": "Antimalárico / Antipalúdico sistémico, esquizonticida sanguíneo (4-metanolquinolina)",
+        "efecto_terapeutica": "Eradicación de formas eritrocíticas de Plasmodium falciparum y Plasmodium vivax resistentes a otros fármacos",
+        "mecanismo_accion": "Se une a la hemozoína en la vacuolas digestivas del parásito, formando complejos tóxicos que alteran la membrana vacuolar y bloquean la detoxificación del grupo hemo libre"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral (biodisponibilidad > 85%), incrementada significativamente tras la ingesta con alimentos ricos en grasas",
+        "distribucion": "Amplio volumen de distribución; muy alta unión a proteínas plasmáticas (98%); se concentra en glóbulos rojos",
+        "metabolismo": "Extenso metabolismo hepático mediado principalmente por la isoenzima CYP3A4 a metabolitos inactivos",
+        "eliminacion": "Excreción biliar y fecal principal, con una vida media de eliminación extremadamente prolongada (2 a 4 semanas)"
+      },
+      "indicaciones": "Tratamiento de la malaria o paludismo no complicado por Plasmodium falciparum y Plasmodium vivax (en zonas con resistencia a cloroquina) y profilaxis de la malaria en viajeros a zonas endémicas con alta resistencia.",
+      "contraindicaciones": "Hipersensibilidad a la mefloquina o quinolinas relacionadas; antecedentes personales o familiares de trastornos psiquiátricos graves (depresión, psicosis, esquizofrenia, trastorno bipolar); antecedentes de convulsiones o epilepsia; insuficiencia hepática grave; embarazo (primer trimestre en profilaxis).",
+      "precauciones": "Riesgo elevado de reacciones neuropsiquiátricas graves (ansiedad, paranoia, alucinaciones, depresión, ideación suicida) que pueden persistir meses tras la suspensión; alteraciones de la conducción cardíaca (prolongación del intervalo QT); miopatía.",
+      "advertencias": "Suspender inmediatamente si el paciente presenta síntomas neuropsiquiátricos (pesadillas intensas, ansiedad repentina, confusión) durante el uso profiláctico.",
+      "embarazo_lactancia": "Categoría B/C en el embarazo; evitar en el primer trimestre salvo falta de alternativas. Pasa a la leche materna en pequeñas cantidades; evaluar suspensión de la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Contraindicada en insuficiencia hepática grave."
+      },
+      "interacciones": "La coadministración con quinina, quinidina, halofantrina o cloroquina aumenta el riesgo de arritmias cardíacas y convulsiones; reduce la respuesta a vacunas tifoideas orales; interacciona con sustratos e inhibidores de CYP3A4.",
+      "reacciones_adversas": "Trastornos neuropsiquiátricos (insomnio, sueños anómalos/pesadillas, depresión, ansiedad, psicosis); mareos; vértigo; pérdida del equilibrio; náuseas; vómitos; diarrea; cefalea; bradicardia; prolongación del QT; exantema cutáneo.",
+      "toxicidad_sobredosis": "Exacerbación severa de sintomatología neuropsiquiátrica, hipotensión arterial, arritmias cardíacas, bloqueos y convulsiones.",
+      "antidotos": "Tratamiento sintomático de soporte, monitorización electrocardiográfica y neurológica intensiva.",
+      "monitorizacion": {
+        "clinica": "Evaluación del estado de ánimo y función psiquiátrica, control de la función vestibular (equilibrio), frecuencia cardíaca y presión arterial.",
+        "laboratorio": "Pruebas de función hepática y electrocardiograma en caso de antecedentes cardiovasculares."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar minuciosamente antecedentes de depresión, psicosis, ansiedad o convulsiones antes de prescribir.",
+        "durante": "Monitorear la aparición de alteraciones del sueño o mareos.",
+        "despues": "Mantener la vigilancia psiquiátrica varias semanas tras la última dosis por la prolongada vida media del fármaco."
+      },
+      "presentaciones": "Comprimidos de 250 mg de clorhidrato de mefloquina (228 mg de mefloquina base).",
+      "dosis": {
+        "adultos": "Tratamiento de malaria: 20 a 25 mg/kg totales divididos en 2 o 3 tomas separadas por 6 a 8 horas (ej. 750 mg de inicio, luego 500 mg a las 6-8 horas); Profilaxis: 250 mg una vez a la semana (iniciar 2-3 semanas antes del viaje, semanal durante la estancia y 4 semanas posteriores).",
+        "pediatrico": "Profilaxis: Dosis ponderal calculada por peso corporal (ej. 5 a 10 kg: 1/8 comp; 10 a 20 kg: 1/4 comp; 20 a 30 kg: 1/2 comp; > 45 kg: dosis de adulto).",
+        "geriatrico": "Dosis habitual con estricta vigilancia neuropsiquiátrica y cardiovascular."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con abundante agua y preferentemente tras una comida.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "250 mg por comprimido.",
+      "alarma_riesgo": "Riesgo severo de psicosis, ideación suicida y alteración neurológica persistente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar activamente que el paciente no tenga antecedentes personales de psicosis, depresión grave o epilepsia.;",
+          "Administrar las dosis siempre con alimentos o con un vaso grande de agua para disminuir las náuseas y el malestar digestivo.;",
+          "Interrumpir de inmediato el esquema profiláctico si el paciente refiere pesadillas vividas, alucinaciones o ansiedad severa.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis semanal siempre el mismo día de la semana acompañado de una comida principal.;",
+          "Avisar a la familia y al médico de inmediato si nota cambios drásticos de humor, tristeza profunda, pesadillas o confusión.;",
+          "Evitar conducir vehículos o realizar tareas que requieran equilibrio por la posibilidad de mareos o vértigo."
+        ]
+      }
     }
   ]
 }
