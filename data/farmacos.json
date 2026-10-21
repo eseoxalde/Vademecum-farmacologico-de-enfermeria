@@ -22347,6 +22347,73 @@
           "Informar si presenta mareos, temblores, confusión o cambios en la visión."
         ]
       }
+    },
+    {
+      "id": "310",
+      "nombre_generico": "Valganciclovir",
+      "letra": "V",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de valganciclovir",
+        "clasificacion": "Antiviral sistémico, L-valil éster prodroga oral del ganciclovir",
+        "efecto_terapeutica": "Inhibición de la síntesis de ADN y replicación del Citomegalovirus (CMV)",
+        "mecanismo_accion": "Tras su absorción intestinal, es rápidamente metabolizado por esterasas hepáticas e intestinales a ganciclovir, el cual es fosforilado intracelularmente e inhibe competitivamente la ADN polimerasa del CMV"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y bien absorbida en el tracto gastrointestinal; la biodisponibilidad oral es del 60% (10 veces superior al ganciclovir oral) y aumenta con alimentos grasos",
+        "distribucion": "Una vez convertido a ganciclovir, amplia distribución tisular y penetración en el SNC y tejidos oculares",
+        "metabolismo": "Rápida e intensa hidrólisis de primer paso a ganciclovir; no hay otros metabolitos mayores",
+        "eliminacion": "Excreción renal del ganciclovir resultante por filtración y secreción tubular con vida media de 3.5 a 5 horas"
+      },
+      "indicaciones": "Tratamiento de inducción y mantenimiento de la retinitis por CMV en pacientes con SIDA y prevención/profilaxis de la enfermedad por CMV en receptores de trasplante de órgano sólido de alto riesgo.",
+      "contraindicaciones": "Hipersensibilidad a valganciclovir, ganciclovir, aciclovir o valaciclovir; recuento absoluto de neutrófilos < 500/mm³, plaquetas < 25.000/mm³ o hemoglobina < 8 g/dl; embarazo y lactancia.",
+      "precauciones": "Mielosupresión severa (leucopenia, neutropenia, anemia, trombocitopenia); potencial teratogénico, carcinogénico y aspermogénico; requiere ajuste estricto en falla renal.",
+      "advertencias": "No intercambiar los comprimidos de valganciclovir y ganciclovir dosis por dosis debido a la enorme diferencia en biodisponibilidad.",
+      "embarazo_lactancia": "Categoría C/D en el embarazo; riesgo de defectos congénitos y mutagenicidad. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Ajustar dosis obligatoriamente según clearance (ej. ClCr 40-59 ml/min: 450 mg c/12h en inducción; ClCr 25-39 ml/min: 450 mg c/24h; ClCr 10-24 ml/min: 450 mg cada 48h).",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Similares a ganciclovir: toxicidad hematológica potenciada con zidovudina, micofenolato y cotrimoxazol; riesgo de convulsiones con imipenem-cilastatina; eleva niveles de didanosina.",
+      "reacciones_adversas": "Diarrrea; neutropenia; anemia; trombocitopenia; náuseas; vómitos; fiebre; cefalea; insomnio; candidiasis oral; elevación de creatinina; dolor abdominal.",
+      "toxicidad_sobredosis": "Aplasia medular profunda, toxicidad renal y neurológica (tremores, convulsiones, coma).",
+      "antidotos": "Soporte sintomático, factores de estimulación de colonias (G-CSF), transfusiones e hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control de signos infecciosos, sangrados, estado neurológico, función renal y tolerancia digestiva.",
+        "laboratorio": "Hemograma completo con neutrófilos y plaquetas frecuente (cada semana al inicio) y creatinina sérica."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar recuentos hemáticos y calcular el clearance de creatinina exacto.",
+        "durante": "Monitorear la ingesta del comprimido preferentemente junto con los alimentos.",
+        "despues": "Valorar la respuesta de la carga viral de CMV."
+      },
+      "presentaciones": "Comprimidos recubiertos de 450 mg; polvo para solución oral (50 mg/ml).",
+      "dosis": {
+        "adultos": "Inducción (Retinitis por CMV): 900 mg VO cada 12 horas por 21 días; Mantenimiento / Profilaxis en trasplante: 900 mg VO una vez al día con alimentos.",
+        "pediatrico": "Dosis calculada por fórmula basada en la superficie corporal y el clearance de creatinina (Dosis = 7 x SCT x ClCr) una vez al día para profilaxis.",
+        "geriatrico": "Ajuste estricto según la función renal calculada."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución en comprimidos; tragar enteros sin triturar ni romper.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "450 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de confusión grave de dosis con ganciclovir oral y neutropenia severa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar preferentemente con los alimentos para maximizar la absorción sistémica.;",
+          "No romper, triturar ni partir los comprimidos por su potencial carcinogénico y citotóxico.;",
+          "Verificar la función renal y el hemograma completo antes de iniciar cada ciclo posológico.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos enteros acompañados con las comidas principales.;",
+          "Mantener medidas anticonceptivas estrictas de barrera durante el tratamiento y meses posteriores.;",
+          "Consultar inmediatamente si presenta fiebre, moretons sin causa, dolor de garganta o cansancio extremo."
+        ]
+      }
     }
   ]
 }
