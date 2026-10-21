@@ -419,74 +419,68 @@
       "id": "8",
       "nombre_generico": "Warfarina",
       "letra": "W",
-      "alto_riesgo": false,
+      "alto_riesgo": true,
       "farmacodinamia": {
-        "principio_activo": "Warfarina",
-        "clasificacion": "Anticoagulantes orales",
-        "efecto_terapeutica": "Antagonistas de la Vitamina K",
-        "mecanismo_accion": "Inhibe la subunidad 1 del complejo vitamina K epóxido reductasa, bloqueando la regeneración de vitamina K1 activa."
+        "principio_activo": "Warfarina sódica",
+        "clasificacion": "Anticoagulante oral, antagonista de la vitamina K (cumarínico)",
+        "efecto_terapeutica": "Prevención de la formación y extensión de trombos y émbolos en el sistema circulatorio",
+        "mecanismo_accion": "Inhibe competitivamente la subunidad 1 del complejo vitamina K epóxido reductasa (VKORC1), bloqueando la regeneración de la vitamina K1 activa y previniendo la carboxilación γ dependiente de vitamina K de los factores de coagulación II, VII, IX y X, así como de las proteínas C y S"
       },
       "farmacocinetica_adme": {
-        "absorcion": "oral",
-        "distribucion": "Inicio de acción 24-72 horas; efecto máximo 5-7 días",
-        "metabolismo": "Hepático.",
-        "eliminacion": "Renal"
+        "absorcion": "Absorción oral rápida y casi completa (biodisponibilidad cercana al 100%)",
+        "distribucion": "Muy alta unión a proteínas plasmáticas (99%, principalmente a la albúmina); atraviesa la placenta pero no se excreta en cantidades clínicamente significativas en la leche materna",
+        "metabolismo": "Hepático extenso principalmente a través del sistema citocromo P450 (isoenzimas CYP2C9, CYP3A4 y CYP1A2) a metabolitos inactivos",
+        "eliminacion": "Excreción renal principal en forma de metabolitos inactivos con una vida media plasmática de 36 a 42 horas (el efecto anticoagulante persiste de 2 a 5 días)"
       },
-      "indicaciones": "Prevención y tratamiento de trombosis venosa profunda; Embolismo pulmonar; Prevención de complicaciones tromboembólicas asociadas a fibrilación auricular o reemplazo de válvulas cardíacas",
-      "contraindicaciones": "Embarazo; Tendencia hemorrágica activa; Cirugía reciente del sistema nervioso central o del ojo; Ulcera péptica activa; Hipertensión severa no controlada, Hipersensibilidad",
-      "precauciones": "Se ajusta la dosis según el RIN.",
-      "advertencias": "Alimentos ricos en vitamina K pueden disminuir su efecto.",
-      "embarazo_lactancia": "Embarazo: Contraindicado por riesgo de malformaciones y hemorragias fetales. Lactancia: Compatible bajo supervición médica.",
+      "indicaciones": "Profilaxis y tratamiento de la trombosis venosa profunda (TVP) y del embolismo pulmonar (EP); prevención secundaria de infarto agudo de miocardio; profilaxis de complicaciones tromboembólicas asociadas a fibrilación auricular, valvulopatías o portadores de prótesis valvulares cardíacas.",
+      "contraindicaciones": "Hipersensibilidad a la warfarina; embarazo (primer y tercer trimestre por teratogenia y hemorragia fetal); tendencia hemorrágica activa o discrasias sanguíneas; cirugía reciente del sistema nervioso central o oftalmológica; úlcera péptica activa; hipertensión arterial grave no controlada; aneurisma cerebral.",
+      "precauciones": "Riesgo elevado de hemorragias mayores; requiere monitorización estrecha y frecuente del RIN (Índice Normalizado Internacional); insuficiencia hepática o renal moderada a grave; riesgo de necrosis cutánea inducida por warfarina en pacientes con déficit de proteína C o S.",
+      "advertencias": "Es un fármaco de estrecho margen terapéutico. Los cambios en la dieta (consumo variable de alimentos ricos en vitamina K) o interacciones medicamentosas alteran drásticamente el RIN.",
+      "embarazo_lactancia": "Categoría X en el embarazo; teratógena (embriopatía por warfarina en el primer trimestre) y riesgo alto de hemorragia fetal y neonatal. Compatible con la lactancia materna bajo supervisión estricta.",
       "ajustes": {
-        "renal": "",
-        "hepatico": ""
+        "renal": "Usar con precaución extrema en insuficiencia renal por mayor riesgo de sangrado; no requiere ajuste matemático directo pero sí monitoreo frecuente del RIN.",
+        "hepatico": "Contraindicado o usar con máxima precaución en insuficiencia hepática grave debido a la alteración en la síntesis de factores de coagulación y metabolismo."
       },
-      "interacciones": "aspirina, ibuprofeno, antibióticos, antifungicos, amiodarona, alcohol, alimentos ricos en vitamina K.",
-      "reacciones_adversas": "Hemorragias principales y menores; Síndrome del dedo gordo del pie azul; Necrosis tisular",
-      "toxicidad_sobredosis": "Hemorragias.",
-      "antidotos": "Vitamina K (fitomenadiona); Plasma fresco congelado; Concentrados de complejo protrombínico.",
+      "interacciones": "Múltiples interacciones críticas: potencia su efecto (riesgo de hemorragia) con amiodarona, antibióticos (macrólidos, fluoroquinolonas, cotrimoxazol), antifúngicos azólicos, AINEs, aspirina y alcohol; disminuyen su efecto los inductores enzimáticos (rifampicina, carbamazepina, barbitúricos) y los alimentos ricos en vitamina K.",
+      "reacciones_adversas": "Hemorragias mayores y menores (gastrointestinales, urinarias, cerebrales); hematomas; equimosis; náuseas; vómitos; diarrea; alopecia; dermatitis; síndrome del dedo gordo del pie azul (por microembolización de placas de colesterol); necrosis tisular cutánea.",
+      "toxicidad_sobredosis": "Hemorragias severas espontáneas o traumáticas (hematuria macroscópica, epistaxis incontrolable, sangrado gingival profuso, hemorragia intracraneal).",
+      "antidotos": "Vitamina K1 (fitomenadiona) por vía oral o IV lenta; plasma fresco congelado (PFC) o concentrados de complejo protrombínico (CCP) en hemorragias mayores activas.",
       "monitorizacion": {
-        "clinica": "Evaluar signos de sangrado, hemorragias, hematomas, equimosis.",
-        "laboratorio": "RIN"
+        "clinica": "Control exhaustivo de signos de sangrado (petequias, equimosis, hematuria, melena, epistaxis, sangrado gingival) y presión arterial.",
+        "laboratorio": "Determinación periódica del RIN (rango terapéutico habitual entre 2.0 y 3.0 según la indicación clínica)."
       },
       "parametros_valoracion": {
-        "antes": "Control del RIN; Valorar signos de sangrado; Valorar antecedentes de hemorragias.",
-        "durante": "Evalar aparición de hematomas o sangrados. Administrar siempre la dosis indicada",
-        "despues": "Controlar resultados de lavoratorio. Educar al paciente sobre signos de alarma"
+        "antes": "Valorar el RIN basal, antecedentes de hemorragias, úlceras o hipertensión no controlada y descartar embarazo.",
+        "durante": "Monitorear la estabilidad del RIN, vigilar la aparición de hematomas y constatar la adherencia terapéutica estricta.",
+        "despues": "Evaluar los resultados de laboratorio para reajustar la dosis y reforzar la educación sobre signos de alarma al paciente."
       },
-      "presentaciones": "Nombres comerciales: Circuvit. Comprimidos orales de 1, 2 y5 mg.",
+      "presentaciones": "Comprimidos de 1 mg, 2 mg, 2.5 mg, 5 mg y 10 mg (según marcas comerciales regionales).",
       "dosis": {
-        "adultos": "Dosis inicial habitual de 2 a 10 mg/día, ajustada individualmente según controles periódicos de RIN.",
-        "pediatrico": "Uso excepcional y bajo supervisión médica estricta.",
-        "geriatrico": "Requieren dosis menores y control frecuente."
+        "adultos": "Dosis inicial habitual de 2 mg a 10 mg por vía oral una vez al día durante los primeros 2 días, ajustándose posteriormente de manera individual según los valores periódicos del RIN.",
+        "pediatrico": "Uso excepcional y bajo estricta supervisión de especialistas en hematología pediátrica.",
+        "geriatrico": "Requieren dosis iniciales menores y un control más frecuente del RIN por mayor sensibilidad farmacodinámica."
       },
-      "vias_administracion": "Oral",
+      "vias_administracion": "Vía oral exclusiva.",
       "preparacion": {
-        "dilucion": "No aplica",
-        "compatibilidad_iv": "No aplica"
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva (no disponible para uso intravenoso directo de rutina)."
       },
-      "velocidad_infusion": "No aplica",
-      "estabilidad_soluciones": "No aplica",
-      "concentracion": "Dosis máxima: 10 mg/día",
-      "alarma_riesgo": "Hemorragias, hematomas, sangrado",
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "Variable según el comprimido (1 mg, 2 mg, 5 mg).",
+      "alarma_riesgo": "Riesgo vital de hemorragias graves o intracraneales por sobredosificación o interacción con otros fármacos.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Controlar RIN.",
-          "Verificar antecedentes de sangrado.",
-          "Evaluar medicación concomitante.",
-          "Vigilar signos de hemorragia.",
-          "Controlar laboratorio según indicación médica.",
-          "Registrar el tratamiento.",
-          "Educar sobre controles periódicos.",
-          "Reforzar la importancia de no modificar la dosis sin indicación médica."
+          "Controlar y registrar periódicamente los valores de RIN antes de administrar nuevas dosis según indicación médica.;",
+          "Verificar antecedentes recientes de sangrado, cirugías o medicación concomitante (AINEs, antiagregantes).;",
+          "Vigilar estrechamente signos sutiles o evidentes de hemorragia interna o externa (equimosis, orina oscura, catamenia aumentada).;"
         ],
         "educacion_paciente": [
-          "Tomar el medicamento siempre a la misma hora.",
-          "No duplicar dosis si olvida una toma.",
-          "Evitar automedicarse.",
-          "Informar cualquier sangrado.",
-          "Mantener controles periódicos de INR.",
-          "Mantener una dieta estable en vitamina K."
+          "Tomar el comprimido siempre a la misma hora del día (generalmente por la tarde o noche).;",
+          "No duplicar la dosis si olvida una toma; consultar con el médico cómo proceder ante el olvido.;",
+          "Mantener una ingesta estable y constante de alimentos ricos en vitamina K (verduras de hoja verde como espinaca, acelga y brócoli) sin eliminarlos drásticamente de la dieta.;",
+          "Evitar la automedicación con analgésicos como ibuprofeno o aspirina y no consumir alcohol.;",
+          "Avisar de inmediato ante cualquier signo de alarma como sangrado nasal persistente, heces negras, orina roja o golpes fuertes."
         ]
       }
     },
