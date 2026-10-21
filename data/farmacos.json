@@ -23084,6 +23084,73 @@
           "Consultar de urgencia si presenta fiebre persistente, llagas en la boca o tinte amarillo en los ojos o piel."
         ]
       }
+    },
+    {
+      "id": "321",
+      "nombre_generico": "Primaquina",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fosfato de primaquina",
+        "clasificacion": "Antimalárico / Antipalúdico sistémico, tisular esquizonticida e hipnozoiticida (8-aminoquinolina)",
+        "efecto_terapeutica": "Eradicación de las formas hepáticas latentes (hipnozoítos) y prevención de recaídas de malaria, y efecto gametocitocida",
+        "mecanismo_accion": "Se metaboliza a mediadores reactivos que generan radicales libres de oxígeno y alteran las mitocondrias de las formas tisulares hepáticas del parásito, destruyendo los hipnozoítos de P. vivax y P. ovale y los gametocitos de P. falciparum"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción por vía oral (biodisponibilidad del 96%)",
+        "distribucion": "Amplia distribución tisular en hígado, pulmón, cerebro y bazo; baja unión a proteínas plasmáticas (75%)",
+        "metabolismo": "Hepático extenso por CYP2D6 y MAO a su metabolito principal carboxiprimaquina",
+        "eliminacion": "Excreción renal de metabolitos con una vida media plasmática corta de 4 a 8 horas"
+      },
+      "indicaciones": "Cura radical y prevención de recaídas de la malaria producida por Plasmodium vivax y Plasmodium ovale (eliminación de hipnozoítos hepáticos) y como gametocitocida para reducir la transmisión de Plasmodium falciparum.",
+      "contraindicaciones": "DEFICIENCIA GRAVE DE GLUCOSA-6-FOSFATO DESHIDROGENASA (G6PD); embarazo y lactancia (de recién nacidos sin cribado de G6PD); afecciones sistémicas graves con tendencia a granulocitopenia; uso concomitante con medicamentos hemolíticos.",
+      "precauciones": "Riesgo severo de hemólisis intravascular masiva y anemia hemolítica aguda en pacientes con deficiencia de la enzima G6PD; metahaemoglobinemia; metahemoglobinemia sintomática.",
+      "advertencias": "Es OBLIGATORIO realizar una prueba o tamizaje de la enzima G6PD antes de iniciar el tratamiento con primaquina.",
+      "embarazo_lactancia": "Categoría X en el embarazo; el parásito fetal puede sufrir hemólisis mortal in utero. Contraindicada en la lactancia materna si el lactante es deficiente en G6PD o se desconoce su estado.",
+      "ajustes": {
+        "renal": "Usar con precaución en insuficiencia renal grave.",
+        "hepatico": "Usar con precaución por metabolización hepática."
+      },
+      "interacciones": "Incompatible con medicamentos que provocan hemólisis o depresión de la médula ósea (mepacrina, sulfonamidas, dapsona); aumentan el riesgo de toxicidad hematológica.",
+      "reacciones_adversas": "Anemia hemolítica; metahaemoglobinemia (cianosis de labios/uñas, disnea); dolor o cólicos abdominales; náuseas; vómitos; cianosis; leucopenia; hemoglobinuria (orina de color oscuro/negro).",
+      "toxicidad_sobredosis": "Hemólisis intravascular grave, metahemoglobinemia masiva, ictericia, granulocitopenia y falla renal por hemoglobinuria.",
+      "antidotos": "Azul de metileno IV (para metahemoglobinemia grave), transfusiones sanguíneas e hidratación alcalinizante.",
+      "monitorizacion": {
+        "clinica": "Evaluación del color de las mucosas y labios (cianosis/palidez), coloración de la orina, ictericia y cansancio extremo.",
+        "laboratorio": "Tamizaje de la enzima G6PD previo, hemograma con niveles de hemoglobina/hematocrito, recuento de reticulocitos y nivel de metahemoglobina."
+      },
+      "parametros_valoracion": {
+        "antes": "VERIFICAR EL RESULTADO DE LA ENZIMA G6PD (debe ser normal para administrar el esquema diario estándar).",
+        "durante": "Monitorear diariamente el color de la orina del paciente y los signos de palidez.",
+        "despues": "Valorar la recuperación del hematocrito tras completar los 7 a 14 días de tratamiento."
+      },
+      "presentaciones": "Comprimidos de 5 mg y 15 mg de primaquina base.",
+      "dosis": {
+        "adultos": "Cura radical de P. vivax / P. ovale: 15 mg base/día (o 0.25 a 0.5 mg/kg/día) por vía oral durante 14 días consecutivos (o 45 mg una vez por semana durante 8 semanas en deficiencia leve de G6PD); Gametocitocida en P. falciparum: 0.25 mg/kg en dosis única.",
+        "pediatrico": "0.25 mg a 0.5 mg base/kg/día por vía oral durante 14 días (tras descarte comprobado de deficiencia de G6PD).",
+        "geriatrico": "Dosis habitual monitoreando la función cardiovascular y renal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con agua o las comidas.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "15 mg de primaquina base por comprimido.",
+      "alarma_riesgo": "Riesgo vital de crisis hemolítica intravascular fulminante y orina negra por uso en pacientes deficientes de G6PD.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar expresamente en la historia clínica el resultado NORMAL del dosaje de la enzima G6PD antes de dar la primera dosis.;",
+          "Administrar la dosis junto con los alimentos para disminuir los retortijones abdominales y náuseas.;",
+          "Inspeccionar el color de la orina en cada micción; si se torna oscura, roja o negra, suspender de inmediato y notificar.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el medicamento durante los 14 días completos indicados, sin suspender antes para prevenir que la malaria regrese.;",
+          "Avisar de urgencia si nota que su orina se vuelve muy oscura o negra, si los labios se tornan azulados o si siente mucha fatiga.;",
+          "Ingerir el comprimido con las comidas principales para evitar molestias en la panza."
+        ]
+      }
     }
   ]
 }
