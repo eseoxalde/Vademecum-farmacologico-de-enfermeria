@@ -19354,6 +19354,73 @@
           "Informar de inmediato si siente calambres musculares, adormecimiento o fatiga extrema."
         ]
       }
+    },
+    {
+      "id": "265",
+      "nombre_generico": "Rituximab",
+      "letra": "R",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Rituximab",
+        "clasificacion": "Antineoplásico e inmunosupresor, anticuerpo monoclonal quimérico IgG1 anti-CD20",
+        "efecto_terapeutica": "Deplector selectivo de linfocitos B periféricos y de los tejidos linfoides",
+        "mecanismo_accion": "Se une de forma específica al antígeno CD20 expresado en los linfocitos pre-B y B maduros, desencadenando citotoxicidad dependiente de complemento (CDC), citotoxicidad celular dependiente de anticuerpos (ADCC) e inducción de apoptosis"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa o subcutánea (formulación específica con hialuronidasa)",
+        "distribucion": "Volumen de distribución confinado principalmente al plasma y órganos linfoides",
+        "metabolismo": "Degradación endógena a pequeños péptidos y aminoácidos a través de fagocitos del sistema reticuloendotelial",
+        "eliminacion": "Excreción bifásica con depuración lenta y vida media que oscila entre 18 y 32 días"
+      },
+      "indicaciones": "Linfoma no Hodgkin folicular y difuso de células B grandes, leucemia linfocítica crónica (LLC), artritis reumatoide, granulomatosis con poliangeítis (Wegener) y pénfigo vulgar.",
+      "contraindicaciones": "Hipersensibilidad al rituximab o a proteínas murinas; infecciones activas graves o inmunodeficiencia severa; hepatitis B activa; insuficiencia cardíaca grave.",
+      "precauciones": "Riesgo de reacciones severas o mortales asociadas a la infusión (síndrome de liberación de citocinas); reactivación del virus de la hepatitis B; leucoencefalopatía multifocal progresiva (LMP); síndrome de lisis tumoral.",
+      "advertencias": "Es obligatoria la premedicación con paracetamol y un antihistamínico H1 antes de cada infusión y el tamizaje previo para hepatitis B.",
+      "embarazo_lactancia": "Categoría C en el embarazo; causa depleción de células B fetales. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El uso simultáneo con otros biológicos inmunosupresores aumenta el riesgo de infecciones oportunistas graves; las vacunas a virus vivos están contraindicadas.",
+      "reacciones_adversas": "Reacciones asociadas a la infusión (fiebre, escalofríos, rigidez, hipotensión, broncoespasmo); linfopenia profunda; infecciones bacterianas y virales; astenia; cefalea; exantema; prurito; leucopenia.",
+      "toxicidad_sobredosis": "Reacción infusional grave, colapso hemodinámico e inmunosupresión profunda.",
+      "antidotos": "Tratamiento de soporte, antihistamínicos, corticoides, antipiréticos e interrupción inmediata de la infusión.",
+      "monitorizacion": {
+        "clinica": "Control continuo de constantes vitales (PA, FC, saturación) cada 15-30 minutos durante la infusión, signos de reactivación viral y estado neurológico.",
+        "laboratorio": "Serología para Hepatitis B (HBsAg y Anti-HBc) previa al inicio, hemograma completo e ionograma por riesgo de lisis tumoral."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar premedicación obligatoria con paracetamol y difenidramina 30-60 min antes y confirmar serología negativa para Hepatitis B.",
+        "durante": "Iniciar la infusión IV a velocidad muy lenta (50 mg/hora) e incrementar progresivamente cada 30 minutos si no hay reacción.",
+        "despues": "Monitorear al paciente durante al menos 1 hora post-infusión."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg/10 ml y 500 mg/50 ml de solución concentrada (10 mg/ml); solución SC de 1400 mg y 1600 mg.",
+      "dosis": {
+        "adultos": "Oncológico IV: 375 mg/m² IV una vez por semana o cada 3 semanas (o dosis fija de 1400 mg SC en mantenimiento); Artritis reumatoide: 1000 mg IV los días 1 y 15.",
+        "pediatrico": "375 mg/m² IV según protocolos hemato-oncológicos o de enfermedades autoinmunes específicas.",
+        "geriatrico": "Dosis habitual evaluando la tolerancia cardiovascular y el riesgo infeccioso."
+      },
+      "vias_administracion": "Intravenosa en infusión y subcutánea (según la presentación).",
+      "preparacion": {
+        "dilucion": "Diluir la dosis IV en solución fisiológica o dextrosa al 5% hasta una concentración final de 1 mg/ml a 4 mg/ml.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Iniciar la primera infusión a 50 mg/hora e incrementar 50 mg/hora cada 30 minutos hasta un máximo de 400 mg/hora. Las infundidos posteriores pueden iniciarse a 100 mg/hora.",
+      "estabilidad_soluciones": "Estable durante 24 horas refrigerado (2°C - 8°C) o 12 horas a temperatura ambiente.",
+      "concentracion": "10 mg/ml (concentración de la solución concentrada original).",
+      "alarma_riesgo": "Riesgo de reacción anafilactoide o liberación de citocinas mortal en la primera infusión y reactivación de hepatitis B.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar obligatoriamente la premedicación con antipirético y antihistamínico 30 a 60 minutos antes de la infusión.;",
+          "Iniciar la primera infusión IV estrictamente a 50 mg/hora y escalar la velocidad gradualmente según protocolo.;",
+          "Verificar que el paciente tenga tamizaje negativo para Hepatitis B antes de comenzar el primer ciclo.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato durante la infusión si siente escalofríos, fiebre, opresión en la garganta, picazón o dificultad para respirar.;",
+          "Informar de urgencia si presenta signos de infección como fiebre alta, tos seca o dolor al orinar.;",
+          "Avisar al médico si nota pérdida de memoria, confusión o dificultad para hablar o caminar."
+        ]
+      }
     }
   ]
 }
