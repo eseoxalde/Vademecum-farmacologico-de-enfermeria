@@ -20024,6 +20024,73 @@
           "Notificar cansancio extremo, dolor de cabeza continuo, desmayos o visión borrosa."
         ]
       }
+    },
+    {
+      "id": "275",
+      "nombre_generico": "Tamoxifeno",
+      "letra": "T",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Citrato de tamoxifeno",
+        "clasificacion": "Antineoplásico, modulador selectivo de los receptores de estrógeno (SERM)",
+        "efecto_terapeutica": "Inhibidor competitivo del crecimiento tumoral dependiente de estrógenos en tejido mamario",
+        "mecanismo_accion": "Se une competitivamente a los receptores de estrógeno en las células tumorales mamarias bloqueando la acción estrogénica; ejerce un efecto agonista estrogénico parcial en hueso, endometrio y perfil lipídico"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral alcanzando concentraciones plasmáticas picas en 4 a 7 horas",
+        "distribucion": "Alta unión a proteínas plasmáticas (99%, principalmente albúmina); amplio volumen de distribución",
+        "metabolismo": "Hepático extenso principalmente por el sistema CYP3A4 y CYP2D6 a sus metabolitos activos endoxifeno y 4-hidroxitamoxifeno",
+        "eliminacion": "Excreción fecal principal tras circulación enterohepática y renal mínima con vida media de 5 a 7 días"
+      },
+      "indicaciones": "Tratamiento adyuvante y metastásico del cáncer de mama con receptores de estrógeno positivos (RE+) y reducción del riesgo de cáncer de mama en mujeres de alto riesgo.",
+      "contraindicaciones": "Hipersensibilidad al tamoxifeno; antecedentes de tromboembolismo venoso (TEV) o embolia pulmonar activa; tratamiento concomitante con coumarínicos en profilaxis primaria; embarazo y lactancia.",
+      "precauciones": "Riesgo de eventos tromboembólicos (trombosis venosa profunda, embolismo pulmonar); hiperplasia o cáncer endometrial; cataratas y retinopatía; hipercalcemia al inicio en metástasis óseas.",
+      "advertencias": "Informar al ginecólogo ante cualquier sangrado vaginal inusual o cambios en el flujo para descartar patología endometrial.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de malformaciones fetales y aborto. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Usar con precaución en insuficiencia hepática grave."
+      },
+      "interacciones": "Inhibidores potentes del CYP2D6 (paroxetina, fluoxetina, bupropión) disminuyen la formación del metabolito activo endoxifeno reduciendo su eficacia; potencia el efecto de los anticoagulantes orales.",
+      "reacciones_adversas": "Sofocos y sofocaciones; flujo o sangrado vaginal; irregularidades menstruales; fatiga; retención de líquidos; náuseas; erupción cutánea; eventos tromboembólicos; cataratas.",
+      "toxicidad_sobredosis": "Temblores, hiperreflexia, convulsiones y prolongación del intervalo QT.",
+      "antidotos": "Tratamiento sintomático de soporte e interrupción de la medicación.",
+      "monitorizacion": {
+        "clinica": "Control ginecológico periódico (ecografía transvaginal), agudeza visual, síntomas de TEV y sangrado anormal.",
+        "laboratorio": "Perfil hepático, calcio sérico al inicio, perfil lipídico y hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar el riesgo tromboembólico, examen ginecológico previo y revisar el tratamiento antidepresivo concomitante (evitar paroxetina/fluoxetina).",
+        "durante": "Monitorear la aparición de sofocos o síntomas tromboembólicos.",
+        "despues": "Valorar la respuesta oncológica y la densidad mineral ósea."
+      },
+      "presentaciones": "Comprimidos de 10 mg y 20 mg.",
+      "dosis": {
+        "adultos": "20 mg una vez al día por vía oral (o 40 mg/día divididos en dos tomas) durante 5 a 10 años en esquema adyuvante.",
+        "pediatrico": "Uso bajo indicaciones endocrinológicas pediátricas específicas (p. ej. síndrome de McCune-Albright).",
+        "geriatrico": "Dosis habitual sin ajuste específico por la edad sola."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "20 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de trombosis venosa profunda, embolia pulmonar y cáncer de endometrio.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar los comprimidos enteros a la misma hora del día con un vaso de agua con o sin alimentos.;",
+          "Verificar que la paciente no esté recibiendo fluoxetina o paroxetina por posible inactivación del tamoxifeno.;",
+          "Vigilar la aparición de signos de trombosis venosa o reportes de sangrado ginecológico anormal.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el comprimido una vez al día con agua; se puede ingerir con las comidas si causa náuseas.;",
+          "Consultar de inmediato si presenta sangrado vaginal inusual, cambios en el flujo o dolor pélvico.;",
+          "Avisar de urgencia ante dolor o hinchazón en las piernas, falta de aire repentina o dolor en el pecho."
+        ]
+      }
     }
   ]
 }
