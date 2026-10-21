@@ -21297,6 +21297,73 @@
           "Avisar al médico ante falta de aire repentina, fiebre alta o palpitaciones."
         ]
       }
+    },
+    {
+      "id": "294",
+      "nombre_generico": "Ácido Zoledrónico",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Ácido zoledrónico monohidrato",
+        "clasificacion": "Inhibidor de la resorción ósea, bisfosfonato nitrogenado de tercera generación",
+        "efecto_terapeutica": "Inhibición potente de la actividad osteoclástica y reducción de complicaciones esqueléticas tumorales",
+        "mecanismo_accion": "Se une con alta afinidad a la hidroxiapatita de la matriz ósea e inhibe la enzima farnesil pirofosfato sintasa en los osteoclastos, bloqueando la resorción ósea e induciendo la apoptosis osteoclástica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Rápida avidez y fijación al tejido óseo (50%); unión a proteínas plasmáticas del 56%",
+        "metabolismo": "No sufre metabolización en el organismo humano",
+        "eliminacion": "Excreción renal por filtración glomerular en tres fases con una vida media de eliminación terminal de 146 horas"
+      },
+      "indicaciones": "Prevención de eventos relacionados con el esqueleto (fracturas patológicas, compresión medular, radioterapia ósea) en tumores sólidos con metástasis óseas y mieloma múltiple, y tratamiento de la hipercalcemia tumoral maligna.",
+      "contraindicaciones": "Hipersensibilidad al ácido zoledrónico u otros bisfosfonatos; insuficiencia renal grave (clearance de creatinina < 30 ml/min); embarazo y lactancia.",
+      "precauciones": "Riesgo de nefrotoxicidad (falla renal aguda por infusión rápida); osteonecrosis de la mandíbula (ONM); hipocalcemia severa; reacción de fase aguda tipo pseudogripal (fiebre, mialgias); dolor musculoesquelético severo.",
+      "advertencias": "Se debe realizar una evaluación odontológica previa al tratamiento e instruir sobre la suplementación con calcio y vitamina D.",
+      "embarazo_lactancia": "Categoría D en el embarazo; se incorpora a la matriz ósea fetal causando anomalías. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "Reducir la dosis si el clearance de creatinina es de 30 a 60 ml/min (3.5 mg, 3.3 mg o 3.0 mg); contraindicado si es < 30 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Uso concomitante con aminoglycosides, diuréticos del asa o platinos incrementa el riesgo de hipocalcemia y nefrotoxicidad.",
+      "reacciones_adversas": "Fiebre; síntomas pseudogripales (mialgias, artralgias, escalofríos); hipocalcemia; hipofosfatemia; aumento de creatinina sérica; anemia; osteonecrosis de la mandíbula; náuseas.",
+      "toxicidad_sobredosis": "Hipocalcemia sintomática (tetania, parestesias), hipofosfatemia e insuficiencia renal anúrica.",
+      "antidotos": "Inyección IV de gluconato de calcio e hidratación parenteral.",
+      "monitorizacion": {
+        "clinica": "Control de creatinina y diuresis antes de cada dosis, estado bucodental, signos de hipocalcemia (signo de Chvostek/Trousseau) y temperatura.",
+        "laboratorio": "Creatinina sérica, urea, calcio corregido, fósforo, magnesio y hemograma previo a cada ciclo."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar que el paciente esté bien hidratado, revisar la creatinina sérica basal y verificar el examen dental previo.",
+        "durante": "Monitorear la infusión IV asegurando un tiempo mínimo de no menos de 15 minutos.",
+        "despues": "Administrar suplementos diarios de calcio (500 mg) y vitamina D (400 UI) salvo hipercalcemia."
+      },
+      "presentaciones": "Frasco ampolla de 4 mg/5 ml de solución concentrada e infusión lista para usar de 4 mg/100 ml.",
+      "dosis": {
+        "adultos": "Metástasis óseas/Mieloma: 4 mg IV en 100 ml de solución infundidos en no menos de 15 minutos cada 3 a 4 semanas; Hipercalcemia maligna: 4 mg IV en infusión única de 15 minutos.",
+        "pediatrico": "Uso no establecido formalmente en pediatría oncológica de rutina.",
+        "geriatrico": "Dosis ajustada estrictamente según el clearance de creatinina estimado."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir el frasco de 4 mg/5 ml en 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (INCOMPATIBLE con soluciones Ringer Lactato o que contengan calcio)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua en un período de NO MENOS de 15 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas refrigerado (2°C - 8°C) tras su dilución.",
+      "concentracion": "0.04 mg/ml (concentración de la solución diluida final de 100 ml).",
+      "alarma_riesgo": "Riesgo de insuficiencia renal aguda por infusión rápida (< 15 min) y osteonecrosis mandibular.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la dosis en un volumen de 100 ml en un tiempo estricto NO menor a 15 minutos.;",
+          "No diluir ni mezclar en la misma vía con soluciones que contengan calcio (como Ringer Lactato).;",
+          "Verificar los valores de creatinina y asegurar que el paciente esté adecuadamente hidratado previo al paso del fármaco.;"
+        ],
+        "educacion_paciente": [
+          "Realizar una revisión odontológica antes de iniciar el tratamiento y evitar extracciones dentales durante el mismo.;",
+          "Tomar diariamente los suplementos de calcio y vitamina D indicados para evitar descensos bruscos de calcio.;",
+          "Informar si presenta fiebre, dolores musculares, adormecimiento alrededor de la boca o dolor en la mandíbula."
+        ]
+      }
     }
   ]
 }
