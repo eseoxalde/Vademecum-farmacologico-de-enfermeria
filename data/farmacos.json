@@ -19488,6 +19488,73 @@
           "Consultar si presenta adormecimiento u hormigueo en las manos o pies."
         ]
       }
+    },
+    {
+      "id": "267",
+      "nombre_generico": "Imatinib",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Mesilato de imatinib",
+        "clasificacion": "Antineoplásico, inhibidor selectivo de la tirosina quinasa (BCR-ABL, c-KIT, PDGFR)",
+        "efecto_terapeutica": "Inhibidor de la proliferación e inductor de apoptosis en células leucémicas y tumorales dirigidas",
+        "mecanismo_accion": "Bloquea selectivamente el sitio de unión del ATP en el dominio quinasa de la proteína de fusión BCR-ABL, del receptor c-KIT y del receptor del factor de crecimiento derivado de plaquetar (PDGFR), impidiendo la fosforilación y la señalización oncogénica"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral con una biodisponibilidad absoluta del 98%",
+        "distribucion": "Alta unión a proteínas plasmáticas (95%, principalmente a la alfa-1 glicoproteína ácida)",
+        "metabolismo": "Hepático extenso principalmente por la isoenzima CYP3A4 al metabolito activo N-desmetilado",
+        "eliminacion": "Excreción biliar y fecal principal (68%) y renal en menor proporción (13%) con vida media de 18 horas"
+      },
+      "indicaciones": "Leucemia mieloide crónica (LMC) cromosoma Filadelfia positivo (Ph+), leucemia linfoblástica aguda Ph+, tumores del estroma gastrointestinal (GIST) c-KIT positivos y síndromes mieloide/mielodisplásicos.",
+      "contraindicaciones": "Hipersensibilidad al imatinib o sus componentes; embarazo y lactancia.",
+      "precauciones": "Riesgo de retención hídrica grave y edema (edema periorbitario, pleural, ascitis); mielosupresión (neutropenia, trombocitopenia); hepatotoxicidad; hemorragia gastrointestinal en GIST.",
+      "advertencias": "Monitorear el peso corporal semanalmente. Un aumento súbito de peso indica retención hídrica severa.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis si el clearance de creatinina es de 20 a 59 ml/min; precaución en insuficiencia renal severa.",
+        "hepatico": "Reducir la dosis en un 25% si existe disfunción hepática moderada a severa."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 (ketoconazol, eritromicina) aumentan sus niveles plasmáticos; inductores potentes (rifampicina, hierba de San Juan) reducen drásticamente su eficacia; incrementa niveles de simvastatina.",
+      "reacciones_adversas": "Edema periférico y periorbitario; náuseas; vómitos; diarrea; mialgias; calambres musculares; exantema cutáneo; fatiga; neutropenia; trombocitopenia; anemia.",
+      "toxicidad_sobredosis": "Mielosupresión profunda, edemas masivos, náuseas y calambres severos.",
+      "antidotos": "Tratamiento de soporte, diuréticos para la retención hídrica y transfusiones.",
+      "monitorizacion": {
+        "clinica": "Control semanal del peso corporal, presencia de edemas, signos de sangrado digestivo y tolerancia gastrointestinal.",
+        "laboratorio": "Hemograma completo semanal en el primer mes, trisemanal después; pruebas de función hepática y creatinina."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función hepática, renal y hemograma completo basal.",
+        "durante": "Interrogar al paciente sobre la presencia de calambres, náuseas o aumento de peso.",
+        "despues": "Monitorear la respuesta citogenética y molecular de la LMC."
+      },
+      "presentaciones": "Comprimidos de 100 mg y 400 mg.",
+      "dosis": {
+        "adultos": "400 mg a 600 mg una vez al día por vía oral (o 800 mg/día divididos en dos tomas en fase blástica/acelerada de LMC o GIST metastásico).",
+        "pediatrico": "340 mg/m²/día por vía oral en dosis única o dividida en dos tomas.",
+        "geriatrico": "Dosis habitual vigilando la función renal y la aparición de edemas."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos pueden disolverse en agua o jugo de manzana si hay disfagia.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "400 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de anasarca por retención hídrica severa y hemorragia en tumores GIST.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar los comprimidos durante una comida principal y con un vaso grande de agua para reducir la irritación gástrica.;",
+          "Pesar al paciente semanalmente para detectar tempranamente retención hídrica o edema.;",
+          "Monitorear los recuentos de neutrófilos y plaquetas periódicamente.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos con la comida y un vaso lleno de agua; no tomar con el estómago vacío.;",
+          "Avisar al médico si nota hinchazón en las piernas, alrededor de los ojos o un aumento rápido de peso.;",
+          "Informar si presenta calambres musculares dolorosos, moretones espontáneos o heces oscuras."
+        ]
+      }
     }
   ]
 }
