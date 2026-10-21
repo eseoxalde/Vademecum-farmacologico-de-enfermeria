@@ -20962,6 +20962,73 @@
           "Comprender la importancia de someterse a análisis de sangre periódicos para medir el ácido úrico."
         ]
       }
+    },
+    {
+      "id": "289",
+      "nombre_generico": "Mesna",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Mesna (2-mercaptoetanosulfonato de sodio)",
+        "clasificacion": "Protector uroendotelial y antídoto específico de la toxicidad vesical de oxazafosforinas",
+        "efecto_terapeutica": "Prevención eficaz de la cistitis hemorrágica inducida por ifosfamida y ciclofosfamida",
+        "mecanismo_accion": "Sus grupos sulfhidrilo (-SH) libres se unen en la vejiga a los metabolitos urotóxicos de las oxazafosforinas (como la acroleína), formando un compuesto no tóxico e inofensivo que se excreta en la orina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración IV con biodisponibilidad del 100%; absorción oral rápida con biodisponibilidad del 50%",
+        "distribucion": "Permanencia confinada al espacio vascular y rápida oxidación en plasma a dimesna inerte",
+        "metabolismo": "En los túbulos renales, el dimesna es reducido nuevamente a mesna activo por la enzima glutatión reductasa",
+        "eliminacion": "Excreción renal masiva en forma de mesna y dimesna (80% en 4 horas) con vida media corta de 1 a 2 horas"
+      },
+      "indicaciones": "Prevención de la toxicidad del tracto urinario (cistitis hemorrágica) en pacientes tratados con ifosfamida o dosis altas de ciclofosfamida.",
+      "contraindicaciones": "Hipersensibilidad al mesna u otros compuestos con grupos tiol.",
+      "precauciones": "Reacciones de hipersensibilidad (especialmente en pacientes con enfermedades autoinmunes); falso positivo para cetonas en tira reactiva de orina.",
+      "advertencias": "El mesna no previene ni reduce la mielosupresión, alopecia o la neurotoxicidad inducida por la ifosfamida.",
+      "embarazo_lactancia": "Categoría B en el embarazo; usar solo si la quimioterapia está estrictamente indicada. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis, pero exige mantener una adecuada diuresis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "No muestra interacciones negativas con las oxazafosforinas ni con otros citostáticos habituales; puede dar falsas cetonas en orina.",
+      "reacciones_adversas": "Reacciones alérgicas cutáneas; náuseas; vómitos; diarrea; cefalea; rubor; artralgias; hipotensión en infusión rápida.",
+      "toxicidad_sobredosis": "Nausea, vómitos, diarrea, hipotensión arterial y reacciones anafilactoides.",
+      "antidotos": "Tratamiento de soporte e hidratación parenteral.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la orina (hematuria microscópica o macroscópica mediante tira reactiva) y diuresis horaria.",
+        "laboratorio": "Examen de sedimento urinario para la detección de glóbulos rojos."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar la disponibilidad del mesna antes de comenzar la infusión de ifosfamida o ciclofosfamida.",
+        "durante": "Respetar de forma rigurosa los tiempos y horas de administración (hora 0, 4 y 8 horas post-quimioterapia).",
+        "despues": "Monitorear la orina durante las 24 horas posteriores a la finalización de la quimioterapia."
+      },
+      "presentaciones": "Ampolla inyectable de 400 mg/4 ml y 1000 mg/10 ml; solución oral de 400 mg y 1000 mg.",
+      "dosis": {
+        "adultos": "IV: 20% de la dosis de oxazafosforina administrados en la Hora 0 (junto a la quimio), Hora 4 y Hora 8 (total 60% de la dosis del citostático); o infusión continua de 100-120% de la dosis del citostático.",
+        "pediatrico": "Esquema IV idéntico al del adulto (20% en horas 0, 4 y 8 o según protocolo por m²).",
+        "geriatrico": "Dosis habitual asegurando una hidratación adecuada."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Diluir en solución fisiológica o dextrosa al 5% para infusión corta o continua.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (puede mezclarse en la misma bolsa con ifosfamida)."
+      },
+      "velocidad_infusion": "Administrar la dosis en bolo lento o infusión corta de 15 a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente tras su dilución.",
+      "concentracion": "100 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de cistitis hemorrágica masiva si se omiten o retrasan las dosis pautadas de las horas 4 u 8.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Respetar de manera estricta y puntual la pauta horaria de administración (horas 0, 4 y 8 post-ifosfamida).;",
+          "Comprobar la presencia de hematuria mediante tira reactiva en cada micción durante el ciclo.;",
+          "Mantener una adecuada hidratación al paciente para asegurar la descarga urinaria continua.;"
+        ],
+        "educacion_paciente": [
+          "Cumplir con exactitud los horarios de las dosis orales o inyectables de mesna que se le indiquen.;",
+          "Avisar de inmediato si la orina cambia de color a un tono rojizo, rosado o si siente ardor al orinar.;",
+          "Ingerir abundante cantidad de líquidos durante todo el día para proteger la vejiga."
+        ]
+      }
     }
   ]
 }
