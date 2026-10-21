@@ -23888,6 +23888,73 @@
           "Entender que el prurito (picazón) puede persistir varias semanas después de la cura completa por una reacción alérgica normal."
         ]
       }
+    },
+    {
+      "id": "333",
+      "nombre_generico": "Tetrametrina",
+      "letra": "T",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Tetrametrina",
+        "clasificacion": "Ectoparasiticida, insecticida (piretroide sintético de tipo I de acción rápida 'knock-down')",
+        "efecto_terapeutica": "Parálisis inmediata (efecto derribo) y muerte de ectoparásitos y artrópodos",
+        "mecanismo_accion": "Mantiene abiertos los canales de sodio dependientes de voltaje en el axón nervioso del parásito, induciendo descargas repetitivas y parálisis motora fulminante"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción tópica cutánea extremadamente baja en humanos; absorción rápida por vía inhalatoria o digestiva",
+        "distribucion": "Acción confinada a la superficie cutánea o capilar en formulaciones de uso humano",
+        "metabolismo": "Se hidroliza rápidamente en el hígado por carboxilesterasas y enzimas CYP450 a metabolitos inactivos",
+        "eliminacion": "Excreción renal y fecal de metabolitos con vida media corta"
+      },
+      "indicaciones": "Tratamiento de la pediculosis y coadyuvante en sprays ambiental-domésticos contra ectoparásitos (frecuentemente combinada con piperonil butóxido o cipermetrina).",
+      "contraindicaciones": "Hipersensibilidad a la tetrametrina o piretroides; piel erosionada o con heridas abiertas; niños menores de 2 años; embarazo y lactancia.",
+      "precauciones": "Riesgo de broncoespasmo o irritación bronquial si se inhala en aerosol; irritación ocular y cutánea.",
+      "advertencias": "Formulación predominantemente de uso externo/ambiental o asociativa. Evitar la inhalación prolongada de sus vapores.",
+      "embarazo_lactancia": "Categoría C; evitar su uso durante el embarazo y la lactancia por falta de estudios de seguridad suficientes.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Su acción insecticida y persistencia se potencian significativamente cuando se combina con Butóxido de piperonilo.",
+      "reacciones_adversas": "Irritación cutánea; prurito; eritema; sensación de ardor; estornudos, tos o broncoespasmo (por inhalación del aerosol).",
+      "toxicidad_sobredosis": "Inhalación o ingesta masiva: hipersalivación, temblores, mareos, ataxia y depresión respiratoria.",
+      "antidotos": "Tratamiento sintomático de soporte, desnutrición respiratoria y lavado con agua abundante.",
+      "monitorizacion": {
+        "clinica": "Control de irritación en piel o mucosa ocular y función respiratoria tras la aplicación.",
+        "laboratorio": "No requiere análisis de laboratorio."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar antecedentes de hiperreactividad bronquial o asma antes de aplicar formulaciones en aerosol.",
+        "durante": "Aplicar en espacios bien ventilados evitando ojos y vías aéreas.",
+        "despues": "Enjuagar minuciosamente el cuero cabelludo tras el tiempo de contacto pautado."
+      },
+      "presentaciones": "Sprays, lociones o champús (frecuentemente combinada con otros piretroides y Butóxido de Piperonilo).",
+      "dosis": {
+        "adultos": "Pediculosis: Aplicar la loción o spray suficiente sobre el cabello seco/húmedo, dejar actuar de 10 a 15 minutos y lavar bien con abundante agua. Repetir en 7 días.",
+        "pediatrico": "Mayores de 2 a 6 años (según laboratorio): aplicar con precaución evitando zonas oculares y respiratorias.",
+        "geriatrico": "Misma pauta recomendada en adultos."
+      },
+      "vias_administracion": "Vía tópica exclusiva.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; lista para su aplicación comercial.",
+        "compatibilidad_iv": "TOTALMENTE PROHIBIDA SU ADMINISTRACIÓN PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente lejos de fuentes de calor o llama directa (inflamable en aerosol).",
+      "concentracion": "Variable según la formulación combinada (habitualmente < 0.5%).",
+      "alarma_riesgo": "Riesgo de broncoespasmo agudo por inhalación y toxicidad ocular por contacto.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Proteger los ojos y las vías respiratorias del paciente durante la aplicación del producto en spray o loción.;",
+          "Asegurar que la aplicación se realice en lugares con ventilación adecuada.;",
+          "Retirar todo el producto con abundante agua tibia tras cumplirse el tiempo de exposición.;"
+        ],
+        "educacion_paciente": [
+          "No inhalar el aerosol ni permitir que el producto tome contacto con la cara o los ojos.;",
+          "Lavar la cabeza con abundante agua y jabón tras finalizar el tiempo de aplicación indicado.;",
+          "Consultar al médico si nota dificultad para respirar, tos seca o irritación severa en el cuero cabelludo."
+        ]
+      }
     }
   ]
 }
