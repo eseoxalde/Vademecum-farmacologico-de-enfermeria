@@ -21163,6 +21163,73 @@
           "Avisar al equipo de salud si nota enrojecimiento extremo, dolor intenso o ampollas en la zona tratada."
         ]
       }
+    },
+    {
+      "id": "292",
+      "nombre_generico": "Hialuronidasa",
+      "letra": "H",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Hialuronidasa",
+        "clasificacion": "Enzima difusora, antídoto de extravasación de alcaloides de la vinca y etopósido",
+        "efecto_terapeutica": "Facilitador de la reabsorción y dispersión tisular de líquidos y fármacos extravasados",
+        "mecanismo_accion": "Despolimeriza reversiblemente el ácido hialurónico de la matriz extracelular del tejido conectivo, disminuyendo la viscosidad del estroma tisular y promoviendo la rápida difusión y reabsorción del agente extravasado"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva subcutánea o intradérmica alrededor de la zona extravasada",
+        "distribucion": "Difusión local inmediata en el tejido subcutáneo perivascular",
+        "metabolismo": "Inactivación enzimática progresiva en los tejidos por inhibidores endógenos",
+        "eliminacion": "Degradación proteica local con restauración de la barrera tisular en 24 a 48 horas"
+      },
+      "indicaciones": "Tratamiento de la extravasación accidental de alcaloides de la vinca (vincristina, vinblastina, vinorelbina), etopósido o paclitaxel, y como agente promotor de la reabsorción de fluidos (hipodermoclisis).",
+      "contraindicaciones": "Hipersensibilidad a la hialuronidasa o proteínas de origen bovino/ovino; inyección directa en áreas infectadas o neoplásicas; embarazo.",
+      "precauciones": "Riesgo de reacciones alérgicas o anafilaxia (se sugiere realizar prueba cutánea previa en pacientes alérgicos); no inyectar directamente en la vena.",
+      "advertencias": "Se deben aplicar compresas templadas/calientes (no frías) junto con la hialuronidasa en la extravasación de alcaloides de la vinca.",
+      "embarazo_lactancia": "Categoría C en el embarazo; usar solo si es claramente necesario. Precaución en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajustes de dosis.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Incompatible con furosemida, benzodiazepinas y fenitoína en la misma solución.",
+      "reacciones_adversas": "Eritema local; edema; dolor en el sitio de inyección; reacciones de hipersensibilidad (urticaria, anafilaxia); mareo.",
+      "toxicidad_sobredosis": "Edema local acentuado, eritema e hipotensión anafilactoide.",
+      "antidotos": "Antihistamínicos, corticoides e interrupción de la aplicación.",
+      "monitorizacion": {
+        "clinica": "Control del sitio de inyección (disminución del edema y dolor), eritema cutáneo y signos de reacción alérgica.",
+        "laboratorio": "No requiere exámenes de laboratorio específicos de rutina."
+      },
+      "parametros_valoracion": {
+        "antes": "Delimitar el área extravasada y aspirar la mayor cantidad de fármaco a través de la vía antes de retirarla.",
+        "durante": "Inyectar de 1 a 6 ml (150 a 1500 UI) en múltiples punciones subcutáneas alrededor del borde de la lesión.",
+        "despues": "Aplicar calor seco local intermitente para favorecer la vasodilatación y reabsorción."
+      },
+      "presentaciones": "Frasco ampolla de 150 UI y 1500 UI de polvo liofilizado.",
+      "dosis": {
+        "adultos": "Extravasación: Inyectar de 150 UI a 1500 UI (1 ml a 6 ml) en múltiples punciones de 0.2 ml por vía subcutánea alrededor de la zona afectada.",
+        "pediatrico": "150 UI inyectadas alrededor del área de extravasación en punciones divididas.",
+        "geriatrico": "Dosis habitual no requiriendo ajuste por edad."
+      },
+      "vias_administracion": "Subcutánea e intradérmica alrededor de la lesión (PROHIBIDA LA VÍA IV DIRECTA).",
+      "preparacion": {
+        "dilucion": "Reconstituir con 1 ml a 2 ml de solución fisiológica por frasco ampolla.",
+        "compatibilidad_iv": "Compatible con solución fisiológica (para aplicación subcutánea únicamente)."
+      },
+      "velocidad_infusion": "Inyección subcutánea en abanico alrededor del área afectada.",
+      "estabilidad_soluciones": "Utilizar la solución reconstituida inmediatamente tras su preparación.",
+      "concentracion": "150 UI/ml o 1500 UI/ml tras la reconstitución.",
+      "alarma_riesgo": "Uso erróneo de compresas frías en lugar de templadas en extravasaciones de vincas agravando la necrosis.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Inyectar la hialuronidasa en abanico en múltiples punciones subcutáneas circundantes a la extravasación.;",
+          "Aplicar calor seco templado (no compresas frías) tras la inyección para alcaloides de la vinca.;",
+          "Aspirar el resto del citostático a través del catéter antes de retirarlo e iniciar el procedimiento.;"
+        ],
+        "educacion_paciente": [
+          "Comprender que la inyección alrededor de la zona extravasada ayudará a dispersar el medicamento para evitar quemaduras.;",
+          "Colocar paños o bolsas de agua templada (no frías) según las indicaciones recibidas.;",
+          "Avisar de inmediato ante picazón, hinchazón grave o enrojecimiento extendido."
+        ]
+      }
     }
   ]
 }
