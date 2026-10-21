@@ -22548,6 +22548,73 @@
           "Avisar si presenta náuseas severas, mareos o erupciones en la piel."
         ]
       }
+    },
+    {
+      "id": "313",
+      "nombre_generico": "Idoxuridina",
+      "letra": "I",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Idoxuridina (IDU)",
+        "clasificacion": "Antiviral oftálmico y tópico, análogo nucleósido de la pirimidina (yodotimidina)",
+        "efecto_terapeutica": "Inhibición local de la replicación del virus Herpes Simplex en córnea y piel",
+        "mecanismo_accion": "Se fosforila por enzimas virales y celulares incorporándose de forma anómala al ADN viral sustituyendo a la timidina, lo que genera errores de transcripción, incapacidad de maduración viral y ruptura de la cadena de ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción sistémica insignificante tras la aplicación tópica ocular o cutánea",
+        "distribucion": "Acción confinada a las capas superficiales de la córnea y la epidermis",
+        "metabolismo": "Inactivación enzimática local y metabólica rápida a yodouracilo e uracilo si pasa a la circulación",
+        "eliminacion": "Excreción renal de metabolitos inactivos en caso de escasa absorción sistémica"
+      },
+      "indicaciones": "Tratamiento de la queratoconjuntivitis y queratitis epitelial por virus Herpes Simplex (HSV-1 y HSV-2) primaria o recurrente.",
+      "contraindicaciones": "Hipersensibilidad a la idoxuridina o al yodo; queratitis estromal o ulceración corneal profunda; embarazo y lactancia.",
+      "precauciones": "Riesgo de opacificación corneal o queratopatía punteada con uso prolongado; puede retrasar la cicatrización corneal; no superar los 21 días de tratamiento.",
+      "advertencias": "No administrar corticosteroides tópicos oculares de forma conjunta sin cobertura antiviral adecuada ya que aceleran la diseminación del virus.",
+      "embarazo_lactancia": "Categoría C en el embarazo; se ha demostrado teratogenia en animales por vía sistémica. Contraindicada en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Incompatible con preparados oftálmicos que contengan ácido bórico (se produce precipitación e irritación local).",
+      "reacciones_adversas": "Irritación ocular local; ardor; sensación de cuerpo extraño; fotofobia; edema palpebral; oclusión del punto lagrimal; queratopatía punteada.",
+      "toxicidad_sobredosis": "Irritación epitelial ocular severa y defectos de cicatrización corneal.",
+      "antidotos": "Lavado ocular con solución fisiológica estéril y suspensión de la aplicación.",
+      "monitorizacion": {
+        "clinica": "Examen ocular mediante lámpara de hendidura (tinción con fluoresceína), dolor ocular, agudeza visual y cicatrización epitelial.",
+        "laboratorio": "No requiere exámenes de laboratorio."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar evaluación oftalmológica mediante tinción con fluoresceína para confirmar queratitis dendrítica epitelial.",
+        "durante": "Monitorear la frecuencia de aplicación (muy frecuente al inicio: cada 1 hora durante el día y cada 2 horas por la noche).",
+        "despues": "Suspender entre 3 y 5 días después de la reepitelización completa."
+      },
+      "presentaciones": "Colirio / Solución oftálmica al 0.1%; Pomada oftálmica al 0.5%.",
+      "dosis": {
+        "adultos": "Colirio al 0.1%: 1 gota en el ojo afectado cada hora durante el día y cada 2 horas por la noche hasta la mejoría, luego cada 2 horas de día y 4 de noche (Máximo 21 días); Pomada al 0.5%: Aplicar 5 veces al día.",
+        "pediatrico": "Misma pauta de aplicación ocular en niños mayores bajo estricta supervisión del oftalmólogo.",
+        "geriatrico": "Dosis habitual sin ajuste por edad."
+      },
+      "vias_administracion": "Vía oftálmica y tópica exclusiva.",
+      "preparacion": {
+        "dilucion": "No aplica; utilizar directo del envase estéril.",
+        "compatibilidad_iv": "TOTALMENTE INCOMPATIBLE PARA VÍA PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar refrigerado (2°C - 8°C) o a temperatura ambiente protegida de la luz según la formulación del fabricante; desechar al mes de abierto.",
+      "concentracion": "0.1% (1 mg/ml) en colirio o 0.5% (5 mg/g) en pomada.",
+      "alarma_riesgo": "Riesgo de daño o perforación corneal por uso prolongado más allá de los 21 días e incompatibilidad con ácido bórico.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Aplicar mediante técnica aséptica ocular evitando el contacto de la punta del gotero con el ojo.;",
+          "Respetar la elevada frecuencia de aplicación inicial pautada por el oftalmólogo.;",
+          "No utilizar en el mismo ojo medicamentos o soluciones que contengan ácido bórico.;"
+        ],
+        "educacion_paciente": [
+          "Instilar la gota dentro del saco conjuntival inferior del ojo afectado sin tocar las pestañas u ojo.;",
+          "Utilizar gafas de sol si presenta sensibilidad molesta a la luz (fotofobia).;",
+          "No usar lentes de contacto durante todo el tratamiento y consultar si nota visión borrosa o dolor persistente."
+        ]
+      }
     }
   ]
 }
