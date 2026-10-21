@@ -19421,6 +19421,73 @@
           "Avisar al médico si nota pérdida de memoria, confusión o dificultad para hablar o caminar."
         ]
       }
+    },
+    {
+      "id": "266",
+      "nombre_generico": "Trastuzumab Emtansina (T-DM1)",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Trastuzumab emtansina",
+        "clasificacion": "Antineoplásico, conjugado anticuerpo-fármaco (ADC) anti-HER2",
+        "efecto_terapeutica": "Citotóxico dirigido con liberación intracelular de un potente agente antimitótico en células tumorales HER2 positivas",
+        "mecanismo_accion": "El componente trastuzumab se une al dominio IV de HER2 facilitando la endocitosis del complejo; dentro de la célula, la degradación lisosomal libera DM1 (maytansinoide), el cual inhibe la polimerización de tubulina y bloquea la mitosis"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución reducido y confinado principalmente al espacio vascular",
+        "metabolismo": "Catabolismo proteico en los lisosomas intracelulares liberando catabolitos activos que contienen DM1",
+        "eliminacion": "Aclaramiento sistémico por degradación catabólica y excreción biliar de catabolitos con vida media de 4 días"
+      },
+      "indicaciones": "Cáncer de mama precoz HER2 positivo con enfermedad residual tras neoadyuvancia y cáncer de mama metastásico HER2 positivo tratado previamente con trastuzumab y un taxano.",
+      "contraindicaciones": "Hipersensibilidad a trastuzumab emtansina o sus componentes; disfunción cardíaca severa (FEVI < 40%); embarazo y lactancia.",
+      "precauciones": "Riesgo de hepatotoxicidad severa (hiperbilirrubinemia, falla hepática, hiperplasia nodular regenerativa); trombocitopenia profunda; cardiotoxicidad (caída de la FEVI); neurotoxicidad periférica.",
+      "advertencias": "No sustituir ni intercambiar por trastuzumab convencional. Monitorizar de forma estrecha las plaquetas y las transaminasas antes de cada dosis.",
+      "embarazo_lactancia": "Categoría D en el embarazo; causa oligohidramnios grave y muerte fetal. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve o moderada.",
+        "hepatico": "Suspender o reducir la dosis ante elevación marcada de transaminasas (ALT/AST > 5 ULN) o bilirrubina total (> 3 ULN)."
+      },
+      "interacciones": "Uso concomitante con inhibidores potentes de CYP3A4 (ketoconazol, claritromicina) puede aumentar la exposición a DM1; riesgo hemorrágico aumentado con anticoagulantes o antiagregantes por trombocitopenia.",
+      "reacciones_adversas": "Trombocitopenia; elevación de transaminasas (AST/ALT); hemorragia (epistaxis, gingivorragia); fatiga; náuseas; neuropatía periférica; artralgias; mialgias; caída de la FEVI.",
+      "toxicidad_sobredosis": "Trombocitopenia grave, hepatotoxicidad fulminante y sangrados masivos.",
+      "antidotos": "Tratamiento de soporte, transfusión de plaquetas e interrupción del fármaco.",
+      "monitorizacion": {
+        "clinica": "Control de signos de sangrado, ictericia, fatiga extrema, parestesias y signos de insuficiencia cardíaca.",
+        "laboratorio": "Recuento de plaquetas, AST, ALT, bilirrubina total antes de cada ciclo y FEVI por ecocardiograma cada 3 meses."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar recuento de plaquetas (≥ 100.000/mm³ en precoz o ≥ 50.000/mm³ en metastásico), enzimas hepáticas y FEVI normal.",
+        "durante": "Monitorear la infusión IV (90 min en la primera dosis, 30 min en las siguientes si hay buena tolerancia).",
+        "despues": "Valorar la presencia de hematomas espontáneos o sangrados en encías."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg y 160 mg de polvo liofilizado para solución concentrada.",
+      "dosis": {
+        "adultos": "3.6 mg/kg de peso corporal administrados en infusión IV cada 3 semanas (ciclo de 21 días).",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual monitoreando cuidadosamente la función hepática y el recuento de plaquetas."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril e incorporar la dosis en 250 ml de solución fisiológica (utilizar filtro en línea de 0.22 micras).",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (incompatible con dextrosa al 5%)."
+      },
+      "velocidad_infusion": "Administrar en 90 minutos para la primera infusión; si se tolera bien, las dosis posteriores se administran en 30 minutos.",
+      "estabilidad_soluciones": "Usar dentro de las 24 horas refrigerado (2°C - 8°C) tras la reconstitución y dilución.",
+      "concentracion": "20 mg/ml (concentración tras la reconstitución inicial).",
+      "alarma_riesgo": "Riesgo de confusión mortal con trastuzumab convencional y trombocitopenia severa con sangrado.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar expresamente la indicación médica para evitar la confusión con trastuzumab estándar.;",
+          "Diluir únicamente en bolsas de solución fisiológica e infundir usando un filtro de 0.22 micras.;",
+          "Monitorear los niveles de plaquetas y transaminasas antes de administrar cada dosis.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato ante cualquier signo de sangrado como moretones espontáneos, sangrado de encías o sangre en la orina.;",
+          "Informar si nota coloración amarillenta en los ojos o piel, o dolor en el costado derecho del abdomen.;",
+          "Consultar si presenta adormecimiento u hormigueo en las manos o pies."
+        ]
+      }
     }
   ]
 }
