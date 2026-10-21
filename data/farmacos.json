@@ -19823,6 +19823,73 @@
           "Evitar el consumo de pomelo (toronja) y sus jugos durante todo el tratamiento."
         ]
       }
+    },
+    {
+      "id": "272",
+      "nombre_generico": "Lapatinib",
+      "letra": "L",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Ditosilato de lapatinib",
+        "clasificacion": "Antineoplásico, inhibidor dual oral de las quinasas EGFR y HER2",
+        "efecto_terapeutica": "Inhibidor de la proliferación y crecimiento celular en tumores con sobreexpresión de HER2",
+        "mecanismo_accion": "Se une reversiblemente al sitio de unión del ATP del dominio quinasa intracelular de los receptores EGFR (ErbB1) y HER2 (ErbB2), inhibiendo la autofosforilación y la señalización río abajo"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral incompleta y variable; aumenta significativamente (hasta 3-4 veces) si se administra con alimentos",
+        "distribucion": "Alta unión a albúmina y alfa-1 glicoproteína ácida (> 99%); atraviesa parcialmente la BHE",
+        "metabolismo": "Hepático extenso principalmente por la isoenzima CYP3A4 y CYP3A5 a metabolitos oxidados inactivos",
+        "eliminacion": "Excreción fecal principal (> 90%) y renal insignificante (< 2%) con vida media de 24 horas"
+      },
+      "indicaciones": "Cáncer de mama en estadio avanzado o metastásico con sobreexpresión de HER2 en combinación con capecitabina, letrozol o trastuzumab.",
+      "contraindicaciones": "Hipersensibilidad al lapatinib o sus componentes; disfunción cardíaca severa (FEVI disminuida); embarazo y lactancia.",
+      "precauciones": "Riesgo de disminución de la FEVI e insuficiencia cardíaca; hepatotoxicidad severa (se ha reportado falla hepática mortal); diarrea grave deshidratante; neumonitis / enfermedad pulmonar intersticial.",
+      "advertencias": "Administrar por lo menos 1 hora antes o 1 hora después de las comidas para evitar variaciones masivas en su absorción.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve, moderada o severa.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática grave (Child-Pugh C) de 1250 mg a 750 mg o de 1500 mg a 1000 mg."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 (ketoconazol) elevan significativamente sus concentraciones tóxicas; inductores potentes (rifampicina) reducen su efectividad; los alimentos ricos en grasa aumentan drásticamente su absorción.",
+      "reacciones_adversas": "Diarrea (muy frecuente); exantema cutáneo; eritema; náuseas; vómitos; fatiga; alopecia; estomatitis; paroniquia; hiperbilirrubinemia; disminución de la FEVI.",
+      "toxicidad_sobredosis": "Diarrea severa, exantema cutáneo masivo, falla hepática y disfunción cardíaca.",
+      "antidotos": "Tratamiento de soporte, rehidratación oral o IV y suspensión temporal del fármaco.",
+      "monitorizacion": {
+        "clinica": "Control del número de deposiciones, estado cutáneo, función cardíaca (FEVI) y síntomas respiratorios.",
+        "laboratorio": "Ecocardiograma o MUGA (FEVI) previo y cada 8-12 semanas; transaminasas y bilirrubina mensual."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la FEVI basal, perfil hepático y asegurarse de que el paciente comprenda las pautas de toma respecto a los alimentos.",
+        "durante": "Monitorear la aparición de diarrea precoz para iniciar loperamida.",
+        "despues": "Valorar la respuesta tumoral y la función cardíaca."
+      },
+      "presentaciones": "Comprimidos recubiertos de 250 mg.",
+      "dosis": {
+        "adultos": "1250 mg (5 comprimidos) una vez al día en combinación con capecitabina, o 1500 mg una vez al día en combinación con letrozol.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual monitoreando la tolerancia hepática y cardíaca."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "250 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de hepatotoxicidad severa, caída de la FEVI e intoxicación por ingesta errónea junto con alimentos.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar que los comprimidos se tomen en dosis única diaria al menos 1 hora antes o 1 hora después de comer.;",
+          "Evaluar la función hepática antes de iniciar y mensualmente durante el tratamiento.;",
+          "Controlar la FEVI ecocardiográficamente antes y periódicamente en el seguimiento.;"
+        ],
+        "educacion_paciente": [
+          "Tomar todos los comprimidos juntos una vez al día con el estómago vacío (1 hora antes o 1 hora después de alimentos).;",
+          "Iniciar loperamida e informar al médico inmediatamente si presenta diarrea blanda o frecuente.;",
+          "Avisar de inmediato ante tinte amarillo en piel u ojos, falta de aire o hinchazón en las piernas."
+        ]
+      }
     }
   ]
 }
