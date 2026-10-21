@@ -21498,6 +21498,73 @@
           "Avisar de inmediato si presenta calambres musculares, hormigueo en labios/dedos o dolor en la mandíbula."
         ]
       }
+    },
+    {
+      "id": "297",
+      "nombre_generico": "Calcio",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Carbonato de calcio / Citrato de calcio / Gluconato de calcio / Cloruro de calcio",
+        "clasificacion": "Mineral, suplemento electrolítico y terapéutico de la homeostasis ósea",
+        "efecto_terapeutica": "Restauración de los niveles plasmáticos de calcio, mineralización de la matriz ósea y mantenimiento de la función neuromuscular y cardíaca",
+        "mecanismo_accion": "El catión calcio (Ca2+) es esencial para la integridad funcional de los sistemas nervioso, muscular y esquelético, interviene en la excitabilidad neuronal, acoplamiento excitación-contracción muscular, transmisión de impulsos y coagulación sanguínea"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción activa dependiente de vitamina D en el duodeno y yeyuno (el citrato de calcio no requiere medio ácido; el carbonato requiere pH gástrico ácido)",
+        "distribucion": "El 99% se deposita en el sistema esquelético; en plasma, un 45% circula libre (ionizado), 45% unido a proteínas (albúmina) y 10% complejado",
+        "metabolismo": "No sufre metabolismo enzimático; participa en intercambios iónicos continuos",
+        "eliminacion": "Excreción fecal principal de la fracción no absorbida y eliminación renal regulada por la hormona paratiroidea (PTH)"
+      },
+      "indicaciones": "Tratamiento y prevención de la hipocalcemia, suplementación en osteoporosis, coadyuvante en la terapia con bisfosfonatos o denosumab, hiperpotasemia grave (protección miocárdica con gluconato) e hipermagnesemia.",
+      "contraindicaciones": "Hipersensibilidad al preparado; hipercalcemia primaria o secundaria; hipercalciuria severa; nefrolitiasis por calcio; toxicidad digitalica.",
+      "precauciones": "Riesgo de nefrocalcinosis o litiasis renal; hipercalcemia por sobredosificación; la vía IV rápida provoca hipotensión, vasodilatación periférica, arritmias y paro cardíaco en sístole.",
+      "advertencias": "La inyección IV de cloruro de calcio o gluconato debe realizarse en infusión lenta con monitorización del ritmo cardíaco.",
+      "embarazo_lactancia": "Categoría B en el embarazo; de uso seguro a dosis suplementarias recomendadas. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "Ajustar dosis e intensificar el monitoreo del calcio sérico en insuficiencia renal por riesgo de hipercalcemia.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Disminuye fuertemente la absorción de tetraciclinas, quinolonas, hierro, levotiroxina y bisfosfonatos orales (espaciar al menos 2 a 4 horas); potencia la toxicidad de los glucósidos cardíacos (digoxina).",
+      "reacciones_adversas": "Oral: estreñimiento, flatulencia, eructos, náuseas; IV: sensación de calor, rubor, disgeusia (sabor metálico), hipotensión, arritmias, necrosis tisular en extravasación (cloruro de calcio).",
+      "toxicidad_sobredosis": "Hipercalcemia (anorexia, náuseas, vómitos, estreñimiento, confusión, poliuria, arritmias cardíacas y paro cardíaco).",
+      "antidotos": "Suspender el calcio, hiperhidratación con solución fisiológica e infusión de diuréticos del asa (furosemida).",
+      "monitorizacion": {
+        "clinica": "Control del ritmo cardíaco durante la administración IV, presión arterial, tránsito intestinal y dolor en sitio IV.",
+        "laboratorio": "Calcio total y libre (ionizado), albúmina sérica, fósforo, magnesio, urea, creatinina y calciuria."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar niveles de calcio e ionograma, ajustar según la concentración de albúmina y comprobar la permeabilidad de la vía IV.",
+        "durante": "Infundir por vía IV de forma muy lenta con control de la frecuencia cardíaca.",
+        "despues": "Verificar la normalización de las cifras de calcio sérico ionizado."
+      },
+      "presentaciones": "Comprimidos orales / efervescentes de 500 mg a 1500 mg de elemento calcio; ampolla IV de Gluconato de Calcio al 10% (10 ml) y Cloruro de Calcio al 10% (10 ml).",
+      "dosis": {
+        "adultos": "Suplementación oral: 1000 mg a 1500 mg de calcio elemental al día divididos en 2 o 3 tomas; Hipocalcemia aguda IV: 1 a 2 g de Gluconato de Calcio IV en 100 ml de solución fisiológica en 10 a 20 minutos.",
+        "pediatrico": "Oral: 200 mg a 500 mg/día de calcio elemental; IV: 20 a 50 mg/kg de gluconato de calcio en infusión lenta.",
+        "geriatrico": "Dosis habitual considerando la preferencia por citrato de calcio en pacientes con aclorhidria."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Diluir la ampolla inyectable en 50 ml a 100 ml de solución fisiológica o dextrosa al 5% para infusión IV.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (INCOMPATIBLE con soluciones de bicarbonato de sodio o fosfatos por precipitación)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV lenta sin superar 0.7 a 1.5 mEq/minuto (Gluconato 10% en no menos de 10-20 minutos).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente.",
+      "concentracion": "Gluconato de calcio al 10% (9.3 mg de Ca2+ elemental/ml) / Cloruro de calcio al 10% (27.2 mg de Ca2+ elemental/ml).",
+      "alarma_riesgo": "Riesgo de paro cardíaco por infusión IV rápida, precipitación en la vía con bicarbonatos y necrosis en extravasación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir por vía IV lentamente y con monitoreo cardíaco (la infusión rápida puede causar paro en sístole).;",
+          "NUNCA mezclar en la misma solución o vía con bicarbonato de sodio o fosfatos para evitar la precipitación de sales.;",
+          "Asegurar una vía venosa permeable; la extravasación de cloruro de calcio causa necrosis tisular severa.;"
+        ],
+        "educacion_paciente": [
+          "Espaciar la toma de calcio al menos 2 horas de suplementos de hierro, levotiroxina o antibióticos.;",
+          "Tomar el carbonato de calcio con los alimentos para mejorar su absorción; el citrato puede tomarse sin comida.;",
+          "Avisar de inmediato si siente náuseas persistentes, sed excesiva, estreñimiento severo o palpitaciones."
+        ]
+      }
     }
   ]
 }
