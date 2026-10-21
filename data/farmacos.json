@@ -22213,6 +22213,73 @@
           "Cumplir estrictamente con la duración del tratamiento prescrito."
         ]
       }
+    },
+    {
+      "id": "308",
+      "nombre_generico": "Neomicina",
+      "letra": "N",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de neomicina",
+        "clasificacion": "Antibacteriano, aminoglucósido de acción tópica y digestiva",
+        "efecto_terapeutica": "Reducción de la flora bacteriana intestinal e inhibición de bacterias gramnegativas sensibles",
+        "mecanismo_accion": "Se une a la subunidad 30S del ribosoma bacteriano, interrumpiendo la traducción del ARN mensajero e induciendo la muerte celular bacteriana"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción gastrointestinal o cutánea casi nula (< 3%); sin embargo, la absorción puede aumentar si hay mucosas inflamadas o quemaduras extensas",
+        "distribucion": "La pequeña fracción absorbida se distribuye en el espacio extracelular",
+        "metabolismo": "No sufre metabolismo hepático",
+        "eliminacion": "La fracción no absorbida se excreta inalterada en las heces; la fracción sistémica se elimina por filtración glomerular con vida media de 2 a 3 horas"
+      },
+      "indicaciones": "Preparación quirúrgica del colon (descontaminación intestinal), tratamiento coadyuvante en el coma hepático / encefalopatía hepática (para reducir bacterias productoras de amonio) e infecciones tópicas de piel, oídos y ojos.",
+      "contraindicaciones": "Hipersensibilidad a la neomicina o aminoglucósidos; obstrucción intestinal; miastenia gravis; lesiones ulcerosas extensas del intestino; embarazo y lactancia.",
+      "precauciones": "Riesgo de ototoxicidad y nefrotoxicidad sistémica si se absorbe a través de mucosas erosionadas o piel quemada; insuficiencia renal; síndrome de malabsorción.",
+      "advertencias": "PROHIBIDA SU ADMINISTRACIÓN PARENTERAL SISTÉMICA (IV/IM) debido a su extrema toxicidad sistémica.",
+      "embarazo_lactancia": "Categoría D en el embarazo (vía sistémica/absorbida); riesgo de ototoxicidad fetal. Contraindicada en la lactancia.",
+      "ajustes": {
+        "renal": "Reducir la dosis oral o evitar su uso en insuficiencia renal por riesgo de acumulación de la fracción absorbida.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Aumenta el riesgo de ototoxicidad/nefrotoxicidad con diuréticos del asa, vancomicina o cisplatino; disminuye la absorción de digoxina, metotrexato y vitamina K (potencia anticoagulantes).",
+      "reacciones_adversas": "Náuseas; vómitos; diarrea; síndrome de malabsorción digestiva; ototoxicidad e hipoacusia (si hay absorción sistémica); nefrotoxicidad; dermatitis de contacto alérgica (uso tópico).",
+      "toxicidad_sobredosis": "Falla renal, sordera irreversible y bloqueo neuromuscular por absorción masiva.",
+      "antidotos": "Hemodiálisis para remover la fracción absorbida sistémicamente.",
+      "monitorizacion": {
+        "clinica": "Evaluación de la función auditiva, diuresis, estado neurológico en encefalopatía hepática y reacciones cutáneas.",
+        "laboratorio": "Urea, creatinina sérica y amonio plasmático."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar la presencia de úlceras intestinales masivas o perforación antes de la vía oral.",
+        "durante": "Monitorear la frecuencia de las deposiciones y la función renal.",
+        "despues": "Valorar la reducción de los niveles de amonio en encefalopatía."
+      },
+      "presentaciones": "Comprimidos de 500 mg; solución oral; pomadas/cremas tópicas (solas o asociadas a bacitracina/polimixina); gotas óticas y oftálmicas.",
+      "dosis": {
+        "adultos": "Encefalopatía hepática: 1 g a 2 g cada 6 horas por vía oral (4 a 8 g/día); Preparación quirúrgica de colon: 1 g VO a las 19 h, 18 h y 22 h del día previo a la cirugía.",
+        "pediatrico": "Encefalopatía hepática: 50 a 100 mg/kg/día VO divididos cada 6 horas por 5 a 7 días.",
+        "geriatrico": "Disminuir la dosis por mayor riesgo de absorción sistémica e insuficiencia renal latente."
+      },
+      "vias_administracion": "Vía oral, tópica, ótica y oftálmica (PROHIBIDA LA VÍA PARENTERAL IV/IM).",
+      "preparacion": {
+        "dilucion": "No aplica para comprimidos; las soluciones orales se administran directamente.",
+        "compatibilidad_iv": "TOTALMENTE INCOMPATIBLE PARA VÍA INTRAVENOSA."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "500 mg por comprimido.",
+      "alarma_riesgo": "Administración parenteral accidental mortal y ototoxicidad severa por uso en piel desollada o mucosa erosionada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA administrar por vía parenteral (intravenosa o intramuscular).;",
+          "Monitorear la función renal en tratamientos orales prolongados por posible absorción sistémica.;",
+          "Vigilar la aparición de reacciones alérgicas o erupciones en la piel durante el uso tópico.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos orales con un vaso lleno de agua según el esquema exacto prescrito.;",
+          "Avisar de inmediato si nota disminución en la audición, zumbidos en los oídos o cambios en la orina.;",
+          "No aplicar cremas o gotas de neomicina sobre quemaduras graves o heridas abiertas extensas."
+        ]
+      }
     }
   ]
 }
