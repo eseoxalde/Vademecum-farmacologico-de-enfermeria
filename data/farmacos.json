@@ -24491,6 +24491,73 @@
           "Tomar la dosis conjuntamente con alimentos para prevenir las náuseas o el ardor estomacal."
         ]
       }
+    },
+    {
+      "id": "342",
+      "nombre_generico": "Teofilina",
+      "letra": "T",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Teofilina (1,3-dimetilxantina)",
+        "clasificacion": "Broncodilatador de acción sistémica, metilxantina",
+        "efecto_terapeutica": "Relajación del músculo liso bronquial, estimulación del centro respiratorio y aumento del aclaramiento mucociliar",
+        "mecanismo_accion": "Inhibe no selectivamente las enzimas fosfodiesterasas (PDE3 y PDE4), aumentando los niveles de AMPc intracelular en las células musculares lisas de las vías aéreas; además antagoniza de forma competitiva los receptores de adenosina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y completa absorción oral en comprimidos de liberación inmediata; las formas de liberación prolongada otorgan absorción sostenida",
+        "distribucion": "Unión a proteínas plasmáticas del 40%; se distribuye ampliamente en los tejidos y atraviesa la BHE y la placenta",
+        "metabolismo": "Hepático extenso (> 90%) mediado por el citocromo P450 (isoenzimas CYP1A2 principal, CYP2E1 y CYP3A4) a 1,3-dimetilácido úrico",
+        "eliminacion": "Excreción renal de metabolitos (10% inalterado) con una vida media de 8 horas en adultos no fumadores (se reduce a 4-5 horas en fumadores)"
+      },
+      "indicaciones": "Tratamiento y prevención del broncoespasmo reversible asociado al asma bronquial, enfermedad pulmonar obstructiva crónica (EPOC), bronquitis crónica y enfisema pulmonar.",
+      "contraindicaciones": "Hipersensibilidad a la teofilina u otras metilxantinas (cafeína, teobromina); infarto agudo de miocardio reciente; taquiarritmias agudas; menores de 6 meses (para formas de liberación prolongada).",
+      "precauciones": "Margen terapéutico muy estrecho (rango: 10 a 20 mcg/ml); riesgo de arritmias cardíacas y convulsiones mortales; úlcera péptica activa; hipertensión arterial; hipertiroidismo; alteración por tabaquismo.",
+      "advertencias": "Fármaco de estrecho margen terapéutico. Es OBLIGATORIO medir la teofilinemia si aparecen náuseas, vómitos o palpitaciones.",
+      "embarazo_lactancia": "Categoría C en el embarazo; atraviesa la placenta. Pasa a la leche materna pudiendo producir irritabilidad y taquicardia en el lactante; evaluar uso.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis obligatoriamente al 50% en cirrosis o insuficiencia hepática grave por disminución del aclaramiento."
+      },
+      "interacciones": "Aumentan sus niveles tóxicos: ciprofloxacino, eritromicina, claritromicina, cimetidina, propranolol, alopurinol; disminuyen sus niveles: tabaquismo, rifampicina, carbamazepina, fenitoína y hierba de San Juan.",
+      "reacciones_adversas": "Náuseas; vómitos (signo precoz de toxicidad); dolor epigástrico; cefalea; insomnio; irritabilidad; taquicardia sinusal; palpitaciones; arritmias cardíacas; temblor fino de manos; hipotensión; convulsiones.",
+      "toxicidad_sobredosis": "Intoxicación grave: vómitos profusos, taquicardia supraventricular/ventricular, hipotensión severa, hipocalemia, hiperglucemia y convulsiones intratables.",
+      "antidotos": "Tratamiento de soporte, carbón activado seriado (diálisis entérica), betabloqueantes de acción corta (esmolol) y hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Frecuencia cardíaca, presión arterial, mecánica respiratoria, calidad del sueño y presencia de náuseas o vómitos.",
+        "laboratorio": "Teofilinemia (niveles séricos objetivo: 10 a 20 mcg/ml en asma; 8 a 12 mcg/ml en EPOC), potasio y glucemia."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la teofilinemia previa, indagar sobre el hábito tabáquico y medir la frecuencia cardíaca.",
+        "durante": "Monitorear la aparición de náuseas o arritmias.",
+        "despues": "Valorar la mejoría de la disnea y del volumen espiratorio."
+      },
+      "presentaciones": "Comprimidos de liberación prolongada de 100 mg, 200 mg y 300 mg; jarabe / solución oral (80 mg/15 ml); ampolla de aminofilina (complejo teofilina-etilendiamina) 240 mg/10 ml.",
+      "dosis": {
+        "adultos": "Liberación prolongada: 200 mg a 300 mg VO cada 12 horas (Dosis habitual: 10 a 15 mg/kg/día); Ajustar según teofilinemia.",
+        "pediatrico": "Mayores de 1 año: 10 a 15 mg/kg/día divididos en 2 tomas de liberación prolongada.",
+        "geriatrico": "Reducir la dosis a un máximo de 8 a 10 mg/kg/día por menor aclaramiento metabólico."
+      },
+      "vias_administracion": "Vía oral e intravenosa (como aminofilina).",
+      "preparacion": {
+        "dilucion": "No triturar ni masticar los comprimidos de liberación prolongada; las ampollas IV de aminofilina se diluyen en dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con dextrosa al 5% y solución fisiológica al 0.9%."
+      },
+      "velocidad_infusion": "Aminofilina IV: dosis de carga en no menos de 20 a 30 minutos; mantenimiento en infusión lenta.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "200 mg o 300 mg por comprimido de liberación prolongada.",
+      "alarma_riesgo": "Riesgo vital de convulsiones letales y arritmias ventriculares por sobredosificación o interacciones.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA partir, triturar ni masticar los comprimidos de liberación prolongada.;",
+          "Controlar la teofilinemia de forma periódica manteniéndola estrictamente en el rango de 10 a 20 mcg/ml.;",
+          "Suspender de inmediato y avisar al médico si el paciente presenta náuseas, vómitos o taquicardia.;"
+        ],
+        "educacion_paciente": [
+          "Tragar los comprimidos enteros con agua, sin masticarlos ni disolverlos.;",
+          "Informar inmediatamente al médico si empieza o deja de fumar, ya que esto cambia la dosis necesaria.;",
+          "Consultar antes de tomar cualquier antibiótico o remedio nuevo para evitar intoxicaciones."
+        ]
+      }
     }
   ]
 }
