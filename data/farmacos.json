@@ -20761,6 +20761,73 @@
           "Informar si nota mareos, hipo continuo o cansancio extremo en los días posteriores."
         ]
       }
+    },
+    {
+      "id": "286",
+      "nombre_generico": "Olanzapina",
+      "letra": "O",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Olanzapina",
+        "clasificacion": "Antipsicótico atípico, antagonista multirreceptor (antiemético adjunto en oncología)",
+        "efecto_terapeutica": "Prevención y control refractario de las náuseas y vómitos agudos y tardíos inducidos por quimioterapia",
+        "mecanismo_accion": "Bloquea múltiples receptores de neurotransmisores implicados en la emesis: dopaminérgicos D2, serotoninérgicos 5-HT2c y 5-HT3, muscarínicos M1 e histaminérgicos H1 en el SNC"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral; su absorción no se ve alterada por la presencia de alimentos",
+        "distribucion": "Alta unión a proteínas plasmáticas (93%); atraviesa rápidamente la barrera hematoencefálica",
+        "metabolismo": "Hepático extenso principalmente por glucuronidación directa y por la isoenzima CYP1A2 (y en menor grado CYP2D6)",
+        "eliminacion": "Excreción renal principal (57%) y fecal (30%) en forma de metabolitos con vida media de 30 a 38 horas"
+      },
+      "indicaciones": "Prevención y tratamiento de náuseas y vómitos agudos, tardíos o refractarios inducidos por quimioterapia altamente emetógena (off-label oncológico estandarizado); esquizofrenia y trastorno bipolar.",
+      "contraindicaciones": "Hipersensibilidad a la olanzapina; glaucoma de ángulo cerrado no controlado; demencia en ancianos (riesgo de ACV); embarazo y lactancia.",
+      "precauciones": "Riesgo de somnolencia severa y sedación; síndrome neuroléptico maligno; hipotensión ortostática; hiperglucemia e incremento de peso; prolongación leve del QT.",
+      "advertencias": "La somnolencia es la principal reacción adversa cuando se usa a dosis de 5 mg a 10 mg como antiemético en esquemas oncológicos.",
+      "embarazo_lactancia": "Categoría C en el embarazo; riesgo de síntomas extrapiramidales en el recién nacido. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Considerar iniciar con dosis baja (2.5 mg a 5 mg) en insuficiencia hepática grave."
+      },
+      "interacciones": "La combinación con depresores del SNC (benzodiazepinas, opioides, alcohol) acentúa la somnolencia e hipotensión; el tabaco e inductores del CYP1A2 reducen sus niveles plasmáticos.",
+      "reacciones_adversas": "Somnolencia; sedación; aumento del apetito; ganancia de peso; mareos; hipotensión ortostática; sequedad bucal; estreñimiento; elevación leve de prolactina o transaminasas.",
+      "toxicidad_sobredosis": "Sedación profunda, coma, disartria, hipotensión y síntomas extrapiramidales.",
+      "antidotos": "Tratamiento de soporte, soporte hemodinámico (evitar adrenalina por efecto alfa-bloqueante).",
+      "monitorizacion": {
+        "clinica": "Control del nivel de sedación, presión arterial (hipotensión ortostática), estreñimiento y tolerancia oral.",
+        "laboratorio": "Glucemia en ayunas, perfil lipídico e ionograma si se usa a largo plazo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la somnolencia previa y coordinar la administración preferentemente por la noche.",
+        "durante": "Monitorear que el paciente no realice actividades que requieran alerta tras la dosis.",
+        "despues": "Valorar el control eficaz de las náuseas durante los días post-quimioterapia."
+      },
+      "presentaciones": "Comprimidos recubiertos de 2.5 mg, 5 mg y 10 mg; comprimidos orodispersables de 5 mg y 10 mg.",
+      "dosis": {
+        "adultos": "Antiemético en quimioterapia: 5 mg a 10 mg una vez al día por vía oral por la noche durante los días 1 a 4 del ciclo de quimioterapia.",
+        "pediatrico": "Uso no establecido formalmente como antiemético de rutina en pediatría.",
+        "geriatrico": "Iniciar con 2.5 mg a 5 mg por la noche en ancianos por mayor susceptibilidad a la sedación e hipotensión."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos orodispersables se disuelven en la boca.",
+        "compatibilidad_iv": "Formulación oral (existe IM aguda no usada de rutina en profilaxis emética)."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "5 mg o 10 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de sedación extrema y caídas en ancianos cuando se combina con analgésicos opioides o benzodiazepinas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la dosis preferentemente por la noche antes de dormir para minimizar el impacto de la somnolencia.;",
+          "Asegurar medidas de prevención de caídas en pacientes ambulatorios o internados por hipotensión u obnubilación.;",
+          "No administrar juntamente con benzodiazepinas parenterales por riesgo de colapso cardiorrespiratorio.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis indicada por la noche antes de acostarse con o sin alimentos.;",
+          "Evitar conducir vehículos, manejar maquinaria peligrosa o beber alcohol mientras toma esta medicación.;",
+          "Avanzar o levantarse despacio de la cama para prevenir mareos por bajadas de presión arterial."
+        ]
+      }
     }
   ]
 }
