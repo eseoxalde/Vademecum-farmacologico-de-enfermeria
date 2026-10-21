@@ -24424,6 +24424,73 @@
           "Consultar inmediatamente al médico si siente dolor de pecho, mareo intenso o una erección que dura más de 4 horas."
         ]
       }
+    },
+    {
+      "id": "341",
+      "nombre_generico": "Probenecid",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Probenecid",
+        "clasificacion": "Uricosúrico, inhibidor del transporte tubular renal de aniones orgánicos",
+        "efecto_terapeutica": "Aumento de la excreción urinaria de ácido úrico y bloqueo de la secreción tubular de antibacterianos betalactámicos",
+        "mecanismo_accion": "Inhibe competitivamente el transportador de aniones orgánicos (OAT1 y OAT3) en los túbulos renales proximales, bloqueando la reabsorción tubular de ácido úrico (aumentando la uricosuria) y bloqueando la secreción tubular activa de penicilinas y cefalosporinas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y completa absorción por vía oral con biodisponibilidad del 100%",
+        "distribucion": "Muy alta unión a proteínas plasmáticas (85 a 95%, principalmente albúmina); volumen de distribución reducido",
+        "metabolismo": "Hepático extenso por glucuronidación e hidroxilación a metabolitos con leve acción uricosúrica",
+        "eliminacion": "Excreción renal de metabolitos y fármaco libre por filtración glomerular con vida media dependiente de la dosis (de 5 a 12 horas)"
+      },
+      "indicaciones": "Tratamiento de la hiperuricemia crónica asociada a la gota tofácea o artritis gotosa, y coadyuvante en la terapia antibiótica con penicilinas o cefalosporinas para incrementar y prolongar sus niveles plasmáticos.",
+      "contraindicaciones": "Hipersensibilidad al probenecid; litiasis renal por ácido úrico (nefrolitiasis); nefropatía por ácido úrico; crisis agudas de gota (no iniciar durante el ataque agudo); discrasias sanguíneas; menores de 2 años.",
+      "precauciones": "Riesgo de desencadenar un ataque agudo de gota al inicio del tratamiento (requiere cobertura con colchicina); formación de cálculos de ácido úrico en orina (requiere hidratación y alcalinización urinaria); insuficiencia renal.",
+      "advertencias": "Consumir abundante cantidad de agua (2 a 3 litros al día) para prevenir la formación de cálculos renales por precipitación del ácido úrico.",
+      "embarazo_lactancia": "Categoría B en el embarazo; atraviesa la placenta. Desaconsejado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Ineficaz y no recomendado si el clearance de creatinina es < 30 ml/min.",
+        "hepatico": "Usar con precaución en hepatopatías graves."
+      },
+      "interacciones": "Aumenta significativamente las concentraciones y la vida media de penicilinas, cefalosporinas, metotrexato, indometacina, naproxeno y ganciclovir; la aspirina e inhibidores de la anhidrasa carbónica anulan su efecto uricosúrico.",
+      "reacciones_adversas": "Ataques agudos de gota (al inicio); náuseas; vómitos; molestias gástricas; anorexia; cefalea; mareos; litiasis renal; erupción cutánea; alopecia; rubor; eritema; anemia hemolítica (en deficiencia de G6PD).",
+      "toxicidad_sobredosis": "Excitación del SNC, convulsiones, vómitos incontrolables, estupor y litiasis renal masiva.",
+      "antidotos": "Tratamiento sintomático de soporte, alcalinización urinaria e hidratación masiva.",
+      "monitorizacion": {
+        "clinica": "Frecuencia de ataques gotosos, diuresis, pH urinario y síntomas digestivos.",
+        "laboratorio": "Uricemia (ácido úrico en sangre), uraturia de 24 horas, creatinina sérica y hemograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar que la crisis aguda de gota haya remitido por completo antes de iniciar el tratamiento.",
+        "durante": "Monitorear la ingesta diaria de agua (mínimo 2 litros/día).",
+        "despues": "Valorar la normalización de las cifras de ácido úrico sérico (< 6 mg/dl)."
+      },
+      "presentaciones": "Comprimidos de 500 mg.",
+      "dosis": {
+        "adultos": "Gota: Iniciar con 250 mg VO dos veces al día por 1 semana; incrementar a 500 mg dos veces al día (Máximo 2000 mg/día); Coadyuvante de antibióticos: 500 mg VO cada 6 horas.",
+        "pediatrico": "Coadyuvante de penicilinas (2 a 14 años): 25 mg/kg dosis inicial, seguida de 40 mg/kg/día divididos en 4 tomas.",
+        "geriatrico": "Dosis habitual con rigurosa verificación de la función renal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren con alimentos o leche.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "500 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de precipitados y cálculos renales por ácido úrico si el paciente no bebe abundante agua.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Garantizar que el paciente mantenga un aporte hídrico diario abundante (mínimo 2 a 3 litros de agua al día).;",
+          "No iniciar el tratamiento durante una crisis o ataque agudo de gota para no exacerbar el dolor articular.;",
+          "Administrar los comprimidos junto con las comidas o leche para disminuir las molestias gástricas.;"
+        ],
+        "educacion_paciente": [
+          "Beber de 8 a 10 vasos grandes de agua al día para proteger los riñones y evitar la formación de piedras.;",
+          "No tomar aspirinas para el dolor mientras esté usando este medicamento ya que anula su efecto.;",
+          "Tomar la dosis conjuntamente con alimentos para prevenir las náuseas o el ardor estomacal."
+        ]
+      }
     }
   ]
 }
