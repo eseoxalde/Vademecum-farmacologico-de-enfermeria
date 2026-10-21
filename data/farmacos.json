@@ -22481,6 +22481,73 @@
           "Avisar al médico si presenta mareos intensos, dolor de cabeza o cambios en la frecuencia urinaria."
         ]
       }
+    },
+    {
+      "id": "312",
+      "nombre_generico": "Brivudina",
+      "letra": "B",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Brivudina",
+        "clasificacion": "Antiviral sistémico, análogo nucleósido de la timidina",
+        "efecto_terapeutica": "Inhibición potente y altamente selectiva de la replicación del virus Varicela-Zóster (VZV)",
+        "mecanismo_accion": "Es fosforilada de forma selectiva por la timidina quinasa del VZV a brivudina trifosfato, la cual inhibe competitivamente la ADN polimerasa viral e impidiendo la replicación del virus"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "",
+        "distribucion": "",
+        "metabolismo": "",
+        "eliminacion": ""
+      },
+      "indicaciones": "Tratamiento precoz del herpes zóster agudo en adultos inmunocompetentes.",
+      "contraindicaciones": "CONTRAINDICACIÓN MORTAL CON FLUOROPIRIMIDINAS: Uso concomitante reciente o planeado con 5-fluorouracilo (5-FU), capecitabina, tegafur, flucitosina u otras fluoropirimidinas; pacientes en quimioterapia antineoplásica; inmunodeprimidos; embarazo y lactancia; menores de 18 años.",
+      "precauciones": "Incompatible de forma absoluta con la quimioterapia con fluoropirimidinas (provoca acumulación tóxica mortal de 5-FU); hepatopatías activas.",
+      "advertencias": "DEBE RESPETARSE UN INTERVALO MÍNIMO DE 4 SEMANAS entre la finalización de la brivudina y el inicio de cualquier tratamiento con fluoropirimidinas (5-FU, capecitabina).",
+      "embarazo_lactancia": "Categoría X en el embarazo; toxicidad fetal. Contraindicada de forma absoluta durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal leve a moderada.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "INTERACCIÓN MORTAL: Su metabolito BVU inhibe irreversiblemente la enzima DPD responsable de degradar el 5-fluorouracilo, provocando toxicidad masiva y letal por 5-FU (aplasia medular, mucositis masiva, falla multiorgánica).",
+      "reacciones_adversas": "Náuseas; vómitos; diarrea; dolor abdominal; cefalea; mareos; somnolencia; granulocitopenia; eosinofilia; elevación de transaminasas; erupciones cutáneas.",
+      "toxicidad_sobredosis": "Efectos gastrointestinales, mareos y potenciamiento letal de fluoropirimidinas si se coadministran.",
+      "antidotos": "Tratamiento de soporte e interrupción inmediata.",
+      "monitorizacion": {
+        "clinica": "Revisión absoluta de la lista de medicamentos del paciente (descartar oncología/5-FU), evolución de lesiones y función hepática.",
+        "laboratorio": "Pruebas de función hepática y hemograma."
+      },
+      "parametros_valoracion": {
+        "antes": "VERIFICAR CON ABSOLUTA CERTEZA que el paciente no reciba ni vaya a recibir 5-fluorouracilo, capecitabina o flucitosina.",
+        "durante": "Administrar 1 comprimido al día durante exactamente 7 días.",
+        "despues": "Recordar el período de ventana de 4 semanas antes de iniciar cualquier quimioterapia con fluoropirimidinas."
+      },
+      "presentaciones": "Comprimidos de 125 mg.",
+      "dosis": {
+        "adultos": "125 mg (1 comprimido) una vez al día por vía oral durante 7 días consecutivos.",
+        "pediatrico": "Contraindicado de forma absoluta en menores de 18 años.",
+        "geriatrico": "Dosis habitual (125 mg/día) sin necesidad de ajuste específico por edad sola."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; el comprimido se ingiere entero con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "125 mg por comprimido.",
+      "alarma_riesgo": "INTERACCIÓN MORTAL Y LETAL CON 5-FLUOROURACILO O CAPECITABINA POR INHIBICIÓN DE LA ENZIMA DPD.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "VERIFICAR obligatoriamente que el paciente no esté en tratamiento oncológico con capecitabina, 5-FU o flucitosina.;",
+          "Asegurar un intervalo libre de al menos 4 semanas tras terminar brivudina antes de inyectar o tomar fluoropirimidinas.;",
+          "Garantizar que el tratamiento dure únicamente 7 días consecutivos a la misma hora.;"
+        ],
+        "educacion_paciente": [
+          "Tomar un solo comprimido al día a la misma hora durante exactamente 7 días.;",
+          "Informar de inmediato a cualquier médico si recibe tratamiento de quimioterapia para el cáncer.;",
+          "Avisar si presenta náuseas severas, mareos o erupciones en la piel."
+        ]
+      }
     }
   ]
 }
