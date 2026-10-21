@@ -22749,6 +22749,73 @@
           "Completar los 5 días enteros de tratamiento aun cuando la fiebre o los síntomas hayan desaparecido."
         ]
       }
+    },
+    {
+      "id": "316",
+      "nombre_generico": "Maraviroc",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Maraviroc",
+        "clasificacion": "Antirretroviral sistémico, antagonista del correceptor de quimiocinas CCR5 (inhibidor de la entrada del VIH)",
+        "efecto_terapeutica": "Reducción de la carga viral del VIH-1 y aumento del recuento de linfocitos T CD4+",
+        "mecanismo_accion": "Se une selectivamente al correceptor humano CCR5 presente en la superficie de los linfocitos T, bloqueando de forma alostérica la interacción con la glucoproteína gp120 de la envoltura del VIH-1 e impidiendo la fusión celular y la entrada del virus con tropismo CCR5 exclusivo"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral rápida con biodisponibilidad del 23 al 33%; las comidas ricas en grasa reducen levemente su AUC",
+        "distribucion": "Unión a proteínas plasmáticas moderada (76%); amplio volumen de distribución",
+        "metabolismo": "Hepático extenso principalmente a través de la isoenzima CYP3A4 a metabolitos inactivos",
+        "eliminacion": "Excreción fecal principal (76%) y renal (20% inalterado) con una vida media de eliminación de 14 a 18 horas"
+      },
+      "indicaciones": "Tratamiento de la infección por el Virus de la Inmunodeficiencia Humana tipo 1 (VIH-1) con tropismo detectado únicamente para el correceptor CCR5 (VIH-1 tropismo CCR5+), en combinación con otros fármacos antirretrovirales en adultos y pediatría.",
+      "contraindicaciones": "Hipersensibilidad al maraviroc o sus excipientes; infección por VIH-1 con tropismo CXCR4 o tropismo mixto/dual; insuficiencia renal grave en combinación con inhibidores potentes del CYP3A4; embarazo y lactancia.",
+      "precauciones": "Riesgo de hepatotoxicidad severa (pueden presentarse reacciones alérgicas sistémicas asociadas a fallo hepático); riesgo de hipotensión ortostática en pacientes con disautonomía o falla renal; eventos cardiovasculares (isquemia miocárdica); síndrome de reconstitución inmune.",
+      "advertencias": "Es obligatorio realizar una prueba de tropismo viral (screening de tropismo CCR5) antes de iniciar el tratamiento.",
+      "embarazo_lactancia": "Categoría B en el embarazo; datos limitados en gestantes. Contraindicada la lactancia materna para prevenir la transmisión vertical del VIH.",
+      "ajustes": {
+        "renal": "Ajustar dosis obligatoriamente en insuficiencia renal (ClCr < 30 ml/min) dependiendo de los fármacos concomitantes (CYP3A4); contraindicado con inhibidores potentes si el ClCr es < 30 ml/min.",
+        "hepatico": "Usar con extrema precaución en disfunción hepática; monitorear estrechamente enzimas hepáticas."
+      },
+      "interacciones": "Interacciones críticas por CYP3A4: Requiere reducción de dosis a 150 mg c/12h con inhibidores potentes de CYP3A4 (ritonavir, cobicistat, ketoconazol, claritromicina); requiere aumento a 600 mg c/12h con inductores potentes (efavirenz, rifampicina, etravirina).",
+      "reacciones_adversas": "Erupción cutánea; náuseas; diarrea; cefalea; mareos; somnolencia; insomnio; transaminasas elevadas; hipotensión ortostática; infecciones del tracto respiratorio superior; dolores musculoesqueléticos.",
+      "toxicidad_sobredosis": "Hipotensión postural severa, mareos intensos, somnolencia y alteraciones del ritmo cardíaco.",
+      "antidotos": "Tratamiento sintomático de soporte, elevación de miembros e hidratación parenteral.",
+      "monitorizacion": {
+        "clinica": "Presión arterial (de pie y sentado), signos de hepatotoxicidad o erupción cutánea, y recuento de linfocitos CD4 y carga viral.",
+        "laboratorio": "Prueba de tropismo viral previa (Trofile/genotípica), AST, ALT, bilirrubina total, urea, creatinina y hemograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Confirmar el informe de tropismo exclusivo CCR5+ y revisar minuciosamente las interacciones del esquema antirretroviral concomitante.",
+        "durante": "Monitorear la aparición de mareos ortostáticos y erupciones en la piel.",
+        "despues": "Valorar la supresión virológica de la carga viral del VIH."
+      },
+      "presentaciones": "Comprimidos recubiertos de 150 mg y 300 mg.",
+      "dosis": {
+        "adultos": "Dosis habitual: 300 mg VO cada 12 horas; Si se coadministra con inhibidores del CYP3A4 (ej. IP/r): 150 mg cada 12 horas; Si se coadministra con inductores (ej. efavirenz/rifampicina): 600 mg cada 12 horas.",
+        "pediatrico": "Dosis ponderal según peso corporal en mayores de 2 años (ajustada por interactores enzimáticos).",
+        "geriatrico": "Dosis habitual con atenta vigilancia de la hipotensión ortostática y función renal."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "150 mg o 300 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de falla terapéutica si se administra en tropismo no CCR5 e ineficiencia o toxicidad grave por error de ajuste con interactores de CYP3A4.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que el resultado de la prueba de tropismo sea confirmado para correceptor CCR5 exclusivo.;",
+          "Revisar cuidadosamente la medicación concomitante del paciente para adaptar la dosis a 150 mg, 300 mg o 600 mg cada 12 horas.;",
+          "Suspender inmediatamente ante cualquier síntoma de hepatitis o exantema cutáneo alérgico con fiebre.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis indicada dos veces al día, exactamente cada 12 horas, con o sin alimentos.;",
+          "Levantarse despacio desde la cama o la silla por el riesgo de mareos o bajadas bruscas de presión arterial.;",
+          "Avisar de inmediato ante picazón en la piel, ictericia (ojos amarillos), orina oscura o dolor abdominal."
+        ]
+      }
     }
   ]
 }
