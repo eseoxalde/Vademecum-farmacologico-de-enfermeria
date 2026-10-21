@@ -19555,6 +19555,73 @@
           "Informar si presenta calambres musculares dolorosos, moretones espontáneos o heces oscuras."
         ]
       }
+    },
+    {
+      "id": "268",
+      "nombre_generico": "Sorafenib",
+      "letra": "S",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Tosilato de sorafenib",
+        "clasificacion": "Antineoplásico, inhibidor multiquinasa oral (RAF, VEGFR, PDGFR)",
+        "efecto_terapeutica": "Inhibidor de la proliferación tumoral y de la angiogénesis en tumores sólidos",
+        "mecanismo_accion": "Inhibe las quinasas serina/treonina (C-RAF, B-RAF) y las tirosina quinasas de receptores celulares (VEGFR-1, VEGFR-2, VEGFR-3, PDGFR-beta, c-KIT, FLT-3), bloqueando la señalización intracelular y la neovascularización"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral moderada con biodisponibilidad del 38-49%; disminuye con comidas ricas en grasa",
+        "distribucion": "Alta unión a proteínas plasmáticas (99.5%); amplio volumen de distribución",
+        "metabolismo": "Hepático extenso por la isoenzima CYP3A4 y glucuronidación por UGT1A9 a metabolitos activos e inactivos",
+        "eliminacion": "Excreción fecal principal (77%) y renal (19%) con vida media de 25 a 48 horas"
+      },
+      "indicaciones": "Carcinoma de células renales avanzado, carcinoma hepatocelular (CHC) no resecable y carcinoma diferenciado de tiroides refractario a yodo radiactivo.",
+      "contraindicaciones": "Hipersensibilidad al sorafenib o sus excipientes; cáncer de pulmón de células no pequeñas si se combina con carboplatino y paclitaxel; embarazo y lactancia.",
+      "precauciones": "Riesgo elevado de hipertensión arterial; síndrome de eritroditesia palmo-plantar (reacción cutánea en manos y pies); isquemia o infarto miocárdico; hemorragias; perforación gastrointestinal.",
+      "advertencias": "Monitorear la presión arterial semanalmente durante las primeras 6 semanas de tratamiento.",
+      "embarazo_lactancia": "Categoría D en el embarazo; genotóxico y teratogénico. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve, moderada o severa no dialítica.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada (Child-Pugh A y B); no estudiado en severa."
+      },
+      "interacciones": "La neomicina disminuye su absorción; los inductores potentes de CYP3A4 (rifampicina, fenitoína) reducen su concentración; la warfarina puede aumentar el riesgo de sangrado.",
+      "reacciones_adversas": "Eritroditesia palmo-plantar (síndrome mano-pie); diarrea; alopecia; fatiga; hipertensión arterial; erupción cutánea; náuseas; alopecia; elevación de la lipasa/amilasa.",
+      "toxicidad_sobredosis": "Diarrea severa, reacciones cutáneas extremas e hipertensión no controlada.",
+      "antidotos": "Tratamiento de soporte, antihipertensivos y suspensión temporal del fármaco.",
+      "monitorizacion": {
+        "clinica": "Control semanal de la presión arterial, piel de manos y pies, eventos hemorrágicos y función cardíaca.",
+        "laboratorio": "Lipasa, amilasa, electrolitos, pruebas de función hepática y ecocardiograma si hay antecedente coronario."
+      },
+      "parametros_valoracion": {
+        "antes": "Controlar la presión arterial basal y evaluar el estado cutáneo previo de palmas y plantas.",
+        "durante": "Monitorear la aparición de eritema doloroso o descamación en manos y pies.",
+        "despues": "Valorar la respuesta tumoral mediante estudios de imagen."
+      },
+      "presentaciones": "Comprimidos recubiertos de 200 mg.",
+      "dosis": {
+        "adultos": "400 mg (2 comprimidos de 200 mg) dos veces al día por vía oral (total 800 mg/día).",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual sin ajuste específico por edad sola."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "200 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de isquemia miocárdica, hipertensión grave e invalidez temporal por reacción mano-pie.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar los comprimidos en ayunas o con comidas con bajo o moderado contenido de grasa.;",
+          "Tomar la presión arterial semanalmente durante el primer mes y periódicamente después.;",
+          "Evaluar la piel de las manos y pies en cada consulta para detectar toxicidad cutánea a tiempo.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos sin alimentos o con comidas ligeras no grasas acompañados de agua.;",
+          "Humectar las manos y pies con cremas con urea y evitar el roce o el agua muy caliente.;",
+          "Avisar de inmediato ante dolor de pecho, mareos por presión alta, enrojecimiento doloroso en manos o dolor abdominal agudo."
+        ]
+      }
     }
   ]
 }
