@@ -22280,6 +22280,73 @@
           "No aplicar cremas o gotas de neomicina sobre quemaduras graves o heridas abiertas extensas."
         ]
       }
+    },
+    {
+      "id": "309",
+      "nombre_generico": "Ganciclovir",
+      "letra": "G",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Ganciclovir sódico",
+        "clasificacion": "Antiviral sistémico, análogo nucleósido acíclico de la guanosina",
+        "efecto_terapeutica": "Inhibición potente de la replicación del Citomegalovirus (CMV) y virus del grupo herpes",
+        "mecanismo_accion": "Es fosforilado intracelularmente por quinasas virales (UL97) y celulares a ganciclovir trifosfato, el cual inhibe competitivamente la ADN polimerasa viral e incorpórase al ADN deteniendo su elongación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral IV; muy baja biodisponibilidad oral (6-9%)",
+        "distribucion": "Amplia distribución tisular; penetra eficazmente en el líquido cefalorraquídeo y humores oculares; unión a proteínas baja (1-2%)",
+        "metabolismo": "Mínima metabolización intracelular a formas fosforiladas; no hay metabolismo hepático significativo",
+        "eliminacion": "Excreción renal por filtración glomerular y secreción tubular (más del 90% inalterado) con vida media de 2 a 4 horas"
+      },
+      "indicaciones": "Tratamiento de la retinitis por Citomegalovirus (CMV) en pacientes inmunodeprimidos (VIH/SIDA), prevención y tratamiento de la enfermedad por CMV en receptores de trasplantes e infecciones graves por HHV-6.",
+      "contraindicaciones": "Hipersensibilidad al ganciclovir, valganciclovir, aciclovir o valaciclovir; recuento de neutrófilos < 500/mm³ o plaquetas < 25.000/mm³; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de mielosupresión grave (neutropenia, trombocitopenia, anemia); potencial mutagénico, teratogénico y carcinogénico; riesgo de convulsiones; nefrotoxicidad.",
+      "advertencias": "Debe manipularse como un agente citotóxico / quimioterápico debido a sus propiedades mutagénicas y carcinogénicas.",
+      "embarazo_lactancia": "Categoría C/D en el embarazo; teratógeno y embriotóxico demostrado. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Ajustar obligatoriamente la dosis y/o intervalo según el clearance de creatinina (ej. ClCr 50-69 ml/min: 2.5 mg/kg c/12h; ClCr 25-49 ml/min: 2.5 mg/kg c/24h; ClCr < 10 ml/min: 1.25 mg/kg 3 veces/semana post-diálisis).",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Aumento drástico del riesgo de neutropenia con zidovudina; mayor riesgo de convulsiones con imipenem-cilastatina; aumenta niveles de didanosina; nefrotoxicidad potenciada con micofenolato o ciclosporina.",
+      "reacciones_adversas": "Neutropenia grave; trombocitopenia; anemia; fiebre; diarrea; náuseas; vómitos; elevación de creatinina; cefalea; convulsiones; confusión; dolor e inflamación en el sitio de infusión.",
+      "toxicidad_sobredosis": "Mielosupresión profunda (aplasia medular), falla renal aguda, hepatitis y neurotoxicidad con convulsiones.",
+      "antidotos": "Tratamiento de soporte, incorporación de factores de crecimiento de colonias (G-CSF), transfusiones e hidratación IV con hemodiálisis.",
+      "monitorizacion": {
+        "clinica": "Control de signos de infección, sangrado, estado neurológico (convulsiones), función renal y permeabilidad de la vía IV.",
+        "laboratorio": "Hemograma completo con recuento diferencial de neutrófilos y plaquetas cada 2 días en inducción, creatinina sérica y urea."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar que los neutrófilos sean ≥ 500/mm³ y las plaquetas ≥ 25.000/mm³ y calcular el clearance de creatinina.",
+        "durante": "Monitorear la infusión IV continua en un período estricto de 1 hora.",
+        "despues": "Valorar la recuperación de los recuentos celulares y la resolución infecciosa."
+      },
+      "presentaciones": "Frasco ampolla de 500 mg de polvo liofilizado.",
+      "dosis": {
+        "adultos": "Inducción: 5 mg/kg IV cada 12 horas durante 14 a 21 días; Mantenimiento: 5 mg/kg IV una vez al día, 5 a 7 días por semana.",
+        "pediatrico": "Misma pauta posológica que en adultos (5 mg/kg cada 12 horas en inducción).",
+        "geriatrico": "Ajustar rigurosamente en función de la función renal basal."
+      },
+      "vias_administracion": "Intravenosa exclusiva en infusión (PROHIBIDA LA VÍA IV RÁPIDA O IM/SC).",
+      "preparacion": {
+        "dilucion": "Reconstituir el vial de 500 mg con 10 ml de agua estéril (concentración 50 mg/ml) y diluir la dosis requerida en 100 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
+      },
+      "velocidad_infusion": "Administrar mediante infusión IV continua durante un período de no menos de 60 minutos (evitar bolo por nefrotoxicidad).",
+      "estabilidad_soluciones": "La solución reconstituida en el vial es estable 12 horas a temperatura ambiente. La solución diluida final es estable 24 horas refrigerada (2°C - 8°C).",
+      "concentracion": "50 mg/ml tras la reconstitución inicial; concentración máxima final de infusión: 10 mg/ml.",
+      "alarma_riesgo": "Riesgo de neutropenia letal, convulsiones al asociar con imipenem y toxicidad renal por infusión rápida.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la dosis diluida siempre en un tiempo no menor a 60 minutos (nunca en bolo rápido).;",
+          "Manipular con equipo de protección personal (guantes, mascarilla) por sus propiedades citotóxicas y mutagénicas.;",
+          "Controlar el hemograma antes de cada dosis e interrumpir si los neutrófilos caen por debajo de 500/mm³.;"
+        ],
+        "educacion_paciente": [
+          "Utilizar métodos anticonceptivos de barrera altamente eficaces durante el tratamiento y hasta 90 días después.;",
+          "Avisar de inmediato ante fiebre, escalofríos, moretones espontáneos, sangrado de encías o llagas en la boca.;",
+          "Informar si presenta mareos, temblores, confusión o cambios en la visión."
+        ]
+      }
     }
   ]
 }
