@@ -23553,6 +23553,73 @@
           "Si realiza nebulizaciones, utilizar la boquilla adecuada y avisar si presenta tos o falta de aire."
         ]
       }
+    },
+    {
+      "id": "328",
+      "nombre_generico": "Anfotericina B Liposomal",
+      "letra": "A",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Anfotericina B encapsulada en lipomas",
+        "clasificacion": "Antifúngico / Antimicótico sistémico y antileishmaniasico, polieno",
+        "efecto_terapeutica": "Efecto fungicida masivo frente a micosis sistémicas e invasivas y acción leishmanicida con menor nefrotoxicidad",
+        "mecanismo_accion": "Se une al ergosterol de la membrana celular de hongos sensibles y amastigotes de Leishmania, formando poros que aumentan la permeabilidad de la membrana con pérdida de potasio y moléculas esenciales, provocando la muerte celular"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "La formulación liposomal le otorga un perfil farmacocinético único: mayor concentración en hígado, bazo y sistema reticuloendotelial, y menor captación renal; alta unión a proteínas (> 95%)",
+        "metabolismo": "No se conoce metabolismo enzimático hepático claro",
+        "eliminacion": "Eliminación lenta renal y biliar con una vida media de eliminación plasmática de 7 a 14 días (y vida media terminal de hasta 152 horas)"
+      },
+      "indicaciones": "Infecciones fúngicas invasivas graves (aspergilosis, candidiasis diseminada, criptococosis, mucormicosis) en pacientes con insuficiencia renal o toxicidad previa a la anfotericina B convencional, tratamiento empírico de micosis en neutropenia febril y tratamiento de la leishmaniasis visceral.",
+      "contraindicaciones": "Hipersensibilidad a la anfotericina B o a cualquiera de los lípidos de la formulación liposomal; embarazo y lactancia.",
+      "precauciones": "Reacciones agudas relacionadas con la infusión (fiebre, escalofríos, rigidez, hipotensión, broncoespasmo); nefrotoxicidad e insuficiencia renal (aunque significativamente menor que la anfotericina desoxicolato); hipocalemia e hipomagnesemia graves.",
+      "advertencias": "No intercambiar las dosis ni presentaciones con la Anfotericina B Desoxicolato convencional; las dosis liposomales son sustancialmente mayores y una confusión puede resultar fatal.",
+      "embarazo_lactancia": "Categoría B en el embarazo; utilizar si la infección micótica o protozoaria pone en riesgo la vida de la madre. Contraindicada en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal, pero requiere monitoreo estrecho; dializable mínimamente.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El uso simultáneo con otros fármacos nefrotóxicos (ciclosporina, aminoglucósidos, tacrolimus) aumenta el riesgo de daño renal; potencia la toxicidad digitalica por hipocalemia; los corticoides aumentan la pérdida de potasio.",
+      "reacciones_adversas": "Fiebre; escalofríos; rigidez; náuseas; vómitos; cefalea; nefrotoxicidad (elevación de creatinina y urea); hipocalemia; hipomagnesemia; anemia; hipotensión o hipertensión; broncoespasmo; lumbalgia / dolor torácico durante la infusión.",
+      "toxicidad_sobredosis": "Paro cardiorrespiratorio, arritmias severas e insuficiencia renal aguda por sobredosificación.",
+      "antidotos": "Tratamiento de soporte, antihistamínicos/corticoides, reposición hídrica y electrolítica.",
+      "monitorizacion": {
+        "clinica": "Signos vitales (PA, FC, temperatura, frecuencia respiratoria) cada 15-30 minutos al inicio de la infusión, diuresis y dolor lumbar/torácico.",
+        "laboratorio": "Potasio sérico, magnesio, creatinina, urea, hemograma completo y pruebas de función hepática."
+      },
+      "parametros_valoracion": {
+        "antes": "Pre-medicar según protocolo (paracetamol, diphenhidramina e hidratación con solución fisiológica) y confirmar que la presentación sea LIPOSOMAL.",
+        "durante": "Infundir a través de una vía venosa exclusiva utilizando bomba de infusión durante 120 minutos.",
+        "despues": "Monitorear la diuresis y los electrólitos plasmáticos."
+      },
+      "presentaciones": "Frasco ampolla de 50 mg de anfotericina B liposomal en polvo liofilizado.",
+      "dosis": {
+        "adultos": "Infecciones fúngicas invasivas / Neutropenia febril: 3 mg/kg/día por vía IV; Mucormicosis: 5 mg/kg/día IV; Leishmaniasis visceral: 3 mg/kg/día en días 1-5, 14 y 21 (dosis total acumulada 21-30 mg/kg).",
+        "pediatrico": "Misma pauta posológica ponderal de 3 a 5 mg/kg/día IV administrada en infusión de 2 horas.",
+        "geriatrico": "Dosis habitual monitoreando la función renal basal y los electrólitos."
+      },
+      "vias_administracion": "Intravenosa exclusiva en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir el vial de 50 mg con 12 ml de agua estéril para inyección (concentración 4 mg/ml), agitar vigorosamente y filtrar la solución reconstituida mediante el filtro de jeringa de 5 micras suministrado. Diluir en solución de Dextrosa al 5%.",
+        "compatibilidad_iv": "EXCLUSIVAMENTE compatible con Dextrosa al 5% (INCOMPATIBLE con Solución Fisiológica o Ringer Lactato por precipitación masiva del complejo liposomal)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua mediante bomba durante un período de 120 minutos (2 horas); se puede reducir a 60 minutos si es bien tolerada.",
+      "estabilidad_soluciones": "La solución reconstituida en el vial es estable 24 horas refrigerada (2°C - 8°C). La mezcla diluida en Dextrosa al 5% debe iniciarse dentro de las 6 horas de su preparación.",
+      "concentracion": "4 mg/ml tras reconstitución vial; concentración final recomendada de infusión: 0.2 a 2.0 mg/ml.",
+      "alarma_riesgo": "Riesgo de muerte por confusión de dosis con anfotericina desoxicolato y precipitación si se mezcla con solución fisiológica.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "VERIFICAR obligatoriamente que el producto sea 'Liposomal' y NO 'Desoxicolato' antes de preparar la dosis.;",
+          "NUNCA diluir ni purgar la vía con Solución Fisiológica (usar exclusivamente Dextrosa al 5% para evitar precipitación).;",
+          "Utilizar obligatoriamente el filtro de 5 micras provisto durante la extracción y dilución de la dosis.;"
+        ],
+        "educacion_paciente": [
+          "Explicar que es un tratamiento antifúngico/antiparasitario fuerte de uso hospitalario intravenoso.;",
+          "Avisar de inmediato si durante la aplicación siente escalofríos, fiebre, falta de aire, náuseas o dolor de espalda.;",
+          "Informar si nota una disminución marcada en la cantidad de orina."
+        ]
+      }
     }
   ]
 }
