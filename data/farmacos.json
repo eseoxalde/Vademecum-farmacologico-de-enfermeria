@@ -1559,64 +1559,64 @@
       "letra": "A",
       "alto_riesgo": true,
       "farmacodinamia": {
-        "principio_activo": "Amiodarona",
-        "clasificacion": "Antiarrítmico clase III [17]",
-        "efecto_terapeutica": "Prolonga el potencial de acción y período refractario; controla arritmias ventriculares y supraventriculares [17]",
-        "mecanismo_accion": "Bloquea canales de potasio, sodio y calcio; efecto betabloqueante no competitivo [18]"
+        "principio_activo": "Clorhidrato de amiodarona",
+        "clasificacion": "Antiarrítmico de clase III (prolongador de la repolarización), con propiedades de las clases I, II y IV",
+        "efecto_terapeutica": "Supresión y prevención de arritmias supraventriculares y ventriculares graves; prolongación del potencial de acción y del período refractario miocárdico",
+        "mecanismo_accion": "Bloquea los canales de potasio (prolongando la repolarización), los canales de sodio inactivados (clase I) y los canales de calcio lentos (clase IV); además, antagoniza de forma no competitiva los receptores beta-adrenérgicos"
       },
       "farmacocinetica_adme": {
-        "absorcion": "Variable vía oral [17]",
-        "distribucion": "Amplia, gran unión a proteínas plasmáticas [17]",
-        "metabolismo": "Hepático [18]",
-        "eliminacion": "Biliar y fecal; vida media muy prolongada (20–100 días) [18]"
+        "absorcion": "Absorción oral lenta y altamente variable (biodisponibilidad de 30 a 50%); absorción parenteral inmediata por vía intravenosa",
+        "distribucion": "Muy amplia y extensa en el tejido adiposo, hígado, pulmones y piel; alta unión a proteínas plasmáticas (96%); atraviesa la placenta y pasa a la leche materna",
+        "metabolismo": "Hepático extenso principalmente a través del citocromo P450 (isoenzimas CYP3A4 y CYP2C8) a su metabolito activo desetilamiodarona (DEA)",
+        "eliminacion": "Excreción biliar y fecal principal (eliminación renal insignificante); posee una vida media de eliminación extremadamente prolongada (de 20 a 100 días debido a su acumulación tisular)"
       },
-      "indicaciones": "Fibrilación ventricular, taquicardia ventricular, FA y arritmias resistentes [18]",
-      "contraindicaciones": "Bradicardia sinusal, bloqueo AV 2°/3° sin marcapasos, disfunción tiroidea grave [19]",
-      "precauciones": "Insuficiencia cardíaca, enfermedad hepática, pulmonar o tiroidea [19]",
-      "advertencias": "Riesgo de toxicidad pulmonar, hepática y tiroidea; prolongación del QT [19]",
-      "embarazo_lactancia": "Embarazo: Solo si beneficio supera riesgo (causa bocio fetal). Lactancia: Contraindicada [20]",
+      "indicaciones": "Tratamiento de urgencia y mantenimiento de arritmias ventriculares graves amenazantes para la vida (taquicardia ventricular sostenida, fibrilación ventricular); prevención y control de arritmias supraventriculares (fibrilación auricular y aleteo auricular) cuando otros fármacos han fallado.",
+      "contraindicaciones": "Hipersensibilidad a la amiodarona o al yodo; bradicardia sinusal y bloqueo sinoauricular; bloqueos auriculoventriculares de segundo o tercer grado (salvo portadores de marcapasos funcional); disfunción tiroidea grave manifiesta; shock cardiogénico; embarazo y lactancia.",
+      "precauciones": "Riesgo elevado de toxicidad orgánica crónica multisistémica (pulmonar, hepática, tiroidea, oftalmológica); prolongación marcada del intervalo QT con riesgo de Torsades de Pointes; insuficiencia cardíaca descompensada; hipotensión severa por vía intravenosa rápida.",
+      "advertencias": "La vía intravenosa rápida puede provocar colapso circulatorio grave e hipotensión arterial severa. Se recomienda su administración a través de catéter venoso central para evitar flebitis tisular grave.",
+      "embarazo_lactancia": "Categoría D en el embarazo; cruza la placenta y puede causar bocio congénito, hipotiroidismo y bradicardia fetal. Contraindicado en la lactancia materna por excreción masiva en leche.",
       "ajustes": {
-        "renal": "Generalmente no requiere [20]",
-        "hepatico": "Reducir dosis si aumentan enzimas hepáticas [20]"
+        "renal": "No requiere ajuste posológico específico por insuficiencia renal debido a su vía de excreción predominantemente hepática y biliar.",
+        "hepatico": "Reducir la dosis o suspender temporalmente si se produce una elevación significativa de las enzimas hepáticas o insuficiencia hepática."
       },
-      "interacciones": "Anticoagulantes, digoxina, betabloqueantes (riesgo de bradicardia) [21]",
-      "reacciones_adversas": "Bradicardia, hipotensión (vía IV), depósitos corneales, fotosensibilidad, color azul grisáceo en piel [21, 22]",
-      "toxicidad_sobredosis": "Bradicardia grave, hipotensión, bloqueo AV, shock [22]",
-      "antidotos": "No posee antídoto específico [22]",
+      "interacciones": "Potencia fuertemente el efecto de los anticoagulantes orales (warfarina); aumenta las concentraciones plasmáticas de digoxina, flecainida y estatinas; riesgo de bradicardia severa o bloqueo con betabloqueantes o antagonistas del calcio no dihidropiridínicos (verapamilo/diltiazem); fármacos que prolongan el QT.",
+      "reacciones_adversas": "Bradicardia; hipotensión arterial (especialmente por vía IV rápida); fibrosis pulmonar intersticial; disfunción tiroidea (hipotiroidismo o hipertiroidismo); elevación de transaminasas y hepatotoxicidad; microdepósitos corneales; fotosensibilidad cutánea; coloración azul grisácea de la piel por exposición solar; neuropatía periférica.",
+      "toxicidad_sobredosis": "Bradicardia extrema, hipotensión severa, bloqueos auriculoventriculares avanzados, shock cardiogénico y daño hepático agudo.",
+      "antidotos": "No existe un antídoto específico; tratamiento de soporte hemodinámico, marcapasos temporal ante bradicardia severa e inotrópicos si hay shock.",
       "monitorizacion": {
-        "clinica": "ECG continuo (especialmente IV), FC, PA [23]",
-        "laboratorio": "Función hepática, tiroidea y pulmonar periódica; electrolitos [23]"
+        "clinica": "Control continuo del electrocardiograma (ECG), frecuencia cardíaca, presión arterial (durante la infusión IV) y auscultación pulmonar periódica.",
+        "laboratorio": "Pruebas de función tiroidea (TSH, T4 libre), perfil hepático completo (transaminasas, bilirrubina), radiografía de tórax y pruebas de función pulmonar basales y de control."
       },
       "parametros_valoracion": {
-        "antes": "FC, PA y ECG basal [23]",
-        "durante": "Signos de flebitis en el sitio de infusión [24]",
-        "despues": "Control de reacciones adversas crónicas (tiroides/pulmón) [24]"
+        "antes": "Evaluar la frecuencia cardíaca basal, la presión arterial, el trazado electrocardiográfico (intervalo PR y QT) y la función hepática/tiroidea.",
+        "durante": "Vigilar estrictamente la velocidad de infusión intravenosa y la integridad de la vía de acceso venoso (evitar extravasación o flebitis).",
+        "despues": "Monitorear al paciente a largo plazo por la toxicidad crónica acumulativa en pulmón, piel, ojos e hígado."
       },
-      "presentaciones": "Comprimidos 100/200 mg; Ampollas 150 mg/3 mL [25]",
+      "presentaciones": "Comprimidos de 100 mg y 200 mg; ampollas inyectables de 150 mg en 3 ml (50 mg/ml).",
       "dosis": {
-        "adultos": "Carga IV: 150 mg en 10 min. Mantenimiento oral: 100–400 mg/día [25, 26]",
-        "pediatrico": "Individualizar según peso [26]",
-        "geriatrico": "Iniciar con menor dosis eficaz [26]"
+        "adultos": "Urgencia IV: 150 mg diluidos en 100 ml de Dextrosa al 5% en 10 minutos (seguido de infusión de mantenimiento de 1 mg/min por 6 horas y luego 0.5 mg/min); Mantenimiento oral: 100 mg a 400 mg diarios.",
+        "pediatrico": "Carga IV de 5 mg/kg en infusión de 20 a 60 minutos bajo estricto control cardiológico especializado.",
+        "geriatrico": "Iniciar con la menor dosis eficaz y monitorizar estrechamente la aparición de bradicardia o efectos colaterales."
       },
-      "vias_administracion": "Oral e Intravenosa [24]",
+      "vias_administracion": "Vía oral e intravenosa (preferentemente mediante catéter venoso central).",
       "preparacion": {
-        "dilucion": "EXCLUSIVAMENTE en Dextrosa al 5% (Dx5%). No usar SF (precipita) [24]",
-        "compatibilidad_iv": "Dextrosa 5% [24]"
+        "dilucion": "EXCLUSIVAMENTE diluir en solución de Dextrosa al 5% (Dx5%); la solución fisiológica (cloruro de sodio) puede provocar precipitación.",
+        "compatibilidad_iv": "Compatible únicamente con solución de Dextrosa al 5%."
       },
-      "velocidad_infusion": "Carga: 150 mg en 10 min. Mantenimiento: 1 mg/min por 6h, luego 0.5 mg/min [24]",
-      "estabilidad_soluciones": "Preparar inmediatamente antes de usar [25]",
-      "concentracion": "50 mg/mL (ampolla)",
-      "alarma_riesgo": "Usar preferentemente catéter venoso central por riesgo de flebitis severa [24]",
+      "velocidad_infusion": "Dosis de carga IV en 10 a 20 minutos; mantenimiento inicial de 1 mg/min durante 6 horas, seguido de 0.5 mg/min durante las 18 horas restantes.",
+      "estabilidad_soluciones": "Preparar la dilución intravenosa inmediatamente antes de su administración y utilizar dentro de las 24 horas siguientes.",
+      "concentracion": "50 mg/ml (concentración de la solución inyectable original en ampolla).",
+      "alarma_riesgo": "Riesgo vital de colapso hemodinámico e hipotensión severa por infusión IV rápida, y de flebitis necrotizante grave por vía periférica.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "NUNCA diluir en Solución Fisiológica (usar siempre Dx5%)",
-          "Monitorización cardíaca continua durante la infusión",
-          "Vigilar la aparición de tos o disnea (toxicidad pulmonar)"
+          "NUNCA diluir la ampolla en Solución Fisiológica (utilizar siempre Dextrosa al 5% estricta para evitar precipitación).;",
+          "Administrar preferentemente a través de un catéter venoso central para prevenir flebitis tisular severa e irritación vascular.;",
+          "Mantener monitorización cardíaca continua y control estricto de la presión arterial durante toda la infusión intravenosa.;"
         ],
         "educacion_paciente": [
-          "Usar protector solar (riesgo de fotosensibilidad)",
-          "No suspender el tratamiento sin aviso",
-          "Informar cambios en el color de la piel o visión borrosa"
+          "Utilizar protectores solares de amplio espectro y evitar la exposición directa al sol por el riesgo alto de fotosensibilidad y coloración cutánea.;",
+          "Informar de inmediato si presenta tos seca persistente, dificultad para respirar o falta de aire (signos de toxicidad pulmonar).;",
+          "No suspender la medicación por cuenta propia y acudir a los controles oftalmológicos, de tiroides y cardíacos programados."
         ]
       }
     },
