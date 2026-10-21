@@ -23821,6 +23821,73 @@
           "Si está realizando tratamiento para la cisticercosis cerebral, avisar de inmediato ante dolor de cabeza fuerte, vómitos en proyectil o convulsiones."
         ]
       }
+    },
+    {
+      "id": "332",
+      "nombre_generico": "Permetrina",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Permetrina",
+        "clasificacion": "Ectoparasiticida, escabicida y pediculicida (piretroide sintético de tipo I)",
+        "efecto_terapeutica": "Parálisis neuromuscular y muerte de piojos, ácaros de la sarna y sus liendres o huevos",
+        "mecanismo_accion": "Interfiere con los canales de sodio dependientes de voltaje en las membranas de las células nerviosas de los artrópodos, ralentizando la repolarización y provocando una parálisis neuromuscular espástica masiva"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción percutánea sistémica mínima y casi insignificante (< 2% tras la aplicación tópica sobre piel sana)",
+        "distribucion": "Acción confinada a la epidermis y folículos pilosos",
+        "metabolismo": "La pequeña fracción absorbida se hidroliza rápidamente en la piel y el hígado mediante esterasas a metabolitos inactivos",
+        "eliminacion": "Excreción renal rápida de metabolitos con vida media sistémica de pocas horas"
+      },
+      "indicaciones": "Tratamiento de la escabiosis o sarna humana (Sarcoptes scabiei) mediante crema al 5% y tratamiento de la pediculosis de la cabeza (Pediculus humanus capitis) mediante loción o champú al 1%.",
+      "contraindicaciones": "Hipersensibilidad a la permetrina, a piretroides sintéticos o piretrinas; niños menores de 2 meses (para sarna) o menores de 6 meses (para pediculosis).",
+      "precauciones": "Riesgo de eritema, ardor transitorio y exacerbación del prurito; evitar el contacto directo con ojos, mucosas o heridas abiertas; asma o atopía.",
+      "advertencias": "Formulación para uso externo exclusivo. No ingerir ni aplicar en mucosas o fisuras profundas.",
+      "embarazo_lactancia": "Categoría B en el embarazo; considerado el tratamiento de elección para la sarna en gestantes tras evaluar beneficio. Excreción en leche insignificante; compatible.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "No se han descrito interacciones medicamentosas sistémicas clínicamente relevantes por vía tópica.",
+      "reacciones_adversas": "Prurito; sensación de ardor o quemazón cutánea; eritema; parestesias locales; sequedad de piel; dermatitis de contacto.",
+      "toxicidad_sobredosis": "Por vía tópica es prácticamente nula. La ingestión accidental masiva puede causar náuseas, vómitos, mareos, ataxia y convulsiones.",
+      "antidotos": "Tratamiento sintomático de soporte y lavado gástrico/carbón activado si se ingiere.",
+      "monitorizacion": {
+        "clinica": "Evolución del prurito, cicatrización de lesiones cutáneas, eritema local y ausencia de ectoparásitos vivos.",
+        "laboratorio": "No requiere controles de laboratorio."
+      },
+      "parametros_valoracion": {
+        "antes": "Inspeccionar la extensión de las lesiones cutáneas y descartar infección bacteriana secundaria masiva.",
+        "durante": "Supervisar la aplicación homogénea en todo el cuerpo (en escabiosis) o cuero cabelludo (en pediculosis).",
+        "despues": "Valorar la necesidad de repetir la aplicación a los 7-10 días."
+      },
+      "presentaciones": "Crema al 5%; loción/champú al 1% y 5%; emulsión dermatológica.",
+      "dosis": {
+        "adultos": "Escabiosis (Crema 5%): Aplicar en todo el cuerpo desde el cuello hasta las plantas de los pies, dejar actuar 8 a 14 horas y lavar; Pediculosis (Loción 1%): Aplicar en cabello húmedo, dejar actuar 10 minutos y enjuagar. Repetir ambos a los 7-10 días.",
+        "pediatrico": "Mayores de 2 meses en escabiosis (Crema 5%): incluir el cuero cabelludo y la cara (evitando ojos y boca).",
+        "geriatrico": "Misma pauta que en adultos; aplicar con cuidado en pliegues."
+      },
+      "vias_administracion": "Vía tópica exclusiva.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución ni dilución; se aplica directamente de la presentación comercial.",
+        "compatibilidad_iv": "TOTALMENTE INCOMPATIBLE PARA VÍA PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y el calor excesivo.",
+      "concentracion": "50 mg/g (5%) en crema para sarna; 10 mg/g (1%) en loción para pediculosis.",
+      "alarma_riesgo": "Reinfestación recurrente si no se trata a los convivientes o no se higieniza la ropa de cama.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Asegurar que la crema al 5% se aplique meticulosamente por toda la superficie corporal, incluyendo espacios interdigitales y debajo de las uñas.;",
+          "Controlar que el producto permanezca en la piel el tiempo indicado (8-14 horas) antes de lavar con agua tibia.;",
+          "Programar la segunda aplicación a los 7 a 10 días para eliminar los parásitos nacidos de liendres/huevos eclosionados.;"
+        ],
+        "educacion_paciente": [
+          "Tratar a todos los convivientes de la casa al mismo tiempo, aunque no tengan síntomas de picazón.;",
+          "Lavar toda la ropa de vestir, toallas y sábanas usadas en los últimos 3 días con agua caliente (a más de 60°C).;",
+          "Entender que el prurito (picazón) puede persistir varias semanas después de la cura completa por una reacción alérgica normal."
+        ]
+      }
     }
   ]
 }
