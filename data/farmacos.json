@@ -23687,6 +23687,73 @@
           "Mantener las uñas cortas y limpias y lavarse muy bien las manos antes de comer y tras ir al baño."
         ]
       }
+    },
+    {
+      "id": "330",
+      "nombre_generico": "Levamisol",
+      "letra": "L",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de levamisol",
+        "clasificacion": "Antihelmíntico / Antiparasitario sistémico e inmunomodulador (sintético derivado del imidazotiazol)",
+        "efecto_terapeutica": "Parálisis espástica de helmintos intestinales y restauración de la respuesta inmunitaria mediada por células en Linfocitos T y fagocitos",
+        "mecanismo_accion": "Actúa como un agonista ganglionar de los receptores nicotínicos de acetilcolina en los músculos del nematodo, induciendo una contracción muscular persistente con parálisis espástica y expulsión pasiva; como inmunomodulador estimula la diferenciación celular y fagocitosis"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción oral alcanzando concentraciones picas plasmáticas a las 1.5 a 2 horas",
+        "distribucion": "Amplia distribución en tejidos corporales; baja unión a proteínas plasmáticas (20 a 25%)",
+        "metabolismo": "Hepático extenso por hidrólisis y formación de metabolitos glucuronizados",
+        "eliminacion": "Excreción renal principal (70% de metabolitos) y fecal (5%) con una vida media de eliminación corta de 3 a 6 horas"
+      },
+      "indicaciones": "Tratamiento de la ascariasis (Ascaris lumbricoides), uncinariasis (Ancylostoma duodenale, Necator americanus) y como inmunomodulador/coadyuvante en el tratamiento del carcinoma colorrectal (en combinación con 5-fluorouracilo, uso en desuso).",
+      "contraindicaciones": "Hipersensibilidad al levamisol; agranulocitosis o antecedentes de neutropenia grave por fármacos; insuficiencia hepática o renal severa; embarazo y lactancia; enfermedad autoinmune activa.",
+      "precauciones": "Riesgo muy alto de agranulocitosis e inmunotrombocitopenia (reacción idiosincrásica potencialmente letal); vasculitis autoinmune; leucoencefalopatía desmielinizante; síndrome disulfiram con alcohol.",
+      "advertencias": "Debido al elevado riesgo de agranulocitosis y toxicidad neuro-autoinmune, su uso inmunomodulador ha sido retirado o severamente restringido en múltiples países.",
+      "embarazo_lactancia": "Categoría C en el embarazo; teratógeno en animales. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Usar con extrema precaución en insuficiencia renal.",
+        "hepatico": "Contraindicado o reducir dosis en insuficiencia hepática grave."
+      },
+      "interacciones": "Reacción tipo disulfiram (efecto antabusal) si se ingiere con alcohol; interacciona con anticoagulantes orales potenciando el sangrado; aumenta la toxicidad hematológica del 5-fluorouracilo o fenitoína.",
+      "reacciones_adversas": "Agranulocitosis (fiebre, ulceraciones bucales, infecciones severas); leucopenia; náuseas; vómitos; dolor abdominal; diarrea; cefalea; mareos; exantema cutáneo; leucoencefalopatía (confusión, ataxia, convulsiones); vasculitis.",
+      "toxicidad_sobredosis": "Efectos nicotínicos/colinérgicos agudos: convulsiones, hipotensión, bradicardia, mareos intensos y paro respiratorio.",
+      "antidotos": "Tratamiento de soporte y administración de atropina IV para revertir los síntomas colinérgicos/nicotínicos.",
+      "monitorizacion": {
+        "clinica": "Control de temperatura (descartar neutropenia febril), estado neurológico, mucosas bucales y síntomas digestivos.",
+        "laboratorio": "Hemograma completo con recuento absoluto de neutrófilos antes y después del tratamiento."
+      },
+      "parametros_valoracion": {
+        "antes": "Realizar hemograma con recuento de leucocitos previo al inicio del fármaco.",
+        "durante": "Monitorear la ingesta en dosis única.",
+        "despues": "Repetir el hemograma si el paciente refiere fiebre o dolor de garganta en las semanas posteriores."
+      },
+      "presentaciones": "Comprimidos de 150 mg; jarabe / solución oral (15 mg/5 ml y 40 mg/5 ml).",
+      "dosis": {
+        "adultos": "Ascariasis: 150 mg por vía oral en dosis única (toma única preferentemente por la noche). Repetir la dosis única a los 7 a 14 días si persiste la infección.",
+        "pediatrico": "Mayores de 1 año: 2.5 mg/kg por vía oral en dosis única.",
+        "geriatrico": "Usar con extrema precaución monitoreando el recuento leucocitario."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con agua tras las comidas.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "150 mg por comprimido.",
+      "alarma_riesgo": "Riesgo vital de agranulocitosis letal, reacción disulfiram con alcohol y leucoencefalopatía.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar un recuento de leucocitos y neutrófilos normales en el hemograma previo a la administración.;",
+          "Advertir enfáticamente al paciente que NO consuma alcohol durante el tratamiento y hasta 48 horas después.;",
+          "Suspender de inmediato y solicitar consulta urgente si el paciente presenta fiebre brusca o dolor de garganta.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis única indicada acompañada preferentemente de alimentos o agua por la noche.;",
+          "No beber bebidas alcohólicas durante el tratamiento para evitar sofocos, vómitos y taquicardia.;",
+          "Consultar inmediatamente si nota fiebre, llagas dolorosas en la boca o laringitis en los días posteriores."
+        ]
+      }
     }
   ]
 }
