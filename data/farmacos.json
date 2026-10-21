@@ -22950,6 +22950,73 @@
           "Mantener este medicamento estrictamente fuera del alcance de los niños por su elevada toxicidad en sobredosis."
         ]
       }
+    },
+    {
+      "id": "319",
+      "nombre_generico": "Hidroxicloroquina",
+      "letra": "H",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de hidroxicloroquina",
+        "clasificacion": "Inmunomodulador, antirreumático modificador de la enfermedad (FARME) y antimalárico (4-aminoquinolina)",
+        "efecto_terapeutica": "Reducción de la inflamación articular, control de los brotes en enfermedades autoinmunes y acción esquizonticida en malaria",
+        "mecanismo_accion": "Aumenta el pH intralisosómico en las células presentadoras de antígenos, bloqueando el procesamiento antigénico, la activación de los receptores tipo Toll (TLR 7 y 9) e inhibiendo la producción de citocinas inflamatorias (TNF-alfa, IL-1, IL-6)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa por vía oral con una biodisponibilidad del 70 al 80%",
+        "distribucion": "Extenso volumen de distribución con marcada fijación tisular (hígado, riñones, ojos, eritrocitos); unión a proteínas del 50%",
+        "metabolismo": "Hepático parcial a través de isoenzimas del citocromo P450 (CYP2D6, CYP3A4) a metabolitos activos como desetilhidroxicloroquina",
+        "eliminacion": "Excreción renal lenta de metabolitos y fármaco inalterado (40-50%) con una vida media de eliminación extremadamente prolongada (de 40 a 50 días)"
+      },
+      "indicaciones": "Tratamiento de la artritis reumatoide, lupus eritematoso sistémico y discoide, afecciones dermatológicas provocadas o agravadas por la luz solar y tratamiento/profilaxis de la malaria no complicada.",
+      "contraindicaciones": "Hipersensibilidad a la hidroxicloroquina o derivados de 4-aminoquinolina; maculopatía o retinopatía preexistente; miastenia gravis; menores de 6 años o peso < 35 kg (para comprimidos de 200 mg); embarazo y lactancia.",
+      "precauciones": "Riesgo de retinopatía bullseye (maculopatía irreversible en 'ojo de buey'); prolongación del intervalo QT y miocardiopatía restrictiva; hipoglucemia severa; toxicidad neuromuscular; deficiencia de G6PD (riesgo de hemólisis).",
+      "advertencias": "Se requiere un examen oftalmológico completo (fondo de ojo, campo visual 10-2 y OCT) basal y anual después de los 5 años de tratamiento.",
+      "embarazo_lactancia": "Categoría C en el embarazo; su uso en lupus mantiene el control materno y el beneficio suele superar el riesgo en la gestación. Pasa a la leche materna; compatible con monitoreo.",
+      "ajustes": {
+        "renal": "Reducir la dosis si el clearance de creatinina es < 30 ml/min debido a la menor excreción y mayor riesgo de toxicidad retiniana.",
+        "hepatico": "Usar con precaución en insuficiencia hepática grave."
+      },
+      "interacciones": "El uso simultáneo con digoxina aumenta los niveles de esta última; los antiácidos disminuyen su absorción oral (espaciar 2 horas); incrementa el riesgo de arritmias con fármacos que prolongan el QT; potencia la insulina e hipoglucemiantes.",
+      "reacciones_adversas": "Erupciones cutáneas; prurito; náuseas; vómitos; dolor abdominal; diarrea; cefalea; mareos; retinopatía e incrustaciones corneales; fotosensibilidad; despigmentación o caída del cabello; miopatía; mialgias.",
+      "toxicidad_sobredosis": "Toxicidad cardiovascular rápida y potencialmente mortal (prolongación del QRS/QT, bloqueos, paro cardíaco), convulsiones y colapso circulatorio.",
+      "antidotos": "Tratamiento de soporte sintomático de urgencia, Diazepam IV en altas dosis e inotrópicos (adrenalina).",
+      "monitorizacion": {
+        "clinica": "Examen oftalmológico periódico, control de presión arterial, signos de miopatía muscular (fuerza en miembros) y glucemia.",
+        "laboratorio": "Evaluación oftalmológica (OCT/Campo visual), hemograma completo, CPK (si hay debilidad) y función renal/hepática."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar el control oftalmológico basal completo dentro de los primeros meses de inicio del tratamiento.",
+        "durante": "Monitorear la dosis diaria calculada en función del peso corporal real (no superar 5 mg/kg/día para prevenir retinopatía).",
+        "despues": "Continuar con las revisiones oftalmológicas periódicas tras la suspensión."
+      },
+      "presentaciones": "Comprimidos recubiertos de 200 mg de sulfato de hidroxicloroquina (equivalentes a 155 mg de base).",
+      "dosis": {
+        "adultos": "Artritis / Lupus: 200 mg a 400 mg/día por vía oral (administrados en 1 o 2 tomas; dosis máxima de seguridad: ≤ 5 mg/kg/día de peso real); Malaria: 800 mg de inicio, seguidos de 400 mg a las 6, 24 y 48 horas.",
+        "pediatrico": "5 mg/kg/día de sulfato de hidroxicloroquina (máximo 400 mg/día) en niños mayores de 6 años o peso > 35 kg.",
+        "geriatrico": "Dosis ajustada al peso e insuficiencia renal, monitoreando la función visual."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con una comida o un vaso de leche.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "200 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de ceguedad o daño retiniano irreversible por dosis elevadas (> 5 mg/kg/día de peso real) o falta de controles oftalmológicos.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar los comprimidos con alimentos o leche para reducir las náuseas y el malestar gástrico.;",
+          "Verificar que la dosis diaria no supere los 5 mg/kg de peso corporal real para prevenir la toxicidad retiniana acumulativa.;",
+          "Comprobar que el paciente tenga al día las evaluaciones oftalmológicas anuales indicadas.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación siempre con las comidas o un vaso de leche para proteger el estómago.;",
+          "Consultar de forma urgente al oftalmólogo o médico si nota destellos, visión borrosa o dificultad para leer.;",
+          "Utilizar protector solar y ropa adecuada por el riesgo de sensibilidad en la piel tras la exposición al sol."
+        ]
+      }
     }
   ]
 }
