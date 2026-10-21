@@ -21900,6 +21900,73 @@
           "Ingerir caramelos sin azúcar o beber agua si presenta sequedad molesta en la boca."
         ]
       }
+    },
+    {
+      "id": "303",
+      "nombre_generico": "Famotidina",
+      "letra": "F",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Famotidina",
+        "clasificacion": "Antiulceroso, antagonista competitivo de los receptores de histamina H2",
+        "efecto_terapeutica": "Reducción potente de la secreción de ácido gástrico basal y estimulada y aumento del pH gástrico",
+        "mecanismo_accion": "Inhibe de forma competitiva y reversible los receptores H2 de histamina en la membrana basolateral de las células parietales gástricas, bloqueando la producción y secreción de ácido clorhídrico y pepsina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción incompleta por vía oral con biodisponibilidad del 40 al 45%; la vía IV otorga disponibilidad inmediata",
+        "distribucion": "Baja unión a proteínas plasmáticas (15-20%); atraviesa la placenta y pasa a la leche materna",
+        "metabolismo": "Metabolización hepática menor (30-35%) al metabolito inactivo famotidina S-óxido",
+        "eliminacion": "Excreción renal principal por filtración y secreción tubular (65-70% inalterado por vía IV, 25-30% por VO) con vida media de 2.5 a 4 horas"
+      },
+      "indicaciones": "Tratamiento de la úlcera gástrica y duodenal activa, profilaxis de úlceras por estrés o por AINE, enfermedad por reflujo gastroesofágico (ERGE), síndrome de Zollinger-Ellison y profilaxis de aspiración ácida pulmonar.",
+      "contraindicaciones": "Hipersensibilidad a la famotidina u otros antagonistas de receptores H2; embarazo y lactancia.",
+      "precauciones": "Riesgo de encefalopatía o confusión mental en insuficiencia renal grave; enmascaramiento de síntomas de cáncer gástrico; arritmias cardíacas por infusión IV rápida.",
+      "advertencias": "Se debe ajustar la dosis obligatoriamente según la función renal (clearance de creatinina) para prevenir neurotoxicidad.",
+      "embarazo_lactancia": "Categoría B en el embarazo; usar solo si el beneficio justifica el riesgo. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% o espaciar el intervalo a cada 36-48 horas si el clearance de creatinina es < 50 ml/min.",
+        "hepatico": "No requiere ajuste de dosis en insuficiencia leve a moderada."
+      },
+      "interacciones": "Reduce la absorción intestinal de ketoconazol, itraconazol, atazanavir y atazanavir por aumento del pH gástrico; los antiácidos pueden reducir su absorción oral (espaciar 1-2 horas).",
+      "reacciones_adversas": "Cefalea; mareos; estreñimiento; diarrea; erupción cutánea; astenia; ginecomastia (rara); bradicardia (IV rápida); confusión mental o alucinaciones (en fallo renal).",
+      "toxicidad_sobredosis": "Vómitos, agitación, somnolencia, hipotensión y taquicardia.",
+      "antidotos": "Tratamiento sintomático de soporte e inducción de hemodiálisis en disfunción renal.",
+      "monitorizacion": {
+        "clinica": "Control del dolor epigástrico, frecuencia cardíaca durante la infusión IV, función renal y estado de conciencia.",
+        "laboratorio": "Clearance de creatinina, urea, nitrógeno ureico y perfil hepático."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance) para adaptar la dosis e interrogar sobre dolor epigástrico.",
+        "durante": "Infundir por vía IV en no menos de 2 a 5 minutos (o infusión de 15-30 min).",
+        "despues": "Valorar el alivio de la pirosis o sangrado digestivo."
+      },
+      "presentaciones": "Comprimidos de 20 mg y 40 mg; frasco ampolla / ampolla inyectable de 20 mg/2 ml.",
+      "dosis": {
+        "adultos": "Oral: 40 mg una vez al día por la noche (o 20 mg dos veces al día); IV: 20 mg cada 12 horas en infusión o bolo lento.",
+        "pediatrico": "0.5 mg a 1 mg/kg/día dividido en 1 o 2 tomas (Máximo: 40 mg/día).",
+        "geriatrico": "Ajustar la dosis en función de la función renal basal por el riesgo de confusión."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Diluir los 20 mg (2 ml) en 5 a 10 ml de solución fisiológica para bolo lento, o en 50 ml a 100 ml para infusión IV corta.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
+      },
+      "velocidad_infusion": "Administrar por inyección IV directa lenta en un período no menor a 2 minutos o por infusión IV en 15 a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente tras su dilución.",
+      "concentracion": "10 mg/ml (concentración de la solución inyectable original).",
+      "alarma_riesgo": "Riesgo de bradicardia severa por inyección IV rápida y encefalopatía por acumulación renal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la dosis IV en no menos de 2 minutos por inyección directa o en 15-30 minutos para evitar bradicardias.;",
+          "Ajustar obligatoriamente la dosis al 50% si el clearance de creatinina es inferior a 50 ml/min.;",
+          "Vigilar la aparición de confusión o desorientación en pacientes ancianos o con fallo renal.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis oral única diaria preferentemente por la noche antes de acostarse.;",
+          "Espaciar las tomas de antiácidos al menos 2 horas antes o después de la famotidina.;",
+          "Informar si nota dolor de cabeza persistente, desorientación o falta de alivio en las molestias del estómago."
+        ]
+      }
     }
   ]
 }
