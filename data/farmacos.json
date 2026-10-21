@@ -19153,6 +19153,73 @@
           "Cumplir con los estudios ecocardiográficos periódicos programados por su médico."
         ]
       }
+    },
+    {
+      "id": "262",
+      "nombre_generico": "Pertuzumab",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Pertuzumab",
+        "clasificacion": "Antineoplásico, anticuerpo monoclonal humanizado IgG1 (inhibidor de la dimerización de HER2)",
+        "efecto_terapeutica": "Inhibidor complementario del crecimiento tumoral en cáncer de mama HER2 positivo",
+        "mecanismo_accion": "Se une de forma específica al dominio de dimerización (subdominio II) de la proteína HER2, bloqueando la heterodimerización con otros receptores de la familia HER (HER3, EGFR, HER4) e induciendo ADCC"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución confinado al espacio vascular y fluido extravascular",
+        "metabolismo": "Degradación proteica catabólica a pequeñas moléculas peptídicas",
+        "eliminacion": "Aclaramiento sistémico lento con vida media de eliminación aproximada de 18 días"
+      },
+      "indicaciones": "Cáncer de mama precoz (neoadyuvante y adyuvante) y metastásico con sobreexpresión de HER2 en combinación con trastuzumab y quimioterapia.",
+      "contraindicaciones": "Hipersensibilidad al pertuzumab o a sus excipientes; FEVI preexistente menor a 50%; embarazo y lactancia.",
+      "precauciones": "Riesgo de disfunción ventricular izquierda y falla cardíaca; reacciones relacionadas con la infusión; diarrea severa al combinarse con docetaxel/trastuzumab; neutropenia febril.",
+      "advertencias": "Se debe administrar conjuntamente con trastuzumab en vías separadas. Evaluar la FEVI basal y periódica.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de oligohidramnios, hipoplasia pulmonar y muerte fetal. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal leve o moderada.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Sinergismo terapéutico con trastuzumab y taxanos; potenciamiento del riesgo de cardiotoxicidad si se usan antraciclinas.",
+      "reacciones_adversas": "Diarrea (frecuente y grave); alopecia; neutropenia febril; náuseas; fatiga; exantema; neuropatía periférica; disminución de la FEVI; reacciones infusionales.",
+      "toxicidad_sobredosis": "Diarrea profusa, deshidratación y reacciones anafilactoides.",
+      "antidotos": "Tratamiento de soporte, rehidratación e interrupción de la infusión.",
+      "monitorizacion": {
+        "clinica": "Control del número de deposiciones diarias, estado cardiovascular, signos de infección y tolerancia a la infusión.",
+        "laboratorio": "Ecocardiograma o MUGA (FEVI) previo y cada 3 meses; hemograma completo."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la FEVI normal (≥ 50%) y confirmar que la sobreexpresión de HER2 esté validada.",
+        "durante": "Infundir en un lapso de 60 minutos (dosis de carga) o 30 minutos (mantenimiento) previa a la infusión de trastuzumab.",
+        "despues": "Instruir el manejo oportuno de la diarrea con loperamida."
+      },
+      "presentaciones": "Frasco ampolla de 420 mg/14 ml de solución concentrada para infusión (30 mg/ml).",
+      "dosis": {
+        "adultos": "Dosis de carga inicial: 840 mg IV administrados en 60 minutos; Dosis de mantenimiento: 420 mg IV cada 3 semanas administrados en 30 a 60 minutos.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual con atento seguimiento de la función cardíaca y digestiva."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis requerida en 250 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (incompatible con soluciones de dextrosa)."
+      },
+      "velocidad_infusion": "Administrar la dosis inicial en 60 minutos y las dosis posteriores en 30 a 60 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o bajo refrigeración (2°C - 8°C).",
+      "concentracion": "30 mg/ml (concentración del concentrado inyectable original).",
+      "alarma_riesgo": "Riesgo de oligohidramnios fetal mortal y disfunción cardíaca sintomática.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Diluir exclusivamente en bolsas de solución fisiológica de 250 ml.;",
+          "Administrar el pertuzumab ANTES que el trastuzumab en líneas intravenosas separadas.;",
+          "Evaluar la FEVI periódicamente y suspender ante caídas significativas de la función ventricular.;"
+        ],
+        "educacion_paciente": [
+          "Notificar al médico si presenta diarrea frecuente para iniciar medicamentos como la loperamida.;",
+          "Informar de inmediato ante fatiga extrema, falta de aire al caminar o hinchazón en las piernas.;",
+          "Avisar al personal de salud si siente sofocos, fiebre o mareos durante la inyección."
+        ]
+      }
     }
   ]
 }
