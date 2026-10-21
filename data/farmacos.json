@@ -21565,6 +21565,73 @@
           "Avisar de inmediato si siente náuseas persistentes, sed excesiva, estreñimiento severo o palpitaciones."
         ]
       }
+    },
+    {
+      "id": "298",
+      "nombre_generico": "Vitamina D",
+      "letra": "V",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Colecalciferol (Vitamina D3) / Ergocalciferol (Vitamina D2) / Calcifediol / Calcitriol",
+        "clasificacion": "Vitamina, hormona reguladora de la homeostasis fosfocálcica",
+        "efecto_terapeutica": "Aumento de la absorción intestinal de calcio y fosfato, facilitación de la mineralización ósea y prevención de la tetania e hiperparatiroidismo secundario",
+        "mecanismo_accion": "Su forma activa (calcitriol) se une a los receptores nucleares de vitamina D (VDR) en el enterocito e incrementa la síntesis de proteínas transportadoras de calcio (calbindina), aumentando la absorción de calcio y fósforo en el intestino y modulando la remodelación ósea"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción intestinal en el yeyuno e íleon que requiere la presencia de sales biliares y grasas dietéticas",
+        "distribucion": "Se une a la proteína fijadora de vitamina D (DBP); se almacena extensamente en el tejido adiposo y hepático",
+        "metabolismo": "Hidroxilación hepática por la enzima 25-hidroxilasa a calcifediol (25-OH-D3) y posterior activación renal por la 1-alfa-hidroxilasa a calcitriol (1,25-(OH)2-D3)",
+        "eliminacion": "Excreción biliar y fecal principal (> 95%) con un circuito enterohepático significativo; vida media plasmática de semanas"
+      },
+      "indicaciones": "Prevención y tratamiento de la deficiencia o insuficiencia de vitamina D, raquitismo, osteomalacia, hipocalcemia, coadyuvante en el tratamiento de la osteoporosis y en terapias antineoplásicas con inhibidores de la resorción ósea (bisfosfonatos, denosumab).",
+      "contraindicaciones": "Hipersensibilidad al principio activo; hipercalcemia; hipervitaminosis D; osteodistrofia renal con hiperfosfatemia; nefrolitiasis cálcica.",
+      "precauciones": "Riesgo de hipercalcemia e hipercalciuria por acumulación crónica; insuficiencia renal; arteriosclerosis o enfermedad cardíaca preexistente.",
+      "advertencias": "Margen terapéutico estrecho en la administración de formas activas (calcitriol); controlar periódicamente los niveles de calcio y fósforo.",
+      "embarazo_lactancia": "Categoría A/C en el embarazo; seguro a dosis fisiológicas recomendadas; evitar sobredosis por teratogenia. Compatible con la lactancia materna.",
+      "ajustes": {
+        "renal": "En insuficiencia renal grave utilizar las formas activas hidroxiladas (calcitriol o alfacalcidol) por falta de 1-alfa-hidroxilasa renal.",
+        "hepatico": "En insuficiencia hepática grave preferir calcifediol o calcitriol."
+      },
+      "interacciones": "Anticonvulsivantes inductores (fenitoína, carbamazepina) e hidrocortisona aceleran el catabolismo de la vitamina D; los secuestradores de ácidos biliares (colestiramina) y orlistat reducen su absorción intestinal; los diuréticos tiazídicos aumentan el riesgo de hipercalcemia.",
+      "reacciones_adversas": "Hipercalcemia (con náuseas, vómitos, anorexia, astenia, sequedad de boca, poliuria, polidipsia, estreñimiento); cefalea; somnolencia; calcificación de tejidos blandos; nefrolitiasis.",
+      "toxicidad_sobredosis": "Síndrome de hipercalcemia aguda o crónica, nefrocalcinosis y falla renal progresiva.",
+      "antidotos": "Suspender la vitamina D y el calcio, dieta baja en calcio, hidratación IV con solución fisiológica y corticosteroides.",
+      "monitorizacion": {
+        "clinica": "Control de síntomas de hipercalcemia (sed, poliuria, estreñimiento), presión arterial y función renal.",
+        "laboratorio": "Niveles séricos de 25-OH-vitamina D, calcio corregido, fósforo, creatinina y calciuria en orina de 24 horas."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar los niveles basales de 25-OH-vitamina D y calcio sérico.",
+        "durante": "Monitorear la adjetivación de las dosis según los controles de laboratorio.",
+        "despues": "Verificar la normalización de los depósitos corporales (niveles de 25-OH-D > 30 ng/ml)."
+      },
+      "presentaciones": "Gotas orales, solución bebible, cápsulas y comprimidos con concentraciones de 400 UI a 100.000 UI de Colecalciferol; cápsulas de Calcitriol de 0.25 mcg y 0.5 mcg.",
+      "dosis": {
+        "adultos": "Mantenimiento / Prevención: 800 UI a 2000 UI/día por vía oral (o dosis equivalentes semanales/mensuales de colecalciferol); Deficiencia: 50.000 UI semanales por 8 semanas.",
+        "pediatrico": "400 UI a 1000 UI/día por vía oral en la prevención o tratamiento según edad y peso.",
+        "geriatrico": "800 UI a 2000 UI/día con recomendación de controles de calcemia."
+      },
+      "vias_administracion": "Vía oral e intramuscular.",
+      "preparacion": {
+        "dilucion": "Las formas líquidas u orales se pueden administrar directas o mezcladas con alimentos o líquidos.",
+        "compatibilidad_iv": "No aplicable de rutina salvo ampollas para uso IM específico."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral/IM.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "Variable según la presentación (ej. 100.000 UI/ampolla bebible).",
+      "alarma_riesgo": "Riesgo de intoxicación crónica por vitamina D con hipercalcemia severa y fallo renal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar las presentaciones orales preferentemente junto con una comida que contenga grasas para favorecer la absorción.;",
+          "Comprobar el tipo de molécula prescrita (no confundir colecalciferol con calcitriol por diferencia de potencia).;",
+          "Monitorear periódicamente los niveles de calcio sérico y 25-OH-vitamina D.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis prescrita con las comidas principales para una correcta absorción.;",
+          "No duplicar ni tomar dosis suplementarias por cuenta propia por el riesgo de acumulación tóxica.;",
+          "Avisar de inmediato ante sed excesiva, necesidad frecuente de orinar, estreñimiento o náuseas persistentes."
+        ]
+      }
     }
   ]
 }
