@@ -20359,6 +20359,73 @@
           "No tomar productos que contengan estrógenos ni remedios naturales para la menopausia sin consultar."
         ]
       }
+    },
+    {
+      "id": "280",
+      "nombre_generico": "Goserelina",
+      "letra": "G",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Acetato de goserelina",
+        "clasificacion": "Antineoplásico, análogo sintético de la hormona liberadora de gonadotropinas (GnRH/LHRH)",
+        "efecto_terapeutica": "Castración médica reversible con supresión de la testosterona o estrógenos a niveles de castración",
+        "mecanismo_accion": "Su administración continua inhibe la secreción de la hormona luteinizante (LH) por la hipófisis tras un incremento inicial transitorio ('flare up'), provocando la caída de la testosterona en hombres y de estradiol en mujeres"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por implantación subcutánea de liberación sostenida en la pared abdominal",
+        "distribucion": "Baja unión a proteínas plasmáticas (25%); amplio volumen de distribución",
+        "metabolismo": "Aclaramiento por degradación peptídica enzimática no específica",
+        "eliminacion": "Excreción renal principal de metabolitos inactivos con una vida media de 4 horas (el depósito libera el principio activo durante 28 a 84 días)"
+      },
+      "indicaciones": "Cáncer de próstata avanzado o localmente avanzado sensible a hormonas, cáncer de mama pre/perimenopáusico sensible a hormonas, endometriosis y miomatosis uterina.",
+      "contraindicaciones": "Hipersensibilidad a la goserelina o análogos de la GnRH; embarazo y lactancia; compresión de la médula espinal no tratada previo al inicio en cáncer de próstata.",
+      "precauciones": "Fenómeno de exacerbación tumoral inicial ('flare up') en próstata (requiere antiandrógeno previo); reducción de la densidad mineral ósea; riesgo cardiovascular y diabetes; compresión medular o de vías urinarias.",
+      "advertencias": "Se deben administrar antiandrógenos (como bicalutamida) días antes y durante las primeras semanas en cáncer de próstata para prevenir el 'flare up'.",
+      "embarazo_lactancia": "Categoría X en el embarazo; produce daño fetal severo e infertilidad. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "La coadministración con medicamentos que prolongan el intervalo QT (como antiarrítmicos) exige precaución por el riesgo de arritmias por la deprivación androgénica.",
+      "reacciones_adversas": "Sofocos; sudoración; disfunción eréctil/disminución de la libido; dolor en el sitio de inyección; osteopenia; ginecomastia; sensibilidad mamaria; cambios de humor; aumento de peso.",
+      "toxicidad_sobredosis": "Baja toxicidad aguda por ser un depósito de liberación lenta; intensificación de los efectos hormonales.",
+      "antidotos": "Tratamiento de soporte sintomático.",
+      "monitorizacion": {
+        "clinica": "Control de los síntomas urinarios, síntomas de compresión medular al inicio, densidad mineral ósea y presión arterial.",
+        "laboratorio": "Niveles de antígeno prostático específico (PSA) y testosterona sérica en hombres; estradiol sérico en mujeres."
+      },
+      "parametros_valoracion": {
+        "antes": "Iniciar la administración de un antiandrógeno oral en cáncer de próstata días antes para prevenir la exacerbación de síntomas.",
+        "durante": "Aplicar mediante técnica aséptica en la pared abdominal anterior por encima de la línea del ombligo.",
+        "despues": "Valorar la caída del PSA o estradiol tras 4 semanas de la aplicación."
+      },
+      "presentaciones": "Jeringa prellenada con sistema de protección con implante subcutáneo de 3.6 mg (mensual) y 10.8 mg (trimestral).",
+      "dosis": {
+        "adultos": "3.6 mg SC cada 28 días o 10.8 mg SC cada 12 semanas (la presentación de 10.8 mg no está indicada en mujeres).",
+        "pediatrico": "Uso en pubertad precoz central bajo indicación endocrinológica específica.",
+        "geriatrico": "Dosis habitual sin ajuste por edad sola."
+      },
+      "vias_administracion": "Subcutánea profunda exclusiva en la pared abdominal anterior.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; viene listo para su aplicación como un cilindro sólido en jeringa especial de calibre grueso (calibre 16G).",
+        "compatibilidad_iv": "PROHIBIDA LA VÍA INTRAVENOSA O INTRAMUSCULAR."
+      },
+      "velocidad_infusion": "Inyección subcutánea directa del depósito.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente (por debajo de 25°C) en su empaque sellado original.",
+      "concentracion": "3.6 mg o 10.8 mg por depósito implantable.",
+      "alarma_riesgo": "Compresión medular o neumopatía obstructiva aguda inicial por 'flare up' sin profilaxis antiandrogénica en próstata.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Inyectar exclusivamente por vía subcutánea en la pared abdominal anterior inferior, por debajo de la línea del ombligo.;",
+          "Usar la técnica adecuada debido al grosor de la aguja (16G) y no intentar aspirar durante la punción.;",
+          "Confirmar que los pacientes con cáncer de próstata hayan recibido el antiandrógeno oral para prevenir la exacerbación inicial.;"
+        ],
+        "educacion_paciente": [
+          "Saber que el medicamento es una pequeña barrita que se coloca debajo de la piel de la panza cada 1 o 3 meses.;",
+          "En cáncer de próstata, tomar la pastilla previa indicada por el oncólogo para evitar el empeoramiento inicial del dolor.;",
+          "Avisar de inmediato ante falta de fuerza en las piernas, imposibilidad de orinar o dolor intenso de columna."
+        ]
+      }
     }
   ]
 }
