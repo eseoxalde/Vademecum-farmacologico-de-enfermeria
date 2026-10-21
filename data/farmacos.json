@@ -23285,6 +23285,73 @@
           "Evitar conducir vehículos o realizar tareas que requieran equilibrio por la posibilidad de mareos o vértigo."
         ]
       }
+    },
+    {
+      "id": "324",
+      "nombre_generico": "Atovacuona",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Atovacuona",
+        "clasificacion": "Antiprotozoario sistémico, antimalárico (naftoquinona)",
+        "efecto_terapeutica": "Acción rápida contra esquizontes sanguíneos y tisulares de Plasmodium y contra trofozoítos de Pneumocystis jirovecii",
+        "mecanismo_accion": "Inhibe selectivamente el complejo de citocromo bc1 (Complejo III) de la cadena de transporte de electrones mitocondrial del parásito, colapsando el potencial de membrana e inhibiendo la síntesis de ácidos nucleicos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral errática e hidrófoba; la biodisponibilidad se triplica si se administra junto con alimentos ricos en grasas",
+        "distribucion": "Muy alta unión a proteínas plasmáticas (> 99%); bajo volumen de distribución; baja penetración en el LCR",
+        "metabolismo": "No sufre metabolismo hepático apreciable en humanos",
+        "eliminacion": "Excreción fecal casi exclusiva (> 94% inalterado por la bilis y circuito enterohepático) con vida media de 60 a 70 horas"
+      },
+      "indicaciones": "Profilaxis y tratamiento de la malaria o paludismo no complicado por Plasmodium falciparum (combinado con proguanil) y tratamiento y prevención de la neumonía por Pneumocystis jirovecii (PCP) en pacientes intolerantes al cotrimoxazol.",
+      "contraindicaciones": "Hipersensibilidad a la atovacuona o a los componentes de la formulación; embarazo y lactancia.",
+      "precauciones": "Insuficiencia renal grave (si se usa en combinación con proguanil); diarrea o vómitos concomitantes (reducen la absorción); seguimiento estrecho en pacientes con malabsorción.",
+      "advertencias": "La ingesta con alimentos grasos es indispensable para garantizar concentraciones plasmáticas terapéuticas eficaces.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evaluar riesgo/beneficio. Contraindicada en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste por atovacuona aislada; en combinación con proguanil está contraindicado si ClCr < 30 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "La rifampicina, rifabutina y metoclopramida reducen significativamente sus concentraciones plasmáticas; las tetraciclinas reducen su biodisponibilidad.",
+      "reacciones_adversas": "Exantema cutáneo; prurito; náuseas; vómitos; diarrea; dolor abdominal; cefalea; insomnio; fiebre; elevación de transaminasas; hiponatremia.",
+      "toxicidad_sobredosis": "Baja toxicidad aguda sistémica; síntomas gastrointestinales y erupción cutánea.",
+      "antidotos": "Tratamiento de soporte sintomático.",
+      "monitorizacion": {
+        "clinica": "Respuesta clínica a la neumonía/malaria, tolerancia digestiva y presencia de erupciones en piel.",
+        "laboratorio": "Pruebas de función hepática, sodio sérico y hemograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la capacidad de tolerar la vía oral y la ingesta conjunta con alimentos.",
+        "durante": "Monitorear la ingesta estricta con comidas grasas (leche, queso, manteca).",
+        "despues": "Valorar la negatividad de parásitos o la resolución respiratoria."
+      },
+      "presentaciones": "Suspensión oral (750 mg/5 ml); comprimidos combinados con proguanil (250 mg atovacuona / 100 mg proguanil).",
+      "dosis": {
+        "adultos": "Pneumocystis jirovecii (Tratamiento): 750 mg VO cada 12 horas con alimentos durante 21 días; Malaria (Tratamiento combinado): 1000 mg (4 comp de asociación) una vez al día por 3 días.",
+        "pediatrico": "Pneumocystis: 30 a 40 mg/kg/día divididos en 2 tomas con comida en < 2 años; Malaria en > 11 kg: dosis ponderal combinada con proguanil.",
+        "geriatrico": "Dosis habitual observando la tolerancia digestiva."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "Agitar vigorosamente la suspensión oral antes de cada administración; los comprimidos se tragan enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz; la suspensión no se debe congelar.",
+      "concentracion": "150 mg/ml en suspensión oral.",
+      "alarma_riesgo": "Fallo terapéutico grave si se administra en ayunas por falta de absorción.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Garantizar que cada dosis se administre estrictamente con una comida rica en grasas o leche entera.;",
+          "Agitar muy bien la suspensión oral previa a la medición del volumen de dosis.;",
+          "Informar al médico si el paciente presenta diarrea o vómitos repetidos, ya que disminuyen la eficacia del tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis siempre durante o inmediatamente después de comer alimentos que contengan grasas (como lácteos o carnes).;",
+          "No suspender el tratamiento antes de tiempo aun cuando desaparezcan los síntomas.;",
+          "Notificar si presenta sarpullido en la piel, náuseas intensas o diarrea."
+        ]
+      }
     }
   ]
 }
