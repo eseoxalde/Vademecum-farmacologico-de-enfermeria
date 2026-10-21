@@ -19957,6 +19957,73 @@
           "Notificar cansancio extremo, cambios de humor, mareos o sensibilidad inusual al frío o al calor."
         ]
       }
+    },
+    {
+      "id": "274",
+      "nombre_generico": "Ipilimumab",
+      "letra": "I",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Ipilimumab",
+        "clasificacion": "Antineoplásico, anticuerpo monoclonal humano IgG1k anti-CTLA-4 (inhibidor de punto de control inmunitario)",
+        "efecto_terapeutica": "Potenciación de la respuesta inmunitaria antitumoral mediada por la activación de linfocitos T",
+        "mecanismo_accion": "Bloquea selectivamente la molécula CTLA-4, inhibiendo la señal negativa de inactivación de las células T y permitiendo la proliferación y activación contínua de linfocitos T citotóxicos dirigidos contra el tumor"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución reducido confinado principalmente al espacio vascular y fluido extravascular",
+        "metabolismo": "Degradación catabólica a pequeños péptidos y aminoácidos a través del sistema reticuloendotelial",
+        "eliminacion": "Aclaramiento sistémico lento con una vida media de eliminación aproximada de 15 días"
+      },
+      "indicaciones": "Melanoma avanzado o metastásico (en monoterapia o combinación con nivolumab), carcinoma de células renales, cáncer de pulmón no microcítico, mesotelioma pleural y cáncer colorrectal MSI-H/dMMR.",
+      "contraindicaciones": "Hipersensibilidad al ipilimumab o a sus excipientes; enfermedades autoinmunes graves activas no controladas; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de reacciones adversas inmunomediadas graves o mortales (enterocolitis/colitis, hepatitis, dermatitis con fotosensibilidad o Lyell, endocrinopatías y neuropatías); reacciones infusionales.",
+      "advertencias": "Las reacciones autoinmunes pueden afectar cualquier órgano y pueden surgir durante el tratamiento o semanas/meses después de suspenderlo. Requieren inicio oportuno de corticoides sistémicos.",
+      "embarazo_lactancia": "Categoría D en el embarazo; el IgG1 atraviesa la placenta provocando aborto o daño inmune fetal. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve o moderada; no estudiado en severa.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve; precaución en moderada a severa."
+      },
+      "interacciones": "El uso de inmunosupresores o corticoides a altas dosis antes de iniciar puede reducir su eficacia; evitar la administración simultánea de vacunas a virus vivos.",
+      "reacciones_adversas": "Enterocolitis/diarrea inmune; exantema cutáneo y prurito; hepatitis inmune (elevación de transaminasas); hipofisitis; tiroiditis; astenia; fatiga; náuseas; vómitos; disminución del apetito.",
+      "toxicidad_sobredosis": "Exacerbación severa de las reacciones adversas autoinmunes sistémicas.",
+      "antidotos": "Tratamiento de soporte e inmunosupresión con corticoides sistémicos a dosis altas (metilprednisolona/prednisona 1-2 mg/kg/día) o infliximab.",
+      "monitorizacion": {
+        "clinica": "Control riguroso de deposiciones (diarrea), función hepática, erupciones cutáneas, cefalea u holgazanería por endocrinopatías y función respiratoria.",
+        "laboratorio": "AST, ALT, bilirrubina total, TSH, T4 libre, ACTH, cortisol, glucemia, creatinina y electrólitos antes de cada dosis."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función hepática, tiroidea, corticoadrenal y digestiva basal y descartar antecedentes autoinmunes graves.",
+        "durante": "Monitorear la infusión IV continua en 30 a 90 minutos mediante filtro en línea de 0.2 a 1.2 micras.",
+        "despues": "Instruir al paciente sobre la detección inmediata de diarrea, dolor abdominal o fatiga inusual."
+      },
+      "presentaciones": "Frasco ampolla de 50 mg/10 ml y 200 mg/40 ml de solución concentrada (5 mg/ml).",
+      "dosis": {
+        "adultos": "Melanoma: 3 mg/kg IV cada 3 semanas por 4 dosis; Renal/CPNM (en combinación con nivolumab): 1 mg/kg IV cada 3 o 6 semanas.",
+        "pediatrico": "3 mg/kg IV cada 3 semanas en mayores de 12 años según indicación.",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste automático por edad."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Se puede administrar directo o diluir en solución fisiológica o dextrosa al 5% hasta una concentración de 1 mg/ml a 4 mg/ml.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (utilizar filtro de línea de 0.2 a 1.2 micras)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período de 30 a 90 minutos según la dosis.",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o bajo refrigeración (2°C - 8°C).",
+      "concentracion": "5 mg/ml (concentración de la solución concentrada original).",
+      "alarma_riesgo": "Riesgo de colitis autoinmune fulminante con perforación intestinal y hepatitis inmune grave.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir utilizando un sistema con filtro de línea estéril de baja unión a proteínas de 0.2 a 1.2 micras.;",
+          "Evaluar las pruebas de función hepática, renal y tiroidea antes de administrar cada ciclo.;",
+          "Interrogar activamente al paciente sobre el aumento de deposiciones o diarrea por el riesgo de colitis grave.;"
+        ],
+        "educacion_paciente": [
+          "Informar inmediatamente si presenta diarrea frecuente, dolor abdominal, deposiciones con moco o sangre.;",
+          "Avisar al médico de urgencia ante piel o párpados amarillos, orina oscura o hematomas inusuales.;",
+          "Notificar cansancio extremo, dolor de cabeza continuo, desmayos o visión borrosa."
+        ]
+      }
     }
   ]
 }
