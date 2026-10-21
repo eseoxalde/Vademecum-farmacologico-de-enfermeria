@@ -23754,6 +23754,73 @@
           "Consultar inmediatamente si nota fiebre, llagas dolorosas en la boca o laringitis en los días posteriores."
         ]
       }
+    },
+    {
+      "id": "331",
+      "nombre_generico": "Praziquantel",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Praziquantel",
+        "clasificacion": "Antihelmíntico / Antiparasitario sistémico, trematodocida y cestodocida (derivado de la pirazinoisoquinolina)",
+        "efecto_terapeutica": "Parálisis espástica y destrucción del tegumento de esquistosomas, duelas y tenias con su posterior eliminación o fagocitosis",
+        "mecanismo_accion": "Aumenta de forma rápida la permeabilidad de las membranas celulares del parásito a los iones calcio (Ca2+), provocando una contracción masiva e inmediata del músculo helmíntico, parálisis espástica y vacualización/desintegración del tegumento parasitario"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción oral (80 a 100%), sufriendo un intenso metabolismo de primer paso hepático (biodisponibilidad sistémica del 20%)",
+        "distribucion": "Amplia distribución en tejidos corporales; atraviesa la barrera hematoencefálica (penetra quistes del SNC); unión a proteínas del 80%",
+        "metabolismo": "Hepático de primer paso muy rápido a través de isoenzimas del CYP450 (CYP3A4 y CYP2C19) a metabolitos hidroxilados inactivos",
+        "eliminacion": "Excreción renal principal en forma de metabolitos (> 80% en 24 horas) con una vida media plasmática muy corta (1 a 1.5 horas)"
+      },
+      "indicaciones": "Tratamiento de la esquistosomiasis (Schistosoma mansoni, S. haematobium, S. japonicum), neurocisticercosis (forma larvaria de Taenia solium), teniasis (Taenia saginata, T. solium), e infecciones por duelas (Fasciola hepática - variable, Clonorchis sinensis, Paragonimus westermani).",
+      "contraindicaciones": "Hipersensibilidad al praziquantel; cisticercosis ocular (el desprendimiento e inflamación puede provocar ceguera irreparable); uso concomitante con inductores potentes del CYP3A4 (rifampicina); menores de 1 año; embarazo (primer trimestre).",
+      "precauciones": "Riesgo de reacción inflamatoria e hipertensión endocraneana aguda durante la lisis larvaria en neurocisticercosis (requiere coadministración obligatoria de corticosteroides); arritmias cardíacas; insuficiencia hepática.",
+      "advertencias": "En neurocisticercosis es obligatorio administrar dexametasona o prednisolona previa y concomitantemente para reducir el edema cerebral por muerte parasitaria.",
+      "embarazo_lactancia": "Categoría B en el embarazo; evaluar si el beneficio supera los riesgos. Pasa a la leche materna; suspender la lactancia el día del tratamiento y hasta 72 horas después.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis o espaciar tomas en insuficiencia hepática grave (cirrosis) debido a la menor depuración metabólica."
+      },
+      "interacciones": "La rifampicina reduce masivamente sus niveles plasmáticos (anula su efecto, combinación contraindicada); los dexametasona, cloroquina y anticonvulsivantes reducen sus concentraciones; los cimetidina y ketoconazol aumentan sus niveles.",
+      "reacciones_adversas": "Dolor abdominal; náuseas; vómitos; mareos; cefalea; somnolencia; fiebre; urticaria; erupción cutánea; en neurocisticercosis: convulsiones, signos de focalización, hipertensión endocraneana y meningismo.",
+      "toxicidad_sobredosis": "Efectos gastrointestinales agudos, sedación profunda y mareos intensos.",
+      "antidotos": "Tratamiento de soporte, laxantes de acción rápida y anticonvulsivantes si hay crisis.",
+      "monitorizacion": {
+        "clinica": "Monitoreo del estado neurológico (cefalea, convulsiones, signos focales), presión intracraneal y signos vitales.",
+        "laboratorio": "Tomografía axial computada (TAC) o Resonancia magnética cerebral en neurocisticercosis y pruebas de función hepática."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar cisticercosis ocular mediante examen oftalmológico y coadministrar corticoides si hay compromiso cerebral.",
+        "durante": "Administrar los comprimidos enteros sin masticar acompañados de agua y alimentos.",
+        "despues": "Valorar la resolución de los quistes o heces libres de proglótides."
+      },
+      "presentaciones": "Comprimidos recubiertos de 600 mg.",
+      "dosis": {
+        "adultos": "Esquistosomiasis: 40 a 60 mg/kg/día por vía oral divididos en 2 o 3 tomas en un solo día; Neurocisticercosis: 50 mg/kg/día divididos en 3 tomas al día (cada 8 horas) durante 10 a 14 días (con corticoide); Teniasis: 10 a 25 mg/kg en toma única.",
+        "pediatrico": "Mayores de 1 año: Misma pauta ponderal dividida en 3 tomas al día por los días indicados según el parásito.",
+        "geriatrico": "Dosis habitual observando la función hepática."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos deben tragarse enteros (son sumamente amargos) acompañados con abundante agua o alimentos.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "600 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de hipertensión endocraneana y convulsiones graves durante la lisis larvaria cerebral si no se usan corticoides.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Garantizar que en neurocisticercosis el paciente reciba previamente el corticoide prescrito (dexametasona) para evitar edema cerebral.;",
+          "Confirmar que el paciente no tenga cisticercosis ocular mediante fondo de ojo antes de administrar el esquema.;",
+          "Indicar al paciente tragar los comprimidos enteros con abundante líquido sin masticar para evitar náuseas por el sabor amargo.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos enteros con un vaso grande de agua durante o después de las comidas sin partir ni masticar.;",
+          "Evitar conducir o manejar herramientas el día del tratamiento por la presencia frecuente de mareos o somnolencia.;",
+          "Si está realizando tratamiento para la cisticercosis cerebral, avisar de inmediato ante dolor de cabeza fuerte, vómitos en proyectil o convulsiones."
+        ]
+      }
     }
   ]
 }
