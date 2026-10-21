@@ -23419,6 +23419,73 @@
           "Consultar de inmediato si días después de curarse nota palidez marcada, cansancio extremo u orina oscura."
         ]
       }
+    },
+    {
+      "id": "326",
+      "nombre_generico": "Proguanil",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de proguanil (cloroguanida)",
+        "clasificacion": "Antimalárico / Antipalúdico sistémico, esquizonticida tisular y sanguíneo (biguanida)",
+        "efecto_terapeutica": "Efecto profiláctico y curativo al inhibir la replicación de Plasmodium falciparum y formas hepáticas iniciales",
+        "mecanismo_accion": "Se metaboliza al metabolito activo cicloguanil, el cual inhibe de manera selectiva la enzima dihidrofolato reductasa-timidilato sintasa (DHFR) del parásito, bloqueando la síntesis de folatos y ADN"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción oral (biodisponibilidad cercana al 90%)",
+        "distribucion": "Baja unión a proteínas plasmáticas (75%); se acumula en eritrocitos",
+        "metabolismo": "Hepático mediante la isoenzima CYP2C19 a su metabolito activo triazínico cicloguanil y a 4-clorofenilbiguanida",
+        "eliminacion": "Excreción renal principal (50 a 60% como proguanil e inalterado) con vida media de 12 a 20 horas"
+      },
+      "indicaciones": "Profilaxis y tratamiento de la malaria o paludismo por Plasmodium falciparum no complicado, administrado exclusivamente en combinación fija con atovacuona o atelofina.",
+      "contraindicaciones": "Hipersensibilidad al clorhidrato de proguanil o sus componentes; insuficiencia renal grave (ClCr < 30 ml/min) cuando se administra en combinación con atovacuona; embarazo y lactancia.",
+      "precauciones": "Riesgo de estomatitis y ulceración bucal; precaución en metabolizadores lentos de la isoenzima CYP2C19; aumento de transaminasas.",
+      "advertencias": "No utilizar en monoterapia debido al rápido desarrollo de resistencia parasitaria.",
+      "embarazo_lactancia": "Categoría C en el embarazo; si se utiliza en la gestación debe suplementarse conjuntamente con ácido fólico. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "Contraindicado en combinación con atovacuona si el ClCr es < 30 ml/min; ajustar o espaciar dosis si se usa sólo.",
+        "hepatico": "Usar con precaución por metabolización hepática."
+      },
+      "interacciones": "Potencia el efecto de la warfarina u otros anticoagulantes orales (aumento del RIN); la metoclopramida y rifampicina reducen sus niveles.",
+      "reacciones_adversas": "Ulceraciones bucales; estomatitis; náuseas; vómitos; diarrea; dolor de estómago; erupción cutánea; alopecia transitoria; cefalea; anemia megaloblástica (en uso prolongado o falla renal).",
+      "toxicidad_sobredosis": "Hematuria, molestias epigástricas agudas, vómitos, diarrea y depresión de la médula ósea.",
+      "antidotos": "Tratamiento de soporte e ingesta de ácido folínico en caso de toxicidad hematológica.",
+      "monitorizacion": {
+        "clinica": "Inspección de la mucosa bucal (aftas/estomatitis), tolerancia gastrointestinal y valores de anticoagulación si toma warfarina.",
+        "laboratorio": "Hemograma completo, pruebas de función renal y RIN."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance) y verificar la administración en combinación con atovacuona.",
+        "durante": "Monitorear la ingesta diaria con alimentos a la misma hora.",
+        "despues": "Continuar la profilaxis durante 7 días después de salir de la zona endémica de malaria."
+      },
+      "presentaciones": "Comprimidos combinados de Atovacuona / Proguanil (250 mg / 100 mg para adultos; 62.5 mg / 25 mg para uso pediátrico).",
+      "dosis": {
+        "adultos": "Profilaxis de malaria (combinado): 1 comp de adulto (100 mg proguanil) al día, iniciando 1-2 días antes de entrar a la zona endémica, diariamente durante la estancia y 7 días tras la salida; Tratamiento: 4 comp (400 mg proguanil) juntos una vez al día por 3 días.",
+        "pediatrico": "Profilaxis: Dosis ponderal con comprimidos pediátricos (11 a 20 kg: 1 comp ped/día; 21 a 30 kg: 2 comp ped/día; 31 a 40 kg: 3 comp ped/día).",
+        "geriatrico": "Dosis habitual siempre que la función renal sea adecuada."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se tragan enteros con una bebida láctea o alimentos.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "100 mg de clorhidrato de proguanil por comprimido de adulto de la combinación.",
+      "alarma_riesgo": "Riesgo de sangrado por interacción con anticoagulantes e ineficacia por suspensión precoz.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Verificar que la administración en profilaxis se mantenga diariamente hasta cumplir los 7 días posteriores al regreso del viaje.;",
+          "Administrar los comprimidos siempre acompañados de alimentos o leche para prevenir las náuseas y estomatitis.;",
+          "Monitorear el RIN si el paciente recibe de forma concomitante antivitamina K (warfarina).;"
+        ],
+        "educacion_paciente": [
+          "Tomar el comprimido una vez al día a la misma hora con la comida o un vaso de leche.;",
+          "Continuar tomando el medicamento durante 7 días completos después de haber salido de la zona de malaria.;",
+          "Avisar al médico si presenta aftas molestas en la boca, vómitos o diarrea."
+        ]
+      }
     }
   ]
 }
