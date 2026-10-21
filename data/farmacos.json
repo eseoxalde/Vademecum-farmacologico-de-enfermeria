@@ -22146,6 +22146,73 @@
           "Acudir puntualmente a realizarse los análisis de sangre programados para medir el nivel del medicamento y la función del hígado."
         ]
       }
+    },
+    {
+      "id": "307",
+      "nombre_generico": "Dihidroestreptomicina",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de dihidroestreptomicina",
+        "clasificacion": "Antibacteriano sistémico, aminoglucósido (derivado hidrogenado de la estreptomicina)",
+        "efecto_terapeutica": "Bactericida de amplio espectro frente a bacilos gramnegativos y algunas micobacterias",
+        "mecanismo_accion": "Se une irreversiblemente a la subunidad 30S del ribosoma bacteriano, provocando la lectura errónea del ARN mensajero e inhibiendo la síntesis proteica de la bacteria"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral escasa e insignificante (efecto puramente intraluminal por VO); absorción rápida por vía intramuscular",
+        "distribucion": "Baja unión a proteínas plasmáticas; distribución predominante en el fluido extracelular; atraviesa la placenta",
+        "metabolismo": "No sufre metabolismo hepático",
+        "eliminacion": "Excreción renal casi exclusiva por filtración glomerular en forma inalterada con vida media de 2 a 3 horas"
+      },
+      "indicaciones": "Tratamiento de infecciones entéricas intraluminales (vía oral en combinaciones) e infecciones sistémicas graves causadas por bacterias gramnegativas sensibles o tuberculosis (uso actualmente muy limitado en humana).",
+      "contraindicaciones": "Hipersensibilidad a la dihidroestreptomicina u otros aminoglucósidos; miastenia gravis; perforación intestinal (si se usa VO); embarazo y lactancia.",
+      "precauciones": "Riesgo extremadamente alto de ototoxicidad irreversible (daño coclear y vestibular superior a la estreptomicina); nefrotoxicidad; bloqueo neuromuscular.",
+      "advertencias": "Su uso sistémico se ha desaconsejado o retirado en muchos países debido al elevado riesgo de sordera irreversible.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo muy elevado de sordera congénita irreversible en el feto. Contraindicada en la lactancia.",
+      "ajustes": {
+        "renal": "Reducir la dosis y/o espaciar el intervalo en insuficiencia renal; contraindicada si es grave.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Uso concomitante con otros fármacos ototóxicos o nefrotóxicos (furosemida, vancomicina, platinos) o bloqueantes neuromusculares potencia drásticamente la toxicidad.",
+      "reacciones_adversas": "Ototoxicidad coclear e hipoacusia irreversible; nefrotoxicidad (insuficiencia renal); bloqueo neuromuscular; parestesias circumorales; exantema cutáneo; náuseas; vómitos.",
+      "toxicidad_sobredosis": "Sordera profunda permanente, falla renal aguda y parálisis respiratoria neuromuscular.",
+      "antidotos": "Gluconato de calcio IV o neostigmina para el bloqueo neuromuscular; hemodiálisis para remover el fármaco.",
+      "monitorizacion": {
+        "clinica": "Audiometría, evaluación de la función vestibular (vértigo, acúfenos), diuresis y fuerza muscular.",
+        "laboratorio": "Urea, creatinina sérica, examen de orina y niveles plasmáticos del fármaco."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función auditiva y renal basal.",
+        "durante": "Monitorear la aparición de zumbidos de oídos, pérdida auditiva o disminución de la diuresis.",
+        "despues": "Realizar audiometría de control."
+      },
+      "presentaciones": "Solución o polvo inyectable IM (frecuentemente combinada con penicilinas en uso veterinario o formulaciones especiales) y comprimidos/suspensiones orales asociadas a antisépticos intestinales.",
+      "dosis": {
+        "adultos": "IM: 500 mg a 1000 mg cada 12 horas (según protocolos y disponibilidad); VO: 500 mg cada 6 a 8 horas para desinfección intestinal.",
+        "pediatrico": "Uso restringido; 10 a 20 mg/kg/día IM divididos en dos dosis bajo estricta indicación.",
+        "geriatrico": "Ajustar la dosis rigurosamente según el clearance de creatinina."
+      },
+      "vias_administracion": "Vía oral e intramuscular (PROHIBIDA LA VÍA IV DIRECTA BOLO).",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril o solución fisiológica para aplicación IM profunda.",
+        "compatibilidad_iv": "Formulación no recomendada para administración IV de rutina."
+      },
+      "velocidad_infusion": "Inyección IM profunda lenta.",
+      "estabilidad_soluciones": "Usar la solución reconstituida preferentemente de forma inmediata.",
+      "concentracion": "Variable según la presentación comercial.",
+      "alarma_riesgo": "Alto riesgo de sordera irreversible y nefrotoxicidad.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "No administrar por vía intravenosa rápida por riesgo de paro respiratorio y colapso cardiovascular.;",
+          "Controlar la diuresis horaria y la función renal antes de cada dosis.;",
+          "Suspender inmediatamente ante la presencia de acúfenos, mareos o disminución de la agudeza auditiva.;"
+        ],
+        "educacion_paciente": [
+          "Informar de inmediato si nota pitidos en los oídos, sensación de oído tapado o mareos.;",
+          "Notificar si observa una disminución en la cantidad de orina diaria.;",
+          "Cumplir estrictamente con la duración del tratamiento prescrito."
+        ]
+      }
     }
   ]
 }
