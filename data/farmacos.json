@@ -21766,6 +21766,73 @@
           "Avisar al médico si presenta somnolencia muy fuerte, mareos al caminar o cambios de humor."
         ]
       }
+    },
+    {
+      "id": "301",
+      "nombre_generico": "Pridinol",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Mesilato de pridinol",
+        "clasificacion": "Miorrelajante de acción central, anticolinérgico periférico y central",
+        "efecto_terapeutica": "Alivio del espasmo muscular doloroso y contractura del músculo esquelético",
+        "mecanismo_accion": "Inhibe la transmisión de reflejos polisinápticos y monosinápticos en la médula espinal y centros subcorticales mediante su acción anticolinérgica central, reduciendo el tono muscular y el espasmo sin abolir la fuerza muscular de manera directa"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción gastrointestinal tras su administración oral; por vía IM se absorbe de forma inmediata",
+        "distribucion": "Se distribuye ampliamente en los tejidos y atraviesa la barrera hematoencefálica",
+        "metabolismo": "Hepático extenso con formación de metabolitos glucuronizados inactivos",
+        "eliminacion": "Excreción renal principal (30-40% inalterado) y biliar/fecal con vida media de 10 a 12 horas"
+      },
+      "indicaciones": "Tratamiento sintomático de espasmos musculares dolorosos, contracturas musculares secundarias a patología osteoarticular (lumbalgia, cervicalgia, artrosis), contracturas secundarias a procesos traumáticos y distonías musculares.",
+      "contraindicaciones": "Hipersensibilidad al pridinol; glaucoma de ángulo cerrado; hipertrofia prostática con retención urinaria; obstrucción gastrointestinal o íleo paralítico; taquiarritmias; miastenia gravis; embarazo y lactancia.",
+      "precauciones": "Efectos atropínicos/anticolinérgicos (sequedad de boca, visión borrosa, taquicardia, estreñimiento); precaución en ancianos por confusión mental o alucinaciones.",
+      "advertencias": "Puede disminuir la capacidad de reacción para conducir vehículos o manejar maquinaria.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evitar su uso durante el primer trimestre. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Usar con precaución en insuficiencia renal grave.",
+        "hepatico": "Usar con precaución en insuficiencia hepática grave."
+      },
+      "interacciones": "Potencia los efectos anticolinérgicos de otros fármacos (antihistamínicos, antidepresivos tricíclicos, antipsicóticos, amantadina); disminuye el efecto de agentes procinéticos (metoclopramida).",
+      "reacciones_adversas": "Sequedad de boca; visión borrosa; trastornos de la acomodación visual; taquicardia; palpitaciones; estreñimiento; retención urinaria; mareos; astenia; hipotensión.",
+      "toxicidad_sobredosis": "Síndrome anticolinérgico agudo (midriasis, piel seca y caliente, taquicardia, retención urinaria, agitación, alucinaciones y delirio).",
+      "antidotos": "Salicilato de fisostigmina por vía IV e hidratación de soporte.",
+      "monitorizacion": {
+        "clinica": "Control de la frecuencia cardíaca, visión, micción, motilidad intestinal y nivel de alerta.",
+        "laboratorio": "No requiere exámenes de laboratorio específicos de rutina."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar antecedentes de glaucoma, retención urinaria o taquicardias.",
+        "durante": "Monitorear el alivio de la contractura muscular y la presencia de sequedad de boca.",
+        "despues": "Valorar la recuperación de la movilidad muscular."
+      },
+      "presentaciones": "Comprimidos de 4 mg; ampolla inyectable de 2.2 mg/2 ml (a menudo combinado con diclofenac).",
+      "dosis": {
+        "adultos": "4 mg por vía oral 2 a 3 veces al día (después de las comidas); o 2.2 mg IM una a dos veces al día.",
+        "pediatrico": "Uso no recomendado en niños menores de 12 años.",
+        "geriatrico": "Reducir la dosis a la mitad por mayor susceptibilidad a efectos anticolinérgicos y confusión."
+      },
+      "vias_administracion": "Vía oral e intramuscular.",
+      "preparacion": {
+        "dilucion": "La ampolla se inyecta directamente por vía IM profunda.",
+        "compatibilidad_iv": "NO ADMINISTRAR POR VÍA IV DIRECTA SALVO PRESENTACIÓN O MEZCLA ESPECÍFICA AUTORIZADA."
+      },
+      "velocidad_infusion": "Inyección IM lenta.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "4 mg por comprimido o 1.1 mg/ml en ampolla.",
+      "alarma_riesgo": "Riesgo de síndrome anticolinérgico agudo y retención urinaria aguda en ancianos con prostatismo.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar que el paciente no tenga antecedentes de glaucoma no tratado o retención urinaria.;",
+          "Administrar los comprimidos después de las comidas para mitigar las molestias gástricas.;",
+          "Vigilar la frecuencia cardíaca por riesgo de taquicardia secundaria a su acción anticolinérgica.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los comprimidos con agua después de ingerir alimentos.;",
+          "Evitar conducir vehículos o realizar tareas de precisión si nota visión borrosa o mareos.;",
+          "Avisar si presenta imposibilidad para orinar, taquicardia o sequedad extrema de la boca."
+        ]
+      }
     }
   ]
 }
