@@ -21364,6 +21364,73 @@
           "Informar si presenta fiebre, dolores musculares, adormecimiento alrededor de la boca o dolor en la mandíbula."
         ]
       }
+    },
+    {
+      "id": "295",
+      "nombre_generico": "Pamidronato",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Pamidronato disódico",
+        "clasificacion": "Inhibidor de la resorción ósea, bisfosfonato nitrogenado de segunda generación",
+        "efecto_terapeutica": "Disminución de la destrucción ósea osteoclástica y reducción del dolor y fracturas en afecciones tumorales",
+        "mecanismo_accion": "Se une con fuerza a los cristales de hidroxiapatita del hueso e inhibe la proliferación y actividad directa de los osteoclastos, disminuyendo la resorción ósea excesiva"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Alta fijación y retención tisular en el esqueleto (50%); no se une significativamente a proteínas plasmáticas",
+        "metabolismo": "No se metaboliza en el organismo humano",
+        "eliminacion": "Excreción renal por filtración en forma inalterada con una vida media de eliminación en hueso prolongada"
+      },
+      "indicaciones": "Tratamiento de la hipercalcemia inducida por tumores, lesiones osteolíticas en el mieloma múltiple y metástasis óseas osteolíticas en el cáncer de mama.",
+      "contraindicaciones": "Hipersensibilidad al pamidronato u otros bisfosfonatos; insuficiencia renal severa; embarazo y lactancia.",
+      "precauciones": "Riesgo de nefrotoxicidad e insuficiencia renal por infusiones rápidas; osteonecrosis de la mandíbula (ONM); hipocalcemia; reacciones pseudogripales tempranas (fiebre, mialgias).",
+      "advertencias": "La duración de la infusión nunca debe ser inferior a 2 horas para proteger la función renal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; se deposita en los huesos fetales. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la velocidad de infusión o la dosis si el clearance de creatinina es de 30 a 60 ml/min; no recomendado si es < 30 ml/min.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Aumento del riesgo de hipocalcemia severa con aminoglucósidos; potenciamiento de nefrotoxicidad con otros agentes nefrotóxicos.",
+      "reacciones_adversas": "Fiebre y síntomas pseudogripales; hipocalcemia; hipofosfatemia; hipomagnesemia; aumento de creatinina sérica; anemia; osteonecrosis mandibular; tromboflebitis local.",
+      "toxicidad_sobredosis": "Hipocalcemia aguda severa (tetania, convulsiones), hipotensión y falla renal aguda.",
+      "antidotos": "Gluconato de calcio IV e hidratación parenteral continua.",
+      "monitorizacion": {
+        "clinica": "Control de creatinina sérica, diuresis, temperatura corporal, examen de cavidad oral y signos de tetania.",
+        "laboratorio": "Creatinina sérica, urea, calcio corregido, fósforo, magnesio, potasio y hemograma completo previo."
+      },
+      "parametros_valoracion": {
+        "antes": "Garantizar la correcta hidratación del paciente y verificar que la creatinina sérica esté en rangos aceptables.",
+        "durante": "Monitorear la infusión IV lenta de 2 a 4 horas de duración.",
+        "despues": "Suministrar suplementos diarios de calcio y vitamina D si está indicado."
+      },
+      "presentaciones": "Frasco ampolla de 30 mg, 60 mg y 90 mg de polvo liofilizado o solución concentrada.",
+      "dosis": {
+        "adultos": "Metástasis óseas/Mieloma: 90 mg IV administrados en infusión de 2 a 4 horas cada 3 a 4 semanas; Hipercalcemia tumoral: 30 mg a 90 mg IV en infusión única según los niveles de calcio iniciales.",
+        "pediatrico": "Uso en osteogénesis imperfecta o displasias bajo esquemas pediátricos especializados (0.5 a 1 mg/kg).",
+        "geriatrico": "Dosis habitual ajustando la velocidad de infusión según la función renal."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir con agua estéril y diluir los 90 mg en 500 ml de solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (INCOMPATIBLE con soluciones que contengan calcio como Ringer Lactato)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV lenta en un período de NO MENOS de 2 a 4 horas (velocidad máxima: 60 mg/hora).",
+      "estabilidad_soluciones": "Estable durante 24 horas a temperatura ambiente o bajo refrigeración (2°C - 8°C).",
+      "concentracion": "0.18 mg/ml (concentración tras la dilución de 90 mg en 500 ml).",
+      "alarma_riesgo": "Riesgo de colapso renal por infusión rápida e inyección accidental con soluciones ricas en calcio.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir diluido en 500 ml en un tiempo nunca menor a 2 a 4 horas para proteger los riñones.;",
+          "No diluir ni administrar por la misma vía con soluciones que contengan calcio (Ringer Lactato).;",
+          "Garantizar que el paciente esté bien hidratado mediante diuresis adecuada antes de la infusión.;"
+        ],
+        "educacion_paciente": [
+          "Consultar al dentista antes de comenzar el tratamiento e informar si presenta molestias en las encías o mandíbula.;",
+          "Saber que es normal presentar un cuadro leve de fiebre o cansancio similar a un estado gripal tras la aplicación.;",
+          "Avisar al médico ante calambres en las manos, hormigueo en la boca o disminución en la cantidad de orina."
+        ]
+      }
     }
   ]
 }
