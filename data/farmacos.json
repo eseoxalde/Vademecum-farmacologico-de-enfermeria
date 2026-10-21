@@ -24223,6 +24223,73 @@
           "Tratar a todos los convivientes al mismo tiempo y lavar ropa y sábanas con agua muy caliente."
         ]
       }
+    },
+    {
+      "id": "338",
+      "nombre_generico": "Dimeticona (como pediculicida)",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Dimeticona (polímero sintético de silicona)",
+        "clasificacion": "Pediculicida físico / Ectoparasiticida no químico (silicona de alta viscosidad)",
+        "efecto_terapeutica": "Inmovilización, asfixia y deshidratación de piojos y liendres sin inducción de resistencia química",
+        "mecanismo_accion": "Mecanismo puramente físico: penetra profundamente en el sistema respiratorio (espiráculos) del piojo y de las ninfas, recubriéndolos por completo y bloqueando el intercambio de gases, lo que provoca la muerte del parásito por asfixia y colapso de sus órganos por deshidratación"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción cutánea nula (0%); no se absorbe a través de la piel o el cuero cabelludo",
+        "distribucion": "Acción física externa y confinada exclusivamente a la superficie del cabello y cuero cabelludo",
+        "metabolismo": "No sufre metabolización en el organismo humano",
+        "eliminacion": "Se elimina por completo durante el lavado mecánico del cabello con agua y champú habitual"
+      },
+      "indicaciones": "Tratamiento de la pediculosis del cuero cabelludo (Pediculus humanus capitis) en adultos y niños, especialmente indicada en casos de resistencia a los piretroides o en pieles sensibles.",
+      "contraindicaciones": "Hipersensibilidad a la dimeticona o a los componentes de la formulación; niños menores de 6 meses o 1 año (según fabricante).",
+      "precauciones": "Irritación ocular en caso de contacto accidental; riesgo de resbalamiento por salpicaduras de la silicona en el suelo durante su aplicación.",
+      "advertencias": "Producto exclusivamente de uso externo. Altamente inflamable mientras el cabello se encuentre húmedo por la loción; mantener alejado de llamas directas o cigarrillos.",
+      "embarazo_lactancia": "Categoría A (seguro); al no absorberse sistémicamente es el tratamiento de elección durante el embarazo y la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "No presenta interacciones farmacológicas con otros medicamentos debido a su mecanismo de acción físico y nula absorción.",
+      "reacciones_adversas": "Irritación cutánea leve; sequedad o descamación del cuero cabelludo; irritación ocular transitoria.",
+      "toxicidad_sobredosis": "Nula por vía tópica. En ingesta accidental puede causar diarrea leve o malestar gastrointestinal sin toxicidad sistémica.",
+      "antidotos": "Tratamiento sintomático y lavado con champú o jabón.",
+      "monitorizacion": {
+        "clinica": "Revisión del cuero cabelludo y constatación de la erradicación de piojos y liendres.",
+        "laboratorio": "No requiere análisis de laboratorio."
+      },
+      "parametros_valoracion": {
+        "antes": "Comprobar la presencia de piojos vivos o liendres en la cabeza del paciente.",
+        "durante": "Aplicar la loción asegurando que cubra todo el cabello desde la raíz hasta las puntas.",
+        "despues": "Pasar el peine fino y lavar con champú después del tiempo de espera pautado."
+      },
+      "presentaciones": "Loción o spray al 4% a 92% de dimeticona (sola o asociada a ciclometicona).",
+      "dosis": {
+        "adultos": "Aplicar la loción suficiente sobre el cabello seco impregnando la totalidad del cuero cabelludo, dejar actuar durante 8 horas (o 15-30 minutos según la fórmula concentrada de alta viscosidad) y retirar lavando con champú. Repetir obligatoriamente a los 7 días.",
+        "pediatrico": "Mayores de 6-12 meses: misma pauta de aplicación, asegurando la protección de los ojos.",
+        "geriatrico": "Misma pauta recomendada en adultos."
+      },
+      "vias_administracion": "Vía tópica exclusiva.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; lista para su aplicación directamente sobre el cabello.",
+        "compatibilidad_iv": "TOTALMENTE PROHIBIDA SU ADMINISTRACIÓN PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida del fuego o fuentes de calor.",
+      "concentracion": "40 mg/ml (4%) a 920 mg/ml (92%) según la formulación farmacéutica.",
+      "alarma_riesgo": "Riesgo de inflamación del cabello si se acerca a velas, cigarrillos o fuego durante la aplicación.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Aplicar el producto sobre el cabello completamente seco impregnando desde la raíz hasta las puntas.;",
+          "Evitar el uso de secadores de pelo o la cercanía a fuentes de fuego durante el tiempo de espera por riesgo de inflamabilidad.;",
+          "Pasar la liendrera meticulosamente antes de lavar el cabello para retirar los piojos asfixiados.;"
+        ],
+        "educacion_paciente": [
+          "No fumar ni acercarse a velas, estufas o fuego mientras tenga la loción en la cabeza.;",
+          "Dejar actuar el tiempo exacto indicado en el envase antes de lavar el pelo con champú habitual.;",
+          "Repetir la aplicación completa a los 7 días para asegurar la eliminación de ninfas recién eclosionadas."
+        ]
+      }
     }
   ]
 }
