@@ -19019,6 +19019,73 @@
           "Notificar al personal de salud si siente dolor, quemazón o inflamación en la vena durante la infusión."
         ]
       }
+    },
+    {
+      "id": "260",
+      "nombre_generico": "Cetuximab",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Cetuximab",
+        "clasificacion": "Antineoplásico, anticuerpo monoclonal quimérico IgG1 anti-EGFR",
+        "efecto_terapeutica": "Inhibidor de la proliferación celular e inductor de apoptosis e inmunidad mediada por células en tumores EGFR positivos",
+        "mecanismo_accion": "Se une de forma específica al dominio extracelular del receptor del factor de crecimiento epidérmico (EGFR), bloqueando la unión de ligandos, la fosforilación del receptor y las vías de señalización intracelular downstream (como KRAS/NRAS)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución confinado principalmente al espacio vascular y fluido intersticial",
+        "metabolismo": "Degradación endógena a aminoácidos pequeños a través de vías catabólicas del sistema reticuloendotelial",
+        "eliminacion": "Depuración saturable por unión a receptores y vía reticuloendotelial con vida media de 70 a 100 horas"
+      },
+      "indicaciones": "Cáncer colorrectal metastásico EGFR positivo con gen KRAS/NRAS de tipo nativo (wild-type) y carcinoma escamoso de cabeza y cuello (asociado a radioterapia o quimioterapia).",
+      "contraindicaciones": "Hipersensibilidad grave al cetuximab o a proteínas murinas; presencia de mutaciones en los codones de KRAS o NRAS en cáncer colorrectal; embarazo y lactancia.",
+      "precauciones": "Riesgo de reacciones graves relacionadas con la infusión (anafilaxia, broncoespasmo); toxicidad dermatológica severa (exantema acneiforme, paroniquia); hipomagnesemia grave.",
+      "advertencias": "Es obligatoria la premedicación con un antihistamínico H1 e inspeccionar el estado del gen KRAS/NRAS antes de iniciar el tratamiento.",
+      "embarazo_lactancia": "Categoría C en el embarazo; el IgG1 atraviesa la placenta. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajustes de dosis.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "El uso combinado con oxaliplatino o irinotecán en pacientes con tumores KRAS mutados empeora la supervivencia libre de progresión.",
+      "reacciones_adversas": "Reacciones cutáneas acneiformes (frecuentes); hipomagnesemia; reacciones asociadas a la infusión (fiebre, escalofríos, anafilaxia); paroniquia; cambios ungueales; sequedad cutánea; conjuntivitis; astenia.",
+      "toxicidad_sobredosis": "Exacerbación grave de la erupción cutánea y reacciones anafilactoides.",
+      "antidotos": "Tratamiento de soporte, antihistamínicos, corticoides e interrupción de la infusión en anafilaxia.",
+      "monitorizacion": {
+        "clinica": "Control estricto durante la infusión y hasta 1 hora posterior por reacciones alérgicas, evaluación del estado cutáneo y ungueal.",
+        "laboratorio": "Magnesio, calcio y potasio séricos basales y periódicos hasta 8 semanas post-tratamiento; estado mutacional de KRAS/NRAS."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la premedicación con antihistamínicos H1 (como difenidramina) e inspeccionar el informe genético de estado nativo de RAS.",
+        "durante": "Monitorear la infusión IV lenta (120 min en carga, 60 min de mantenimiento) usando un filtro en línea de 0.22 micras.",
+        "despues": "Valorar la tolerancia cutánea y prescribir cremas hidratantes/antibióticos tópicos de ser necesario."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg/20 ml y 500 mg/100 ml de solución para infusión (5 mg/ml).",
+      "dosis": {
+        "adultos": "Dosis de carga inicial: 400 mg/m² IV administrada en 120 minutos; Dosis semanal de mantenimiento: 250 mg/m² IV en 60 minutos (o 500 mg/m² cada 2 semanas).",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual no requiriendo ajuste por la edad sola."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Se administra sin diluir o diluido exclusivamente en solución fisiológica mediante bomba de infusión.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (utilizar filtro en línea de 0.22 micras)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en 120 minutos para la dosis de carga inicial y en 60 minutos para las dosis posteriores (velocidad máxima: 10 mg/min).",
+      "estabilidad_soluciones": "Estable durante 20 horas a temperatura ambiente o 48 horas bajo refrigeración (2°C - 8°C).",
+      "concentracion": "5 mg/ml (concentración de la solución original).",
+      "alarma_riesgo": "Riesgo de anafilaxia grave durante la infusión e hipomagnesemia severa no sintomática inicial.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar premedicación con un antihistamínico H1 intravenoso u oral 30 a 60 minutos antes de cada infusión.;",
+          "Utilizar un sistema de infusión con filtro en línea de 0.22 micras y controlar los signos vitales continuamente.;",
+          "Monitorear los niveles de magnesio y calcio séricos antes y durante el tratamiento de forma regular.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato durante la inyección si siente escalofríos, fiebre, dificultad para respirar, mareo o ronchas.;",
+          "Usar protector solar, sombreros y cremas humectantes para mitigar las erupciones en cara y tórax.;",
+          "Informar si nota inflamación dolorosa alrededor de las uñas o sequedad extrema en la piel."
+        ]
+      }
     }
   ]
 }
