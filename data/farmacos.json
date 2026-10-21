@@ -19622,6 +19622,73 @@
           "Avisar de inmediato ante dolor de pecho, mareos por presión alta, enrojecimiento doloroso en manos o dolor abdominal agudo."
         ]
       }
+    },
+    {
+      "id": "269",
+      "nombre_generico": "Sunitinib",
+      "letra": "S",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Malato de sunitinib",
+        "clasificacion": "Antineoplásico, inhibidor multiquinasa oral de receptores tirosina quinasa",
+        "efecto_terapeutica": "Inhibidor potente de la angiogénesis tumoral y la proliferación de células neoplásicas",
+        "mecanismo_accion": "Bloquea selectivamente los receptores del factor de crecimiento endotelial vascular (VEGFR-1, VEGFR-2, VEGFR-3), los receptores del factor de crecimiento derivado de plaquetas (PDGFR-alpha, PDGFR-beta), c-KIT, FLT-3 y RET"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral no afectada por los alimentos; concentraciones máximas a las 6-12 horas",
+        "distribucion": "Extensa unión a proteínas plasmáticas (95% sunitinib, 90% el metabolito activo); amplio volumen de distribución",
+        "metabolismo": "Hepático por la isoenzima CYP3A4 generando su principal metabolito activo N-desetilado",
+        "eliminacion": "Excreción fecal principal (61%) y renal (16%) con vida media combinada de 80 a 110 horas"
+      },
+      "indicaciones": "Carcinoma de células renales (CCR) avanzado o metastásico, tumores del estroma gastrointestinal (GIST) tras fracaso o intolerancia a imatinib y tumores neuroendócrinos pancreáticos (pNET) no resecables.",
+      "contraindicaciones": "Hipersensibilidad al sunitinib o sus excipientes; embarazo y lactancia.",
+      "precauciones": "Riesgo de disfunción cardíaca (caída de la FEVI, insuficiencia cardíaca); hipertensión arterial; hepatotoxicidad grave; disfunción tiroidea (hipotiroidismo); osteonecrosis de la mandíbula; microangiopatía trombótica.",
+      "advertencias": "Puede alterar la coloración de la piel (pigmentación amarillenta inofensiva) y decolorar el cabello.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de toxicidad y malformaciones fetales. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal leve a severa o en hemodiálisis.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada (Child-Pugh A y B); no estudiado en severa."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 (ketoconazol, claritromicina) elevan las concentraciones plasmáticas exigiendo reducir la dosis; los inductores (rifampicina, hierba de San Juan) reducen su eficacia.",
+      "reacciones_adversas": "Fatiga; hipertensión arterial; diarrea; náuseas; estomatitis; disgeusia; síndrome mano-pie; decoloración de la piel/cabello; neutropenia; trombocitopenia; hipotiroidismo.",
+      "toxicidad_sobredosis": "Mielosupresión, falla cardíaca aguda, hipertensión severa y estomatitis masiva.",
+      "antidotos": "Tratamiento de soporte, manejo con antihipertensivos y suspensión temporal del fármaco.",
+      "monitorizacion": {
+        "clinica": "Control regular de la presión arterial, función cardíaca (FEVI), signos de mucositis, examen dental y función tiroidea.",
+        "laboratorio": "TSH, hemograma completo, perfil hepático, lipasa, amilasa y ecocardiograma previo."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la FEVI basal, función tiroidea (TSH) e inspeccionar la cavidad bucal y la presión arterial.",
+        "durante": "Monitorear la tolerancia digestiva, control de presión semanal y la coloración cutánea.",
+        "despues": "Valorar la respuesta tumoral y la función tiroidea en los períodos de descanso del ciclo."
+      },
+      "presentaciones": "Cápsulas de 12.5 mg, 25 mg, 37.5 mg y 50 mg.",
+      "dosis": {
+        "adultos": "CCR/GIST: 50 mg una vez al día por vía oral durante 4 semanas seguidas de 2 semanas de descanso (ciclo de 6 semanas); pNET: 37.5 mg una vez al día en esquema continuo.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual monitoreando la función cardiovascular y la fatiga."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; las cápsulas se ingieren enteras con o sin alimentos.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "50 mg por cápsula.",
+      "alarma_riesgo": "Riesgo de insuficiencia cardíaca congestiva e hipertensión arterial severa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la cápsula entera una vez al día con o sin alimentos respetando los días de descanso según el esquema.;",
+          "Controlar la presión arterial semanalmente e informar valores elevados.;",
+          "Monitorear la función tiroidea (TSH) y la FEVI periódicamente durante el tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Tragar la cápsula entera sin abrir ni masticar, con o sin comida.;",
+          "Saber que es normal un tono amarillento en la piel o la decoloración del cabello durante el tratamiento.;",
+          "Avisar de inmediato ante dolor en el pecho, hinchazón de pies, cansancio extremo, aftas en la boca o dolor mandibular."
+        ]
+      }
     }
   ]
 }
