@@ -23620,6 +23620,73 @@
           "Informar si nota una disminución marcada en la cantidad de orina."
         ]
       }
+    },
+    {
+      "id": "329",
+      "nombre_generico": "Pamoato de Pirantel",
+      "letra": "P",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Pamoato de pirantel (embonato de pirantel)",
+        "clasificacion": "Antihelmíntico / Antiparasitario intraluminal (derivado de las tetrahidropirimidinas)",
+        "efecto_terapeutica": "Parálisis espástica y expulsión intestinal de helmintos/gusanos por el peristaltismo normal",
+        "mecanismo_accion": "Actúa como un potente agonista de los receptores nicotínicos de acetilcolina en las uniones neuromusculares del parásito e inhibe la acetilcolinesterasa, provocando una despolarización neuromuscular persistente, parálisis espástica y desprendimiento del parásito de la mucosa intestinal"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción gastrointestinal muy pobre (< 15%), lo que asegura concentraciones intraluminales elevadas en el intestino",
+        "distribucion": "La reducida fracción absorbida se distribuye en los tejidos; unión a proteínas no relevante",
+        "metabolismo": "Hepático menor de la fracción absorbida sistémicamente",
+        "eliminacion": "Excreción fecal masiva de la fracción no absorbida (> 85% inalterada) y eliminación renal parcial (< 15%) con vida media de 2 a 3 horas"
+      },
+      "indicaciones": "Tratamiento de infestaciones por nemátodos intestinales: oxiuriasis (Enterobius vermicularis), ascariasis (Ascaris lumbricoides), uncinariasis / anquilostomiasis (Ancylostoma duodenale, Necator americanus) y triquinosis (fase entérica).",
+      "contraindicaciones": "Hipersensibilidad al pamoato de pirantel o a sus componentes; enfermedad hepática activa; embarazo y lactancia; menores de 2 años.",
+      "precauciones": "Preexistencia de desnutrición, anemia o insuficiencia hepática; no combinar con piperazina.",
+      "advertencias": "En oxiuriasis es imprescindible tratar a todos los miembros de la convivencia familiar de forma simultánea y repetir la dosis a las 2 semanas.",
+      "embarazo_lactancia": "Categoría C en el embarazo; evitar en el primer trimestre. Desaconsejado durante la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis por baja absorción sistémica.",
+        "hepatico": "Usar con precaución o reducir dosis en insuficiencia hepática grave."
+      },
+      "interacciones": "Efecto antagónico recíproco con la piperazina (no administrar conjuntamente); la teofilina puede elevar sus niveles plasmáticos.",
+      "reacciones_adversas": "Cólicos abdominales; náuseas; vómitos; diarrea; anorexia; cefalea; mareos; somnolencia; insomnio; elevación transitoria de transaminasas; erupciones cutáneas.",
+      "toxicidad_sobredosis": "Efectos gastrointestinales agudos, mareos, sudoración y estimulación neuromuscular transitoria.",
+      "antidotos": "Tratamiento sintomático y lavados gástricos si la ingesta es reciente.",
+      "monitorizacion": {
+        "clinica": "Control del alivio del prurito anal (oxiuros), expulsión macroscópica de parásitos en heces y síntomas digestivos.",
+        "laboratorio": "Examen coproparasitológico de control (frotis / método de Graham para oxiuros) a las 2 a 4 semanas."
+      },
+      "parametros_valoracion": {
+        "antes": "Identificar el tipo de parásito y pesar al paciente para calcular la dosis exacta.",
+        "durante": "Administrar en una sola toma diaria, con o sin alimentos.",
+        "despues": "Planificar la administración de la segunda dosis de refuerzo a los 14 días en oxiuriasis."
+      },
+      "presentaciones": "Comprimidos masticables de 250 mg; suspensión oral (250 mg/5 ml).",
+      "dosis": {
+        "adultos": "Oxiuriasis, Ascariasis, Uncinariasis leve: 11 mg base/kg (dosis única máxima de 1000 mg) en toma única. Repetir la dosis en 14 días para oxiuros; Uncinariasis severa: 11 mg/kg una vez al día durante 3 días consecutivos.",
+        "pediatrico": "Mayores de 2 años: 11 mg base/kg en dosis única (máximo 1000 mg). Repetir a las 2 semanas.",
+        "geriatrico": "Dosis habitual no requiriendo ajuste por la edad solo."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "Agitar vigorosamente la suspensión oral antes de medir la dosis; los comprimidos pueden masticarse o tragar con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "50 mg/ml (en presentación de suspensión 250 mg/5 ml).",
+      "alarma_riesgo": "Reinfestación rápida si no se administra la segunda dosis a los 14 días en oxiuros y no se trata la familia.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Agitar muy bien el frasco de la suspensión oral antes de dosificar.;",
+          "Asegurar que se programe la segunda dosis a los 14 días en el tratamiento de oxiuros para erradicar los huevos eclosionados.;",
+          "Registrar y verificar la expulsión de parásitos en las deposiciones posteriores al tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Tratar a todos los miembros que conviven en el hogar simultáneamente para evitar la reinfestación por oxiuros.;",
+          "Lavar con agua caliente la ropa de cama, pijama y toallas el día del tratamiento.;",
+          "Mantener las uñas cortas y limpias y lavarse muy bien las manos antes de comer y tras ir al baño."
+        ]
+      }
     }
   ]
 }
