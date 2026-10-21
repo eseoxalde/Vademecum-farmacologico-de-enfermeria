@@ -22034,6 +22034,73 @@
           "Informar de inmediato si presenta dificultad para respirar, somnolencia extrema o estreñimiento severo."
         ]
       }
+    },
+    {
+      "id": "305",
+      "nombre_generico": "Oxicodona",
+      "letra": "O",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de oxicodona",
+        "clasificacion": "Analgésico opioide potente, agonista puro de receptores opioides (derivado de la tebaína)",
+        "efecto_terapeutica": "Alivio intenso del dolor moderado a severo oncológico o no oncológico",
+        "mecanismo_accion": "Agonista puro e interactúa selectivamente con los receptores opioides mu (μ) y kappa (κ) en el cerebro y la médula espinal, inhibiendo las vías ascendentes del dolor y alterando la percepción del estímulo doloroso"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral con una biodisponibilidad del 60 al 87% (mayor que la morfina oral)",
+        "distribucion": "Unión a proteínas plasmáticas del 45%; se distribuye ampliamente en tejido muscular, cerebral y vísceras",
+        "metabolismo": "Hepático extenso por CYP3A4 a noroxicodona (inactiva principal) y por CYP2D6 a oximorfona (metabolito activo)",
+        "eliminacion": "Excreción renal principal (80% como metabolitos inactivos y libre) con vida media de 3 a 5 horas (liberación inmediata) o 12 horas (liberación prolongada)"
+      },
+      "indicaciones": "Tratamiento del dolor intenso de origen oncológico, dolor posoperatorio severo y dolor crónico intenso que requiera tratamiento continuo con un opioide potente.",
+      "contraindicaciones": "Hipersensibilidad a la oxicodona u otros opioides; depresión respiratoria grave; asma bronquial severa; íleo paralítico o abdomen agudo; hipercapnia grave; embarazo y lactancia.",
+      "precauciones": "Riesgo elevado de tolerancia, dependencia física y adicción; depresión respiratoria; hipotensión severa; hipotirodismo; estreñimiento tenaz; no fraccionar ni triturar los comprimidos de liberación prolongada.",
+      "advertencias": "Los comprimidos de liberación prolongada deben tragarse enteros. Romperlos o masticarlos provoca una liberación inmediata potencialmente mortal.",
+      "embarazo_lactancia": "Categoría C/D en el embarazo; riesgo de depresión respiratoria y síndrome de abstinencia neonatal. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "Iniciar con un 50% de la dosis habitual en insuficiencia renal (clearance < 60 ml/min).",
+        "hepatico": "Iniciar con un 33-50% de la dosis habitual e incrementar con extrema precaución."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 (ketoconazol, claritromicina) aumentan sustancialmente sus niveles plasmáticos; depresores del SNC y alcohol potencian el riesgo de sedación profunda y paro respiratorio.",
+      "reacciones_adversas": "Estreñimiento; somnolencia; mareos; náuseas; vómitos; prurito; miosis; cefalea; astenia; sequedad de boca; depresión respiratoria; broncoespasmo.",
+      "toxicidad_sobredosis": "Depresión respiratoria severa, miosis puntiforme, estupor, coma, flacidez muscular e hipotensión.",
+      "antidotos": "Naloxona IV e intubación con soporte ventilatorio.",
+      "monitorizacion": {
+        "clinica": "Control continuo de la frecuencia respiratoria, saturación de O2, escala del dolor, sedación y patrón evacuatorio.",
+        "laboratorio": "Pruebas de función renal y hepática en tratamientos prolongados."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la escala de dolor, función respiratoria previa y verificar que la presentación sea de liberación inmediata o prolongada.",
+        "durante": "Monitorear la respuesta analgésica y la frecuencia respiratoria.",
+        "despues": "Asegurar la prescripción conjunta de laxantes estimulantes o emolientes."
+      },
+      "presentaciones": "Comprimidos de liberación inmediata de 5 mg, 10 mg y 20 mg; comprimidos de liberación prolongada de 10 mg, 20 mg, 40 mg y 80 mg; solución oral.",
+      "dosis": {
+        "adultos": "Pacientes vírgenes de opioides: 5 mg a 10 mg por vía oral cada 4-6 horas (liberación inmediata) o 10 mg cada 12 horas (liberación prolongada), titulan según respuesta.",
+        "pediatrico": "Uso bajo esquemas de cuidados paliativos pediátricos específicos (0.05 mg a 0.15 mg/kg/dosis).",
+        "geriatrico": "Iniciar con dosis reducidas (2.5 mg a 5 mg cada 12 horas) y aumentar lentamente."
+      },
+      "vias_administracion": "Vía oral (e intravenosa/subcutánea según presentaciones específicas).",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; las formas de liberación prolongada se ingieren enteras.",
+        "compatibilidad_iv": "Formulación oral habitual."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "10 mg, 20 mg u 80 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de sobredosis mortal por triturar comprimidos de liberación prolongada y depresión respiratoria.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA triturar, partir ni masticar los comprimidos de liberación prolongada (provoca sobredosis masiva).;",
+          "Monitorear la frecuencia respiratoria y no administrar si es menor a 10 respiraciones por minuto.;",
+          "Iniciar profilaxis sistemática para el estreñimiento desde el primer día de tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "Tragar los comprimidos de liberación prolongada enteros con agua, sin masticarlos ni disolverlos.;",
+          "No consumir bebidas alcohólicas ni medicamentos inductores del sueño durante la terapia.;",
+          "Avisar de urgencia a la familia o al médico si presenta dificultad respiratoria o somnolencia extrema."
+        ]
+      }
     }
   ]
 }
