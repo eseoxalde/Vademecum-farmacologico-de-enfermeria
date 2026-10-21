@@ -24022,6 +24022,73 @@
           "Desinfectar peines, cepillos, gorros y prendas de vestir lavándolos con agua bien caliente."
         ]
       }
+    },
+    {
+      "id": "335",
+      "nombre_generico": "Aletrina",
+      "letra": "A",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Bioaletrina / D-aletrina",
+        "clasificacion": "Ectoparasiticida, pediculicida (piretroide sintético de primera generación tipo I)",
+        "efecto_terapeutica": "Acción neurotóxica rápida y parálisis de piojos, liendres y ácaros",
+        "mecanismo_accion": "Mantiene abiertos los canales de sodio en las membranas axónicas del parásito, induciendo una excitación continua del sistema nervioso periférico, convulsiones, parálisis muscular y muerte"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción cutánea prácticamente nula en humanos tras la aplicación tópica sobre piel sana",
+        "distribucion": "Acción confinada a la capa epidérmica y cabello",
+        "metabolismo": "En caso de escasa absorción sistémica, es degradada rápidamente por esterasas e hidroxilasas hepáticas",
+        "eliminacion": "Excreción renal de metabolitos inactivos"
+      },
+      "indicaciones": "Tratamiento de la pediculosis de la cabeza y del pubis (frecuentemente asociada con Butóxido de piperonilo).",
+      "contraindicaciones": "Hipersensibilidad a la aletrina o piretroides; niños menores de 2 años; lesiones abiertas o inflamaciones agudas del cuero cabelludo.",
+      "precauciones": "Riesgo de irritación ocular o dermatológica; precaución en pacientes con antecedentes de asma o alergias respiratorias (si se usa en aerosol/spray).",
+      "advertencias": "Exclusivamente para uso externo. Evitar la aplicación continua prolongada o repetida innecesariamente.",
+      "embarazo_lactancia": "Categoría B/C; evitar su uso durante el embarazo y la lactancia por falta de estudios de seguridad contundentes.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El Butóxido de Piperonilo actúa como un sinérgico esencial, inhibiendo el metabolismo de la aletrina en el parásito y multiplicando su potencia.",
+      "reacciones_adversas": "Sensación de picazón o ardor en el cuero cabelludo; eritema local; dermatitis de contacto; estornudos o tos si se inhala.",
+      "toxicidad_sobredosis": "Baja por vía tópica. La ingesta masiva causa náuseas, vómitos, mareos, temblores e hiperreactividad.",
+      "antidotos": "Tratamiento sintomático de soporte y enjuague con agua abundante.",
+      "monitorizacion": {
+        "clinica": "Control de picazón, eritema local y eficacia en la erradicación del parásito.",
+        "laboratorio": "No requiere análisis de laboratorio."
+      },
+      "parametros_valoracion": {
+        "antes": "Revisar el cuero cabelludo para descartar infecciones bacterianas o heridas abiertas.",
+        "durante": "Aplicar protegiendo los ojos y mucosas faciales del paciente.",
+        "despues": "Remover el producto con abundante agua tras el tiempo pautado."
+      },
+      "presentaciones": "Loción, champú o aerosol/spray al 0.66% (asociada habitualmente con Butóxido de Piperonilo al 2.64%).",
+      "dosis": {
+        "adultos": "Aplicar la loción o spray impregnando todo el cabello seco, dejar actuar durante 30 minutos, lavar con champú habitual y pasar el peine fino. Repetir obligatoriamente el procedimiento a los 7 días.",
+        "pediatrico": "Mayores de 2 años: misma pauta, con rigurosa protección de ojos y boca.",
+        "geriatrico": "Dosis habitual no requiriendo ajuste por la edad sola."
+      },
+      "vias_administracion": "Vía tópica exclusiva.",
+      "preparacion": {
+        "dilucion": "No requiere dilución; lista para su aplicación comercial.",
+        "compatibilidad_iv": "TOTALMENTE INCOMPATIBLE PARA VÍA PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y el calor directo.",
+      "concentracion": "0.66% (6.6 mg/g) en formulaciones pediculicidas estándar.",
+      "alarma_riesgo": "Irritación ocular severa por contacto accidental y falla del tratamiento por no hacer la segunda dosis a los 7 días.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Evitar la aplicación del aerosol cerca de la cara o en ambientes cerrados y sin ventilación.;",
+          "Cubrir los ojos del paciente con un paño húmedo durante la aplicación del producto.;",
+          "Asegurar el peinado minucioso con liendrera tras el lavado para retirar los huevos destruidos.;"
+        ],
+        "educacion_paciente": [
+          "No ingerir ni aplicar cerca de los ojos, nariz o boca.;",
+          "Replicar el tratamiento exactamente a los 7 días para matar los piojos recién nacidos.;",
+          "Lavar gorros, bufandas y fundas de almohada con agua muy caliente."
+        ]
+      }
     }
   ]
 }
