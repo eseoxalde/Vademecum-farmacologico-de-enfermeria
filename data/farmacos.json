@@ -21230,6 +21230,73 @@
           "Avisar de inmediato ante picazón, hinchazón grave o enrojecimiento extendido."
         ]
       }
+    },
+    {
+      "id": "293",
+      "nombre_generico": "Filgrastim (G-CSF)",
+      "letra": "F",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Filgrastim",
+        "clasificacion": "Factor de crecimiento hematopoyético, factor estimulante de colonias de granulocitos (G-CSF) recombinante",
+        "efecto_terapeutica": "Incremento rápido y controlado en la producción y maduración de neutrófilos periféricos",
+        "mecanismo_accion": "Se une selectivamente a los receptores de G-CSF en las células progenitoras hematopoyéticas de la médula ósea, estimulando la proliferación, diferenciación y activación funcional de los neutrófilos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena y rápida absorción subcutánea con concentraciones máximas a las 2 a 8 horas",
+        "distribucion": "Volumen de distribución reducido confinado principalmente al plasma y fluido intersticial",
+        "metabolismo": "Depuración mediada por los receptores de los propios neutrófilos periféricos y degradación proteica catabólica",
+        "eliminacion": "Aclaramiento renal y celular con una vida media de 3 a 4 horas"
+      },
+      "indicaciones": "Reducción de la duración de la neutropenia y de la incidencia de neutropenia febril en pacientes tratados con quimioterapia citotóxica, movilización de células progenitoras a sangre periférica y neutropenia crónica severa.",
+      "contraindicaciones": "Hipersensibilidad al filgrastim o a proteínas derivadas de E. coli; síndrome de Kostmann o neutropenia grave con citogenética alterada; embarazo y lactancia.",
+      "precauciones": "Riesgo de esplemomegalia y rotura esplénica (potencialmente mortal); síndrome de fuga capilar; síndrome de distrés respiratorio agudo (SDRA); leucocitosis excesiva; crisis falciformes.",
+      "advertencias": "No administrar dentro de las 24 horas previas ni posteriores a la quimioterapia citotóxica por riesgo de toxicidad mieloide.",
+      "embarazo_lactancia": "Categoría C en el embarazo; usar solo si el beneficio justifica el riesgo fetal. Precaución en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El uso concomitante con litio puede potenciar la liberación de neutrófilos; evitar la coadministración con quimioterapia citotóxica en el mismo día.",
+      "reacciones_adversas": "Dolor óseo y musculoesquelético (frecuente); elevación de deshidrogenasa láctica (LDH) y ácido úrico; splenomegalia; disuria; erupción cutánea; vasculitis cutánea; trombocitopenia.",
+      "toxicidad_sobredosis": "Leucocitosis masiva (> 50.000/mm³) sin efectos sistémicos agudos adicionales tras la suspensión.",
+      "antidotos": "Interrupción de la administración (los niveles de neutrófilos caen rápidamente en 1-2 días).",
+      "monitorizacion": {
+        "clinica": "Control del dolor óseo, palpación del cuadrante superior izquierdo abdominal (bazo), función respiratoria y temperatura.",
+        "laboratorio": "Hemograma completo con recuento diferencial leucocitario y recuento de plaquetas 2 a 3 veces por semana; ácido úrico y LDH."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar el recuento absoluto de neutrófilos y confirmar que hayan transcurrido al menos 24 horas desde la última quimioterapia.",
+        "durante": "Inyectar por vía SC o infundir IV en 30 minutos.",
+        "despues": "Suspender cuando el recuento absoluto de neutrófilos supere los 10.000/mm³ tras el nadir."
+      },
+      "presentaciones": "Jeringas prellenadas de 300 mcg/0.5 ml (30 MUI) y 480 mcg/0.8 ml (48 MUI) de solución inyectable.",
+      "dosis": {
+        "adultos": "5 mcg/kg/día (0.5 MUI/kg/día) SC o IV administrados en dosis única diaria empezando al menos 24 horas post-quimioterapia hasta la recuperación de neutrófilos.",
+        "pediatrico": "5 mcg/kg/día SC o IV idéntico a la pauta posológica del adulto.",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste específico por edad."
+      },
+      "vias_administracion": "Subcutánea e intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Para infusión IV, diluir la dosis en 50 ml a 100 ml de solución de dextrosa al 5% (si la concentración es < 15 mcg/ml, añadir albúmina humana al 0.2%).",
+        "compatibilidad_iv": "Compatible exclusivamente con dextrosa al 5% (incompatible con solución fisiológica)."
+      },
+      "velocidad_infusion": "Administrar por inyección SC directa o por infusión IV continua en 30 a 60 minutos.",
+      "estabilidad_soluciones": "Conservar y transportar refrigerado (2°C - 8°C); la solución diluida es estable 24 horas refrigerada.",
+      "concentracion": "600 mcg/ml (concentración de la solución en la jeringa prellenada).",
+      "alarma_riesgo": "Riesgo de rotura esplénica fulminante por esplenomegalia no detectada y edema pulmonar por fuga capilar.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "No administrar dentro de las 24 horas anteriores ni 24 horas posteriores a la quimioterapia.;",
+          "Si se diluye para vía IV, utilizar exclusivamente solución de dextrosa al 5% (el cloruro de sodio provoca precipitación).;",
+          "Realizar seguimiento del recuento de neutrófilos para suspender cuando el RAN supere 10.000/mm³.;"
+        ],
+        "educacion_paciente": [
+          "Saber que el dolor de huesos es un efecto secundario esperable y común que puede aliviarse con analgésicos simples.;",
+          "Avisar de urgencia si presenta dolor agudo en la parte superior izquierda del abdomen o en el hombro izquierdo.;",
+          "Avisar al médico ante falta de aire repentina, fiebre alta o palpitaciones."
+        ]
+      }
     }
   ]
 }
