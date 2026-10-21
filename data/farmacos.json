@@ -22883,6 +22883,73 @@
           "Avisar de inmediato ante fiebre alta, tos persistente, dificultad para respirar o gran enrojecimiento doloroso en la piel."
         ]
       }
+    },
+    {
+      "id": "318",
+      "nombre_generico": "Cloroquina",
+      "letra": "C",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Fosfato de cloroquina / Sulfato de cloroquina",
+        "clasificacion": "Antimalárico / Antipalúdico sistémico y inmunomodulador (4-aminoquinolina)",
+        "efecto_terapeutica": "Efecto esquizonticida sanguíneo rápido frente a formas eritrocíticas de Plasmodium y efecto antiinflamatorio/inmunomodulador",
+        "mecanismo_accion": "Se acumula en las vacuolas digestivas del parásito Plasmodium aumentando el pH intragustativo e inhibiendo la enzima hemo polimerasa, lo que provoca la acumulación de hemo libre tóxico y la lisis del parásito; ejerce inmunomodulación inhibiendo el procesamiento de antígenos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción oral (biodisponibilidad del 80 al 90%)",
+        "distribucion": "Volumen de distribución extremadamente amplio; se fija intensamente a los tejidos (hígado, bazo, riñón, pulmón, tejidos con melanina como la retina); unión a proteínas del 55%",
+        "metabolismo": "Hepático parcial por las isoenzimas CYP2D6 y CYP3A4 a su metabolito activo desetilcloroquina",
+        "eliminacion": "Excreción renal principal (50% inalterado) con una vida media de eliminación terminal extremadamente prolongada (de 30 a 60 días)"
+      },
+      "indicaciones": "Tratamiento de la malaria o paludismo no complicado por Plasmodium vivax, P. ovale, P. malariae y cepas sensibles de P. falciparum, profilaxis del paludismo y tratamiento del lupus eritematoso sistémico y artritis reumatoide (cuando no hay disponibilidad de hidroxicloroquina).",
+      "contraindicaciones": "Hipersensibilidad a la cloroquina o derivados de 4-aminoquinolina; presencia de retinopatía o cambios en el campo visual; miastenia gravis; deficiencia conocida de G6PD (riesgo de hemólisis); embarazo (salvo profilaxis/tratamiento de malaria).",
+      "precauciones": "Riesgo de retinopatía irreversible y maculopatía por toxicidad acumulativa; prolongación del intervalo QT y arritmias ventriculares; miocardiopatía; ototoxicidad; hipoglucemia grave; convulsiones.",
+      "advertencias": "En tratamientos prolongados es obligatorio realizar controles oftalmológicos periódicos (campo visual y tomografía de coherencia óptica - OCT).",
+      "embarazo_lactancia": "Categoría C en el embarazo; se utiliza para profilaxis/tratamiento de malaria si el beneficio supera los riesgos. Pasa a la leche materna; usar con precaución.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50% si el clearance de creatinina es < 10 ml/min en uso prolongado.",
+        "hepatico": "Usar con extrema precaución por riesgo de acumulación en hepatopatías."
+      },
+      "interacciones": "La coadministración con medicamentos que prolongan el QT (antiarrítmicos, moxifloxacino) aumenta el riesgo de arritmias; los antiácidos reducen su absorción oral (espaciar 2-4 horas); aumenta los niveles de digoxina.",
+      "reacciones_adversas": "Trastornos visuales (visión borrosa, escotomas, retinopatía irreversible); náuseas; vómitos; diarrea; dolor abdominal; prurito cutáneo (frecuente en raza negra); cefalea; opacidad corneal; fotosensibilidad; prolongación del QT; despigmentación del cabello.",
+      "toxicidad_sobredosis": "Toxicidad aguda extremadamente grave y rápida (dentro de las 1 a 3 horas): colapso cardiovascular, arritmias ventriculares, paro cardíaco, depresión respiratoria y convulsiones.",
+      "antidotos": "Tratamiento de soporte, Diazepam IV a dosis altas (protección miocárdica/neurológica), adrenalina/epinefrina y lavados gástricos precoces.",
+      "monitorizacion": {
+        "clinica": "Agudeza visual y examen de fondo de ojo, electrocardiograma (QT), fuerza muscular, reflejos tendinosos y glucemia.",
+        "laboratorio": "Examen oftalmológico de campo visual/OCT periódico, hemograma completo y pruebas de función hepática y renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función visual de base antes de iniciar tratamientos crónicos y verificar el electrocardiograma.",
+        "durante": "Monitorear la aparición de dificultades visuales al leer, mareos o prurito cutáneo.",
+        "despues": "Continuar con el seguimiento de campo visual tras la suspensión de tratamientos prolongados."
+      },
+      "presentaciones": "Comprimidos de 250 mg de fosfato de cloroquina (equivalentes a 150 mg de cloroquina base).",
+      "dosis": {
+        "adultos": "Malaria (Tratamiento): Dosis inicial de 600 mg base (1000 mg de fosfato), seguida de 300 mg base a las 6, 24 y 48 horas (Total 1500 mg base en 3 días); Profilaxis: 300 mg base una vez por semana.",
+        "pediatrico": "Malaria (Tratamiento): 10 mg base/kg dosis inicial, seguida de 5 mg base/kg a las 6, 24 y 48 horas (Máximo 1500 mg base en total).",
+        "geriatrico": "Dosis habitual con riguroso monitoreo visual y cardiovascular."
+      },
+      "vias_administracion": "Vía oral (e intramuscular/intravenosa muy lenta en presentaciones específicas hospitalarias de urgencia).",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros con alimentos para evitar molestias gástricas.",
+        "compatibilidad_iv": "Formulación oral habitual."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "250 mg de fosfato de cloroquina (150 mg de base) por comprimido.",
+      "alarma_riesgo": "Riesgo vital de toxicidad cardíaca por sobredosis accidental o intencionada y retinopatía irreversible por dosis acumulativas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar los comprimidos junto con los alimentos o leche para minimizar la irritación gastrointestinal.;",
+          "Confirmar que los pacientes en tratamiento crónico se realicen evaluaciones oftalmológicas periódicas.;",
+          "Vigilar la aparición de cambios en el electrocardiograma (prolongación del intervalo QT).;"
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación exactamente en los días y horarios indicados junto con las comidas.;",
+          "Consultar de inmediato si nota visión borrosa, destellos, dificultad para enfocar o leer, o zumbidos en los oídos.;",
+          "Mantener este medicamento estrictamente fuera del alcance de los niños por su elevada toxicidad en sobredosis."
+        ]
+      }
     }
   ]
 }
