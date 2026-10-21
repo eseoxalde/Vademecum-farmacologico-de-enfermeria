@@ -23151,6 +23151,73 @@
           "Ingerir el comprimido con las comidas principales para evitar molestias en la panza."
         ]
       }
+    },
+    {
+      "id": "322",
+      "nombre_generico": "Quinina",
+      "letra": "Q",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de quinina / Diclorhidrato de quinina",
+        "clasificacion": "Antimalárico / Antipalúdico sistémico, esquizonticida sanguíneo y relajante muscular (alcaloide de la corteza de Cinchona)",
+        "efecto_terapeutica": "Efecto bactericida y esquizonticida sanguíneo rápido frente a formas eritrocíticas de Plasmodium y disminución de la excitabilidad de la placa motora",
+        "mecanismo_accion": "Interfiere en la vacuola digestiva de los esquizontes sanguíneos bloqueando la detoxificación del hemo a hemozoína inerte; además prolonga el período refractario del músculo esquelético disminuyendo la respuesta a la acetilcolina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa por vía oral (biodisponibilidad del 80%); absorción IV completa e inmediata",
+        "distribucion": "Amplia distribución en tejidos corporales; alta unión a proteínas plasmáticas (70-90%, principalmente alfa-1 glicoproteína ácida); atraviesa la placenta",
+        "metabolismo": "Hepático extenso principalmente por la isoenzima CYP3A4 a 3-hidroxiquinina (con leve actividad)",
+        "eliminacion": "Excreción renal principal en forma de metabolitos (20% inalterado) con vida media de 11 a 18 horas"
+      },
+      "indicaciones": "Tratamiento de la malaria o paludismo grave o complicado por Plasmodium falciparum resistente a cloroquina o cuando no hay disponibilidad de artesunato parenteral, y tratamiento de calambres nocturnos en las piernas (uso restringido).",
+      "contraindicaciones": "Hipersensibilidad a la quinina o quinidina; antecedentes de cinconismo grave, neuritis óptica o hemólisis previa; miastenia gravis; deficiencia de G6PD; prolongación del intervalo QT; embarazo.",
+      "precauciones": "Riesgo severo de cinconismo (zumbido de oídos, cefalea, náuseas, alteraciones visuales); hipoglucemia grave e hiperinsulinemia (estimula células beta del páncreas); arritmias cardíacas por infusión IV rápida; fiebre de la agua negra (hemólisis con falla renal).",
+      "advertencias": "PROHIBIDA LA ADMINISTRACIÓN INTRAVENOSA EN BOLO RÁPIDO debido al riesgo de colapso cardiovascular y arritmias mortales.",
+      "embarazo_lactancia": "Categoría X en dosis elevadas por efecto oxitócico, abortivo y teratogénico. Sin embargo, en malaria falciparum grave que ponga en riesgo la vida de la madre, el beneficio puede superar los riesgos. Pasa a la leche materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 50-75% o aumentar el intervalo a cada 12-24 horas si el clearance de creatinina es < 10 ml/min.",
+        "hepatico": "Reducir la dosis en insuficiencia hepática grave."
+      },
+      "interacciones": "Aumenta significativamente los niveles plasmáticos de digoxina; riesgo de arritmias ventriculares con astemizol, terfenadina, moxifloxacino o antiarrítmicos; alcalinizantes urinarios reducen su eliminación.",
+      "reacciones_adversas": "Síndrome de cinconismo (tinnitus/zumbido de oídos, cefalea, náuseas, trastornos visuales, vértigo); hipoglucemia severa; hipotensión; sarpullido; trombocitopenia autoinmune; anemia hemolítica; prolongación del QT.",
+      "toxicidad_sobredosis": "Cinconismo severo, ceguera súbita, sordera, hipotensión grave, arritmias ventriculares (Torsades de Pointes), paro cardíaco y convulsiones.",
+      "antidotos": "Tratamiento de soporte, glucosa hipertónica IV obligatoria para la hipoglucemia, e infusión de estimulantes/inotrópicos.",
+      "monitorizacion": {
+        "clinica": "Glucemia capilar/sérica continua, presión arterial, trazado electrocardiográfico, agudeza auditiva y agudeza visual.",
+        "laboratorio": "Glucemia sérica periódica, hemograma completo (plaquetas), ionograma y función renal."
+      },
+      "parametros_valoracion": {
+        "antes": "Medir la glucemia basal y comprobar el trazado electrocardiográfico previo.",
+        "durante": "Monitorear la infusión IV continua en no menos de 4 horas y medir la glucemia capilar cada 4 horas.",
+        "despues": "Valorar el aclaramiento parasitario mediante frotis/gota gruesa."
+      },
+      "presentaciones": "Comprimidos de 300 mg y 500 mg de sulfato de quinina; ampollas inyectables de 600 mg/2 ml de diclorhidrato de quinina.",
+      "dosis": {
+        "adultos": "Malaria grave (IV): Dosis de carga de 20 mg/kg de diclorhidrato de quinina en 4 horas, seguida de dosis de mantenimiento de 10 mg/kg cada 8 horas (infundidos en 4 horas) combinados con doxiciclina o clindamicina; Malaria oral: 600 mg VO cada 8 horas por 7 días.",
+        "pediatrico": "Malaria grave (IV): Dosis de carga de 20 mg/kg infundida en 4 horas, luego 10 mg/kg cada 8 horas.",
+        "geriatrico": "Dosis ajustada con especial atención a la glucemia y electrocardiograma."
+      },
+      "vias_administracion": "Vía oral e intravenosa en infusión (NUNCA EN BOLO DIRECTO).",
+      "preparacion": {
+        "dilucion": "Diluir la ampolla inyectable de quinina en 250 ml a 500 ml de solución de dextrosa al 5% o solución fisiológica.",
+        "compatibilidad_iv": "Compatible con dextrosa al 5% (de preferencia por la hipoglucemia) y solución fisiológica al 0.9%."
+      },
+      "velocidad_infusion": "Administrar mediante infusión IV continua continua durante un período estricto de NO MENOS de 4 horas por dosis.",
+      "estabilidad_soluciones": "La solución diluida para infusión es estable durante 24 horas a temperatura ambiente y protegida de la luz.",
+      "concentracion": "300 mg/ml (concentración de la solución inyectable original en ampolla).",
+      "alarma_riesgo": "Riesgo de paro cardíaco por inyección IV rápida e hipoglucemia severa asintomática mortal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA administrar por vía intravenosa directa o en bolo rápido (riesgo de hipotensión fatal y paro cardíaco).;",
+          "Infundir la dosis diluida siempre en un tiempo no menor a 4 horas por infusión continua.;",
+          "Monitorear la glucemia capilar de forma periódica por el elevado riesgo de hipoglucemia inducida por quinina.;"
+        ],
+        "educacion_paciente": [
+          "Informar de inmediato si siente zumbidos fuertes en los oídos, dolor de cabeza, mareos o cambios en la visión (signos de cinconismo).;",
+          "Avisar si nota sudoración fría, temblores, mareos o sensación de desmayo (síntomas de azúcar baja en sangre).;",
+          "Tomar la dosis oral con comida para evitar el ardor o malestar estomacal."
+        ]
+      }
     }
   ]
 }
