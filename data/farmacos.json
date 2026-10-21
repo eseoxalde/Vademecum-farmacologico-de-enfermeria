@@ -24558,6 +24558,73 @@
           "Consultar antes de tomar cualquier antibiótico o remedio nuevo para evitar intoxicaciones."
         ]
       }
+    },
+    {
+      "id": "343",
+      "nombre_generico": "Tizanidina",
+      "letra": "T",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Clorhidrato de tizanidina",
+        "clasificacion": "Miorrelajante de acción central, agonista de los receptores alfa-2 adrenérgicos",
+        "efecto_terapeutica": "Reducción de la espasticidad muscular, del tono reflejo y alivio de los espasmos musculares dolorosos",
+        "mecanismo_accion": "Estimula de manera selectiva los receptores alfa-2 adrenérgicos presinápticos en la médula espinal, inhibiendo la liberación de aminoácidos excitadores (glutamato y aspartato) y reduciendo la transmisión de reflejos polisinápticos en los interneuronas espinales"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y casi completa absorción oral; la biodisponibilidad es de solo el 34% por un extenso efecto de primer paso hepático",
+        "distribucion": "Baja unión a proteínas plasmáticas (30%); se distribuye ampliamente en los tejidos corporales",
+        "metabolismo": "Hepático extenso por la isoenzima CYP1A2 (más del 95%) a metabolitos inactivos",
+        "eliminacion": "Excreción renal principal de metabolitos (60-70%) y fecal (20%) con una vida media plasmática corta de 2.5 a 4 horas"
+      },
+      "indicaciones": "Tratamiento de la espasticidad muscular secundaria a trastornos neurológicos (esclerosis múltiple, parálisis cerebral, mielopatías crónicas, traumatismos medulares) y espasmos musculares dolorosos secundarios a afecciones de la columna vertebral (lumbalgia, cervicalgia).",
+      "contraindicaciones": "Hipersensibilidad a la tizanidina; uso concomitante con inhibidores potentes del CYP1A2 (fluvoxamina, ciprofloxacino); insuficiencia hepática grave.",
+      "precauciones": "Riesgo marcado de hipotensión arterial severa, bradicardia y síncope; somnolencia e instabilidad postural (riesgo de caídas); hepatotoxicidad; somnolencia dosis-dependiente.",
+      "advertencias": "CONTRAINDICADA SU COADMINISTRACIÓN CON CIPROFLOXACINO O FLUVOXAMINA por aumento dramático de sus niveles y colapso hipotensivo.",
+      "embarazo_lactancia": "Categoría C en el embarazo; teratógena en animales. Contraindicada en la lactancia materna.",
+      "ajustes": {
+        "renal": "Iniciar con 2 mg una vez al día si el clearance de creatinina es < 25 ml/min y titular lentamente.",
+        "hepatico": "Contraindicada en disfunción hepática grave; monitorear transaminasas en uso crónico."
+      },
+      "interacciones": "CONTRAINDICADA CON CIPROFLOXACINO Y FLUVOXAMINA (aumentan sus niveles 10 a 33 veces); la combinación con antihipertensivos potencia el riesgo de hipotensión y bradicardia; sedación aumentada con alcohol y tranquilizantes.",
+      "reacciones_adversas": "Somnolencia; mareos; astenia; fatiga; sequedad de boca; hipotensión arterial; bradicardia; alucinaciones; elevación de transaminasas hepáticas; debilidad muscular.",
+      "toxicidad_sobredosis": "Somnolencia profunda, estado confusional, coma, hipotensión severa, bradicardia, miosis y depresión respiratoria.",
+      "antidotos": "Tratamiento sintomático de soporte, atropina IV para la bradicardia y reposición de volumen/vasopresores.",
+      "monitorizacion": {
+        "clinica": "Presión arterial, frecuencia cardíaca, nivel de sedación, marcha y pruebas de función hepática.",
+        "laboratorio": "Transaminasas hepáticas (AST/ALT) antes del tratamiento y mensualmente durante los primeros 4 meses."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presión arterial y descartar el uso concomitante de ciprofloxacino o fluvoxamina.",
+        "durante": "Titular la dosis lentamente e ir incrementando de 2 mg a 4 mg cada 3-4 días.",
+        "despues": "Retirar de forma progresiva para evitar hipertensión de rebote y taquicardia."
+      },
+      "presentaciones": "Comprimidos de 2 mg y 4 mg.",
+      "dosis": {
+        "adultos": "Espasmos dolorosos: 2 mg a 4 mg VO cada 8 horas; Espasticidad neurológica: Iniciar con 2 mg a 4 mg en dosis única e incrementar progresivamente en 2 a 4 mg cada 3 a 7 días (Dosis habitual: 12 a 24 mg/día divididos en 3 a 4 tomas; Máximo: 36 mg/día).",
+        "pediatrico": "Uso no recomendado en menores de 18 años por falta de experiencia clínica.",
+        "geriatrico": "Iniciar con dosis mínimas (2 mg/día) e incrementar muy lentamente por riesgo de caídas e hipotensión."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se tragan enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "2 mg o 4 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de colapso hemodinámico e hipotensión profunda si se combina con ciprofloxacino o fluvoxamina.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "VERIFICAR obligatoriamente que el paciente no reciba antibióticos con ciprofloxacino o antidepresivos como fluvoxamina.;",
+          "Controlar la presión arterial y la frecuencia cardíaca antes de titular la dosis hacia arriba.;",
+          "Monitorear las transaminasas hepáticas durante los primeros 4 meses de tratamiento.;"
+        ],
+        "educacion_paciente": [
+          "No tomar antibióticos como ciprofloxacino mientras esté usando tizanidina por riesgo de bajadas graves de presión.;",
+          "Levantarse despacio de la cama o la silla para evitar mareos o desmayos.;",
+          "Evitar conducir o usar herramientas peligrosas por la somnolencia e inestabilidad que provoca."
+        ]
+      }
     }
   ]
 }
