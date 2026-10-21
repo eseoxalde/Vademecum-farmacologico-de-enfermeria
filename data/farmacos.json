@@ -19220,6 +19220,73 @@
           "Avisar al personal de salud si siente sofocos, fiebre o mareos durante la inyección."
         ]
       }
+    },
+    {
+      "id": "263",
+      "nombre_generico": "Bevacizumab",
+      "letra": "B",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Bevacizumab",
+        "clasificacion": "Antineoplásico, anticuerpo monoclonal humanizado IgG1 anti-VEGF (antiangiogénico)",
+        "efecto_terapeutica": "Inhibidor de la neovascularización tumoral e inductor de la regresión vascular tumoral",
+        "mecanismo_accion": "Se une selectivamente al factor de crecimiento endotelial vascular (VEGF-A), impidiendo su interacción con los receptores VEGFR-1 y VEGFR-2 en las células endoteliales, bloqueando la angiogénesis"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución confinado principalmente al espacio vascular",
+        "metabolismo": "Degradación proteica catabólica endógena a través del sistema reticuloendotelial",
+        "eliminacion": "Aclaramiento sistémico lento con vida media de eliminación de 18 a 20 días"
+      },
+      "indicaciones": "Carcinoma metastásico de colon o recto, cáncer de mama metastásico, cáncer de pulmón no microcítico, carcinoma de células renales avanzado, glioblastoma multiforme y cáncer de ovario o cérvix recurrente.",
+      "contraindicaciones": "Hipersensibilidad al bevacizumab o productos de células CHO; metástasis en sistema nervioso central no tratadas; cicatrización inadecuada de heridas; embarazo y lactancia.",
+      "precauciones": "Riesgo muy alto de perforación gastrointestinal; complicaciones en la cicatrización de heridas (suspender 28 días antes y después de cirugías); hemorragias graves (hemoptisis); hipertensión arterial severa; proteinuria e insuficiencia renal; eventos tromboembólicos arteriales.",
+      "advertencias": "Puede causar síndrome de encefalopatía posterior reversible (PRES) y perforaciones viscerales potencialmente mortales.",
+      "embarazo_lactancia": "Categoría D en el embarazo; inhibe la angiogénesis fetal causando teratogénesis. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis; suspender si se desarrolla síndrome nefrótico o proteinuria grave.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Aumento del riesgo de microangiopatía trombótica en combinación con sunitinib; riesgo incrementado de hemorragia con anticoagulantes.",
+      "reacciones_adversas": "Hipertensión arterial; proteinuria; sangrado (epistaxis, hemoptisis, sangrado digestivo); retraso en la cicatrización de heridas; perforación gastrointestinal; tromboembolismo arterial; astenia; dolor abdominal; diarrea.",
+      "toxicidad_sobredosis": "Cefalea intensa, hipertensión arterial severa y complicaciones hemorrágicas.",
+      "antidotos": "Tratamiento sintomático de soporte y fármacos antihipertensivos.",
+      "monitorizacion": {
+        "clinica": "Control estricto de la presión arterial antes de cada ciclo, cicatrización de heridas quirúrgicas, signos de sangrado o dolor abdominal agudo.",
+        "laboratorio": "Proteinuria mediante tira reactiva u orina de 24 horas, hemograma completo y creatinina sérica."
+      },
+      "parametros_valoracion": {
+        "antes": "Medir la presión arterial, controlar la presencia de proteínas en orina y verificar que hayan pasado al menos 28 días desde una cirugía mayor.",
+        "durante": "Monitorear la infusión IV (90 min la primera, 60 min la segunda, 30 min las posteriores si hay buena tolerancia).",
+        "despues": "Continuar con el monitoreo domiciliario de la presión arterial."
+      },
+      "presentaciones": "Frasco ampolla de 100 mg/4 ml y 400 mg/16 ml de solución concentrada (25 mg/ml).",
+      "dosis": {
+        "adultos": "5 mg/kg a 10 mg/kg IV cada 2 semanas o 7.5 mg/kg a 15 mg/kg IV cada 3 semanas según la indicación oncológica específica.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual evaluando el riesgo cardiovascular y tromboembólico."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Diluir la dosis requerida en 100 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (incompatible con dextrosa)."
+      },
+      "velocidad_infusion": "Administrar la primera infusión en 90 minutos; si es bien tolerada, la segunda se administra en 60 minutos y las siguientes en 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 48 horas bajo refrigeración (2°C - 8°C) o 24 horas a temperatura ambiente.",
+      "concentracion": "25 mg/ml (concentración de la solución concentrada original).",
+      "alarma_riesgo": "Riesgo de perforación gastrointestinal fatal, hemoptisis masiva y dehiscencia de heridas quirúrgicas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Diluir el bevacizumab exclusivamente en solución fisiológica (nunca en soluciones glucosadas).;",
+          "Controlar la presión arterial antes de cada infusión y suspender si presenta crisis hipertensiva.;",
+          "Confirmar que el tratamiento se interrumpa al menos 28 días antes de cualquier cirugía programada.;"
+        ],
+        "educacion_paciente": [
+          "Monitorear la presión arterial en casa e informar si se eleva de forma constante.;",
+          "Avisar de urgencia si siente dolor abdominal intenso y repentino, fiebre, náuseas o vómitos.;",
+          "Notificar inmediatamente ante cualquier sangrado significativo como sangre al toser, epistaxis u orina oscura."
+        ]
+      }
     }
   ]
 }
