@@ -23486,6 +23486,73 @@
           "Avisar al médico si presenta aftas molestas en la boca, vómitos o diarrea."
         ]
       }
+    },
+    {
+      "id": "327",
+      "nombre_generico": "Pentamidina",
+      "letra": "P",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Isetionato de pentamidina",
+        "clasificacion": "Antiprotozoario sistémico, antileishmaniasico (diamidina aromática)",
+        "efecto_terapeutica": "Destrucción de trofozoítos de Pneumocystis jirovecii y formas amastigotes de Leishmania y Trypanosoma",
+        "mecanismo_accion": "Interfiere con la biosíntesis de ADN, ARN, fosfolípidos y proteínas del parásito al unirse al ADN cinetoplástico e inhibir la topoisomerasa II"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral (IV/IM) o inhalatoria aerosolizada (absorción sistémica mínima tras inhalación < 5%)",
+        "distribucion": "Se acumula masivamente en riñones, hígado, bazo y pulmones; no atraviesa significativamente la barrera hematoencefálica; alta fijación tisular",
+        "metabolismo": "Hepático menor a través de isoenzimas del CYP450 a metabolitos hidroxilados",
+        "eliminacion": "Excreción renal muy lenta de forma inalterada (fase de eliminación tisular prolongada de semanas a meses; vida media de 6 a 12 días)"
+      },
+      "indicaciones": "Tratamiento de la neumonía por Pneumocystis jirovecii (PCP) grave, profilaxis de PCP en pacientes con intolerancia al cotrimoxazol, tratamiento de la leishmaniasis visceral y cutánea y fase temprana de la tripanosomiasis africana (Trypanosoma brucei gambiense).",
+      "contraindicaciones": "Hipersensibilidad al isetionato de pentamidina; embarazo y lactancia.",
+      "precauciones": "Hipotensión arterial súbita y severa (que puede causar colapso y shock por infusión IV rápida o IM); arritmias cardíacas letales (Torsades de Pointes por prolongación del QT); hipoglucemia severa por toxicidad en islotes pancreáticos seguida de diabetes mellitus; pancreatitis aguda; nefrotoxicidad; mielosupresión.",
+      "advertencias": "El paciente debe estar acostado en decúbito supino durante la administración IV/IM y se debe controlar estrictamente la presión arterial.",
+      "embarazo_lactancia": "Categoría C en el embarazo; riesgo de embriotoxicidad. Contraindicada en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir dosis o espaciar el intervalo a cada 36-48 horas si el clearance de creatinina es < 10 ml/min en uso sistémico.",
+        "hepatico": "Usar con precaución en insuficiencia hepática."
+      },
+      "interacciones": "Uso concomitante con fármacos que prolongan el intervalo QT (amiodarona, eritromicina) o nefrotóxicos (foscarnet, aminoglucósidos, anfotericina B) aumenta drásticamente el riesgo de muerte súbita y falla renal.",
+      "reacciones_adversas": "Hipotensión arterial severa; mareos; síncope; arritmias cardíacas; hipoglucemia grave (seguida de hiperglucemia/diabetes); elevación de urea y creatinina; leucopenia; trombocitopenia; pancreatitis; accesos o necrosis en sitio IM; broncoespasmo y tos (vía inhalada).",
+      "toxicidad_sobredosis": "Colapso cardiorrespiratorio, hipotensión refractaria, arritmias ventriculares letales e hipoglucemia sintomática profunda.",
+      "antidotos": "Tratamiento sintomático, infusión de glucosa hipertónica IV, reposición de volumen e inotrópicos.",
+      "monitorizacion": {
+        "clinica": "Presión arterial continua durante la infusión, trazado electrocardiográfico, glucemia capilar/sérica periódica e inspección del sitio inyectable.",
+        "laboratorio": "Glucemia, urea, creatinina sérica, electrolitos (calcio, potasio, magnesio), hemograma completo y amilasa/lipasa."
+      },
+      "parametros_valoracion": {
+        "antes": "Medir la presión arterial basal, glucemia y electrocardiograma con el paciente acostado.",
+        "durante": "Infundir por vía IV en no menos de 60 a 120 minutos manteniendo al paciente acostado.",
+        "despues": "Monitorear la presión arterial durante 1 hora posterior a la infusión."
+      },
+      "presentaciones": "Frasco ampolla de 300 mg de polvo liofilizado.",
+      "dosis": {
+        "adultos": "Tratamiento de Pneumocystis jirovecii (IV): 4 mg/kg una vez al día administrados en infusión de 2 horas durante 14 a 21 días; Profilaxis inhalada: 300 mg una vez al mes mediante nebulizador especial Respirgard II; Leishmaniasis: 3 a 4 mg/kg en días alternos por 3 a 4 semanas.",
+        "pediatrico": "Pneumocystis: 4 mg/kg IV una vez al día por 14 a 21 días.",
+        "geriatrico": "Ajustar dosis según función renal e intensificar control cardiovascular."
+      },
+      "vias_administracion": "Intravenosa en infusión, intramuscular profunda e inhalatoria (aerosol). (PROHIBIDA LA VÍA IV DIRECTA BOLO).",
+      "preparacion": {
+        "dilucion": "Reconstituir el vial de 300 mg con 3 a 5 ml de agua estéril. Para infusión IV, diluir la dosis en 50 a 250 ml de solución de dextrosa al 5%.",
+        "compatibilidad_iv": "EXCLUSIVAMENTE compatible con solución de Dextrosa al 5% (INCOMPATIBLE con solución fisiológica por precipitación)."
+      },
+      "velocidad_infusion": "Administrar mediante infusión IV lenta en un período estricto de NO MENOS de 60 a 120 minutos.",
+      "estabilidad_soluciones": "La solución reconstituida en el vial es estable 24 horas a temperatura ambiente. Usar la dilución en dextrosa dentro de las 24 horas.",
+      "concentracion": "60 mg/ml a 100 mg/ml tras reconstitución vial; concentración máxima final IV: 6 mg/ml.",
+      "alarma_riesgo": "Riesgo vital de colapso cardiovascular e hipotensión refractaria por inyección rápida e hipoglucemia mortal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir la dosis por vía IV SIEMPRE con el paciente acostado en posición decúbito supino y en no menos de 60-120 minutos.;",
+          "NUNCA diluir en Solución Fisiológica; utilizar exclusivamente Dextrosa al 5% para prevenir precipitaciones.;",
+          "Controlar la glucemia capilar antes y después de cada dosis por riesgo de hipoglucemia severa o necrosis pancreática.;"
+        ],
+        "educacion_paciente": [
+          "Permanecer acostado durante la aplicación intravenosa y durante al menos 30 a 60 minutos después de terminarla.;",
+          "Avisar de inmediato si siente mareos, sudoración fría, temblores o palpitaciones (síntomas de hipotensión o azúcar baja).;",
+          "Si realiza nebulizaciones, utilizar la boquilla adecuada y avisar si presenta tos o falta de aire."
+        ]
+      }
     }
   ]
 }
