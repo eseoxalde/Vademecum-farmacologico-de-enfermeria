@@ -21699,6 +21699,73 @@
           "No suspender la medicación por cuenta propia sin consultar previamente con su médico."
         ]
       }
+    },
+    {
+      "id": "300",
+      "nombre_generico": "Gabapentina",
+      "letra": "G",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Gabapentina",
+        "clasificacion": "Analgésico neuropático, anticonvulsivo (análogo del GABA)",
+        "efecto_terapeutica": "Alivio del dolor neuropático periférico y control de crisis epilépticas parciales",
+        "mecanismo_accion": "Se une con alta afinidad a la subunidad alfa-2-delta de los canales de calcio dependientes de voltaje en el SNC, modulando la liberación de neurotransmisores excitadores, sin interactuar directamente con los receptores GABA"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral saturable mediada por el transportador de aminoácidos L en el intestino (la biodisponibilidad disminuye al aumentar la dosis: de 60% a 30%)",
+        "distribucion": "Baja o nula unión a proteínas plasmáticas (< 3%); se distribuye ampliamente y atraviesa la barrera hematoencefálica",
+        "metabolismo": "No sufre metabolismo metabólico en el ser humano",
+        "eliminacion": "Excreción renal exclusiva por filtración glomerular en forma inalterada con una vida media de 5 a 7 horas"
+      },
+      "indicaciones": "Tratamiento del dolor neuropático periférico (neuropatía diabética dolorosa, neuralgia posherpética, dolor neuropático oncológico) y tratamiento combinado de crisis epilépticas parciales con o sin generalización secundaria.",
+      "contraindicaciones": "Hipersensibilidad a la gabapentina o sus componentes; pancreatitis aguda; embarazo y lactancia.",
+      "precauciones": "Riesgo de sedación, mareos y ataxia; depresión respiratoria grave si se combina con opioides; ideación suicida; aumento de frecuencia de crisis si se retira bruscamente; requiere ajuste en insuficiencia renal.",
+      "advertencias": "El intervalo máximo entre dosis no debe superar las 12 horas para evitar el avance de crisis o dolor de rebote.",
+      "embarazo_lactancia": "Categoría C en el embarazo; riesgo potencial para el feto. Pasa a la leche materna; contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "Reducir la dosis según clearance: 900-1800 mg/día (ClCr ≥ 80 ml/min); 600-1200 mg/día (ClCr 50-79 ml/min); 300-600 mg/día (ClCr 30-49 ml/min); 150-300 mg/día (ClCr 15-29 ml/min).",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Los antiácidos con aluminio y magnesio reducen su absorción oral un 20% (espaciar al menos 2 horas); los analgésicos opioides aumentan los niveles de gabapentina y potencian la depresión respiratoria.",
+      "reacciones_adversas": "Somnolencia; mareos; ataxia; fatiga; fiebre; infecciones virales; nistagmo; temblor; amnesia; edema periférico; aumento de peso; diarrea; disartria.",
+      "toxicidad_sobredosis": "Doble visión, disartria, somnolencia extrema, letargo, ataxia y diarrea leve.",
+      "antidotos": "Tratamiento sintomático de soporte e inducción de hemodiálisis en insuficiencia renal.",
+      "monitorizacion": {
+        "clinica": "Control del nivel de dolor, sedación, estabilidad en la marcha, ideación suicida y función renal.",
+        "laboratorio": "Clearance de creatinina para ajuste posológico basal y de seguimiento."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función renal (clearance de creatinina) y establecer la escalada progresiva de dosis.",
+        "durante": "Titular la dosis el Día 1 (300 mg), Día 2 (600 mg/día), Día 3 (900 mg/día).",
+        "despues": "Planificar la suspensión paulatina durante mínimo 1 semana."
+      },
+      "presentaciones": "Cápsulas de 300 mg y 400 mg; comprimidos de 600 mg y 800 mg.",
+      "dosis": {
+        "adultos": "Dolor neuropático: Iniciar con 300 mg el Día 1, 300 mg dos veces el Día 2 y 300 mg tres veces el Día 3; titular hasta 900 mg a 1800 mg/día en 3 tomas (Máximo: 3600 mg/día).",
+        "pediatrico": "Epilepsia en mayores de 6 años: 25 mg a 35 mg/kg/día divididos en 3 tomas.",
+        "geriatrico": "Ajustar la dosis según la función renal y titular lentamente por mareos."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; las cápsulas o comprimidos se ingieren enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "300 mg, 400 mg o 600 mg por unidad.",
+      "alarma_riesgo": "Riesgo de somnolencia e insuficiencia respiratoria en combinación con opioides y falta de ajuste renal.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Ajustar obligatoriamente la pauta posológica según el clearance de creatinina del paciente.;",
+          "Asegurar que el intervalo de tiempo entre las dosis de la noche y la mañana no supere las 12 horas.;",
+          "Espaciar la administración al menos 2 horas tras la ingesta de antiácidos con aluminio o magnesio.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la dosis repartida en 3 veces al día con o sin alimentos, según las indicaciones recibidas.;",
+          "No tomar antiácidos para la acidez estomacal 2 horas antes o después de la gabapentina.;",
+          "Avisar al médico si presenta somnolencia muy fuerte, mareos al caminar o cambios de humor."
+        ]
+      }
     }
   ]
 }
