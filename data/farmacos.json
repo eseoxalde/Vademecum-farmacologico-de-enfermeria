@@ -4818,64 +4818,64 @@
       "letra": "L",
       "alto_riesgo": false,
       "farmacodinamia": {
-        "principio_activo": "Loperamida",
-        "clasificacion": "Antidiarreico. Agonista de receptores opioides μ periféricos",
-        "efecto_terapeutica": "Disminuye motilidad intestinal; favorece absorción de agua",
-        "mecanismo_accion": "Reduce peristaltismo y aumenta tono del esfínter anal"
+        "principio_activo": "Clorhidrato de loperamida",
+        "clasificacion": "Antidiarreico, agonista selectivo de los receptores opioides mu (μ) periféricos",
+        "efecto_terapeutica": "Disminución del peristaltismo intestinal, aumento del tiempo de tránsito y reducción del volumen fecal con mayor absorción de agua y electrólitos",
+        "mecanismo_accion": "Se une de forma selectiva a los receptores opioides mu (μ) en el plexo mientérico de la pared intestinal, inhibiendo la liberación de acetilcolina y prostaglandinas, lo que reduce el peristaltismo, prolonga el tránsito digestivo e incrementa el tono del esfínter anal"
       },
       "farmacocinetica_adme": {
-        "absorcion": "Buena por vía oral",
-        "distribucion": "Baja penetración al SNC",
-        "metabolismo": "Hepático (CYP3A4/CYP2C8)",
-        "eliminacion": "Principalmente por heces"
+        "absorcion": "Buena absorción gastrointestinal oral con baja biodisponibilidad sistémica (aproximadamente 0.3%) por un extenso efecto de primer paso hepático",
+        "distribucion": "Alta unión a proteínas plasmáticas (95%); no atraviesa la barrera hematoencefálica a dosis terapéuticas debido a la eflujo activo mediado por la glicoproteína P",
+        "metabolismo": "Hepático extenso principalmente por la isoenzima CYP3A4 y CYP2C8 a metabolitos inactivos",
+        "eliminacion": "Excreción fecal principal por la bilis (más del 85%) y eliminación renal mínima (menos del 1%) con una vida media de 9 a 14 horas"
       },
-      "indicaciones": "Diarrea aguda inespecífica, diarrea crónica, ileostomía",
-      "contraindicaciones": "Niños < 2 años, colitis pseudomembranosa, diarrea con sangre o fiebre alta, íleo paralítico",
-      "precauciones": "Suspender si no hay mejoría en 48 horas; insuficiencia hepática",
-      "advertencias": "No usar si la diarrea es causada por bacterias invasivas (agravamiento)",
-      "embarazo_lactancia": "Embarazo: si beneficio > riesgo. Lactancia: precaución (pequeñas cantidades)",
+      "indicaciones": "Tratamiento sintomático de la diarrea aguda inespecífica y diarrea crónica en adultos y niños mayores de 12 años, y reducción del volumen de evacuaciones en ileostomías.",
+      "contraindicaciones": "Hipersensibilidad a la loperamida; niños menores de 2 años (y desaconsejado en < 6-12 años); disentería aguda (caracterizada por deposiciones con sangre y fiebre alta); colitis ulcerosa aguda; colitis pseudomembranosa por antibióticos; íleo paralítico o megacolon tóxico.",
+      "precauciones": "Riesgo de megacolon tóxico en colitis ulcerosa activa; prolongación del intervalo QT y arritmias cardíacas ventriculares graves en dosis elevadas por abuso; insuficiencia hepática.",
+      "advertencias": "El tratamiento de la diarrea con loperamida es únicamente sintomático y no sustituye la terapia de rehidratación hidroelectrolítica adecuada.",
+      "embarazo_lactancia": "Categoría B en el embarazo; evitar su uso durante el primer trimestre. Pasa en pequeñas cantidades a la leche materna; desaconsejado en la lactancia.",
       "ajustes": {
-        "renal": "No suele requerir ajuste",
-        "hepatico": "Administrar con precaución; vigilar toxicidad"
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Usar con extrema precaución por reducción del metabolismo de primer paso y mayor riesgo de toxicidad del SNC."
       },
-      "interacciones": "Quinidina, ritonavir, ketoconazol aumentan su nivel",
-      "reacciones_adversas": "Estreñimiento, mareos, somnolencia, boca seca",
-      "toxicidad_sobredosis": "Depresión respiratoria y del SNC, íleo paralítico, arritmias (QT largo)",
-      "antidotos": "Naloxona y medidas de soporte",
+      "interacciones": "Inhibidores potentes de la glicoproteína P o del CYP3A4 (quinidina, ritonavir, ketoconazol, itraconazol) aumentan significativamente las concentraciones plasmáticas de loperamida; los fármacos opiláceos o anticolinérgicos aumentan el riesgo de estreñimiento e íleo.",
+      "reacciones_adversas": "Estreñimiento; distensión abdominal; náuseas; flatulencia; cefalea; mareos; somnolencia; sequedad de boca; dolor o cólicos abdominales; megacolon tóxico.",
+      "toxicidad_sobredosis": "Depresión respiratoria, estupefacción, somnolencia profunda, miosis, hipertonía muscular, incoordinación, íleo paralítico y arritmias ventriculares graves (Torsades de Pointes).",
+      "antidotos": "Naloxona IV y soporte de las funciones vitales (repetir naloxona por la menor vida media respecto a la loperamida).",
       "monitorizacion": {
-        "clinica": "Frecuencia/consistencia de heces, estado de hidratación",
-        "laboratorio": "No especificado"
+        "clinica": "Control del número y consistencia de las deposiciones, distensión abdominal, ruidos hidroaéreos y estado de hidratación.",
+        "laboratorio": "Ionograma sérico y función renal en diarreas graves deshidratantes."
       },
       "parametros_valoracion": {
-        "antes": "Identificar causa probable (infecciosa vs no)",
-        "durante": "Controlar balance hídrico",
-        "despues": "Verificar disminución de evacuaciones"
+        "antes": "Evaluar la causa probable de la diarrea y descartar etiología bacteriana invasiva (fiebre alta o sangre en heces).",
+        "durante": "Monitorear que el paciente no supere la dosis máxima diaria recomendada y el balance hídrico.",
+        "despues": "Suspender el fármaco de inmediato si la diarrea no mejora tras 48 horas de tratamiento o ante estreñimiento."
       },
-      "presentaciones": "Cápsulas 2 mg; Comprimidos; Solución oral",
+      "presentaciones": "Comprimidos o cápsulas duras de 2 mg; solución oral (1 mg/5 ml).",
       "dosis": {
-        "adultos": "Inicial 4 mg; luego 2 mg tras cada deposición (Máx 16 mg/día)",
-        "pediatrico": "Solo bajo indicación médica; contraindicada < 2 años",
-        "geriatrico": "Vigilancia de estreñimiento"
+        "adultos": "Diarrea aguda: Dosis inicial de 4 mg VO, seguida de 2 mg tras cada deposición líquida posterior (Dosis máxima: 16 mg/día); Diarrea crónica: 4 mg a 8 mg/día divididos en varias tomas.",
+        "pediatrico": "Contraindicado en menores de 2 años; en niños de 6 a 12 años usar exclusivamente bajo supervisión médica según peso o edad (Máximo: 6 a 8 mg/día).",
+        "geriatrico": "Dosis habitual monitoreando cuidadosamente el riesgo de retención líquida, deshidratación y estreñimiento."
       },
-      "vias_administracion": "Vía oral",
+      "vias_administracion": "Vía oral.",
       "preparacion": {
-        "dilucion": "No aplica",
-        "compatibilidad_iv": "No aplica"
+        "dilucion": "No requiere reconstitución; las cápsulas o comprimidos se ingieren enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
       },
-      "velocidad_infusion": "No aplica",
-      "estabilidad_soluciones": "No aplica",
-      "concentracion": "2 mg",
-      "alarma_riesgo": "No superar dosis máxima por riesgo de arritmias cardíacas",
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "2 mg por comprimido o cápsula.",
+      "alarma_riesgo": "Riesgo de arritmias cardíacas ventriculares graves (Torsades de Pointes) y paro cardíaco por sobrepasar las dosis máximas indicadas.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Promover la rehidratación oral concomitante",
-          "Registrar número y características de deposiciones",
-          "Vigilar distensión abdominal"
+          "Promover e iniciar prioritariamente la rehidratación oral o parenteral de líquidos y electrólitos.;",
+          "Registrar de forma precisa la frecuencia, volumen y características de las deposiciones.;",
+          "Suspender inmediatamente la administración si aparece distensión abdominal, auscultación de íleo o heces sanguinolentas.;"
         ],
         "educacion_paciente": [
-          "No superar la dosis indicada",
-          "Evitar conducir si presenta somnolencia",
-          "Suspender ante heces con sangre"
+          "No superar en ningún caso la dosis máxima de 16 mg al día por riesgo de problemas graves en el corazón.;",
+          "Beber abundante cantidad de suero de rehidratación oral o agua para reponer los líquidos perdidos.;",
+          "Suspender el medicamento y consultar urgente si la diarrea persiste por más de 48 horas, o si aparece fiebre o sangre en la materia fecal."
         ]
       }
     },
