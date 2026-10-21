@@ -22816,6 +22816,73 @@
           "Avisar de inmediato ante picazón en la piel, ictericia (ojos amarillos), orina oscura o dolor abdominal."
         ]
       }
+    },
+    {
+      "id": "317",
+      "nombre_generico": "Enfuvirtida",
+      "letra": "E",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Enfuvirtida (T-20)",
+        "clasificacion": "Antirretroviral sistémico, inhibidor sintético de la fusión del VIH (péptido de 36 aminoácidos)",
+        "efecto_terapeutica": "Inhibición de la penetración del VIH-1 en la célula huésped, reducción de la carga viral y elevación de CD4",
+        "mecanismo_accion": "Se une específicamente a la subunidad extracelular HR1 de la glucoproteína gp41 de la envoltura del VIH-1, bloqueando los cambios conformacionales necesarios para la fusión de la membrana viral con la membrana de los linfocitos T CD4+"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía subcutánea con alta biodisponibilidad (84%)",
+        "distribucion": "Alta unión a proteínas plasmáticas (92%, principalmente albúmina); volumen de distribución reducido",
+        "metabolismo": "Catabolismo proteico en aminoácidos constituyentes sin participación del sistema del citocromo P450",
+        "eliminacion": "Aclaramiento sistémico no renal por degradación peptídica con una vida media de 3.8 horas"
+      },
+      "indicaciones": "Tratamiento de la infección por el Virus de la Inmunodeficiencia Humana tipo 1 (VIH-1) en combinación con otros fármacos antirretrovirales, en pacientes previamente tratados que hayan experimentado fracaso virológico o resistencia a otras clases de antirretrovirales.",
+      "contraindicaciones": "Hipersensibilidad a la enfuvirtida o a sus excipientes; embarazo y lactancia.",
+      "precauciones": "Reacciones graves en el sitio de inyección (presente en casi el 100% de los pacientes: nódulos, eritema, quistes, induración); mayor incidencia de neumonía bacteriana; reacciones de hipersensibilidad sistémica.",
+      "advertencias": "No administrar por vía intravenosa, intramuscular ni intraarterial. Utilizar exclusivamente vía subcutánea en sitios rotatorios.",
+      "embarazo_lactancia": "Categoría B en el embarazo; datos muy limitados. Contraindicada la lactancia materna para evitar la transmisión del VIH.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis en insuficiencia renal o hemodiálisis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "No presenta interacciones metabólicas farmacocinéticas relevantes con otros antirretrovirales ni con fármacos metabolizados por CYP450.",
+      "reacciones_adversas": "Reacciones en el sitio de inyección (dolor, eritema, induración, nódulos subcutáneos dolorosos, equimosis); neumonía bacteriana; linfadenopatía; insomnio; depresión; neuropatía periférica; mialgias; astenia; reacción de hipersensibilidad.",
+      "toxicidad_sobredosis": "Exacerbación severa de las reacciones inflamatorias locales en los sitios de inyección.",
+      "antidotos": "Tratamiento sintomático de soporte e interrupción de la aplicación.",
+      "monitorizacion": {
+        "clinica": "Inspección de los sitios de inyección subcutánea, signos de neumonía (tos, fiebre, disnea), síntomas alérgicos sistémicos y carga viral del VIH.",
+        "laboratorio": "Recuento de linfocitos CD4, carga viral del VIH-1, hemograma y radiografía de tórax si hay sospecha pulmonar."
+      },
+      "parametros_valoracion": {
+        "antes": "Inspeccionar la piel de abdomen, muslos o brazos para seleccionar una zona limpia sin nódulos previos.",
+        "durante": "Inyectar por vía subcutánea asegurando la reconstitución previa completa del polvo liofilizado.",
+        "despues": "Rotar diariamente los puntos de inyección para prevenir la lipodistrofia o induración masiva."
+      },
+      "presentaciones": "Frasco ampolla de 108 mg de polvo liofilizado (para reconstituir y extraer 90 mg/1 ml) con frasco de agua estéril para inyección y jeringas.",
+      "dosis": {
+        "adultos": "90 mg (1 ml) administrados por vía subcutánea dos veces al día (cada 12 horas) en abdomen, cara anterior del muslo o parte superior del brazo.",
+        "pediatrico": "Niños de 6 a 16 años: 2 mg/kg SC dos veces al día (hasta un máximo de 90 mg dos veces al día).",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste específico por edad sola."
+      },
+      "vias_administracion": "Subcutánea exclusiva.",
+      "preparacion": {
+        "dilucion": "Reconstituir el vial liofilizado agregando 1.1 ml de agua estéril suministrada; golpear suavemente y dejar reposar durante 10 a 45 minutos hasta disolución completa sin agitar vigorosamente.",
+        "compatibilidad_iv": "TOTALMENTE PROHIBIDA LA VÍA INTRAVENOSA O INTRAMUSCULAR."
+      },
+      "velocidad_infusion": "Inyección subcutánea directa del depósito reconstituido.",
+      "estabilidad_soluciones": "Una vez reconstituido, utilizar inmediatamente o mantener refrigerado (2°C - 8°C) y protegido de la luz durante un máximo de 24 horas.",
+      "concentracion": "90 mg/ml (concentración tras la reconstitución final recomendada).",
+      "alarma_riesgo": "Riesgo de infección local secundaria por técnica inyectable incorrecta e inyección accidental intravenosa.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "No agitar de forma violenta el vial al reconstituir para evitar la formación de espuma persistente; dejar reposar el tiempo necesario.;",
+          "Alternar de manera sistemática los sitios de aplicación subcutánea en cada dosis (abdomen, muslos, brazos).;",
+          "No inyectar en nódulos existentes, cicatrices, lunares, tatuajes o zonas de piel inflamada o infectada.;"
+        ],
+        "educacion_paciente": [
+          "Aprender la técnica aséptica de reconstitución e inyección subcutánea según la demostración recibida.;",
+          "Saber que es esperable la aparición de nódulos, hinchazón o dolor en el punto de aplicación.;",
+          "Avisar de inmediato ante fiebre alta, tos persistente, dificultad para respirar o gran enrojecimiento doloroso en la piel."
+        ]
+      }
     }
   ]
 }
