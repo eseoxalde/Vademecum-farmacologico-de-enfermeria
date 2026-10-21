@@ -20694,6 +20694,73 @@
           "Avisar si presenta hipo persistente, cansancio extremo o estreñimiento."
         ]
       }
+    },
+    {
+      "id": "285",
+      "nombre_generico": "Fosaprepitant",
+      "letra": "F",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Fosaprepitant dimeglumolina",
+        "clasificacion": "Antiemético, prodroga intravenosa del aprepitant (antagonista NK1)",
+        "efecto_terapeutica": "Prevención intravenosa inmediata de las náuseas y vómitos agudos y tardíos por quimioterapia",
+        "mecanismo_accion": "Prodroga hidrosoluble convertida rápidamente in vivo a aprepitant mediante fosfatasas, bloqueando los receptores NK1 en el SNC y previniendo el estímulo emético por sustancia P"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa con conversión inmediata a aprepitant",
+        "distribucion": "Alta unión a proteínas plasmáticas del aprepitant liberado (95%); atraviesa la barrera hematoencefálica",
+        "metabolismo": "Rápida conversión intravascular y hepática a aprepitant, seguido de extenso metabolismo por CYP3A4",
+        "eliminacion": "Excreción fecal y biliar de metabolitos con vida media de 9 a 13 horas"
+      },
+      "indicaciones": "Prevención de náuseas y vómitos agudos y tardíos asociados a esquemas de quimioterapia antineoplásica altamente o moderadamente emetógena en adultos y pediatría.",
+      "contraindicaciones": "Hipersensibilidad al fosaprepitant, aprepitant o al polisorbato 80; uso concomitante con pimozida, terfenadina o cisaprida; embarazo y lactancia.",
+      "precauciones": "Riesgo de reacciones graves en el sitio de infusión (tromboflebitis, dolor, necrosis local); interacciones enzimáticas idénticas a aprepitant.",
+      "advertencias": "Se deben tomar precauciones para evitar la extravasación por su potencial irritante en venas periféricas.",
+      "embarazo_lactancia": "Categoría B en el embarazo; usar solo si es claramente necesario. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada; precaución en severa."
+      },
+      "interacciones": "Reduce al 50% la dosis requerida de dexametasona oral o IV los Días 1 y 2; altera el RIN con warfarina y disminuye la eficacia de anticonceptivos hormonales.",
+      "reacciones_adversas": "Reacciones en el sitio de infusión (dolor, tromboflebitis, eritema); hipo; fatiga; estreñimiento; cefalea; elevación de transaminasas.",
+      "toxicidad_sobredosis": "Somnolencia, dolor venoso severo y reacciones anafilactoides.",
+      "antidotos": "Tratamiento de soporte e interrupción de la infusión.",
+      "monitorizacion": {
+        "clinica": "Control del sitio de infusión intravenosa, signos de tromboflebitis, respuesta antiemética e interacciones medicamentosas.",
+        "laboratorio": "Control del RIN en anticoagulados y perfil de transaminasas hepáticas."
+      },
+      "parametros_valoracion": {
+        "antes": "Verificar la reducción de la dosis de dexametasona e inspeccionar la permeabilidad venosa.",
+        "durante": "Monitorear la infusión IV durante 20 a 30 minutos previniendo dolor o irritación vascular.",
+        "despues": "Valorar el sitio de venoclisis y la respuesta durante los días posteriores al ciclo."
+      },
+      "presentaciones": "Frasco ampolla de 150 mg de polvo liofilizado para solución inyectable.",
+      "dosis": {
+        "adultos": "150 mg IV administrados en infusión de 20 a 30 minutos únicamente el Día 1 (reemplaza el esquema oral de 3 días de aprepitant).",
+        "pediatrico": "150 mg IV en mayores de 12 años; 3 mg/kg o 4 mg/kg IV en menores según protocolo especializado el Día 1.",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste específico por edad."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir con 5 ml de solución fisiológica por la pared del vial y diluir la dosis en 110 ml a 150 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (incompatible con dextrosa o soluciones de Ringer)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua en un período de 20 a 30 minutos.",
+      "estabilidad_soluciones": "Estable durante 24 horas refrigerado (2°C - 8°C) o 12 horas a temperatura ambiente.",
+      "concentracion": "1 mg/ml (concentración tras la dilución final recomendada).",
+      "alarma_riesgo": "Incompatibilidad física y precipitación si se mezcla con soluciones glucosadas y riesgo de tromboflebitis.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Reconstituir e infundir diluido exclusivamente en solución fisiológica (la dextrosa provoca precipitación).;",
+          "Infundir preferentemente por una vena permeable de buen calibre en 20 a 30 minutos para evitar tromboflebitis.;",
+          "Reducir la dosis de dexametasona coadministrada según la pauta recomendada el día de la infusión.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato si siente ardor, dolor o inflamación en la vena durante o después de la inyección.;",
+          "Utilizar un método anticonceptivo adicional de barrera durante el tratamiento y hasta un mes después.;",
+          "Informar si nota mareos, hipo continuo o cansancio extremo en los días posteriores."
+        ]
+      }
     }
   ]
 }
