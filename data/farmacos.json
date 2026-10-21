@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-20",
+  "actualizado": "2026-10-21",
   "farmacos": [
     {
       "id": "1",
@@ -18950,6 +18950,73 @@
           "Tomar las cápsulas orales enteras acompañadas de agua y alimentos sin masticar ni disolver.;",
           "Avisar inmediatamente si presenta fiebre, falta de aire repentina, tos o llagas en la boca.;",
           "Notificar de inmediato si siente ardor o dolor en la vena durante la infusión intravenosa."
+        ]
+      }
+    },
+    {
+      "id": "259",
+      "nombre_generico": "Vincristina Liposomal",
+      "letra": "V",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Sulfato de vincristina liposomal",
+        "clasificacion": "Antineoplásico, alcaloide de la vinca encapsulado en liposomas",
+        "efecto_terapeutica": "Citotóxico de liberación prolongada que penetra preferentemente en tejidos tumorales y ganglios linfáticos",
+        "mecanismo_accion": "Encapsulado en vesículas lipídicas que extienden su permanencia vascular y acumulación tisular; inhibe la polimerización de los microtúbulos del huso mitótico provocando la detención celular en metafase"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución significativamente menor y vida media plasmática mucho más prolongada que la vincristina convencional",
+        "metabolismo": "Liberación lenta del principio activo libre con posterior biotransformación hepática mediante CYP3A4",
+        "eliminacion": "Excreción biliar y fecal principal y renal reducida"
+      },
+      "indicaciones": "Tratamiento de la leucemia linfoblástica aguda (LLA) en adultos en segunda o posterior recaída o cuya enfermedad haya progresado tras al menos dos esquemas anti-LLA.",
+      "contraindicaciones": "Hipersensibilidad al sulfato de vincristina o a los liposomas; administración por vía intratecal (FATAL); neuropatía periférica motora grave previa; embarazo y lactancia.",
+      "precauciones": "Riesgo extremo de neurotoxicidad periférica grave o acumulativa; constipación severa e íleo paralítico; vesicante potente en extravasación.",
+      "advertencias": "LA ADMINISTRACIÓN INTRATECAL ES MORTAL. No intercambiar las dosis ni posologías con las de la vincristina convencional no liposomal.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de toxicidad fetal y malformaciones. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "Reducir la dosis si la bilirrubina directa es mayor a 3 mg/dl o si existe insuficiencia hepática grave."
+      },
+      "interacciones": "La combinación con inhibidores potentes de CYP3A4 (itraconazol, voriconazol) o agentes neurotóxicos incrementa notablemente el riesgo de neuropatía e íleo paralítico.",
+      "reacciones_adversas": "Neurotoxicidad periférica (hiporreflexia, parestesias, debilidad motora); constipación grave e íleo; neutropenia; anemia; trombocitopenia; astenia; pirexia; estomatitis; necrosis por extravasación.",
+      "toxicidad_sobredosis": "Neurotoxicidad motora y sensitiva severa, íleo paralítico masivo y aplasia medular.",
+      "antidotos": "Hialuronidasa local y compresas templadas en caso de extravasación; medidas de soporte neurológico y digestivo.",
+      "monitorizacion": {
+        "clinica": "Control de función neurológica periférica, motilidad intestinal (hábito evacuatorio), signos de extravasación y temperatura.",
+        "laboratorio": "Hemograma completo previo a cada ciclo, bilirrubina y pruebas de función hepática."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar que la dosis esté etiquetada 'EXCLUSIVAMENTE USO INTRAVENOSO' y verificar la ausencia de estreñimiento grave o neuropatía preexistente.",
+        "durante": "Monitorear la infusión IV continua en 1 hora con verificación de retorno venoso.",
+        "despues": "Instaurar régimen preventivo con laxantes e informar signos neurológicos."
+      },
+      "presentaciones": "Frasco ampolla de 5 mg/5 ml de suspensión liposomal con viales de diluyente.",
+      "dosis": {
+        "adultos": "2.25 mg/m² IV administrados en infusión de 1 hora cada 14 días (sin el límite de 2 mg característico de la formulación convencional).",
+        "pediatrico": "Uso no establecido en población pediátrica.",
+        "geriatrico": "Ajustar posología en función de la tolerancia neurológica e intestinal."
+      },
+      "vias_administracion": "Intravenosa exclusiva (PROHIBIDA LA VÍA INTRATECAL).",
+      "preparacion": {
+        "dilucion": "Reconstituir y diluir en solución fisiológica o dextrosa al 5% hasta lograr el volumen final indicado según el kit del fabricante.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período exacto de 60 minutos mediante bomba de infusión.",
+      "estabilidad_soluciones": "Utilizar inmediatamente o conservar refrigerado (2°C - 8°C) por un máximo de 24 horas.",
+      "concentracion": "1 mg/ml (concentración de la solución concentrada liposomal).",
+      "alarma_riesgo": "ADMINISTRACIÓN INTRATECAL MORTAL. Error de dosis si se confunde con la vincristina estándar.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "NUNCA administrar por vía intratecal bajo ninguna circunstancia (rotular 'USO INTRAVENOSO EXCLUSIVO - FATAL OTRAS VÍAS').;",
+          "No confundir ni intercambiar la dosis de esta formulación liposomal con la vincristina convencional no liposomal.;",
+          "Garantizar el uso de laxantes profilácticos y evaluar la función motora de las extremidades en cada ciclo.;"
+        ],
+        "educacion_paciente": [
+          "Avisar de inmediato ante falta de deposiciones, dolor abdominal fuerte o vientre hinchado.;",
+          "Informar si nota hormigueo, adormecimiento, pérdida de fuerza en las manos o pies, o dificultad para caminar.;",
+          "Notificar al personal de salud si siente dolor, quemazón o inflamación en la vena durante la infusión."
         ]
       }
     }
