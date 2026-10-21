@@ -21967,6 +21967,73 @@
           "Informar si nota dolor de cabeza persistente, desorientación o falta de alivio en las molestias del estómago."
         ]
       }
+    },
+    {
+      "id": "304",
+      "nombre_generico": "Codeína",
+      "letra": "C",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Fosfato de codeína",
+        "clasificacion": "Analgésico opioide débil y antitusígeno (alcaloide fenantrénico del opio)",
+        "efecto_terapeutica": "Alivio del dolor de intensidad moderada y supresión del reflejo de la tos",
+        "mecanismo_accion": "Agonista débil de los receptores opioides mu (μ) en el sistema nervioso central; su efecto analgésico se debe principalmente a su conversión metabólica intracerebral a morfina"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción gastrointestinal con una biodisponibilidad oral del 40 al 70%",
+        "distribucion": "Baja unión a proteínas plasmáticas (7-25%); atraviesa la barrera hematoencefálica y la placenta",
+        "metabolismo": "Hepático extenso por la isoenzima CYP2D6 a morfina (10%, metabolito activo) y por CYP3A4 a norcodeína, y glucuronización a codeína-6-glucurónido",
+        "eliminacion": "Excreción renal principal (86% como metabolitos inactivos y libres) con vida media de 2.5 a 3.5 horas"
+      },
+      "indicaciones": "Tratamiento del dolor de intensidad moderada que no responda a analgésicos no opioides (en combinación con paracetamol u AINE) y tratamiento sintomático de la tos no productiva.",
+      "contraindicaciones": "Hipersensibilidad a la codeína u otros opioides; depresión respiratoria aguda; asma bronquial grave; metabolizadores ultra-rápidos de la isoenzima CYP2D6; niños menores de 12 años (y < 18 años tras amigdalectomía); lactancia.",
+      "precauciones": "Riesgo de depresión del sistema nervioso central y respiratoria; dependencia física y tolerancia; estreñimiento severo; hipertensión endocraneana; insuficiencia hepática o renal.",
+      "advertencias": "En metabolizadores ultra-rápidos de CYP2D6, la conversión acelerada a morfina puede provocar toxicidad opioide grave e incluso mortal a dosis terapéuticas.",
+      "embarazo_lactancia": "Categoría C/D en el embarazo; riesgo de depresión respiratoria y síndrome de abstinencia neonatal. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Reducir la dosis al 75% si el clearance de creatinina es de 10 a 50 ml/min; reducir al 50% si es < 10 ml/min.",
+        "hepatico": "Reducir la dosis o espaciar el intervalo en insuficiencia hepática grave."
+      },
+      "interacciones": "Efecto sedante y depresor respiratorio potenciado con alcohol, benzodiazepinas, anestésicos u otros depresores del SNC; los inhibidores potentes de CYP2D6 (fluoxetina, paroxetina) reducen su efecto analgésico.",
+      "reacciones_adversas": "Estreñimiento; somnolencia; mareos; náuseas; vómitos; miosis; retención urinaria; confusión; prurito; depresión respiratoria.",
+      "toxicidad_sobredosis": "Triada clásica opioide: depresión respiratoria, miosis pupilar y coma.",
+      "antidotos": "Naloxona IV y soporte ventilatorio.",
+      "monitorizacion": {
+        "clinica": "Control del nivel de conciencia, frecuencia respiratoria, nivel de dolor, presión arterial y hábito intestinal.",
+        "laboratorio": "No requiere exámenes de laboratorio específicos de rutina."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la frecuencia respiratoria (no administrar si es < 10-12 respiraciones/min) y el estado de conciencia.",
+        "durante": "Monitorear el alivio del dolor y la sedación.",
+        "despues": "Instaurar profilaxis del estreñimiento con laxantes e hidratación."
+      },
+      "presentaciones": "Comprimidos de 30 mg y 60 mg; solución oral / jarabe (10 mg/5 ml y 15 mg/5 ml); combinación con paracetamol (30 mg/500 mg).",
+      "dosis": {
+        "adultos": "30 mg a 60 mg por vía oral cada 4 a 6 horas según necesidad (Dosis máxima: 240 mg/día).",
+        "pediatrico": "Contraindicado en menores de 12 años; en 12 a 18 años: 0.5 mg/kg a 1 mg/kg cada 6 horas solo si no hay alternativa.",
+        "geriatrico": "Iniciar con la mitad de la dosis adulta e incrementar lentamente por mayor sensibilidad."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos o soluciones se ingieren enteros con agua.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y la humedad.",
+      "concentracion": "30 mg o 60 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de depresión respiratoria mortal en metabolizadores ultra-rápidos de CYP2D6 y niños.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Evaluar la frecuencia respiratoria y el nivel de sedación antes de administrar cada dosis.;",
+          "Administrar laxantes preventivos de forma conjunta por la alta incidencia de estreñimiento.;",
+          "Evitar la administración en pacientes pediátricos o con sospecha de metabolización ultra-rápida.;"
+        ],
+        "educacion_paciente": [
+          "No beber alcohol ni consumir otros medicamentos tranquilizantes durante el tratamiento.;",
+          "Evitar conducir vehículos o manejar maquinaria por la somnolencia y mareos que puede producir.;",
+          "Informar de inmediato si presenta dificultad para respirar, somnolencia extrema o estreñimiento severo."
+        ]
+      }
     }
   ]
 }
