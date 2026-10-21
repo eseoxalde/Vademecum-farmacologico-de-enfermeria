@@ -23955,6 +23955,73 @@
           "Consultar al médico si nota dificultad para respirar, tos seca o irritación severa en el cuero cabelludo."
         ]
       }
+    },
+    {
+      "id": "334",
+      "nombre_generico": "Fenotrina",
+      "letra": "F",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "d-Fenotrina (S-fenotrina)",
+        "clasificacion": "Ectoparasiticida, pediculicida (piretroide sintético de tipo I)",
+        "efecto_terapeutica": "Eliminación de piojos de la cabeza, piojos del pubis y sus liendres",
+        "mecanismo_accion": "Altera la permeabilidad de la membrana axónica del parásito inhibiendo la inactivación de los canales de sodio, induciendo descargas repetitivas, parálisis y muerte del insecto"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción cutánea extremadamente reducida e insignificante tras la aplicación tópica sobre el cuero cabelludo",
+        "distribucion": "Acción exclusivamente local sobre la piel y tallo piloso",
+        "metabolismo": "La mínima cantidad absorbida se metaboliza rápidamente en el hígado por escisión del enlace éster e hidroxilaciones",
+        "eliminacion": "Excreción renal y biliar de metabolitos inactivos con rápida depuración"
+      },
+      "indicaciones": "Tratamiento de la pediculosis de la cabeza (Pediculus humanus capitis) y del pubis (Pthirus pubis).",
+      "contraindicaciones": "Hipersensibilidad a la fenotrina, piretrinas o piretroides; menores de 2 años; piel erosionada, infectada o inflamada gravemente.",
+      "precauciones": "Irritación ocular o dérmica; no usar en zonas cercanas a los ojos o mucosas; precaución en pacientes con asma o atopía.",
+      "advertencias": "Producto para uso externo exclusivamente. Evitar la ingesta o contacto con conjuntiva ocular.",
+      "embarazo_lactancia": "Categoría B; datos limitados en gestantes. Usar solo si es estrictamente necesario. Desaconsejado o precaución en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "El Butóxido de Piperonilo inhibe su degradación enzimática en el parásito y potencia marcadamente su eficacia pediculicida.",
+      "reacciones_adversas": "Prurito; eritema; sensación de hormigueo o quemazón en el cuero cabelludo; irritación ocular en caso de contacto accidental; eczema de contacto.",
+      "toxicidad_sobredosis": "La toxicidad sistémica por vía tópica es nula. En caso de ingesta accidental masiva: náuseas, vómitos, mareos y convulsiones.",
+      "antidotos": "Tratamiento sintomático de soporte y enjuague masivo con agua.",
+      "monitorizacion": {
+        "clinica": "Control de la presencia de piojos o liendres vivas y signos de inflamación cutánea local.",
+        "laboratorio": "No requiere estudios de laboratorio."
+      },
+      "parametros_valoracion": {
+        "antes": "Comprobar la presencia de piojos vivos o liendres e inspeccionar la integridad del cuero cabelludo.",
+        "durante": "Aplicar de forma uniforme impregnando todo el cabello seco o húmedo.",
+        "despues": "Pasar un peine fino (patrullero) para retirar las liendres muertas."
+      },
+      "presentaciones": "Loción al 0.2% - 0.5%; champú al 0.2% - 0.4% (sola o en combinación con Butóxido de Piperonilo).",
+      "dosis": {
+        "adultos": "Aplicar la loción o champú suficiente sobre el cuero cabelludo y cabello, dejar actuar durante 10 a 30 minutos (según la concentración comercial), lavar con abundante agua y pasar peine fino. Repetir obligatoriamente a los 7-10 días.",
+        "pediatrico": "Niños mayores de 2 años: misma pauta de aplicación, protegiendo adecuadamente los ojos.",
+        "geriatrico": "Misma pauta que en adultos."
+      },
+      "vias_administracion": "Vía tópica exclusiva.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; se aplica directamente del envase.",
+        "compatibilidad_iv": "TOTALMENTE PROHIBIDA SU ADMINISTRACIÓN PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "2 mg/ml (0.2%) a 5 mg/ml (0.5%) en lociones/champús comerciales.",
+      "alarma_riesgo": "Reinfestación si no se realiza la segunda aplicación a los 7-10 días para matar ninfas recién eclosionadas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Proteger la cara y ojos del paciente con una toalla durante la impregnación del cuero cabelludo.;",
+          "Asegurar que el producto permanezca en contacto con el cabello durante el tiempo exacto recomendado por el fabricante.;",
+          "Pasar minuciosamente la liendrera o peine fino desde la raíz al extremo del cabello tras el lavado.;"
+        ],
+        "educacion_paciente": [
+          "No tragar el producto ni permitir que tome contacto con los ojos o boca.;",
+          "Repetir la aplicación completa a los 7 o 10 días para asegurar la eliminación total de las liendres que hayan eclosionado.;",
+          "Desinfectar peines, cepillos, gorros y prendas de vestir lavándolos con agua bien caliente."
+        ]
+      }
     }
   ]
 }
