@@ -24156,6 +24156,73 @@
           "Volver a aplicar a los 7 o 10 días según las indicaciones del médico o farmacéutico."
         ]
       }
+    },
+    {
+      "id": "337",
+      "nombre_generico": "Benzoato de bencilo",
+      "letra": "B",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Benzoato de bencilo",
+        "clasificacion": "Ectoparasiticida, escabicida y pediculicida (éster sintético del ácido benzoico y alcohol bencílico)",
+        "efecto_terapeutica": "Destrucción rápida de ácaros de la sarna (Sarcoptes scabiei) y piojos",
+        "mecanismo_accion": "Ejerce una acción neurotóxica directa sobre el sistema nervioso del parásito provocando su muerte rápida; destruye además las liendres o huevos mediante penetración en la cubierta quitinosa"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción cutánea sistémica baja a moderada tras la aplicación tópica sobre piel intacta; la absorción aumenta en piel erosionada o niños pequeños",
+        "distribucion": "Acción predominantemente cutánea local",
+        "metabolismo": "La fracción absorbida sistémicamente se hidroliza rápidamente a ácido benzoico y alcohol bencílico, los cuales se conjugan con glicina en el hígado para formar ácido hipúrico",
+        "eliminacion": "Excreción renal rápida en forma de ácido hipúrico con vida media corta"
+      },
+      "indicaciones": "Tratamiento de la escabiosis o sarna humana (Sarcoptes scabiei) y pediculosis (Pediculus humanus capitis y pubis).",
+      "contraindicaciones": "Hipersensibilidad al benzoato de bencilo; piel gravemente inflamada, quemada, erosionada o con heridas abiertas; niños menores de 2 años; embarazo y lactancia.",
+      "precauciones": "Riesgo elevado de irritación cutánea marcada y dermatitis de contacto; sensación de ardor severo tras la aplicación; riesgo de toxicidad del SNC en lactantes (síndrome de jadeo por alcohol bencílico).",
+      "advertencias": "Evitar estrictamente el contacto con la cara, los ojos, el meato urinario y las mucosas genitales.",
+      "embarazo_lactancia": "Categoría C en el embarazo; desaconsejado por el riesgo de absorción sistémica y toxicidad. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "No se han descrito interacciones medicamentosas tópicas significativas de trascendencia clínica.",
+      "reacciones_adversas": "Sensación de ardor o quemazón cutánea intensa (muy frecuente); eritema; prurito exacerbado; sequedad de la piel; dermatitis de contacto; hipersensibilidad.",
+      "toxicidad_sobredosis": "La absorción o ingesta masiva provoca excitación del SNC, ataxia, convulsiones, hipotensión y colapso circulatorio.",
+      "antidotos": "Tratamiento sintomático de soporte y lavado de la piel con agua y jabón neutro.",
+      "monitorizacion": {
+        "clinica": "Control del grado de ardor o eritema cutáneo, evolución de la erupción de la sarna y ausencia de parásitos vivos.",
+        "laboratorio": "No requiere controles de laboratorio."
+      },
+      "parametros_valoracion": {
+        "antes": "Inspeccionar la piel para confirmar que no haya llagas o escoriaciones profundas que aumenten el ardor o la absorción.",
+        "durante": "Aplicar la loción de forma homogénea sobre la piel limpia y seca.",
+        "despues": "Lavar todo el cuerpo con abundante agua tibia transcurridas 24 horas."
+      },
+      "presentaciones": "Emulsión o loción tópica al 10% a 25%.",
+      "dosis": {
+        "adultos": "Escabiosis: Aplicar la emulsión al 25% desde el cuello hasta las plantas de los pies sobre la piel limpia y seca, dejar actuar durante 24 horas y lavar con agua tibia. Puede repetirse a las 24 horas siguientes o a los 7 días según indicación.",
+        "pediatrico": "Niños de 2 a 12 años: diluir la emulsión al 25% con un volumen igual de agua (alcanzando 12.5%) y dejar actuar 12 horas. Contraindicado en menores de 2 años.",
+        "geriatrico": "Misma pauta recomendada en adultos; vigilar la piel frágil por riesgo de irritación severa."
+      },
+      "vias_administracion": "Vía tópica exclusiva.",
+      "preparacion": {
+        "dilucion": "Para su uso en niños, se puede diluir la emulsión comercial con agua destilada limpia a partes iguales.",
+        "compatibilidad_iv": "TOTALMENTE PROHIBIDA SU ADMINISTRACIÓN PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz y el calor.",
+      "concentracion": "100 mg/ml (10%) a 250 mg/ml (25%) en emulsión dermatológica.",
+      "alarma_riesgo": "Riesgo de arritmias u opacidad si contacta con los ojos e irritación cutánea severa por aplicación excesiva.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Garantizar que la piel esté bien limpia y seca antes de la aplicación para reducir la sensación de ardor.;",
+          "Diluir el producto al 50% con agua para uso en pacientes pediátricos mayores de 2 años.;",
+          "Asegurar que el producto permanezca en contacto con la piel el tiempo estipulado (12-24 horas) antes de la ducha.;"
+        ],
+        "educacion_paciente": [
+          "Aplicar desde el cuello hacia abajo cubriendo todo el cuerpo, especialmente pliegues, axilas y pies.;",
+          "Lavar la piel con abundante agua tibia pasadas las 24 horas de la aplicación.;",
+          "Tratar a todos los convivientes al mismo tiempo y lavar ropa y sábanas con agua muy caliente."
+        ]
+      }
     }
   ]
 }
