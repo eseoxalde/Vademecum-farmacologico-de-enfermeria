@@ -20426,6 +20426,73 @@
           "Avisar de inmediato ante falta de fuerza en las piernas, imposibilidad de orinar o dolor intenso de columna."
         ]
       }
+    },
+    {
+      "id": "281",
+      "nombre_generico": "Acetato de Megestrol",
+      "letra": "M",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Acetato de megestrol",
+        "clasificacion": "Antineoplásico y estimulante del apetito, progestágeno sintético (derivado de la progesterona)",
+        "efecto_terapeutica": "Citotóxico hormonal e inductor del apetito con ganancia de peso corporal",
+        "mecanismo_accion": "Ejerce un efecto antineoplásico al suprimir la hormona luteinizante (LH) e inhibir la acción estrogénica en tejidos diana; estimula el apetito mediante la inhibición de citocinas inflamatorias y la modulación del hipotálamo"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral; la biodisponibilidad aumenta significativamente con alimentos grasos",
+        "distribucion": "Se acumula en el tejido adiposo; alta unión a proteínas plasmáticas (principalmente albúmina)",
+        "metabolismo": "Hepático extenso por conversión a metabolitos esteroideos inactivos",
+        "eliminacion": "Excreción renal principal (50-70%) y fecal (15-30%) con vida media de 20 a 50 horas"
+      },
+      "indicaciones": "Tratamiento paliativo del cáncer de mama o de endometrio avanzado o recurrente y tratamiento de la anorexia, caquexia o pérdida severa de peso en pacientes con cáncer avanzado o SIDA.",
+      "contraindicaciones": "Hipersensibilidad al acetato de megestrol; uso como prueba de diagnóstico de embarazo; embarazo y lactancia.",
+      "precauciones": "Riesgo elevado de eventos tromboembólicos (tromboflebitis, embolismo pulmonar); insuficiencia suprarrenal e hiperglucemia (efecto glucocorticoide parcial); retención hídrica y edema.",
+      "advertencias": "La ganancia de peso inducida suele deberse al incremento de masa grasa y líquidos, y no a masa magra.",
+      "embarazo_lactancia": "Categoría X en el embarazo; riesgo teratogénico y masculinización fetal. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "Usar con precaución en insuficiencia renal por retención de líquidos.",
+        "hepatico": "Usar con precaución en insuficiencia hepática grave."
+      },
+      "interacciones": "Puede aumentar los requerimientos de insulina o hipoglucemiantes orales; la aminoglutetimida reduce los niveles de megestrol.",
+      "reacciones_adversas": "Aumento del apetito y peso; edema periférico; náuseas; vómitos; sangrado uterino por deprimentes; sofocos; hipertensión; fenómenos tromboembólicos; insuficiencia suprarrenal; hiperglucemia.",
+      "toxicidad_sobredosis": "Diarrea, náuseas, somnolencia, hipertensión y edema generalizado.",
+      "antidotos": "Tratamiento de soporte e interrupción de la dosis.",
+      "monitorizacion": {
+        "clinica": "Control del peso corporal, presión arterial, presencia de edemas en miembros inferiores, síntomas tromboembólicos y glucemia.",
+        "laboratorio": "Glucemia en ayunas, perfil suprarrenal (cortisol) ante interrupción brusca y hemograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la presencia de antecedentes tromboembólicos o diabetes mellitus no controlada.",
+        "durante": "Monitorear el aumento de peso y descartar que sea únicamente edema.",
+        "despues": "Retirar de forma gradual tras tratamientos prolongados a dosis altas para evitar insuficiencia suprarrenal."
+      },
+      "presentaciones": "Comprimidos de 40 mg y 160 mg; suspensión oral de 40 mg/ml y 125 mg/ml.",
+      "dosis": {
+        "adultos": "Cáncer de mama: 160 mg/día por vía oral; Cáncer de endometrio: 40 mg a 320 mg/día; Anorexia/caquexia: 400 mg a 800 mg/día por vía oral.",
+        "pediatrico": "Uso no recomendado en pediatría.",
+        "geriatrico": "Dosis habitual monitoreando la retención de líquidos y la función cardiovascular."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; agitar bien la suspensión oral antes de medir la dosis.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz.",
+      "concentracion": "160 mg por comprimido o 40 mg/ml en solución.",
+      "alarma_riesgo": "Riesgo de eventos tromboembólicos mortales e insuficiencia suprarrenal secundaria a la retirada brusca.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Agitar adecuadamente el frasco de la suspensión oral antes de medir la dosis administrada.;",
+          "Controlar la glucemia en pacientes diabéticos por el riesgo de hiperglucemia secundario.;",
+          "No suspender de forma repentina tras usos prolongados a dosis altas por riesgo de insuficiencia suprarrenal.;"
+        ],
+        "educacion_paciente": [
+          "Tomar la medicación en la dosis y horarios indicados por el médico junto con las comidas si causa malestar.;",
+          "Avisar de inmediato ante hinchazón dolorosa en una pierna, dolor de pecho o falta de aire repentina.;",
+          "Informar si nota sed excesiva, ganas muy frecuentes de orinar o cansancio extremo."
+        ]
+      }
     }
   ]
 }
