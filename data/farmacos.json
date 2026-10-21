@@ -20292,6 +20292,73 @@
           "Cumplir con las tomas diarias sin interrupción y realizar ejercicios de impacto para proteger los huesos."
         ]
       }
+    },
+    {
+      "id": "279",
+      "nombre_generico": "Exemestano",
+      "letra": "E",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Exemestano",
+        "clasificacion": "Antineoplásico, inactivador esteroideo irreversible de la aromatasa (inhibidor tipo I)",
+        "efecto_terapeutica": "Inactivación permanente y duradera de la síntesis de estrógenos en mujeres posmenopáusicas",
+        "mecanismo_accion": "Análogo estructural esteroideo que se une irreversiblemente al sitio activo de la enzima aromatasa ('inhibidor suicida'), provocando su inactivación permanente hasta la síntesis de nuevas enzimas"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida absorción oral; la biodisponibilidad aumenta aproximadamente un 40% cuando se administra tras una comida rica en grasas",
+        "distribucion": "Amplia distribución tisular con elevada unión a proteínas plasmáticas (90%)",
+        "metabolismo": "Hepático extenso por la isoenzima CYP3A4 y reducción del grupo carbonilo a 17-hidroexemestano (actividad leve)",
+        "eliminacion": "Excreción equilibrada en heces (42%) y orina (42%) en forma de metabolitos con vida media de 24 horas"
+      },
+      "indicaciones": "Tratamiento adyuvante y avanzado del cáncer de mama precoz o metastásico en mujeres posmenopáusicas con receptores hormonales positivos (tras 2-3 años de tamoxifeno o progreso).",
+      "contraindicaciones": "Hipersensibilidad al exemestano; mujeres con estado hormonal premenopáusico; embarazo y lactancia.",
+      "precauciones": "Riesgo de reducción de la densidad mineral ósea (osteoporosis y fracturas); artralgias; insuficiencia hepática o renal; hipercolesterolemia.",
+      "advertencias": "Debido a su estructura esteroidea, debe usarse con precaución en pacientes con riesgo metabólico u óseo previo.",
+      "embarazo_lactancia": "Categoría X en el embarazo; produce malformaciones y pérdida embrionaria. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve a moderada; usar con precaución en severa.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada; usar con precaución en severa."
+      },
+      "interacciones": "Inductores potentes de CYP3A4 (rifampicina, fenitoína, hierba de San Juan) disminuyen su exposición plasmática (requieren duplicar la dosis a 50 mg); medicamentos con estrógenos anulan su efecto.",
+      "reacciones_adversas": "Sofocos; artralgias; dolor musculoesquelético; fatiga; insomnio; sudoración excesiva; cefalea; mareo; náuseas; osteoporosis; aumento de peso.",
+      "toxicidad_sobredosis": "Baja toxicidad clínica; intensificación de los sofocos y dolor articular.",
+      "antidotos": "Tratamiento de soporte sintomático.",
+      "monitorizacion": {
+        "clinica": "Control periódicos de la densidad mineral ósea (DEXA), dolor articular y rigidez, presión arterial y síntomas climatéricos.",
+        "laboratorio": "Densitometría ósea basal, niveles de vitamina D (25-OH) y perfil lipídico."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar el estado posmenopáusico confirmado, medir densidad ósea basal y verificar la ausencia de fármacos inductores del CYP3A4.",
+        "durante": "Monitorear que el comprimido se tome siempre después de una comida.",
+        "despues": "Valorar la respuesta tumoral y la masa ósea."
+      },
+      "presentaciones": "Comprimidos recubiertos de 25 mg.",
+      "dosis": {
+        "adultos": "25 mg una vez al día por vía oral administrados preferentemente después de una comida (si se combina con un inductor de CYP3A4: 50 mg/día).",
+        "pediatrico": "Uso no recomendado en pediatría.",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste específico por edad sola."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "25 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de pérdida de masa ósea acelerada e ineficacia por administración conjunta con inductores de CYP3A4.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar el comprimido de 25 mg diariamente después de una comida (almuerzo o cena) para mejorar la absorción.;",
+          "Evaluar que la paciente no consuma suplementos con hierba de San Juan u otros inductores enzimáticos.;",
+          "Controlar que la paciente tome suplementación con calcio y vitamina D de forma adecuada.;"
+        ],
+        "educacion_paciente": [
+          "Tomar el comprimido entero todos los días después de una de las comidas principales.;",
+          "Avisar al médico si nota dolores articulares intensos, rigidez o síntomas de osteoporosis.;",
+          "No tomar productos que contengan estrógenos ni remedios naturales para la menopausia sin consultar."
+        ]
+      }
     }
   ]
 }
