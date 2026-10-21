@@ -22682,6 +22682,73 @@
           "Notificar la presencia de náuseas, temblores o disminución acentuada en la cantidad de orina diaria."
         ]
       }
+    },
+    {
+      "id": "315",
+      "nombre_generico": "Zanamivir",
+      "letra": "Z",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Zanamivir",
+        "clasificacion": "Antiviral de acción directa, inhibidor de la neuraminidasa de los virus de la Influenza A y B",
+        "efecto_terapeutica": "Disminución de la replicación viral, acortamiento de la duración de los síntomas y reducción de complicaciones por gripe",
+        "mecanismo_accion": "Inhibe de forma selectiva y potente la enzima neuraminidasa de la superficie de los virus de la influenza A y B, impidiendo la liberación de los viriones recién formados desde las células epiteliales infectadas y bloqueando la propagación viral en el tracto respiratorio"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral sistémica muy baja (4 a 17%); tras la inhalación oral, del 10 al 20% de la dosis alcanza los pulmones y el resto se deposita en la orofaringe",
+        "distribucion": "Baja unión a proteínas plasmáticas (< 10%); actúa predominantemente a nivel local en la mucosa del aparato respiratorio",
+        "metabolismo": "No sufre metabolismo metabólico o hepático",
+        "eliminacion": "Excreción renal de la fracción absorbida sistémicamente en forma inalterada por filtración glomerular con vida media de 2 a 5 horas; la fracción no absorbida se inhala o se deglute y se elimina en heces"
+      },
+      "indicaciones": "Tratamiento y prevención de la infección por virus de la Influenza tipo A y B en adultos y niños (mayores de 5 años para tratamiento y mayores de 7 años para profilaxis).",
+      "contraindicaciones": "Hipersensibilidad al zanamivir o a la proteína de la leche (contiene lactosa como excipiente en el polvo para inhalación); pacientes con antecedentes de asma bronquial, hiperreactividad bronquial o EPOC grave.",
+      "precauciones": "Riesgo alto de broncoespasmo severo e insuficiencia respiratoria aguda en pacientes con patología respiratoria reactiva de base; riesgo de alteraciones neuropsiquiátricas (alucinaciones, comportamiento anómalo) en adolescentes.",
+      "advertencias": "Tener disponible de forma inmediata un broncodilatador de acción rápida (salbutamol) durante su administración inhalada.",
+      "embarazo_lactancia": "Categoría B en el embarazo; evaluar beneficio/riesgo en infecciones graves. Se excreta en muy bajas cantidades en la leche materna; precaución en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis debido a la baja exposición sistémica.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Puede interferir con la eficacia de la vacuna viva atenuada contra la influenza (evitar administrar la vacuna dentro de las 48 horas posteriores a la suspensión del antiviral).",
+      "reacciones_adversas": "Broncoespasmo; disnea; irritación o la sensación de opresión en la garganta; erupción cutánea; urticaria; mareos; somnolencia; comportamiento anómalo o confusión (raro).",
+      "toxicidad_sobredosis": "Baja toxicidad sistémica por escasa absorción; riesgo de broncoespasmo agudo.",
+      "antidotos": "Tratamiento de soporte y administración de un broncodilatador de acción corta (salbutamol) por vía inhalatoria.",
+      "monitorizacion": {
+        "clinica": "Evaluación de la función respiratoria (sibilancias, tos, disnea), saturación de O2 y estado neuropsiquiátrico en niños.",
+        "laboratorio": "No requiere análisis de laboratorio de rutina salvo confirmación virológica de influenza."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar antecedentes de asma o EPOC e instruir al paciente en la técnica correcta de inhalación oral mediante el dispositivo Diskhaler.",
+        "durante": "Monitorear la aparición de tos persistente o dificultad para respirar inmediatamente después de la inhalación.",
+        "despues": "Valorar la reducción de la fiebre y la mejoría de los síntomas gripales."
+      },
+      "presentaciones": "Polvo seco para inhalación oral en blisters de 5 mg por dosis (dispositivo para inhalación oral tipo Diskhaler).",
+      "dosis": {
+        "adultos": "Tratamiento: 10 mg (2 inhalaciones de 5 mg) dos veces al día durante 5 días; Profilaxis: 10 mg (2 inhalaciones) una vez al día durante 10 días.",
+        "pediatrico": "Tratamiento (≥ 5 años): 10 mg (2 inhalaciones) dos veces al día por 5 días; Profilaxis (≥ 7 años): 10 mg una vez al día.",
+        "geriatrico": "Dosis habitual no requiriendo ajuste por la edad sola."
+      },
+      "vias_administracion": "Vía inhalatoria oral exclusiva (PROHIBIDA LA VÍA NEBULIZADA CON SOLUCIÓN O PARENTERAL).",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; se utiliza directamente mediante el dispositivo inhalador especial suministrado por el fabricante.",
+        "compatibilidad_iv": "TOTALMENTE INCOMPATIBLE PARA VÍA INTRAVENOSA O NEBULIZACIÓN PARENTERAL."
+      },
+      "velocidad_infusion": "No aplica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad en su envase original con blisters sellados.",
+      "concentracion": "5 mg por alvéolo/dosis de polvo seco.",
+      "alarma_riesgo": "Riesgo de broncoespasmo mortal si se administra a pacientes asmáticos y fallo terapéutico por técnica incorrecta.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Confirmar que el paciente no tenga diagnóstico previo de asma o EPOC antes de iniciar la inhalación.;",
+          "Garantizar que el paciente inhale primero un broncodilatador de acción rápida si lo tiene prescrito con anterioridad.;",
+          "Vigilar la mecánica respiratoria y auscultar campos pulmonares tras las primeras dosis para descartar sibilancias.;"
+        ],
+        "educacion_paciente": [
+          "Enseñar el uso correcto del dispositivo Diskhaler: exhalar completamente, colocar la boquilla entre los labios e inhalar profundamente por la boca.;",
+          "Tener a mano un inhalador de rescate (salbutamol) y suspender la toma si siente falta de aire o ahogo.;",
+          "Completar los 5 días enteros de tratamiento aun cuando la fiebre o los síntomas hayan desaparecido."
+        ]
+      }
     }
   ]
 }
