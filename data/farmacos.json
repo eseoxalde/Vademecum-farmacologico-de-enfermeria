@@ -20225,6 +20225,73 @@
           "Informar si presenta dolor articular persistente, rigidez en las manos o síntomas de descalcificación."
         ]
       }
+    },
+    {
+      "id": "278",
+      "nombre_generico": "Letrozol",
+      "letra": "L",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Letrozol",
+        "clasificacion": "Antineoplásico, inhibidor selectivo no esteroideo de la aromatasa (de tercera generación)",
+        "efecto_terapeutica": "Supresión estrogénica casi total (> 98%) en mujeres posmenopáusicas",
+        "mecanismo_accion": "Inhibe competitivamente la enzima aromatasa mediante la unión al hemo de la subunidad citocromo P450 de la enzima, bloqueando la síntesis de estrógenos en todos los tejidos periféricos"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Rápida y completa absorción oral; los alimentos no modifican significativamente la extensión de su absorción",
+        "distribucion": "Unión moderada a proteínas plasmáticas (55%); volumen de distribución amplio",
+        "metabolismo": "Hepático lento por las isoenzimas CYP3A4 y CYP2A6 al metabolito inactivo carbinol",
+        "eliminacion": "Excreción renal principal en forma de metabolitos y menos del 6% inalterado con una vida media de 2 a 4 días"
+      },
+      "indicaciones": "Tratamiento adyuvante, adyuvante extendido y metastásico del cáncer de mama precoz o avanzado en mujeres posmenopáusicas con receptores hormonales positivos (RE+).",
+      "contraindicaciones": "Hipersensibilidad al letrozol; estado hormonal premenopáusico; embarazo y lactancia; disfunción hepática grave.",
+      "precauciones": "Riesgo elevado de pérdida de masa ósea (osteoporosis y fracturas); hipercolesterolemia; dolor articular e inflamación musculoesquelética; somnolencia y mareo.",
+      "advertencias": "Ineficaz en mujeres con función ovárica activa. Requiere suplementación con calcio y vitamina D.",
+      "embarazo_lactancia": "Categoría X en el embarazo; alto riesgo de anomalías congénitas y muerte fetal. Contraindicado durante la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste si el clearance es ≥ 10 ml/min; usar con precaución si es < 10 ml/min.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada; reducir al 50% o dar en días alternos en cirrosis grave (Child-Pugh C)."
+      },
+      "interacciones": "El tamoxifeno o los productos con estrógenos reducen la concentración de letrozol o anulan su efecto terapéutico.",
+      "reacciones_adversas": "Artralgias; sofocos; fatiga; astenia; mialgias; osteopenia; osteoporosis; hipercolesterolemia; náuseas; sudoración nocturna; cefalea; alopecia leve.",
+      "toxicidad_sobredosis": "Baja toxicidad clínica; intensificación de los síntomas de la menopausia.",
+      "antidotos": "Tratamiento sintomático de soporte.",
+      "monitorizacion": {
+        "clinica": "Control periódicos de la densidad mineral ósea (DEXA), síntomas articulares, nivel de colesterol y presión arterial.",
+        "laboratorio": "Densitometría ósea basal y de seguimiento, colesterol total y perfil lipídico, y enzimas hepáticas."
+      },
+      "parametros_valoracion": {
+        "antes": "Asegurar el estado posmenopáusico de la paciente e indagar antecedentes de osteoporosis o fracturas.",
+        "durante": "Monitorear dolor en articulaciones, columna o caderas.",
+        "despues": "Valorar la respuesta oncológica y la preservación de la masa ósea."
+      },
+      "presentaciones": "Comprimidos recubiertos de 2.5 mg.",
+      "dosis": {
+        "adultos": "2.5 mg una vez al día por vía oral de forma continua durante 5 años (o según esquema secuencial).",
+        "pediatrico": "Uso no recomendado de rutina en pediatría.",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste automático por edad."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad.",
+      "concentracion": "2.5 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de osteoporosis grave con fracturas por fragilidad y falta de eficacia en pacientes premenopáusicas.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar la dosis única diaria de 2.5 mg con o sin alimentos a la misma hora del día.;",
+          "Confirmar que la paciente reciba suplementación adecuada con calcio y vitamina D.;",
+          "Evaluar la salud ósea mediante densitometría basal y periódica por riesgo de osteoporosis.;"
+        ],
+        "educacion_paciente": [
+          "Tomar un comprimido entero al día con un vaso de agua con o sin alimentos.;",
+          "Consultar al médico si presenta dolor muscular u óseo severo o rigidez en las articulaciones.;",
+          "Cumplir con las tomas diarias sin interrupción y realizar ejercicios de impacto para proteger los huesos."
+        ]
+      }
     }
   ]
 }
