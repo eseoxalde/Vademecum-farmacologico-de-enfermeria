@@ -19890,6 +19890,73 @@
           "Avisar de inmediato ante tinte amarillo en piel u ojos, falta de aire o hinchazón en las piernas."
         ]
       }
+    },
+    {
+      "id": "273",
+      "nombre_generico": "Nivolumab",
+      "letra": "N",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Nivolumab",
+        "clasificacion": "Antineoplásico, anticuerpo monoclonal humano IgG4 anti-PD-1 (inhibidor de punto de control inmunitario)",
+        "efecto_terapeutica": "Restaurador de la respuesta inmunitaria antitumoral mediada por linfocitos T",
+        "mecanismo_accion": "Se une al receptor de muerte celular programada 1 (PD-1) en los linfocitos T bloqueando su interacción con los ligandos PD-L1 y PD-L2, revirtiendo la inhibición inmunitaria y potenciando la respuesta citotóxica contra las células tumorales"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa",
+        "distribucion": "Volumen de distribución confinado al espacio vascular y fluido extravascular",
+        "metabolismo": "Degradación catabólica a pequeñas moléculas peptídicas a través del sistema reticuloendotelial",
+        "eliminacion": "Aclaramiento sistémico lineal con vida media de eliminación aproximada de 25 días"
+      },
+      "indicaciones": "Melanoma avanzado, cáncer de pulmón no microcítico, carcinoma de células renales, linfoma de Hodgkin clásico, cáncer de cabeza y cuello, carcinoma urotelial, cáncer colorrectal MSI-H/dMMR y adenocarcinoma gástrico.",
+      "contraindicaciones": "Hipersensibilidad al nivolumab o sus excipientes; enfermedades autoinmunes graves no controladas; embarazo y lactancia.",
+      "precauciones": "Riesgo muy alto de reacciones adversas inmunomediadas (neumonitis, colitis, hepatitis, endocrinopatías como tiroiditis o hipofisitis, nefritis y miocarditis); reacciones asociadas a la infusión.",
+      "advertencias": "Las reacciones inmunitarias pueden aparecer en cualquier órgano durante o meses después de suspender el tratamiento y requieren corticoides sistémicos tempranos.",
+      "embarazo_lactancia": "Categoría D en el embarazo; el IgG4 atraviesa la placenta provocando aborto o daño inmune fetal. Contraindicado en la lactancia.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve, moderada o severa.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve; precaución en moderada a severa."
+      },
+      "interacciones": "El uso de inmunosupresores o corticoides a dosis altas antes de iniciar puede reducir su eficacia; evitar vacunas a virus vivos.",
+      "reacciones_adversas": "Fatiga; erupción cutánea; prurito; diarrea; náuseas; artralgias; endocrinopatías (hipotiroidismo, hipertiroidismo); neumonitis inmune; elevación de transaminasas; nefritis inmune.",
+      "toxicidad_sobredosis": "Exacerbación de las reacciones adversas autoinmunes sistémicas.",
+      "antidotos": "Tratamiento de soporte, corticoides sistémicos a dosis altas (metilprednisolona/prednisona 1-2 mg/kg/día) e inmunosupresores como infliximab.",
+      "monitorizacion": {
+        "clinica": "Control riguroso de función respiratoria (tos, disnea), hábito intestinal (diarrea), síntomas endocrinos (fatiga, intolerancia al frío) y erupción cutánea.",
+        "laboratorio": "TSH, T4 libre, glucemia, AST, ALT, bilirrubina total, urea, creatinina y electrolitos antes de cada dosis."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar la función tiroidea, hepática y renal basales y descarta cualquier sospecha de neumonitis previa.",
+        "durante": "Monitorear la infusión IV de 30 a 60 minutos mediante filtro en línea de 0.2 micras.",
+        "despues": "Instruir al paciente sobre la detección precoz de diarrea, falta de aire o ictericia."
+      },
+      "presentaciones": "Frasco ampolla de 40 mg/4 ml, 100 mg/10 ml y 240 mg/24 ml de solución concentrada (10 mg/ml).",
+      "dosis": {
+        "adultos": "240 mg IV cada 2 semanas (administrados en 30 minutos) o 480 mg IV cada 4 semanas (en 60 minutos).",
+        "pediatrico": "3 mg/kg IV cada 2 semanas en protocolos hemato-oncológicos pediátricos seleccionados.",
+        "geriatrico": "Dosis habitual sin necesidad de ajuste automático por edad."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Se puede infundir directo o diluir la dosis requerida en solución fisiológica o dextrosa al 5% hasta una concentración final de 1 mg/ml a 10 mg/ml.",
+        "compatibilidad_iv": "Compatible con solución fisiológica y dextrosa al 5% (utilizar filtro de línea de 0.2 micras)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV continua en un período de 30 a 60 minutos según la dosis.",
+      "estabilidad_soluciones": "Estable durante 24 horas refrigerado (2°C - 8°C) o hasta 8 horas a temperatura ambiente tras la preparación.",
+      "concentracion": "10 mg/ml (concentración de la solución concentrada original).",
+      "alarma_riesgo": "Riesgo de reacciones autoinmunes graves y mortales (neumonitis, colitis, miocarditis) si no se inician corticoides tempranamente.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Infundir utilizando un sistema con filtro de línea esterilizado de baja unión a proteínas de 0.2 a 1.2 micras.;",
+          "Controlar las pruebas de función tiroidea, hepática y renal antes de aplicar cada ciclo.;",
+          "Vigilar estrechamente cualquier tos nueva, disnea o aumento de deposiciones por riesgo autoinmune.;"
+        ],
+        "educacion_paciente": [
+          "Informar de inmediato si presenta tos seca repentina, dificultad para respirar o dolor en el pecho.;",
+          "Avisar al médico de urgencia ante diarrea frecuente, dolor abdominal, orina oscura o piel amarilla.;",
+          "Notificar cansancio extremo, cambios de humor, mareos o sensibilidad inusual al frío o al calor."
+        ]
+      }
     }
   ]
 }
