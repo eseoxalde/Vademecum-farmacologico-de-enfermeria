@@ -21096,6 +21096,73 @@
           "Comprender que este fármaco se utiliza para proteger al corazón o neutralizar la quemadura de la quimioterapia."
         ]
       }
+    },
+    {
+      "id": "291",
+      "nombre_generico": "Dimetilsulfóxido (DMSO)",
+      "letra": "D",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Dimetilsulfóxido (DMSO)",
+        "clasificacion": "Antídoto tópico para extravasación de antineoplásicos, solvente orgánico crioprotector",
+        "efecto_terapeutica": "Neutralización local y absorción tisular rápida de agentes antineoplásicos extravasados (principalmente antraciclinas y mitomicina C)",
+        "mecanismo_accion": "Penetra velozmente a través de las capas cutáneas actuando como un potente captador de radicales libres de oxígeno, disolviendo el fármaco extravasado y facilitando su rápida eliminación sistémica a través de los capilares"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción cutánea rápida e ininterrumpida a través de la piel intacta",
+        "distribucion": "Amplia distribución sistémica con penetración profunda en los tejidos blandos subcutáneos",
+        "metabolismo": "Hepático a dimetilsulfona (DMSO2) y dimetilsulfuro (DMS, responsable del olor característico)",
+        "eliminacion": "Excreción renal en forma de dimetilsulfona y eliminación pulmonar/cutánea de dimetilsulfuro con olor ajáceo"
+      },
+      "indicaciones": "Tratamiento de la extravasación accidental de antineoplásicos vesicantes o irritantes (especialmente antraciclinas como doxorrubicina, epirrubicina, y mitomicina C).",
+      "contraindicaciones": "Hipersensibilidad al dimetilsulfóxido; aplicación en zonas con heridas abiertas o necrosis avanzada; embarazo y lactancia.",
+      "precauciones": "Riesgo de irritación cutánea local intensa, eritema y descamación; no utilizar apósitos oclusión sobre la zona aplicada; produce un aliento y olor corporal aliáceo (a ajo) característico.",
+      "advertencias": "Debe aplicarse tópicamente a la concentración adecuada (50% a 99%) sobre la zona afectada dejando secar al aire libre.",
+      "embarazo_lactancia": "Categoría C en el embarazo; usar solo si es estrictamente necesario. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajustes de dosis.",
+        "hepatico": "No requiere ajustes de dosis."
+      },
+      "interacciones": "Aumenta de forma drástica la permeabilidad cutánea a otras sustancias químicas tópicas que se apliquen simultáneamente.",
+      "reacciones_adversas": "Eritema local; sensación de quemazón cutánea; prurito; sequedad y descamación de la piel; olor corporal y del aliento a ajo o marisco; dermatitis de contacto.",
+      "toxicidad_sobredosis": "Irritación cutánea severa, ampollamiento local y sedación o mareo por absorción sistémica excesiva.",
+      "antidotos": "Lavado de la piel con abundante agua y suspensión de la aplicación tópica.",
+      "monitorizacion": {
+        "clinica": "Control continuo de la zona piel extravasada (eritema, dolor, induración, vesiculación) y tolerancia cutánea.",
+        "laboratorio": "No requiere controles específicos de laboratorio salvo evolución clínica local."
+      },
+      "parametros_valoracion": {
+        "antes": "Delimitar con un marcador la zona de extravasación y limpiar la piel sin frotar con fuerza.",
+        "durante": "Pincelar la solución tópica suavemente sobre la zona sin ocluir.",
+        "despues": "Dejar secar completamente al aire antes de cubrir con ropa holgada."
+      },
+      "presentaciones": "Solución tópica de DMSO al 50% y 99%.",
+      "dosis": {
+        "adultos": "Aplicar de 4 a 8 gotas de la solución tópica al 99% sobre la zona de extravasación cada 6 a 8 horas durante 7 a 14 días.",
+        "pediatrico": "Aplicar la solución tópica con pinceladas suaves en el área afectada bajo supervisión especializada.",
+        "geriatrico": "Dosis habitual con precaución por piel frágil o senil."
+      },
+      "vias_administracion": "Vía tópica exclusiva (PROHIBIDA LA VÍA INYECTABLE).",
+      "preparacion": {
+        "dilucion": "Viene listo para su uso tópico directo; utilizar guantes de nitrilo para su aplicación.",
+        "compatibilidad_iv": "INCOMPATIBLE PARA VÍA PARENTERAL O INTRAVENOSA."
+      },
+      "velocidad_infusion": "No aplica por ser de administración tópica.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la luz en envase hermético.",
+      "concentracion": "Solución al 50% o 99%.",
+      "alarma_riesgo": "Administración parenteral accidental mortal y quemadura química si se ocluye la zona aplicada.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Aplicar con gasa o pincel sobre el área delimitada de extravasación sin frotar ni masajear.;",
+          "NUNCA ocluir la zona de piel tratada con vendas ni apósitos plásticos tras la aplicación.;",
+          "Utilizar guantes de nitrilo (no de látex) al manipular la solución para evitar la absorción personal.;"
+        ],
+        "educacion_paciente": [
+          "Comprender que es normal sentir un sabor y olor característico a ajo en la boca y piel durante el tratamiento.;",
+          "Dejar secar al aire la zona tratada y no cubrir con vendas o ropa apretada.;",
+          "Avisar al equipo de salud si nota enrojecimiento extremo, dolor intenso o ampollas en la zona tratada."
+        ]
+      }
     }
   ]
 }
