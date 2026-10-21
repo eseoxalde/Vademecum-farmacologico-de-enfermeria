@@ -20895,6 +20895,73 @@
           "Beber abundante cantidad de agua u otros líquidos durante todo el tratamiento."
         ]
       }
+    },
+    {
+      "id": "288",
+      "nombre_generico": "Rasburicasa",
+      "letra": "R",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Rasburicasa",
+        "clasificacion": "Antineoplásico, enzima urato oxidasa recombinante (hipouricemiante lítico)",
+        "efecto_terapeutica": "Degradación enzimática directa e inmediata del ácido úrico a alantoína soluble",
+        "mecanismo_accion": "Cataliza la oxidación enzimática directa del ácido úrico hacia alantoína, un metabolito inactivo e hidrosoluble que se excreta fácilmente por la vía renal sin riesgo de cristalización"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intravenosa con disponibilidad inmediata",
+        "distribucion": "Volumen de distribución reducido similar al espacio vascular",
+        "metabolismo": "Aclaramiento por degradación peptídica enzimática como proteína recombinante",
+        "eliminacion": "Excreción no renal directa del principio activo; la alantoína resultante se excreta por vía renal con vida media de 18 a 21 horas"
+      },
+      "indicaciones": "Tratamiento y prevención de la hiperuricemia aguda en adultos y niños con hemopatías malignas o tumores sólidos con alto riesgo de síndrome de lisis tumoral (SLT).",
+      "contraindicaciones": "Hipersensibilidad a la rasburicasa; deficiencia de glucosa-6-fosfato deshidrogenasa (G6PD) u otras alteraciones metabólicas eritrocutáneas (riesgo de hemólisis y metafemoglobinemia grave); embarazo y lactancia.",
+      "precauciones": "Riesgo de reacciones alérgicas graves e inmunogenicidad (anafilaxia); desarrollo de metahemoglobinemia o anemia hemolítica; artefacto de laboratorio en la medición de ácido úrico a temperatura ambiente.",
+      "advertencias": "Las muestras de sangre para ácido úrico deben conservarse en hielo y analizarse dentro de las 4 horas para evitar la degradación in vitro por la enzima activa.",
+      "embarazo_lactancia": "Categoría C en el embarazo; teratógeno potencial. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste de dosis.",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "No se han demostrado interacciones enzimáticas dependientes del citocromo P450.",
+      "reacciones_adversas": "Fiebre; cefalea; diarrea; náuseas; vómitos; reacciones alérgicas (exantema, broncoespasmo, anafilaxia); hemólisis; metasegmentación/metahemoglobinemia; neutropenia.",
+      "toxicidad_sobredosis": "Hemólisis intravascular grave, metahaemoglobinemia e hipotensión anafilactoide.",
+      "antidotos": "Tratamiento de soporte, suspensión inmediata del fármaco y azul de metileno en metahaemoglobinemia (si no hay G6PDD).",
+      "monitorizacion": {
+        "clinica": "Control riguroso de constantes vitales durante la infusión (alergia), diuresis, saturación de O2 y coloración cutánea (cianosis/ictericia).",
+        "laboratorio": "Ácido úrico en tubos sumergidos en hielo inmediatamente tras la extracción, hemograma (para descartar hemólisis) e ionograma."
+      },
+      "parametros_valoracion": {
+        "antes": "Descartar la deficiencia de G6PD en el paciente e instruir al laboratorio sobre el manejo de la muestra de sangre en hielo.",
+        "durante": "Monitorear la infusión IV de 30 minutos por reacciones anafilácticas.",
+        "despues": "Valorar la rápida caída del ácido úrico en sangre."
+      },
+      "presentaciones": "Frasco ampolla de 1.5 mg y 7.5 mg de liofilizado con ampolla de disolvente.",
+      "dosis": {
+        "adultos": "0.20 mg/kg/día IV en infusión de 30 minutos durante 1 a 5 días (a menudo es suficiente una dosis única o 0.15 mg/kg según protocolos).",
+        "pediatrico": "0.20 mg/kg/día IV administrados en 30 minutos durante 1 a 5 días.",
+        "geriatrico": "Dosis habitual no requiriendo ajuste por la edad sola."
+      },
+      "vias_administracion": "Intravenosa en infusión.",
+      "preparacion": {
+        "dilucion": "Reconstituir el liofilizado con su diluyente específico e incorporar la dosis en 50 ml de solución fisiológica.",
+        "compatibilidad_iv": "Compatible exclusivamente con solución fisiológica (no usar filtros ni mezclar con otros medicamentos o dextrosa)."
+      },
+      "velocidad_infusion": "Administrar por infusión IV en un período exacto de 30 minutos.",
+      "estabilidad_soluciones": "La solución diluida debe utilizarse inmediatamente o dentro de las 24 horas si se conserva refrigerada (2°C - 8°C).",
+      "concentracion": "1.5 mg/ml (concentración tras la reconstitución del vial).",
+      "alarma_riesgo": "Riesgo de hemólisis masiva en pacientes con deficiencia de G6PD y resultados de ácido úrico falsamente bajos si no se enfría la muestra.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Diluir exclusivamente en solución fisiológica e infundir por vía independiente durante 30 minutos.;",
+          "Sumergir los tubos de muestra de sangre para ácido úrico en agua con hielo inmediatamente para el laboratorio.;",
+          "Descartar la deficiencia de la enzima G6PD antes de aplicar la primera dosis por riesgo de hemólisis.;"
+        ],
+        "educacion_paciente": [
+          "Informar de inmediato durante la inyección si nota opresión en el pecho, falta de aire, calor o erupción.;",
+          "Avisar si nota la piel o los labios de color azulado, mareos o fatiga extrema (signos de metahaemoglobinemia).;",
+          "Comprender la importancia de someterse a análisis de sangre periódicos para medir el ácido úrico."
+        ]
+      }
     }
   ]
 }
