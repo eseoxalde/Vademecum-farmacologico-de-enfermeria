@@ -19689,6 +19689,73 @@
           "Avisar de inmediato ante dolor en el pecho, hinchazón de pies, cansancio extremo, aftas en la boca o dolor mandibular."
         ]
       }
+    },
+    {
+      "id": "270",
+      "nombre_generico": "Regorafenib",
+      "letra": "R",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Regorafenib monohidrato",
+        "clasificacion": "Antineoplásico, inhibidor multiquinasa oral de amplio espectro",
+        "efecto_terapeutica": "Inhibidor de la angiogénesis, la oncogénesis y el microambiente tumoral",
+        "mecanismo_accion": "Inhibe múltiples tirosina quinasas de receptores involucrados en la angiogénesis (VEGFR-1, VEGFR-2, VEGFR-3, TIE-2), la oncogénesis (KIT, RET, RAF-1, BRAF) y el estroma tumoral (PDGFR-beta, FGFR-1)"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Buena absorción oral; la biodisponibilidad aumenta con un desayuno bajo en grasa",
+        "distribucion": "Alta unión a proteínas plasmáticas (> 99.5% regorafenib y metabolitos activos)",
+        "metabolismo": "Hepático extenso por CYP3A4 y glucuronidación por UGT1A9 a dos metabolitos activos principales (M-2 y M-5)",
+        "eliminacion": "Excreción fecal principal (71%) y renal (19%) con vida media de 20 a 30 horas"
+      },
+      "indicaciones": "Cáncer colorrectal metastásico previamente tratado con terapias estándar, tumores del estroma gastrointestinal (GIST) metastásicos o irresecables tras imatinib y sunitinib, y carcinoma hepatocelular (CHC) tratado con sorafenib.",
+      "contraindicaciones": "Hipersensibilidad al regorafenib; insuficiencia hepática grave; embarazo y lactancia.",
+      "precauciones": "Riesgo muy alto de hepatotoxicidad severa o mortal; hemorragias graves; reacción cutánea mano-pie (síndrome de eritroditesia palmo-plantar); hipertensión arterial; perforación gastrointestinal.",
+      "advertencias": "Monitorear las pruebas de función hepática antes de iniciar y cada 2 semanas durante los primeros 2 meses de tratamiento.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo teratogénico y embrionario alto. Contraindicado en la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve o moderada; no estudiado en severa.",
+        "hepatico": "No requiere ajuste en insuficiencia hepática leve a moderada (Child-Pugh A y B); contraindicado en Child-Pugh C."
+      },
+      "interacciones": "Inhibidores potentes de CYP3A4 (ketoconazol) aumentan la exposición a metabolitos activos; los inductores (rifampicina) reducen su eficacia; aumenta concentraciones de sustratos de BCRP.",
+      "reacciones_adversas": "Reacción cutánea mano-pie; diarrea; astenia; hipertensión arterial; estomatitis; disfonia; anorexia; pérdida de peso; trombocitopenia; elevación de transaminasas e hiperbilirrubinemia.",
+      "toxicidad_sobredosis": "Hepatotoxicidad severa, dermatitis palmo-plantar incapacitante e hipertensión no controlada.",
+      "antidotos": "Tratamiento de soporte, antihipertensivos y suspensión inmediata ante hepatotoxicidad.",
+      "monitorizacion": {
+        "clinica": "Control de la función hepática, presión arterial, lesiones en manos y pies, eventos hemorrágicos y dolor abdominal.",
+        "laboratorio": "AST, ALT, bilirrubina total quincenal los primeros 2 meses y luego mensual; hemograma completo e INR."
+      },
+      "parametros_valoracion": {
+        "antes": "Evaluar el perfil hepático completo basal y asegurar valores de presión arterial controlados.",
+        "durante": "Monitorear en cada ciclo la aparición de ictericia, hipertensión o dolor en manos/pies.",
+        "despues": "Valorar la respuesta tumoral y la función hepática."
+      },
+      "presentaciones": "Comprimidos recubiertos de 40 mg.",
+      "dosis": {
+        "adultos": "160 mg (4 comprimidos de 40 mg) una vez al día por vía oral durante 21 días seguidos de 7 días de descanso (ciclo de 28 días).",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual con estrecho monitoreo hepático y cutáneo."
+      },
+      "vias_administracion": "Vía oral.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; los comprimidos se ingieren enteros.",
+        "compatibilidad_iv": "Formulación oral exclusiva."
+      },
+      "velocidad_infusion": "No aplica por ser de administración oral.",
+      "estabilidad_soluciones": "Conservar a temperatura ambiente protegida de la humedad en su envase original con desecante.",
+      "concentracion": "40 mg por comprimido.",
+      "alarma_riesgo": "Riesgo de hepatotoxicidad fulminante e inflamación invalidante en manos y pies.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar a la misma hora cada día junto con un desayuno bajo en grasas (menos del 30% de grasa).;",
+          "Controlar las transaminasas y bilirrubina quincenalmente durante los primeros dos meses de tratamiento.;",
+          "Monitorear la presión arterial semanalmente y suspender si presenta crisis hipertensiva.;"
+        ],
+        "educacion_paciente": [
+          "Tomar los 4 comprimidos juntos por la mañana después de un desayuno liviano no graso con agua.;",
+          "Avisar de inmediato ante tinte amarillo en piel u ojos, orina oscura, dolor en el costado derecho o náuseas.;",
+          "Informar si presenta ampollas o enrojecimiento doloroso en las palmas de las manos o plantas de los pies."
+        ]
+      }
     }
   ]
 }
