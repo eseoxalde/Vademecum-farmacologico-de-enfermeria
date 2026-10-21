@@ -20091,6 +20091,73 @@
           "Avisar de urgencia ante dolor o hinchazón en las piernas, falta de aire repentina o dolor en el pecho."
         ]
       }
+    },
+    {
+      "id": "276",
+      "nombre_generico": "Fulvestrant",
+      "letra": "F",
+      "alto_riesgo": false,
+      "farmacodinamia": {
+        "principio_activo": "Fulvestrant",
+        "clasificacion": "Antineoplásico, degradador selectivo del receptor de estrógeno (SERD)",
+        "efecto_terapeutica": "Inhibidor completo de la señalización estrogénica mediante la degradación del receptor en células tumorales mamarias",
+        "mecanismo_accion": "Se une de forma competitiva a los receptores de estrógeno con una afinidad similar al estradiol, bloqueando la receptorización, inhibiendo la dimerización y desencadenando la degradación proteica del receptor"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Administración parenteral exclusiva por vía intramuscular profunda de liberación prolongada (alcanza picos en 5 a 7 días)",
+        "distribucion": "Amplia distribución tisular con elevada unión a proteínas plasmáticas (99%, principalmente VLDL y LDL)",
+        "metabolismo": "Hepático extenso por múltiples vías enzimáticas (incluyendo CYP3A4 y glucuronidación) a metabolitos inactivos",
+        "eliminacion": "Excreción fecal principal (> 90%) y eliminación renal menor (< 1%) con vida media de 40 a 50 días"
+      },
+      "indicaciones": "Cáncer de mama localmente avanzado o metastásico con receptores hormonales positivos (RE+) en mujeres posmenopáusicas (en monoterapia o combinado con palbociclib, abemaciclib o anastrozol).",
+      "contraindicaciones": "Hipersensibilidad al fulvestrant o a sus excipientes (contiene alcohol y aceite de ricino); insuficiencia hepática grave; embarazo y lactancia.",
+      "precauciones": "Riesgo de sangrado o hematomas en el sitio de inyección (usar con precaución en coagulopatías o anticoagulación); reacciones en el sitio de inyección; osteopenia/osteoporosis.",
+      "advertencias": "Debe administrarse únicamente por vía intramuscular mediante dos inyecciones lentas de 5 ml cada una en ambos glúteos.",
+      "embarazo_lactancia": "Categoría D en el embarazo; riesgo de malformación y pérdida fetal. Contraindicado durante la lactancia materna.",
+      "ajustes": {
+        "renal": "No requiere ajuste en insuficiencia renal leve o moderada; precaución en severa.",
+        "hepatico": "Reducir la dosis a 250 mg intramuscular en insuficiencia hepática moderada (Child-Pugh B); contraindicado en severa."
+      },
+      "interacciones": "No se han demostrado interacciones clínicamente significativas mediadas por el citocromo P450.",
+      "reacciones_adversas": "Reacciones en el sitio de inyección (dolor, inflamación); sofocos; astenia; fatiga; náuseas; elevación de enzimas hepáticas; dolores musculoesqueléticos y articulares; exantema cutáneo.",
+      "toxicidad_sobredosis": "Exacerbación de los sofocos, dolor articular y molestias en el sitio de inyección.",
+      "antidotos": "Tratamiento de soporte sintomático.",
+      "monitorizacion": {
+        "clinica": "Control del sitio de aplicación glútea, dolor articular, tolerancia general y función hepática.",
+        "laboratorio": "AST, ALT, bilirrubina total y pruebas de coagulación previa en pacientes anticoagulados."
+      },
+      "parametros_valoracion": {
+        "antes": "Comprobar que el producto esté a temperatura ambiente y preparar las dos jeringas prellenadas de 250 mg/5 ml.",
+        "durante": "Inyectar lentamente por vía intramuscular profunda una jeringa en cada glúteo (durante 1-2 minutos por inyección).",
+        "despues": "Evaluar la presencia de hematomas locales o reacción de hipersensibilidad."
+      },
+      "presentaciones": "Jeringas prellenadas de 250 mg/5 ml de solución inyectable (pack de 2 jeringas = 500 mg).",
+      "dosis": {
+        "adultos": "500 mg IM (dos inyecciones de 250 mg/5 ml) los días 1, 15 y 29, y posteriormente una vez al mes.",
+        "pediatrico": "Uso no establecido en la población pediátrica.",
+        "geriatrico": "Dosis habitual sin ajuste específico por la edad sola."
+      },
+      "vias_administracion": "Intramuscular profunda exclusiva.",
+      "preparacion": {
+        "dilucion": "No requiere reconstitución; viene listo para usar en jeringas prellenadas con sus agujas de seguridad.",
+        "compatibilidad_iv": "PROHIBIDA LA VÍA INTRAVENOSA."
+      },
+      "velocidad_infusion": "Administrar por inyección IM lenta durante 1 a 2 minutos por cada glúteo.",
+      "estabilidad_soluciones": "Conservar y transportar refrigerado (2°C - 8°C) en su empaque original.",
+      "concentracion": "50 mg/ml (concentración de la solución inyectable en la jeringa).",
+      "alarma_riesgo": "Administración accidental en vasos sanguíneos o en nervio ciático por técnica IM incorrecta.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Administrar mediante dos inyecciones IM profundas de 5 ml lentamente (1-2 minutos cada una) en el área dorsoglútea superior externa.;",
+          "Atemperar las jeringas prellenadas a temperatura ambiente antes de aplicar para reducir la viscosidad y el dolor.;",
+          "Respetar el esquema de carga (días 1, 15 y 29) antes de pasar al mantenimiento mensual.;"
+        ],
+        "educacion_paciente": [
+          "Saber que el medicamento se aplica mediante dos inyecciones musculares en los glúteos cada mes.;",
+          "Avisar al personal de salud si siente dolor intenso que se irradia por la pierna o molestia severa en la zona.;",
+          "Informar la presencia de sofocos intensos, dolores en las articulaciones o fatiga."
+        ]
+      }
     }
   ]
 }
