@@ -24290,6 +24290,73 @@
           "Repetir la aplicación completa a los 7 días para asegurar la eliminación de ninfas recién eclosionadas."
         ]
       }
+    },
+    {
+      "id": "339",
+      "nombre_generico": "Digoxina",
+      "letra": "D",
+      "alto_riesgo": true,
+      "farmacodinamia": {
+        "principio_activo": "Digoxina",
+        "clasificacion": "Inotrópico positivo, glucósido cardíaco / digitalico",
+        "efecto_terapeutica": "Aumento de la fuerza de contracción miocárdica (inotropismo +) y disminución de la frecuencia cardíaca / conducción AV (cronotropismo -)",
+        "mecanismo_accion": "Inhibe de forma reversible la bomba de sodio y potasio ATPasa (Na+/K+-ATPasa) en la membrana de las células miocárdicas, aumentando el sodio intracelular y favoreciendo la entrada de calcio por el intercambiador Na+/Ca2+; estimula el tono vagal reduciendo la conducción en el nodo AV"
+      },
+      "farmacocinetica_adme": {
+        "absorcion": "Absorción oral del 60 al 80% (comprimidos) y 80 a 85% (elixir/solución); la presencia de alimentos retrasa su absorción",
+        "distribucion": "Amplio volumen de distribución; se fija intensamente al tejido cardíaco y muscular esquelético; unión a proteínas del 25%; atraviesa la placenta",
+        "metabolismo": "Hepático menor (10 a 20%) sin depender en gran medida del sistema citocromo P450",
+        "eliminacion": "Excreción renal masiva por filtración glomerular en forma inalterada (60-80%) con una vida media plasmática de 36 a 48 horas (se prolonga a 3-5 días en anuria)"
+      },
+      "indicaciones": "Tratamiento de la insuficiencia cardíaca sistólica sintomática (combinado con diuréticos e IECA) y control de la frecuencia ventricular en la fibrilación auricular y aleteo auricular crónicos.",
+      "contraindicaciones": "Hipersensibilidad a la digoxina u otros glucósidos cardíacos; bloqueo auriculoventricular de 2° o 3° grado (sin marcapasos); sospecha o intoxicación digitalica; taquicardia o fibrilación ventricular; síndrome de Wolff-Parkinson-White; miocardiopatía hipertrófica obstructiva.",
+      "precauciones": "Margen terapéutico extremadamente estrecho (rango: 0.5 a 0.9 ng/ml en insuficiencia cardíaca); la hipocalemia, hipomagnesemia e hipercalcemia potencian masivamente la toxicidad; insuficiencia renal (riesgo de acumulación); infarto agudo de miocardio.",
+      "advertencias": "Es un medicamento de alto riesgo. La hipocalemia inducida por diuréticos es la causa principal de arritmias ventriculares mortales inducidas por digoxina.",
+      "embarazo_lactancia": "Categoría C en el embarazo; cruza la placenta. Pasa a la leche materna en pequeñas cantidades; compatible con monitoreo del lactante.",
+      "ajustes": {
+        "renal": "Ajustar obligatoriamente la dosis de mantenimiento según clearance de creatinina: ClCr 50-80 ml/min (0.125-0.25 mg/día); ClCr 10-50 ml/min (0.0625-0.125 mg/día); ClCr < 10 ml/min (0.0625 mg cada 48 horas).",
+        "hepatico": "No requiere ajuste de dosis."
+      },
+      "interacciones": "Múltiples interacciones críticas: amiodarona, verapamilo, diltiazem, quinidina, claritromicina y propafenona duplican sus niveles en sangre (requiere reducir la digoxina al 50%); los diuréticos de asa/tiazidas causan hipocalemia e intoxicación.",
+      "reacciones_adversas": "Arritmias cardíacas (extrasístoles ventriculares en bigeminismo, bloqueo AV, taquicardia auricular con bloqueo); náuseas; vómitos; anorexia; dolor abdominal; diarrea; visión amarillenta o verdosa con halos (xantopsia); confusión; mareos.",
+      "toxicidad_sobredosis": "Intoxicación digitalica: bradicardia severa, bloqueos AV completos, taquicardia ventricular, hipercalemia aguda, vómitos incontrolables y alteración visual.",
+      "antidotos": "Anticuerpos específicos anti-digoxina (fragmentos Fab / Digitalis-Antidote IV), atropina IV para bradicardia y reposición urgente de potasio.",
+      "monitorizacion": {
+        "clinica": "Frecuencia cardíaca apical (auscultar 1 minuto completo), presión arterial, trazado electrocardiográfico y síntomas digestivos/visuales.",
+        "laboratorio": "Digoxinemia (dosaje sérico de digoxina entre 8 a 12 horas post-dosis), potasio, magnesio, calcio y creatinina sérica."
+      },
+      "parametros_valoracion": {
+        "antes": "Auscultar la frecuencia cardíaca apical durante 60 segundos; NO administrar si la FC es < 60 lat/min en adultos (o < 90 en niños).",
+        "durante": "Monitorear la infusión IV en no menos de 5 minutos.",
+        "despues": "Controlar los niveles de digoxinemia periódicos (objetivo: 0.5 a 0.9 ng/ml)."
+      },
+      "presentaciones": "Comprimidos de 0.125 mg y 0.25 mg; gotas / solución oral (0.75 mg/ml); ampolla inyectable de 0.5 mg/2 ml (0.25 mg/ml).",
+      "dosis": {
+        "adultos": "Digitalización rápida (urgencia): 0.5 mg a 1 mg IV/VO divididos en dosis fraccionadas; Mantenimiento habitual: 0.125 mg a 0.25 mg por vía oral o IV una vez al día (reducir en ancianos y falla renal).",
+        "pediatrico": "Digitalización: 20 a 30 mcg/kg IV divididos en tomas; Mantenimiento: 5 a 10 mcg/kg/día divididos en 2 tomas.",
+        "geriatrico": "Iniciar con dosis reducidas (0.0625 mg a 0.125 mg/día) debido al menor volumen de distribución y menor aclaramiento renal."
+      },
+      "vias_administracion": "Vía oral e intravenosa.",
+      "preparacion": {
+        "dilucion": "Para inyección IV, diluir la ampolla en al menos un volumen de 4 veces con solución fisiológica o dextrosa al 5% para evitar precipitación.",
+        "compatibilidad_iv": "Compatible con solución fisiológica al 0.9% y dextrosa al 5%."
+      },
+      "velocidad_infusion": "Administrar por inyección IV directa muy lenta en un período de NO MENOS de 5 minutos (evitar vasoconstricción coronaria).",
+      "estabilidad_soluciones": "Usar la solución diluida inmediatamente tras la preparación.",
+      "concentracion": "0.25 mg/ml (concentración de la solución inyectable original en ampolla).",
+      "alarma_riesgo": "Riesgo de paro cardíaco o arritmias ventriculares letales por intoxicación digitalica o hipocalemia concomitante.",
+      "cuidados_enfermeria": {
+        "cuidados": [
+          "Auscultar la frecuencia cardíaca apical durante 1 minuto completo antes de dar la dosis; suspender si la FC es < 60 lat/min.;",
+          "Infundir la dosis IV de forma muy lenta (al menos en 5 minutos) previa dilución en solución fisiológica.;",
+          "Controlar periódicamente el potasio sérico y los niveles de digoxinemia (mantenimiento: 0.5-0.9 ng/ml).;"
+        ],
+        "educacion_paciente": [
+          "Aprender a tomarse el pulso antes de ingerir la dosis diaria y avisar al médico si es inferior a 60 latidos por minuto.;",
+          "Avisar de inmediato ante náuseas, pérdida de apetito, vómitos o si ve visión amarillenta o con luces (halos).;",
+          "No tomar suplementos ni cambiar la dosis sin estricta indicación médica."
+        ]
+      }
     }
   ]
 }
