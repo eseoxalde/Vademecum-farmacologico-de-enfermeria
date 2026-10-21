@@ -3517,66 +3517,66 @@
       "id": "40",
       "nombre_generico": "Verapamilo",
       "letra": "V",
-      "alto_riesgo": false,
+      "alto_riesgo": true,
       "farmacodinamia": {
-        "principio_activo": "Verapamilo",
-        "clasificacion": "Calcioantagonista no dihidropiridínico. Antiarrítmico clase IV",
-        "efecto_terapeutica": "Disminuye la FC, conducción AV y contractilidad; produce vasodilatación",
-        "mecanismo_accion": "Bloquea canales de calcio tipo L en corazón y vasos sanguíneos"
+        "principio_activo": "Clorhidrato de verapamilo",
+        "clasificacion": "Calcioantagonista no dihidropiridínico (fenilalquilamina), antiarrítmico de clase IV y antianginoso",
+        "efecto_terapeutica": "Disminución del automatismo y velocidad de conducción en el nodo AV, enotropismo negativo y vasodilatación coronaria y arterial periférica",
+        "mecanismo_accion": "Inhibe la entrada de iones de calcio (Ca2+) a través de los canales lentos tipo L dependientes de voltaje en las células miocárdicas, del sistema de conducción del corazón y del músculo liso vascular"
       },
       "farmacocinetica_adme": {
-        "absorcion": "Oral > 90%",
-        "distribucion": "Amplia",
-        "metabolismo": "Hepático (CYP3A4)",
-        "eliminacion": "Renal y biliar; vida media 3-7 horas"
+        "absorcion": "Rápida y casi completa por vía oral (> 90%), pero con baja biodisponibilidad (20-35%) por un extenso metabolismo de primer paso hepático",
+        "distribucion": "Amplia distribución tisular con alta unión a proteínas plasmáticas (90%); atraviesa la barrera hematoencefálica, la placenta y la leche materna",
+        "metabolismo": "Hepático extenso por la isoenzima CYP3A4 (y en menor grado CYP1A2 y CYP2C9) a su metabolito activo norverapamilo (con 20% de actividad vasodilatadora)",
+        "eliminacion": "Excreción renal principal (70% como metabolitos) y biliar/fecal (16%) con una vida media de 3 a 7 horas (hasta 12 horas en administración crónica)"
       },
-      "indicaciones": "HTA, angina de pecho, taquicardia supraventricular, control de frecuencia en FA",
-      "contraindicaciones": "Hipotensión grave, shock cardiogénico, bloqueo AV avanzado, insuficiencia cardíaca grave",
-      "precauciones": "Evitar uso IV junto con betabloqueantes; riesgo de bradicardia",
-      "advertencias": "El estreñimiento es un efecto secundario muy frecuente",
-      "embarazo_lactancia": "Usar solo si beneficio supera riesgo; valorar en lactancia",
+      "indicaciones": "Tratamiento de la hipertensión arterial, prevención y tratamiento de la angina de pecho (estable, inestable, de Prinzmetal), tratamiento y profilaxis de las taquicardias supraventriculares paroxísticas y control de la frecuencia ventricular en fibrilación o aleteo auricular.",
+      "contraindicaciones": "Hipersensibilidad al verapamilo; hipotensión arterial grave o shock cardiogénico; bloqueos auriculoventriculares (AV) de segundo o tercer grado y síndrome del nodo sinusal enfermo (salvo portadores de marcapasos); insuficiencia cardíaca descompensada; aleteo/fibrilación auricular con vía accesoria (síndrome de Wolff-Parkinson-White); administración simultánea con betabloqueantes IV.",
+      "precauciones": "Riesgo de bradicardia severa, paro sinusal o bloqueos AV; insuficiencia cardíaca leve o moderada; estreñimiento severo o íleo; distrofia muscular de Duchenne; disfunción hepática grave (acumulación del fármaco).",
+      "advertencias": "La coadministración IV simultánea o cercana con betabloqueantes intravenosos puede causar colapso cardiovascular, asistolia y paro cardíaco.",
+      "embarazo_lactancia": "Categoría C en el embarazo; cruza la placenta y puede causar hipotensión o bradicardia fetal. Se excreta en la leche materna; usar con precaución o considerar suspensión de la lactancia.",
       "ajustes": {
-        "renal": "Vigilar función",
-        "hepatico": "Reducir dosis obligatoriamente"
+        "renal": "Usar con precaución en insuficiencia renal grave; no requiere ajuste matemático directo pero sí vigilancia estrecha.",
+        "hepatico": "Reducir la dosis al 20-30% de la pauta habitual en insuficiencia hepática grave (cirrosis) por disminución drástica del aclaramiento."
       },
-      "interacciones": "Betabloqueantes, digoxina, estatinas, jugo de pomelo (aumenta niveles)",
-      "reacciones_adversas": "Bradicardia, hipotensión, estreñimiento severo, cefalea, edema",
-      "toxicidad_sobredosis": "Bloqueo AV, shock, hipotensión profunda",
-      "antidotos": "Calcio IV, Insulina/Glucosa y soporte hemodinámico",
+      "interacciones": "El jugo de pomelo (toronja) incrementa sustancialmente sus niveles plasmáticos; los betabloqueantes y la digoxina potencian el riesgo de bradicardia extrema y bloqueos; eleva marcadamente los niveles de simvastatina, atorvastatina, ciclosporina, teofilina y carbamazepina.",
+      "reacciones_adversas": "Estreñimiento tenaz (frecuente); bradicardia sinusal; hipotensión arterial; mareos; cefalea; edema de miembros inferiores; rubor facial; náuseas; bloqueos AV de primer, segundo o tercer grado; hiperplasia gingival.",
+      "toxicidad_sobredosis": "Hipotensión arterial severa, bradicardia profunda, bloqueos AV avanzados, shock cardiogénico, hiperglucemia y acidosis metabólica.",
+      "antidotos": "Gluconato o cloruro de calcio IV (10-20 ml al 10%), terapia inotrópica con glucagón, catecolaminas, insulina a dosis altas con glucosa (hiperinsulinemia eugenemia) y marcapasos temporal.",
       "monitorizacion": {
-        "clinica": "FC, PA, ECG",
-        "laboratorio": "Función hepática y renal"
+        "clinica": "Control continuo de la frecuencia cardíaca, presión arterial, trazado electrocardiográfico (intervalos PR y QRS), signos de insuficiencia cardíaca y hábito intestinal.",
+        "laboratorio": "Pruebas de función hepática y renal periódicas; niveles de digoxina en sangre si se coadministra."
       },
       "parametros_valoracion": {
-        "antes": "ECG basal y PA",
-        "durante": "Vigilar ritmo cardíaco",
-        "despues": "Controlar hábito intestinal"
+        "antes": "Evaluar la presión arterial basal, frecuencia cardíaca (no administrar si la FC es < 50-60 lat/min) y trazado electrocardiográfico.",
+        "durante": "Monitorear la infusión o inyección IV en bolo lento mediante monitorización electrocardiográfica continua.",
+        "despues": "Valorar la respuesta antiarrítmica o antihipertensiva e implementar medidas para prevenir el estreñimiento."
       },
-      "presentaciones": "Comprimidos y ampollas",
+      "presentaciones": "Comprimidos de 40 mg, 80 mg y 120 mg; comprimidos de liberación prolongada de 180 mg y 240 mg; ampollas inyectables de 5 mg/2 ml (2.5 mg/ml).",
       "dosis": {
-        "adultos": "Variable según indicación clínica",
-        "pediatrico": "Ajustada por peso por especialista",
-        "geriatrico": "Iniciar con dosis bajas"
+        "adultos": "Oral: 120 mg a 480 mg/día divididos en 3 a 4 tomas (o 180-240 mg/día en liberación prolongada); IV: 5 mg a 10 mg en bolo IV lento durante 2 a 3 minutos (pudiendo repetir 10 mg a los 30 minutos si no hay respuesta).",
+        "pediatrico": "IV (Taquicardia supraventricular): 0.1 mg a 0.2 mg/kg en bolo lento durante 2 minutos bajo supervisión del especialista.",
+        "geriatrico": "Iniciar con la menor dosis eficaz oral (40 mg cada 8 horas) e inyectar el bolo IV en no menos de 3 a 5 minutos."
       },
-      "vias_administracion": "Oral e Intravenosa",
+      "vias_administracion": "Vía oral e intravenosa.",
       "preparacion": {
-        "dilucion": "Compatible con SSN 0.9% y Dextrosa 5%",
-        "compatibilidad_iv": "Verificar compatibilidad antes de mezclar"
+        "dilucion": "Para infusión o bolo IV, se puede administrar directo de la ampolla o diluir en solución fisiológica o dextrosa al 5%.",
+        "compatibilidad_iv": "Compatible con solución fisiológica, dextrosa al 5% y Ringer Lactato."
       },
-      "velocidad_infusion": "IV lenta: administrar en 2 a 3 minutos",
-      "estabilidad_soluciones": "Usar soluciones transparentes recién preparadas",
-      "concentracion": "Variable",
-      "alarma_riesgo": "Riesgo de colapso si se administra rápido con betabloqueantes",
+      "velocidad_infusion": "Bolo IV directo administrado lentamente en un período de NO MENOS de 2 a 3 minutos (3 a 5 minutos en ancianos).",
+      "estabilidad_soluciones": "Usar la solución diluida dentro de las 24 horas si se conserva a temperatura ambiente y protegida de la luz.",
+      "concentracion": "2.5 mg/ml (concentración de la solución inyectable original en ampolla).",
+      "alarma_riesgo": "Riesgo de colapso cardiovascular y paro cardíaco si se administra en bolo IV rápido o junto con betabloqueantes intravenosos.",
       "cuidados_enfermeria": {
         "cuidados": [
-          "Monitorización cardíaca continua en administración IV",
-          "Control de la frecuencia de evacuaciones",
-          "Vigilancia de signos de bloqueo AV"
+          "Administrar la inyección IV directa en un tiempo no menor a 2 a 3 minutos con electrocardiograma y presión arterial bajo monitoreo continuo.;",
+          "NUNCA administrar por vía IV si el paciente recibe o ha recibido betabloqueantes intravenosos de forma reciente.;",
+          "Reducir obligatoriamente la dosis en pacientes con insuficiencia hepática o cirrosis conocida.;"
         ],
         "educacion_paciente": [
-          "No tomar con jugo de pomelo",
-          "Aumentar ingesta de fibra para evitar estreñimiento",
-          "Reportar mareos o pulso lento"
+          "No consumir jugo de pomelo (toronja) durante el tratamiento ya que puede elevar peligrosamente los niveles del medicamento.;",
+          "Aumentar la ingesta de agua y alimentos ricos en fibra para prevenir o mitigar el estreñimiento severo.;",
+          "Avisar de inmediato al médico si siente mareos intensos, palpitaciones lentas, falta de aire o hinchazón en los tobillos."
         ]
       }
     },
